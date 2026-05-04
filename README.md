@@ -117,6 +117,27 @@ python scraper/run.py -v              # verbose logging
 python scraper/discover.py --no-rss   # YC + HN only (faster)
 ```
 
+## Weekly newsletter
+
+Every Sunday 07:00 UTC the workflow runs `scraper/digest.py`, which:
+
+1. Diffs the current `docs/jobs.json` against the most recent snapshot in
+   `data/snapshots/`.
+2. Writes `digests/YYYY-Www.md` (and `latest.md` + `index.json`).
+3. Optionally posts the digest as a Buttondown draft if a
+   `BUTTONDOWN_API_KEY` secret is set on the repo.
+
+**Manual paste workflow** (no setup):
+- Open `digests/latest.md`, copy, paste into Substack/Beehiiv/ConvertKit/
+  LinkedIn/email and hit publish.
+
+**Auto-publish via Buttondown** (one-time setup):
+1. Get an API key from buttondown.email (Settings → Programming).
+2. Repo → Settings → Secrets → Actions → add `BUTTONDOWN_API_KEY`.
+3. Drafts now appear in your Buttondown dashboard each Sunday — review and
+   send. To skip the review step, change `--publish draft` to
+   `--publish send` in the workflow.
+
 ## Deployment
 
 The GitHub Action in `.github/workflows/update.yml` runs every day at

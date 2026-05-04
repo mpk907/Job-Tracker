@@ -69,6 +69,8 @@ jobs:
 
       - name: Generate weekly digest (Sundays + manual)
         if: ${{ steps.flags.outputs.is_sunday == 'true' || inputs.digest_only == true }}
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: python scraper/digest.py
         continue-on-error: true
 

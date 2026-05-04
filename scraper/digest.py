@@ -20,9 +20,12 @@ import argparse
 import datetime as dt
 import json
 import logging
+import os
 import shutil
 from collections import defaultdict
 from pathlib import Path
+
+import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 JOBS_PATH = ROOT / "docs" / "jobs.json"
@@ -136,12 +139,36 @@ def render_markdown(new_jobs: list[dict], baseline_date: str | None,
     return "\n".join(out)
 
 
+def publish_to_buttondown(md: str, subject: str, status: str = "draft") -> None:
+    """Optional auto-publish. Set BUTTONDOWN_API_KEY to enable.
+    `status` is "draft" (manual review) or "about_to_send" (auto-send).
+    """
+    key = os.environ.get("BUTTONDOWN_API_KEY")
+    if not key:
+        log.info("BUTTONDOWN_API_KEY not set — skipping auto-publish.")
+        return
+    try:
+        r = requests.post(
+            "https://api.buttondown.email/v1/emails",
+            headers={"Authorization": f"Token {key}"},
+            json={"subject": subject, "body": md, "status": status},
+            timeout=30,
+        )
+        r.raise_for_status()
+        log.info("Buttondown: created %s (%s)", r.json().get("id"), status)
+    except Exception as e:
+        log.warning("Buttondown publish failed: %s", e)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--snapshot", action="store_true",
                     help="Save current jobs.json into the snapshot folder and exit.")
     ap.add_argument("--baseline", help="Path to a specific baseline jobs.json")
     ap.add_argument("--out-dir", default=str(DIGEST_DIR))
+    ap.add_argument("--publish", choices=["draft", "send"], default="draft",
+                    help="If BUTTONDOWN_API_KEY is set, push the digest to "
+                         "Buttondown as a draft (default) or schedule it to send.")
     args = ap.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
@@ -191,6 +218,12 @@ def main():
         "all":       sorted(p.name for p in out_dir.glob("*.md") if p.name != "latest.md"),
     }, indent=2))
     log.info("Wrote %s (%d new jobs)", out, len(new_jobs))
+
+    if new_jobs:
+        publish_to_buttondown(
+            md, subject=f"Pharma Digital Jobs — {week_label}",
+            status="draft" if args.publish == "draft" else "about_to_send",
+        )
     return 0
 
 
