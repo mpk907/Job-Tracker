@@ -1,0 +1,428 @@
+"""
+Curated list of pharma, biotech, healthtech, CRO, MedTech, payer & agency
+companies whose ATS we can hit programmatically.
+
+To add a new company:
+  1. Find their public ATS endpoint (Greenhouse / Lever / Ashby /
+     SmartRecruiters / Workday).
+  2. Append a dict here with the right `ats` and slug/host.
+  3. Re-run `python scraper/run.py` and commit the updated jobs.json.
+
+For companies without a public ATS (a lot of Big Pharma have proprietary
+career portals), drop them in WATCHLIST instead - the frontend renders
+those as click-through links.
+"""
+
+# ---- Type buckets shown in the UI ----------------------------------------
+TYPE_LABELS = {
+    "big_pharma":        "Big Pharma",
+    "specialist_pharma": "Specialist Pharma",
+    "ai_biotech":        "AI / Tech-Bio",
+    "scaleup":           "Scaleup",
+    "startup":           "Startup",
+    "provider":          "Provider",
+    "health_corp":       "Health Corporate",
+    "cro_tech_provider": "CRO / Tech Provider",
+    "agency":            "Pharma Marketing Agency",
+    "medtech":           "MedTech / Devices",
+    "payer":             "Payer / Insurance",
+    "unknown":           "Other / Via Job Board",
+}
+
+
+COMPANIES = [
+    # ============================================================
+    # BIG PHARMA — Workday tenants
+    # ============================================================
+    {"name": "Pfizer",        "type": "big_pharma", "country": "US", "ats": "workday",
+     "host": "pfizer.wd1.myworkdayjobs.com",     "tenant": "pfizer",     "site": "PfizerCareers"},
+    {"name": "Novartis",      "type": "big_pharma", "country": "CH", "ats": "workday",
+     "host": "novartis.wd3.myworkdayjobs.com",   "tenant": "novartis",   "site": "Novartis_Careers"},
+    {"name": "AstraZeneca",   "type": "big_pharma", "country": "UK", "ats": "workday",
+     "host": "astrazeneca.wd3.myworkdayjobs.com","tenant": "astrazeneca","site": "Careers"},
+    {"name": "GSK",           "type": "big_pharma", "country": "UK", "ats": "workday",
+     "host": "gsk.wd5.myworkdayjobs.com",        "tenant": "gsk",        "site": "GSKCareers"},
+    {"name": "Sanofi",        "type": "big_pharma", "country": "FR", "ats": "workday",
+     "host": "sanofi.wd3.myworkdayjobs.com",     "tenant": "sanofi",     "site": "SanofiCareers"},
+    {"name": "Takeda",        "type": "big_pharma", "country": "JP", "ats": "workday",
+     "host": "takeda.wd3.myworkdayjobs.com",     "tenant": "takeda",     "site": "External"},
+    {"name": "Eli Lilly",     "type": "big_pharma", "country": "US", "ats": "workday",
+     "host": "lilly.wd5.myworkdayjobs.com",      "tenant": "lilly",      "site": "LLY"},
+    {"name": "Merck (MSD)",   "type": "big_pharma", "country": "US", "ats": "workday",
+     "host": "msd.wd5.myworkdayjobs.com",        "tenant": "msd",        "site": "SearchJobs"},
+
+    # ============================================================
+    # SPECIALIST PHARMA / BIOTECH
+    # ============================================================
+    {"name": "Moderna",                "type": "specialist_pharma", "country": "US", "ats": "workday",
+     "host": "modernatx.wd1.myworkdayjobs.com", "tenant": "modernatx", "site": "M_tx"},
+    {"name": "Blueprint Medicines",    "type": "specialist_pharma", "country": "US", "ats": "greenhouse", "slug": "blueprintmedicines"},
+    {"name": "Olema Pharmaceuticals",  "type": "specialist_pharma", "country": "US", "ats": "greenhouse", "slug": "olema"},
+    {"name": "Relay Therapeutics",     "type": "specialist_pharma", "country": "US", "ats": "greenhouse", "slug": "relaytherapeutics"},
+    {"name": "Kymera Therapeutics",    "type": "specialist_pharma", "country": "US", "ats": "greenhouse", "slug": "kymeratherapeutics"},
+    {"name": "Tessera Therapeutics",   "type": "specialist_pharma", "country": "US", "ats": "greenhouse", "slug": "tesseratherapeutics"},
+    {"name": "Ginkgo Bioworks",        "type": "specialist_pharma", "country": "US", "ats": "greenhouse", "slug": "ginkgobioworks"},
+    {"name": "Lonza",                  "type": "specialist_pharma", "country": "CH", "ats": "smartrecruiters", "slug": "Lonza"},
+
+    # ============================================================
+    # AI / TECH-BIO — drug discovery & AI for biology
+    # ============================================================
+    {"name": "Recursion",            "type": "ai_biotech", "country": "US", "ats": "greenhouse", "slug": "recursionpharmaceuticals"},
+    {"name": "Generate Biomedicines","type": "ai_biotech", "country": "US", "ats": "greenhouse", "slug": "generatebiomedicines"},
+    {"name": "Isomorphic Labs",      "type": "ai_biotech", "country": "UK", "ats": "greenhouse", "slug": "isomorphiclabs"},
+    {"name": "Absci",                "type": "ai_biotech", "country": "US", "ats": "greenhouse", "slug": "absci"},
+    {"name": "Altos Labs",           "type": "ai_biotech", "country": "US", "ats": "greenhouse", "slug": "altoslabs"},
+    {"name": "Insitro",              "type": "ai_biotech", "country": "US", "ats": "ashby",      "slug": "insitro"},
+    {"name": "Owkin",                "type": "ai_biotech", "country": "FR", "ats": "ashby",      "slug": "owkin"},
+    {"name": "Formation Bio",        "type": "ai_biotech", "country": "US", "ats": "greenhouse", "slug": "formationbio"},
+    {"name": "Deep Genomics",        "type": "ai_biotech", "country": "CA", "ats": "lever",      "slug": "deepgenomics"},
+    {"name": "Sage Bionetworks",     "type": "ai_biotech", "country": "US", "ats": "greenhouse", "slug": "sagebionetworks"},
+
+    # ============================================================
+    # SCALEUPS — digital health, growth-stage, post-IPO
+    # ============================================================
+    {"name": "Komodo Health",        "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "komodohealth"},
+    {"name": "Flatiron Health",      "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "flatironhealth"},
+    {"name": "Freenome",             "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "freenome"},
+    {"name": "Omada Health",         "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "omadahealth"},
+    {"name": "Cohere Health",        "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "coherehealth"},
+    {"name": "Maven Clinic",         "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "mavenclinic"},
+    {"name": "Modern Health",        "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "modernhealth"},
+    {"name": "Talkspace",            "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "talkspace"},
+    {"name": "Oscar Health",         "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "oscar"},
+    {"name": "One Medical",          "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "onemedical"},
+    {"name": "Biofourmis",           "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "biofourmis"},
+    {"name": "Carbon Health",        "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "carbon"},
+    {"name": "Truepill",             "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "truepill"},
+    {"name": "Honor",                "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "honor"},
+    {"name": "Headway",              "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "headway"},
+    {"name": "Pelago",               "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "pelago"},
+    {"name": "Parsley Health",       "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "parsleyhealth"},
+    {"name": "Glooko",               "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "glooko"},
+    {"name": "Doctolib",             "type": "scaleup", "country": "FR", "ats": "greenhouse", "slug": "doctolib"},
+    {"name": "Zocdoc",               "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "zocdoc"},
+    {"name": "HealthVerity",         "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "healthverity"},
+    {"name": "Sword Health",         "type": "scaleup", "country": "PT", "ats": "lever",      "slug": "swordhealth"},
+    {"name": "Ro",                   "type": "scaleup", "country": "US", "ats": "lever",      "slug": "ro"},
+    {"name": "Color Health",         "type": "scaleup", "country": "US", "ats": "lever",      "slug": "color"},
+    {"name": "Whoop",                "type": "scaleup", "country": "US", "ats": "lever",      "slug": "whoop"},
+
+    # ============================================================
+    # STARTUPS — early-stage digital health
+    # ============================================================
+    {"name": "Abridge",        "type": "startup", "country": "US", "ats": "ashby", "slug": "abridge"},
+    {"name": "Atropos Health", "type": "startup", "country": "US", "ats": "ashby", "slug": "atroposhealth"},
+    {"name": "Unlearn.AI",     "type": "startup", "country": "US", "ats": "ashby", "slug": "unlearn"},
+    {"name": "Tennr",          "type": "startup", "country": "US", "ats": "ashby", "slug": "tennr"},
+    {"name": "Overjet",        "type": "startup", "country": "US", "ats": "ashby", "slug": "overjet"},
+    {"name": "Monogram Health","type": "startup", "country": "US", "ats": "ashby", "slug": "monogram"},
+    {"name": "Bold Health",    "type": "startup", "country": "UK", "ats": "greenhouse", "slug": "bold"},
+    {"name": "Healios",        "type": "startup", "country": "UK", "ats": "greenhouse", "slug": "healios"},
+    {"name": "Neura Health",   "type": "startup", "country": "US", "ats": "greenhouse", "slug": "neurahealth"},
+    {"name": "Verana Health",  "type": "startup", "country": "US", "ats": "greenhouse", "slug": "veranahealth"},
+    {"name": "Quanthealth",    "type": "startup", "country": "US", "ats": "greenhouse", "slug": "quanthealth"},
+
+    # ============================================================
+    # MEDTECH / DIAGNOSTICS
+    # ============================================================
+    {"name": "Natera",            "type": "medtech", "country": "US", "ats": "greenhouse", "slug": "natera"},
+    {"name": "HeartFlow",         "type": "medtech", "country": "US", "ats": "greenhouse", "slug": "heartflowinc"},
+    {"name": "Butterfly Network", "type": "medtech", "country": "US", "ats": "greenhouse", "slug": "butterflynetwork"},
+
+    # ============================================================
+    # PHARMA MARKETING AGENCIES
+    # ============================================================
+    {"name": "Real Chemistry", "type": "agency", "country": "US", "ats": "greenhouse", "slug": "realchemistry"},
+
+    # ============================================================
+    # HEALTH CORPORATES & PROVIDERS
+    # ============================================================
+    {"name": "CVS Health",     "type": "health_corp", "country": "US", "ats": "workday",
+     "host": "cvshealth.wd1.myworkdayjobs.com", "tenant": "cvshealth", "site": "CVS_Health_Careers"},
+    {"name": "Valo Health",    "type": "scaleup", "country": "US", "ats": "greenhouse", "slug": "valohealth"},
+]
+
+
+# ============================================================
+# WATCHLIST — companies without a clean public API.
+# Surface them as direct links so users still see the opportunities.
+# ============================================================
+WATCHLIST = [
+    {"name": "Mama Health",           "type": "startup",          "country": "IT", "url": "https://www.mama-health.com/careers"},
+    {"name": "Verily",                "type": "scaleup",          "country": "US", "url": "https://www.verily.com/careers"},
+    {"name": "Tempus AI",             "type": "scaleup",          "country": "US", "url": "https://www.tempus.com/careers/"},
+    {"name": "Roche / Genentech",     "type": "big_pharma",       "country": "CH", "url": "https://careers.roche.com/global/en"},
+    {"name": "Bayer",                 "type": "big_pharma",       "country": "DE", "url": "https://talent.bayer.com/careers"},
+    {"name": "Boehringer Ingelheim",  "type": "big_pharma",       "country": "DE", "url": "https://www.boehringer-ingelheim.com/careers"},
+    {"name": "Bristol Myers Squibb",  "type": "big_pharma",       "country": "US", "url": "https://careers.bms.com"},
+    {"name": "Johnson & Johnson",     "type": "big_pharma",       "country": "US", "url": "https://www.careers.jnj.com"},
+    {"name": "AbbVie",                "type": "big_pharma",       "country": "US", "url": "https://careers.abbvie.com"},
+    {"name": "Novo Nordisk",          "type": "big_pharma",       "country": "DK", "url": "https://www.novonordisk.com/careers.html"},
+    {"name": "Teva",                  "type": "big_pharma",       "country": "IL", "url": "https://www.tevapharm.com/our-company/careers/"},
+    {"name": "BioNTech",              "type": "specialist_pharma","country": "DE", "url": "https://careers.biontech.com"},
+    {"name": "Vertex Pharmaceuticals","type": "specialist_pharma","country": "US", "url": "https://www.vrtx.com/careers"},
+    {"name": "Regeneron",             "type": "specialist_pharma","country": "US", "url": "https://careers.regeneron.com"},
+    {"name": "Gilead",                "type": "specialist_pharma","country": "US", "url": "https://www.gilead.com/careers"},
+    {"name": "Biogen",                "type": "specialist_pharma","country": "US", "url": "https://www.biogen.com/careers"},
+    {"name": "UCB",                   "type": "specialist_pharma","country": "BE", "url": "https://www.ucb.com/careers"},
+    {"name": "Lundbeck",              "type": "specialist_pharma","country": "DK", "url": "https://www.lundbeck.com/global/careers"},
+    {"name": "Ipsen",                 "type": "specialist_pharma","country": "FR", "url": "https://www.ipsen.com/careers/"},
+    {"name": "Genmab",                "type": "specialist_pharma","country": "DK", "url": "https://www.genmab.com/careers"},
+    {"name": "Galapagos",             "type": "specialist_pharma","country": "BE", "url": "https://www.glpg.com/careers"},
+    {"name": "Argenx",                "type": "specialist_pharma","country": "BE", "url": "https://www.argenx.com/careers"},
+    {"name": "CSL Behring",           "type": "specialist_pharma","country": "AU", "url": "https://www.csl.com/careers"},
+    {"name": "IQVIA",                 "type": "cro_tech_provider","country": "US", "url": "https://jobs.iqvia.com"},
+    {"name": "Parexel",               "type": "cro_tech_provider","country": "US", "url": "https://jobs.parexel.com"},
+    {"name": "Syneos Health",         "type": "cro_tech_provider","country": "US", "url": "https://careers.syneoshealth.com"},
+    {"name": "ICON plc",              "type": "cro_tech_provider","country": "IE", "url": "https://careers.iconplc.com"},
+    {"name": "Labcorp",               "type": "cro_tech_provider","country": "US", "url": "https://careers.labcorp.com"},
+    {"name": "Veeva Systems",         "type": "cro_tech_provider","country": "US", "url": "https://careers.veeva.com"},
+    {"name": "Medable",               "type": "cro_tech_provider","country": "US", "url": "https://www.medable.com/careers"},
+    {"name": "Saama Technologies",    "type": "cro_tech_provider","country": "US", "url": "https://www.saama.com/careers/"},
+    {"name": "Indegene",              "type": "cro_tech_provider","country": "IN", "url": "https://www.indegene.com/careers"},
+    {"name": "Publicis Health",       "type": "agency",           "country": "US", "url": "https://www.publicishealth.com/careers"},
+    {"name": "Klick Health",          "type": "agency",           "country": "CA", "url": "https://www.klick.com/health/careers/"},
+    {"name": "Havas Health & You",    "type": "agency",           "country": "US", "url": "https://havashealth.com/careers/"},
+    {"name": "Ogilvy Health",         "type": "agency",           "country": "US", "url": "https://www.ogilvy.com/health"},
+    {"name": "FCB Health",            "type": "agency",           "country": "US", "url": "https://fcbhealth.com/"},
+    {"name": "Evoke Health",          "type": "agency",           "country": "US", "url": "https://www.evokegroup.com/careers/"},
+    {"name": "21grams",               "type": "agency",           "country": "US", "url": "https://21grams.com/careers/"},
+    {"name": "Medtronic",             "type": "medtech",          "country": "US", "url": "https://jobs.medtronic.com"},
+    {"name": "Abbott",                "type": "medtech",          "country": "US", "url": "https://www.jobs.abbott"},
+    {"name": "Siemens Healthineers",  "type": "medtech",          "country": "DE", "url": "https://jobs.siemens-healthineers.com"},
+    {"name": "GE HealthCare",         "type": "medtech",          "country": "US", "url": "https://careers.gehealthcare.com"},
+    {"name": "Philips",               "type": "medtech",          "country": "NL", "url": "https://www.careers.philips.com"},
+    {"name": "Stryker",               "type": "medtech",          "country": "US", "url": "https://careers.stryker.com"},
+    {"name": "Becton Dickinson (BD)", "type": "medtech",          "country": "US", "url": "https://jobs.bd.com"},
+    {"name": "Boston Scientific",     "type": "medtech",          "country": "US", "url": "https://jobs.bostonscientific.com"},
+    {"name": "Dexcom",                "type": "medtech",          "country": "US", "url": "https://careers.dexcom.com"},
+    {"name": "Edwards Lifesciences",  "type": "medtech",          "country": "US", "url": "https://jobs.edwards.com"},
+    {"name": "Intuitive Surgical",    "type": "medtech",          "country": "US", "url": "https://www.intuitive.com/en-us/about-us/company/careers"},
+    {"name": "Thermo Fisher",         "type": "medtech",          "country": "US", "url": "https://jobs.thermofisher.com"},
+    {"name": "Illumina",              "type": "medtech",          "country": "US", "url": "https://careers.illumina.com"},
+    {"name": "Guardant Health",       "type": "medtech",          "country": "US", "url": "https://guardanthealth.com/careers/"},
+    {"name": "Exact Sciences",        "type": "medtech",          "country": "US", "url": "https://careers.exactsciences.com"},
+    {"name": "UnitedHealth Group",    "type": "payer",            "country": "US", "url": "https://careers.unitedhealthgroup.com"},
+    {"name": "Optum",                 "type": "payer",            "country": "US", "url": "https://careers.unitedhealthgroup.com/careers/optum"},
+    {"name": "Cigna",                 "type": "payer",            "country": "US", "url": "https://jobs.thecignagroup.com"},
+    {"name": "Humana",                "type": "payer",            "country": "US", "url": "https://careers.humana.com"},
+    {"name": "Elevance Health",       "type": "payer",            "country": "US", "url": "https://careers.elevancehealth.com"},
+    {"name": "Centene",               "type": "payer",            "country": "US", "url": "https://jobs.centene.com"},
+    {"name": "Kaiser Permanente",     "type": "payer",            "country": "US", "url": "https://about.kaiserpermanente.org/careers"},
+    {"name": "Babylon Health",        "type": "scaleup",          "country": "UK", "url": "https://www.babylonhealth.com/careers"},
+    {"name": "Kry / Livi",            "type": "scaleup",          "country": "SE", "url": "https://www.kry.se/en/work-with-us/"},
+    {"name": "Hinge Health",          "type": "scaleup",          "country": "US", "url": "https://www.hingehealth.com/careers"},
+    {"name": "Hims & Hers",           "type": "scaleup",          "country": "US", "url": "https://www.forhims.com/careers"},
+    {"name": "Lyra Health",           "type": "scaleup",          "country": "US", "url": "https://lyrahealth.com/careers"},
+    {"name": "Spring Health",         "type": "scaleup",          "country": "US", "url": "https://springhealth.com/careers"},
+    {"name": "Calm",                  "type": "scaleup",          "country": "US", "url": "https://www.calm.com/jobs"},
+    {"name": "Headspace",             "type": "scaleup",          "country": "US", "url": "https://www.headspace.com/careers"},
+    {"name": "23andMe",               "type": "scaleup",          "country": "US", "url": "https://www.23andme.com/careers/"},
+    {"name": "Aidoc",                 "type": "ai_biotech",       "country": "IL", "url": "https://www.aidoc.com/careers/"},
+    {"name": "Paige.AI",              "type": "ai_biotech",       "country": "US", "url": "https://paige.ai/careers/"},
+    {"name": "BenevolentAI",          "type": "ai_biotech",       "country": "UK", "url": "https://www.benevolent.com/careers"},
+    {"name": "Exscientia",            "type": "ai_biotech",       "country": "UK", "url": "https://www.exscientia.ai/careers"},
+    {"name": "Atomwise",              "type": "ai_biotech",       "country": "US", "url": "https://www.atomwise.com/careers/"},
+    {"name": "Schrödinger",           "type": "ai_biotech",       "country": "US", "url": "https://www.schrodinger.com/careers"},
+    {"name": "Insilico Medicine",     "type": "ai_biotech",       "country": "HK", "url": "https://insilico.com/careers"},
+    {"name": "XtalPi",                "type": "ai_biotech",       "country": "CN", "url": "https://www.xtalpi.com/en/careers"},
+    {"name": "HCA Healthcare",        "type": "provider",         "country": "US", "url": "https://careers.hcahealthcare.com"},
+    {"name": "Cleveland Clinic",      "type": "provider",         "country": "US", "url": "https://jobs.clevelandclinic.org"},
+    {"name": "Mayo Clinic",           "type": "provider",         "country": "US", "url": "https://jobs.mayoclinic.org"},
+    {"name": "McKesson",              "type": "health_corp",      "country": "US", "url": "https://careers.mckesson.com"},
+    {"name": "Cardinal Health",       "type": "health_corp",      "country": "US", "url": "https://jobs.cardinalhealth.com"},
+    {"name": "Walgreens",             "type": "health_corp",      "country": "US", "url": "https://jobs.walgreens.com"},
+    {"name": "Reckitt",               "type": "health_corp",      "country": "UK", "url": "https://careers.reckitt.com"},
+    {"name": "Stada",                 "type": "specialist_pharma","country": "DE", "url": "https://www.stada.com/career"},
+    {"name": "Servier",               "type": "specialist_pharma","country": "FR", "url": "https://servier.com/en/careers/"},
+    {"name": "Recordati",             "type": "specialist_pharma","country": "IT", "url": "https://www.recordati.com/en/careers/"},
+    {"name": "Almirall",              "type": "specialist_pharma","country": "ES", "url": "https://career.almirall.com"},
+    {"name": "Doccla",                "type": "startup",          "country": "UK", "url": "https://www.doccla.com/careers"},
+    {"name": "Infermedica",           "type": "startup",          "country": "PL", "url": "https://infermedica.com/careers"},
+    {"name": "Proximie",              "type": "startup",          "country": "UK", "url": "https://www.proximie.com/careers"},
+    {"name": "Ada Health",            "type": "startup",          "country": "DE", "url": "https://ada.com/careers/"},
+    {"name": "Caresyntax",            "type": "startup",          "country": "DE", "url": "https://caresyntax.com/careers/"},
+    {"name": "Honic",                 "type": "startup",          "country": "DE", "url": "https://honic.eu/career"},
+    {"name": "Heartbeat Medical",     "type": "startup",          "country": "DE", "url": "https://www.heartbeat-med.com/de/karriere/"},
+    {"name": "Climedo Health",        "type": "startup",          "country": "DE", "url": "https://www.climedo.de/karriere/"},
+    {"name": "MedKitDoc",             "type": "startup",          "country": "DE", "url": "https://www.medkitdoc.com/karriere"},
+    {"name": "Smart Reporting",       "type": "startup",          "country": "DE", "url": "https://smart-reporting.com/career/"},
+    {"name": "Avi Medical",           "type": "startup",          "country": "DE", "url": "https://www.avimedical.com/karriere"},
+    {"name": "Digital Diagnostics",   "type": "startup",          "country": "US", "url": "https://www.digitaldiagnostics.com/careers"},
+    {"name": "Memora Health",         "type": "startup",          "country": "US", "url": "https://memorahealth.com/careers"},
+    {"name": "Hippocratic AI",        "type": "startup",          "country": "US", "url": "https://www.hippocraticai.com/careers"},
+    {"name": "Mahana Therapeutics",   "type": "startup",          "country": "US", "url": "https://www.mahana.com/about/careers"},
+    {"name": "Big Health",            "type": "startup",          "country": "UK", "url": "https://www.bighealth.com/careers/"},
+
+    # ---- More Big Pharma (Top 50 global by revenue) ----
+    {"name": "Amgen",                 "type": "big_pharma",       "country": "US", "url": "https://careers.amgen.com"},
+    {"name": "Daiichi Sankyo",        "type": "big_pharma",       "country": "JP", "url": "https://www.daiichisankyo.com/about_us/careers/"},
+    {"name": "Astellas",              "type": "big_pharma",       "country": "JP", "url": "https://www.astellas.com/en/careers"},
+    {"name": "Otsuka",                "type": "big_pharma",       "country": "JP", "url": "https://www.otsuka.co.jp/en/career/"},
+    {"name": "Eisai",                 "type": "big_pharma",       "country": "JP", "url": "https://www.eisai.com/careers/"},
+    {"name": "Sumitomo Pharma",       "type": "big_pharma",       "country": "JP", "url": "https://www.sumitomo-pharma.com/careers/"},
+    {"name": "Shionogi",              "type": "big_pharma",       "country": "JP", "url": "https://www.shionogi.com/global/en/careers.html"},
+    {"name": "Kyowa Kirin",           "type": "big_pharma",       "country": "JP", "url": "https://www.kyowakirin.com/careers/"},
+    {"name": "Ono Pharmaceutical",    "type": "big_pharma",       "country": "JP", "url": "https://www.ono-pharma.com/en/careers"},
+    {"name": "Mitsubishi Tanabe",     "type": "big_pharma",       "country": "JP", "url": "https://www.mt-pharma.co.jp/e/career/"},
+    {"name": "Chugai Pharmaceutical", "type": "big_pharma",       "country": "JP", "url": "https://www.chugai-pharm.co.jp/english/careers/"},
+    {"name": "Viatris",               "type": "big_pharma",       "country": "US", "url": "https://www.viatris.com/en/careers"},
+    {"name": "Bausch Health",         "type": "big_pharma",       "country": "CA", "url": "https://www.bauschhealth.com/careers"},
+
+    # ---- Generics & Indian / Asian pharma ----
+    {"name": "Sun Pharma",            "type": "specialist_pharma","country": "IN", "url": "https://sunpharma.com/careers/"},
+    {"name": "Cipla",                 "type": "specialist_pharma","country": "IN", "url": "https://www.cipla.com/careers"},
+    {"name": "Dr. Reddy's",           "type": "specialist_pharma","country": "IN", "url": "https://www.drreddys.com/careers"},
+    {"name": "Lupin",                 "type": "specialist_pharma","country": "IN", "url": "https://www.lupin.com/careers/"},
+    {"name": "Aurobindo Pharma",      "type": "specialist_pharma","country": "IN", "url": "https://www.aurobindo.com/careers/"},
+    {"name": "Zydus Lifesciences",    "type": "specialist_pharma","country": "IN", "url": "https://www.zyduslife.com/careers/"},
+    {"name": "Biocon",                "type": "specialist_pharma","country": "IN", "url": "https://www.biocon.com/careers/"},
+    {"name": "Glenmark",              "type": "specialist_pharma","country": "IN", "url": "https://www.glenmarkpharma.com/careers"},
+    {"name": "Torrent Pharma",        "type": "specialist_pharma","country": "IN", "url": "https://www.torrentpharma.com/careers"},
+    {"name": "Hetero",                "type": "specialist_pharma","country": "IN", "url": "https://www.heteroworld.com/careers"},
+    {"name": "Hengrui Pharma",        "type": "specialist_pharma","country": "CN", "url": "https://www.hrs.com.cn/en/careers"},
+    {"name": "CSPC Pharma",           "type": "specialist_pharma","country": "CN", "url": "https://www.cspc.com.hk/en/careers/"},
+    {"name": "Sino Biopharmaceutical","type": "specialist_pharma","country": "CN", "url": "https://www.sinobiopharm.com/en/careers/"},
+    {"name": "Jiangsu Hansoh",        "type": "specialist_pharma","country": "CN", "url": "https://www.hspharm.com/en/careers/"},
+    {"name": "BeiGene",               "type": "specialist_pharma","country": "CN", "url": "https://www.beigene.com/careers/"},
+    {"name": "Innovent Biologics",    "type": "specialist_pharma","country": "CN", "url": "https://www.innoventbio.com/careers"},
+    {"name": "Hutchmed",              "type": "specialist_pharma","country": "HK", "url": "https://www.hutch-med.com/careers/"},
+    {"name": "Zai Lab",               "type": "specialist_pharma","country": "CN", "url": "https://www.zailaboratory.com/careers/"},
+    {"name": "Yuhan",                 "type": "specialist_pharma","country": "KR", "url": "https://www.yuhan.co.kr/en/Careers"},
+    {"name": "Celltrion",             "type": "specialist_pharma","country": "KR", "url": "https://www.celltrion.com/en-us/careers"},
+    {"name": "Samsung Biologics",     "type": "specialist_pharma","country": "KR", "url": "https://samsungbiologics.com/en/careers/"},
+
+    # ---- US biotech mid-caps ----
+    {"name": "Alnylam Pharmaceuticals","type": "specialist_pharma","country": "US", "url": "https://www.alnylam.com/careers"},
+    {"name": "BioMarin",              "type": "specialist_pharma","country": "US", "url": "https://www.biomarin.com/careers/"},
+    {"name": "Incyte",                "type": "specialist_pharma","country": "US", "url": "https://www.incyte.com/careers"},
+    {"name": "Jazz Pharmaceuticals",  "type": "specialist_pharma","country": "IE", "url": "https://www.jazzpharma.com/careers/"},
+    {"name": "Alkermes",              "type": "specialist_pharma","country": "IE", "url": "https://www.alkermes.com/careers"},
+    {"name": "Halozyme",              "type": "specialist_pharma","country": "US", "url": "https://www.halozyme.com/careers"},
+    {"name": "Exelixis",              "type": "specialist_pharma","country": "US", "url": "https://www.exelixis.com/careers"},
+    {"name": "Mirati Therapeutics",   "type": "specialist_pharma","country": "US", "url": "https://www.mirati.com/careers/"},
+    {"name": "Seagen",                "type": "specialist_pharma","country": "US", "url": "https://www.seagen.com/careers"},
+    {"name": "Agios Pharmaceuticals", "type": "specialist_pharma","country": "US", "url": "https://www.agios.com/careers"},
+    {"name": "Arcus Biosciences",     "type": "specialist_pharma","country": "US", "url": "https://www.arcusbio.com/careers/"},
+    {"name": "Sage Therapeutics",     "type": "specialist_pharma","country": "US", "url": "https://www.sagerx.com/careers/"},
+    {"name": "Sarepta Therapeutics",  "type": "specialist_pharma","country": "US", "url": "https://www.sarepta.com/careers"},
+    {"name": "Ultragenyx",            "type": "specialist_pharma","country": "US", "url": "https://www.ultragenyx.com/careers/"},
+    {"name": "Neurocrine Biosciences","type": "specialist_pharma","country": "US", "url": "https://www.neurocrine.com/careers/"},
+    {"name": "United Therapeutics",   "type": "specialist_pharma","country": "US", "url": "https://www.unither.com/careers"},
+
+    # ---- European specialty pharma ----
+    {"name": "Pierre Fabre",          "type": "specialist_pharma","country": "FR", "url": "https://www.pierre-fabre.com/en/careers"},
+    {"name": "Krka",                  "type": "specialist_pharma","country": "SI", "url": "https://www.krka.biz/en/careers/"},
+    {"name": "Hikma",                 "type": "specialist_pharma","country": "JO", "url": "https://www.hikma.com/careers/"},
+    {"name": "Grifols",               "type": "specialist_pharma","country": "ES", "url": "https://www.grifols.com/en/careers"},
+    {"name": "Fresenius Kabi",        "type": "specialist_pharma","country": "DE", "url": "https://www.fresenius-kabi.com/careers"},
+    {"name": "Esteve",                "type": "specialist_pharma","country": "ES", "url": "https://www.esteve.com/en/careers"},
+    {"name": "Idorsia",               "type": "specialist_pharma","country": "CH", "url": "https://www.idorsia.com/careers"},
+    {"name": "Bachem",                "type": "specialist_pharma","country": "CH", "url": "https://www.bachem.com/career/"},
+    {"name": "Vifor Pharma",          "type": "specialist_pharma","country": "CH", "url": "https://www.viforpharma.com/career"},
+    {"name": "Olon",                  "type": "specialist_pharma","country": "IT", "url": "https://www.olonspa.it/en/careers/"},
+    {"name": "Chiesi Group",          "type": "specialist_pharma","country": "IT", "url": "https://www.chiesi.com/en/careers/"},
+    {"name": "Menarini",              "type": "specialist_pharma","country": "IT", "url": "https://www.menarini.com/en-us/careers"},
+    {"name": "Angelini Pharma",       "type": "specialist_pharma","country": "IT", "url": "https://www.angelinipharma.com/careers"},
+    {"name": "Zambon",                "type": "specialist_pharma","country": "IT", "url": "https://www.zambon.com/en/careers"},
+    {"name": "Italfarmaco",           "type": "specialist_pharma","country": "IT", "url": "https://www.italfarmacogroup.com/en/careers"},
+    {"name": "Gedeon Richter",        "type": "specialist_pharma","country": "HU", "url": "https://gedeonrichter.com/en/careers"},
+    {"name": "Polpharma",             "type": "specialist_pharma","country": "PL", "url": "https://polpharma.pl/en/careers/"},
+    {"name": "Adamed",                "type": "specialist_pharma","country": "PL", "url": "https://www.adamed.com/en/careers"},
+    {"name": "Orion Pharma",          "type": "specialist_pharma","country": "FI", "url": "https://www.orion.fi/en/careers/"},
+    {"name": "Nuvisan",               "type": "cro_tech_provider","country": "DE", "url": "https://www.nuvisan.com/career/"},
+
+    # ---- Big CROs & life-sciences services ----
+    {"name": "Wuxi AppTec",           "type": "cro_tech_provider","country": "CN", "url": "https://careers.wuxiapptec.com"},
+    {"name": "Wuxi Biologics",        "type": "cro_tech_provider","country": "CN", "url": "https://www.wuxibiologics.com/career/"},
+    {"name": "Charles River Labs",    "type": "cro_tech_provider","country": "US", "url": "https://jobs.criver.com"},
+    {"name": "Eurofins",              "type": "cro_tech_provider","country": "LU", "url": "https://careers.eurofins.com"},
+    {"name": "PRA Health (ICON)",     "type": "cro_tech_provider","country": "US", "url": "https://careers.iconplc.com"},
+    {"name": "Medpace",               "type": "cro_tech_provider","country": "US", "url": "https://careers.medpace.com"},
+    {"name": "Worldwide Clinical Trials","type": "cro_tech_provider","country": "US", "url": "https://careers.worldwide.com"},
+    {"name": "PSI CRO",               "type": "cro_tech_provider","country": "CH", "url": "https://www.psi-cro.com/careers/"},
+    {"name": "Premier Research",      "type": "cro_tech_provider","country": "US", "url": "https://premier-research.com/careers/"},
+    {"name": "PPD (Thermo Fisher)",   "type": "cro_tech_provider","country": "US", "url": "https://jobs.thermofisher.com"},
+    {"name": "TFS HealthScience",     "type": "cro_tech_provider","country": "SE", "url": "https://tfshealthscience.com/careers/"},
+    {"name": "Cognizant Life Sciences","type": "cro_tech_provider","country": "US", "url": "https://careers.cognizant.com"},
+    {"name": "Wipro Health",          "type": "cro_tech_provider","country": "IN", "url": "https://careers.wipro.com"},
+    {"name": "Accenture Life Sciences","type": "cro_tech_provider","country": "IE", "url": "https://www.accenture.com/us-en/careers"},
+    {"name": "Deloitte Health",       "type": "cro_tech_provider","country": "US", "url": "https://www2.deloitte.com/global/en/pages/careers.html"},
+    {"name": "ZS Associates",         "type": "cro_tech_provider","country": "US", "url": "https://careers.zs.com"},
+    {"name": "Trinity Life Sciences", "type": "cro_tech_provider","country": "US", "url": "https://trinitylifesciences.com/careers/"},
+    {"name": "Putnam Associates",     "type": "cro_tech_provider","country": "US", "url": "https://www.putnam.inc/careers"},
+    {"name": "L.E.K. Consulting",     "type": "cro_tech_provider","country": "US", "url": "https://www.lek.com/careers"},
+
+    # ---- Tech vendors / commercial platforms ----
+    {"name": "Aktana",                "type": "cro_tech_provider","country": "US", "url": "https://www.aktana.com/careers"},
+    {"name": "Reltio",                "type": "cro_tech_provider","country": "US", "url": "https://www.reltio.com/careers/"},
+    {"name": "OneTrust Health",       "type": "cro_tech_provider","country": "US", "url": "https://www.onetrust.com/company/careers/"},
+    {"name": "DrFirst",               "type": "cro_tech_provider","country": "US", "url": "https://drfirst.com/careers/"},
+    {"name": "Verana Health",         "type": "scaleup",          "country": "US", "url": "https://veranahealth.com/careers/"},
+    {"name": "ConcertAI",             "type": "scaleup",          "country": "US", "url": "https://www.concertai.com/careers/"},
+    {"name": "Truveta",               "type": "scaleup",          "country": "US", "url": "https://www.truveta.com/careers/"},
+    {"name": "Sema4 / GeneDx",        "type": "scaleup",          "country": "US", "url": "https://www.genedx.com/careers/"},
+    {"name": "PicnicHealth",          "type": "startup",          "country": "US", "url": "https://picnichealth.com/careers"},
+
+    # ---- More Pharma agencies ----
+    {"name": "WPP Health Practice",   "type": "agency",           "country": "UK", "url": "https://www.wpp.com/careers"},
+    {"name": "Digitas Health",        "type": "agency",           "country": "US", "url": "https://www.digitashealth.com/careers"},
+    {"name": "McCann Health",         "type": "agency",           "country": "US", "url": "https://www.mccannhealth.com/careers/"},
+    {"name": "Intouch Solutions",     "type": "agency",           "country": "US", "url": "https://www.intouchsol.com/careers/"},
+    {"name": "Area 23 (FCB Health)",  "type": "agency",           "country": "US", "url": "https://www.area23.com/careers"},
+    {"name": "AbelsonTaylor",         "type": "agency",           "country": "US", "url": "https://www.abelsontaylor.com/careers/"},
+    {"name": "Calcium",               "type": "agency",           "country": "US", "url": "https://www.calciumusa.com/careers/"},
+    {"name": "Greater Than One",      "type": "agency",           "country": "US", "url": "https://www.greaterthanone.com/careers/"},
+
+    # ---- Additional MedTech ----
+    {"name": "Roche Diagnostics",     "type": "medtech",          "country": "CH", "url": "https://careers.roche.com"},
+    {"name": "Hologic",               "type": "medtech",          "country": "US", "url": "https://careers.hologic.com"},
+    {"name": "Olympus",               "type": "medtech",          "country": "JP", "url": "https://careers.olympus-global.com"},
+    {"name": "Drägerwerk",            "type": "medtech",          "country": "DE", "url": "https://www.draeger.com/en_corp/Career"},
+    {"name": "Smith+Nephew",          "type": "medtech",          "country": "UK", "url": "https://careers.smith-nephew.com"},
+    {"name": "Zimmer Biomet",         "type": "medtech",          "country": "US", "url": "https://careers.zimmerbiomet.com"},
+    {"name": "Coloplast",             "type": "medtech",          "country": "DK", "url": "https://www.coloplast.com/careers/"},
+    {"name": "Cochlear",              "type": "medtech",          "country": "AU", "url": "https://www.cochlear.com/global/en/about/careers"},
+    {"name": "Nipro",                 "type": "medtech",          "country": "JP", "url": "https://www.nipro.co.jp/en/careers/"},
+    {"name": "Terumo",                "type": "medtech",          "country": "JP", "url": "https://www.terumo.com/careers/"},
+    {"name": "Carl Zeiss Meditec",    "type": "medtech",          "country": "DE", "url": "https://www.zeiss.com/meditec/global/about-us/careers.html"},
+    {"name": "Brainlab",              "type": "medtech",          "country": "DE", "url": "https://www.brainlab.com/careers/"},
+    {"name": "Varian (Siemens)",      "type": "medtech",          "country": "US", "url": "https://www.varian.com/careers"},
+
+    # ---- More EU digital health startups (esp. DACH) ----
+    {"name": "M3 EU",                 "type": "scaleup",          "country": "UK", "url": "https://www.m3.com/careers/"},
+    {"name": "Alan",                  "type": "scaleup",          "country": "FR", "url": "https://alan.com/careers"},
+    {"name": "Lifen",                 "type": "scaleup",          "country": "FR", "url": "https://www.lifen.com/en/careers"},
+    {"name": "Withings",              "type": "scaleup",          "country": "FR", "url": "https://www.withings.com/eu/en/careers"},
+    {"name": "Voluntis",              "type": "scaleup",          "country": "FR", "url": "https://www.voluntis.com/careers/"},
+    {"name": "Cera",                  "type": "scaleup",          "country": "UK", "url": "https://ceracare.co.uk/careers"},
+    {"name": "Cera Care",             "type": "scaleup",          "country": "UK", "url": "https://ceracare.co.uk/careers"},
+    {"name": "Patchwork Health",      "type": "startup",          "country": "UK", "url": "https://www.patchwork.health/careers/"},
+    {"name": "Huma",                  "type": "scaleup",          "country": "UK", "url": "https://huma.com/careers"},
+    {"name": "DocPlanner",            "type": "scaleup",          "country": "PL", "url": "https://www.docplanner.com/careers"},
+    {"name": "Infermedica",           "type": "startup",          "country": "PL", "url": "https://infermedica.com/careers"},
+    {"name": "Wellster",              "type": "startup",          "country": "DE", "url": "https://www.wellster.com/karriere"},
+    {"name": "Patient21",             "type": "startup",          "country": "DE", "url": "https://patient21.com/de/karriere"},
+    {"name": "Compugroup Medical",    "type": "cro_tech_provider","country": "DE", "url": "https://www.cgm.com/careers"},
+    {"name": "Doctari Group",         "type": "scaleup",          "country": "DE", "url": "https://www.doctari.com/karriere"},
+    {"name": "Doctolib DE",           "type": "scaleup",          "country": "DE", "url": "https://about.doctolib.de/karriere/"},
+    {"name": "Teleclinic",            "type": "scaleup",          "country": "DE", "url": "https://www.teleclinic.com/karriere/"},
+    {"name": "Volocopter Medical",    "type": "startup",          "country": "DE", "url": "https://www.volocopter.com/careers/"},
+    {"name": "Atai Life Sciences",    "type": "specialist_pharma","country": "DE", "url": "https://atai.life/careers/"},
+
+    # ---- Health insurers / payers (more) ----
+    {"name": "Anthem (Elevance)",     "type": "payer",            "country": "US", "url": "https://careers.elevancehealth.com"},
+    {"name": "Aetna (CVS)",           "type": "payer",            "country": "US", "url": "https://jobs.cvshealth.com"},
+    {"name": "AOK Bundesverband",     "type": "payer",            "country": "DE", "url": "https://aok.de/karriere/"},
+    {"name": "Techniker Krankenkasse","type": "payer",            "country": "DE", "url": "https://www.tk.de/karriere"},
+    {"name": "Allianz Health",        "type": "payer",            "country": "DE", "url": "https://careers.allianz.com"},
+
+    # ---- Provider systems (more) ----
+    {"name": "Charité",               "type": "provider",         "country": "DE", "url": "https://www.charite.de/karriere/"},
+    {"name": "Helios Kliniken",       "type": "provider",         "country": "DE", "url": "https://karriere.helios-gesundheit.de"},
+    {"name": "Asklepios",             "type": "provider",         "country": "DE", "url": "https://www.asklepios.com/karriere/"},
+    {"name": "Sana Kliniken",         "type": "provider",         "country": "DE", "url": "https://www.sana.de/karriere"},
+    {"name": "Bumrungrad Hospital",   "type": "provider",         "country": "TH", "url": "https://www.bumrungrad.com/en/about-us/careers"},
+    {"name": "Apollo Hospitals",      "type": "provider",         "country": "IN", "url": "https://careers.apollohospitals.com/"},
+]
+
