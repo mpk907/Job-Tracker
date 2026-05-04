@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pharma Digital Job Tracker</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A7%AC%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="brand">
+        <h1>Pharma Digital Job Tracker</h1>
+        <p class="tagline">Digital, data, AI &amp; product roles across Big Pharma, biotech, scaleups and digital-health startups — refreshed daily.</p>
+      </div>
+      <div class="meta">
+        <div><strong id="job-count">—</strong> open roles</div>
+        <div><strong id="company-count">—</strong> companies tracked</div>
+        <div>Updated <span id="generated-at">—</span></div>
+        <div id="digest-link-wrap" hidden>
+          <a id="digest-link" href="#">📬 Latest digest</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tabs container">
+    <button class="tab active" data-tab="jobs">Jobs</button>
+    <button class="tab" data-tab="watchlist">Watchlist</button>
+    <button class="tab" data-tab="discovery">Discovery</button>
+    <button class="tab" data-tab="about">About</button>
+  </nav>
+
+  <main class="container">
+
+    <!-- =============== JOBS =============== -->
+    <section id="tab-jobs" class="tab-panel active">
+      <div class="filters">
+        <input id="q" type="search" placeholder="Search title, company, location…" autocomplete="off">
+
+        <details class="filter-group">
+          <summary>Type <span class="counter" id="cnt-type"></span></summary>
+          <div id="filter-type" class="checkbox-grid"></div>
+        </details>
+
+        <details class="filter-group">
+          <summary>Seniority <span class="counter" id="cnt-seniority"></span></summary>
+          <div id="filter-seniority" class="checkbox-grid"></div>
+        </details>
+
+        <details class="filter-group">
+          <summary>Country <span class="counter" id="cnt-country"></span></summary>
+          <div id="filter-country" class="checkbox-grid"></div>
+        </details>
+
+        <details class="filter-group">
+          <summary>Source <span class="counter" id="cnt-source"></span></summary>
+          <div id="filter-source" class="checkbox-grid"></div>
+        </details>
+
+        <button id="reset-filters" class="ghost">Reset</button>
+      </div>
+
+      <div id="active-filters" class="active-filters"></div>
+
+      <table id="jobs-table">
+        <thead>
+          <tr>
+            <th data-sort="seniority_rank" class="sortable sorted-desc">Seniority</th>
+            <th data-sort="title"          class="sortable">Title</th>
+            <th data-sort="company"        class="sortable">Company</th>
+            <th data-sort="type_label"     class="sortable">Type</th>
+            <th data-sort="location"       class="sortable">Location</th>
+            <th data-sort="posted_at"      class="sortable">Posted</th>
+            <th>Apply</th>
+          </tr>
+        </thead>
+        <tbody id="jobs-tbody"></tbody>
+      </table>
+      <div id="pager" class="pager"></div>
+    </section>
+
+    <!-- =============== WATCHLIST =============== -->
+    <section id="tab-watchlist" class="tab-panel">
+      <p class="muted">
+        Companies on our radar that don't expose a public ATS feed (yet). We
+        link straight to their careers page so you can check manually. Add
+        more by editing <code>scraper/companies.py</code>.
+      </p>
+      <div id="watchlist-grid" class="cards"></div>
+    </section>
+
+    <!-- =============== DISCOVERY =============== -->
+    <section id="tab-discovery" class="tab-panel">
+      <p class="muted">
+        Auto-discovered candidate companies from a global scan of:
+        <strong>Y Combinator</strong> · <strong>Hacker News</strong> hiring threads ·
+        and pharma/health media (Endpoints News, FierceBiotech, FiercePharma,
+        FierceHealthcare, MobiHealthNews, Sifted, STAT News, BioPharma Dive,
+        MedCity News, Healthcare IT News, RockHealth Insights).
+        Promote a candidate to the live tracker by adding it to
+        <code>scraper/companies.py</code>.
+      </p>
+      <div id="discovery-meta" class="muted small"></div>
+
+      <h3 style="margin-top:24px">Industry conferences</h3>
+      <p class="muted small">Mining exhibitor lists from these events is the
+        fastest way to surface niche players.</p>
+      <div id="conferences-grid" class="cards"></div>
+
+      <h3 style="margin-top:32px">Newly-discovered candidates</h3>
+      <input id="discovery-search" type="search" placeholder="Search candidates…"
+             style="margin-bottom:12px;padding:6px 10px;width:240px;background:var(--panel);border:1px solid var(--border);border-radius:6px;color:var(--text)">
+      <table id="discovery-table">
+        <thead><tr>
+          <th>Company</th><th>Sources</th><th>Snippet</th><th>Stage</th>
+          <th>Batch</th><th>Team</th><th>Location</th><th>Link</th>
+        </tr></thead>
+        <tbody id="discovery-tbody"></tbody>
+      </table>
+    </section>
+
+    <!-- =============== ABOUT =============== -->
+    <section id="tab-about" class="tab-panel">
+      <h2>What this is</h2>
+      <p>
+        A daily-refreshed feed of digital, data, AI, software, product and
+        adjacent technology roles across the global pharma value chain —
+        Big Pharma, specialist pharma, AI-first biotech, digital-health
+        scaleups &amp; startups, CROs, MedTech, payers and pharma agencies.
+      </p>
+
+      <h2>How the data is collected</h2>
+      <ul>
+        <li><strong>Direct ATS APIs</strong> (preferred): we hit the public
+          job-board endpoints of Greenhouse, Lever, Ashby, SmartRecruiters
+          and Workday. ~60 companies covered directly.</li>
+        <li><strong>Generic job-board APIs</strong>: Remotive, RemoteOK,
+          Arbeitnow and The Muse — filtered by health/pharma keywords.</li>
+        <li><strong>Watchlist</strong>: companies without a clean public
+          API are surfaced as direct links to their careers pages.</li>
+        <li><strong>Discovery</strong>: a daily Y Combinator scan flags
+          newly-hiring health startups for review.</li>
+      </ul>
+
+      <h2>What counts as "digital"?</h2>
+      <p>
+        A title or department matching at least one of: digital, data,
+        analytics, AI/ML/LLM, software/engineering, cloud, product manager,
+        UX/UI, bioinformatics, computational, MLOps, digital health,
+        digital therapeutic, telehealth, RWD/RWE, wearable, IoT,
+        decentralized trial, MarTech, omnichannel.
+      </p>
+
+      <h2>Add a company</h2>
+      <p>
+        Edit <code>scraper/companies.py</code> and open a PR. Most digital-
+        health scaleups use Greenhouse, Lever or Ashby — find their slug from
+        the URL of their careers page (e.g.
+        <code>boards.greenhouse.io/&lt;slug&gt;</code>) and add an entry.
+      </p>
+
+      <h2>Weekly digest</h2>
+      <p>
+        Every Sunday a Markdown digest of the week's <em>new</em> jobs is
+        generated and committed to <code>digests/YYYY-Www.md</code>. Paste
+        it into Substack, Beehiiv, Buttondown, ConvertKit, LinkedIn or a
+        plain email — Markdown renders cleanly everywhere. Latest:
+        <a id="about-digest-link" href="#">view markdown</a>.
+      </p>
+
+      <h2>Source code</h2>
+      <p><a href="https://github.com/mpk907/job-tracker">github.com/mpk907/job-tracker</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container muted small">
+      Not affiliated with any of the listed companies. Data may be incomplete
+      or stale; always confirm openings on the company's careers page.
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+name: Update jobs & deploy
+
+on:
+  schedule:
+    # Daily 06:00 UTC — scrape + discover + deploy
+    - cron: "0 6 * * *"
+    # Sundays 07:00 UTC — generate the weekly digest after the scrape
+    - cron: "0 7 * * 0"
+  workflow_dispatch:
+    inputs:
+      digest_only:
+        description: "Only regenerate the digest (skip scrape)"
+        type: boolean
+        default: false
+  push:
+    branches: [ main ]
+    paths:
+      - "scraper/**"
+      - "docs/**"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      is_sunday: ${{ steps.flags.outputs.is_sunday }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - id: flags
+        name: Detect Sunday
+        run: |
+          if [ "$(date -u +%u)" = "7" ] || [ "${{ github.event.schedule }}" = "0 7 * * 0" ]; then
+            echo "is_sunday=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "is_sunday=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Scrape ATS + boards
+        if: ${{ inputs.digest_only != true }}
+        run: python scraper/run.py
+        continue-on-error: true
+
+      - name: Discover new companies
+        if: ${{ inputs.digest_only != true }}
+        run: python scraper/discover.py
+        continue-on-error: true
+
+      - name: Snapshot the fresh scrape
+        if: ${{ inputs.digest_only != true }}
+        run: python scraper/digest.py --snapshot
+
+      - name: Generate weekly digest (Sundays + manual)
+        if: ${{ steps.flags.outputs.is_sunday == 'true' || inputs.digest_only == true }}
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python scraper/digest.py
+        continue-on-error: true
+
+      - name: Prune old snapshots (keep last 14)
+        run: |
+          if [ -d data/snapshots ]; then
+            ls -1t data/snapshots/*.json 2>/dev/null | tail -n +15 | xargs -r rm -f
+          fi
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/jobs.json docs/candidates.json data/ digests/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(data): refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: Copy digest into docs/ for Pages
+        run: |
+          mkdir -p docs/digests
+          if [ -d digests ]; then cp -r digests/* docs/digests/ 2>/dev/null || true; fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

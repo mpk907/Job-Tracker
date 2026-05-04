@@ -1,0 +1,225 @@
+:root {
+  --bg: #0d1117;
+  --panel: #161b22;
+  --panel-hover: #1c2128;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #7d8590;
+  --link: #58a6ff;
+  --accent: #2f81f7;
+  --accent-soft: rgba(47, 129, 247, 0.12);
+  --green: #3fb950;
+  --orange: #d29922;
+  --red: #f85149;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #ffffff;
+    --panel: #f6f8fa;
+    --panel-hover: #eaeef2;
+    --border: #d0d7de;
+    --text: #1f2328;
+    --muted: #59636e;
+    --link: #0969da;
+    --accent: #0969da;
+    --accent-soft: rgba(9, 105, 218, 0.08);
+  }
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  background: var(--bg);
+  color: var(--text);
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container { max-width: 1400px; margin: 0 auto; padding: 0 20px; }
+
+header {
+  background: var(--panel);
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+header .container { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; }
+.brand h1 { margin: 0 0 4px; font-size: 22px; }
+.tagline { margin: 0; color: var(--muted); font-size: 13px; max-width: 700px; }
+.meta { display: flex; gap: 20px; font-size: 13px; color: var(--muted); }
+.meta strong { color: var(--text); font-size: 18px; display: block; }
+
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-top: 16px;
+  border-bottom: 1px solid var(--border);
+}
+.tab {
+  background: transparent; border: none; color: var(--muted);
+  padding: 10px 16px; cursor: pointer; font-size: 14px; font-weight: 500;
+  border-bottom: 2px solid transparent;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--text); border-bottom-color: var(--accent); }
+
+.tab-panel { display: none; padding: 20px 0 60px; }
+.tab-panel.active { display: block; }
+
+/* Filters */
+.filters {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin-bottom: 16px;
+  align-items: center;
+}
+.filters input[type=search] {
+  flex: 1; min-width: 240px;
+  padding: 8px 12px;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
+  color: var(--text); font-size: 14px;
+}
+.filters input[type=search]:focus { outline: none; border-color: var(--accent); }
+
+.filter-group {
+  position: relative;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
+}
+.filter-group summary {
+  padding: 8px 12px; cursor: pointer; user-select: none; list-style: none;
+  font-size: 13px;
+}
+.filter-group summary::-webkit-details-marker { display: none; }
+.filter-group .counter {
+  display: inline-block; min-width: 18px; text-align: center; padding: 0 6px;
+  background: var(--accent-soft); color: var(--accent); border-radius: 10px;
+  font-size: 11px; margin-left: 6px;
+}
+.filter-group .counter:empty { display: none; }
+.checkbox-grid {
+  position: absolute; top: 100%; left: 0; z-index: 10;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
+  padding: 8px; min-width: 220px; max-height: 320px; overflow: auto;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  margin-top: 4px;
+}
+.checkbox-grid label {
+  display: flex; align-items: center; gap: 6px;
+  padding: 4px 6px; border-radius: 4px; cursor: pointer; font-size: 13px;
+}
+.checkbox-grid label:hover { background: var(--panel-hover); }
+.checkbox-grid label .pill { color: var(--muted); margin-left: auto; font-size: 11px; }
+
+button.ghost {
+  background: transparent; border: 1px solid var(--border); color: var(--muted);
+  padding: 8px 12px; border-radius: 6px; cursor: pointer; font-size: 13px;
+}
+button.ghost:hover { color: var(--text); border-color: var(--text); }
+
+.active-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.active-filters .chip {
+  padding: 3px 10px; border-radius: 12px; font-size: 12px;
+  background: var(--accent-soft); color: var(--accent); cursor: pointer;
+}
+.active-filters .chip::after { content: " ×"; opacity: 0.7; }
+
+/* Table */
+table {
+  width: 100%; border-collapse: collapse; font-size: 13px;
+  background: var(--panel); border-radius: 6px; overflow: hidden;
+  border: 1px solid var(--border);
+}
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); }
+th {
+  background: var(--panel-hover); font-weight: 600;
+  position: sticky; top: 0; z-index: 1; white-space: nowrap;
+}
+th.sortable { cursor: pointer; user-select: none; }
+th.sortable:hover { color: var(--accent); }
+th.sorted-asc::after  { content: " ↑"; }
+th.sorted-desc::after { content: " ↓"; }
+tbody tr:hover { background: var(--panel-hover); }
+tbody tr:last-child td { border-bottom: none; }
+td.title { font-weight: 500; }
+td.company { white-space: nowrap; }
+td .badge {
+  display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px;
+  border: 1px solid var(--border); color: var(--muted); white-space: nowrap;
+}
+td .badge.b-big_pharma         { color: #f0883e; border-color: #f0883e80; }
+td .badge.b-specialist_pharma  { color: #d2a8ff; border-color: #d2a8ff80; }
+td .badge.b-ai_biotech         { color: #79c0ff; border-color: #79c0ff80; }
+td .badge.b-scaleup            { color: #56d364; border-color: #56d36480; }
+td .badge.b-startup            { color: #3fb950; border-color: #3fb95080; }
+td .badge.b-medtech            { color: #ffa657; border-color: #ffa65780; }
+td .badge.b-payer              { color: #f85149; border-color: #f8514980; }
+td .badge.b-provider           { color: #f0883e; border-color: #f0883e80; }
+td .badge.b-cro_tech_provider  { color: #58a6ff; border-color: #58a6ff80; }
+td .badge.b-agency             { color: #db61a2; border-color: #db61a280; }
+td .badge.b-health_corp        { color: #f0883e; border-color: #f0883e80; }
+td .badge.b-unknown            { color: var(--muted); }
+
+td .seniority {
+  display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px;
+  font-weight: 500;
+}
+td .seniority.s-c_level   { background: #f8514920; color: #f85149; }
+td .seniority.s-vp        { background: #f0883e20; color: #f0883e; }
+td .seniority.s-director  { background: #d2992220; color: #d29922; }
+td .seniority.s-principal { background: #d2a8ff20; color: #d2a8ff; }
+td .seniority.s-lead      { background: #79c0ff20; color: #79c0ff; }
+td .seniority.s-senior    { background: #56d36420; color: #56d364; }
+td .seniority.s-mid       { background: #58a6ff20; color: #58a6ff; }
+td .seniority.s-junior    { background: #7ee78720; color: #7ee787; }
+td .seniority.s-intern    { background: #7d859020; color: #7d8590; }
+td .seniority.s-unknown   { background: transparent;  color: var(--muted); }
+
+.apply-btn {
+  display: inline-block; padding: 4px 10px; font-size: 12px;
+  background: var(--accent); color: white; border-radius: 4px;
+  text-decoration: none !important;
+}
+.apply-btn:hover { opacity: 0.9; }
+
+/* Pager */
+.pager {
+  display: flex; align-items: center; justify-content: center; gap: 12px;
+  margin-top: 16px; font-size: 13px; color: var(--muted);
+}
+.pager button {
+  background: var(--panel); border: 1px solid var(--border); color: var(--text);
+  padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 13px;
+}
+.pager button:disabled { opacity: 0.5; cursor: not-allowed; }
+.pager button:hover:not(:disabled) { border-color: var(--accent); }
+
+/* Cards (Watchlist) */
+.cards {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 10px;
+}
+.cards .card {
+  background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
+  padding: 12px; transition: border-color 0.15s;
+}
+.cards .card:hover { border-color: var(--accent); }
+.cards .card a { font-weight: 500; }
+.cards .card .row {
+  display: flex; align-items: center; gap: 8px; margin-top: 6px;
+  font-size: 12px; color: var(--muted);
+}
+
+/* Misc */
+.muted { color: var(--muted); }
+.small { font-size: 12px; }
+
+footer { padding: 24px 0 40px; border-top: 1px solid var(--border); margin-top: 40px; }
+
+@media (max-width: 768px) {
+  .meta { flex-direction: column; gap: 4px; }
+  td .badge, td .seniority { font-size: 10px; }
+  th, td { padding: 8px 6px; }
+}
