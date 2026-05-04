@@ -46,6 +46,24 @@ async function boot() {
   render();
   renderWatchlist();
   renderDiscovery();
+  loadDigestLink();
+}
+
+async function loadDigestLink() {
+  try {
+    const r = await fetch("digests/index.json", { cache: "no-cache" });
+    if (!r.ok) return;
+    const idx = await r.json();
+    if (!idx.latest) return;
+    const url = `digests/${idx.latest}`;
+    const wrap = document.getElementById("digest-link-wrap");
+    const a = document.getElementById("digest-link");
+    a.href = url;
+    a.title = `${idx.new_jobs} new jobs this week`;
+    wrap.hidden = false;
+    const aboutLink = document.getElementById("about-digest-link");
+    if (aboutLink) aboutLink.href = url;
+  } catch {}
 }
 
 // ----- Tabs ---------------------------------------------------------------

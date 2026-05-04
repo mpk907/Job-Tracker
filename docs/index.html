@@ -18,6 +18,9 @@
         <div><strong id="job-count">—</strong> open roles</div>
         <div><strong id="company-count">—</strong> companies tracked</div>
         <div>Updated <span id="generated-at">—</span></div>
+        <div id="digest-link-wrap" hidden>
+          <a id="digest-link" href="#">📬 Latest digest</a>
+        </div>
       </div>
     </div>
   </header>
@@ -156,6 +159,15 @@
         health scaleups use Greenhouse, Lever or Ashby — find their slug from
         the URL of their careers page (e.g.
         <code>boards.greenhouse.io/&lt;slug&gt;</code>) and add an entry.
+      </p>
+
+      <h2>Weekly digest</h2>
+      <p>
+        Every Sunday a Markdown digest of the week's <em>new</em> jobs is
+        generated and committed to <code>digests/YYYY-Www.md</code>. Paste
+        it into Substack, Beehiiv, Buttondown, ConvertKit, LinkedIn or a
+        plain email — Markdown renders cleanly everywhere. Latest:
+        <a id="about-digest-link" href="#">view markdown</a>.
       </p>
 
       <h2>Source code</h2>
