@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T07:53:36Z",
+  "generated_at": "2026-05-05T09:52:49Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 161,
@@ -6436,7 +6436,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Mifepristone court ruling makes drug development riskier for everyone",
+      "one_liner": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6445,6 +6445,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/05/brain-drain-doctors-returning-home-systems/?utm_campaign=rss",
+          "snippet": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/?utm_campaign=rss",
