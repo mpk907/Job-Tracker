@@ -117,6 +117,25 @@ python scraper/run.py -v              # verbose logging
 python scraper/discover.py --no-rss   # YC + HN only (faster)
 ```
 
+## Known coverage gaps
+
+A handful of large pharma run their careers portal on platforms that block
+programmatic access without a real browser:
+
+- **BioNTech** — Cloudflare-style edge with strict TLS/SNI checks. Curl
+  and headless Chromium both 503. Would need a stealth-configured
+  Playwright session via a residential proxy.
+- **Siemens Healthineers** — Avature SPA loads jobs through a React /
+  TanStack-Query stack with form-token auth; no clean HTTP entrypoint.
+- **Bayer** — `talent.bayer.com` exposes a public Phenom-Cloud endpoint
+  but throttles non-authenticated callers to 10 "featured" jobs. We
+  ship those few; the full search is gated.
+
+Adzuna fills part of these gaps when those companies index there. If
+you need full coverage of one of these, the cleanest path is a paid
+proxy (ScrapingBee, ZenRows, Bright Data) plus a per-company Playwright
+adapter — ~$30/mo and ~30 min of code per company.
+
 ## Weekly newsletter
 
 Every Sunday 07:00 UTC the workflow runs `scraper/digest.py`, which:

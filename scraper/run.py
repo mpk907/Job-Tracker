@@ -21,6 +21,7 @@ from sources import fetch_company
 from boards import BOARD_FETCHERS
 from adzuna import fetch_all as fetch_adzuna_all
 from sitemap import SITEMAP_SOURCES, fetch_sitemap_jobs
+from bayer import fetch_bayer
 
 log = logging.getLogger(__name__)
 ROOT = Path(__file__).resolve().parents[1]
@@ -266,6 +267,25 @@ def main():
                 log.warning("Sitemap %s failed: %s", source["name"], e)
                 errors.append({"source": f"Sitemap:{source['name']}",
                                "error": str(e)})
+
+        # Bayer's Phenom-Cloud public endpoint only exposes ~10 featured
+        # roles per request (the full search is gated). We ship those few.
+        bayer_meta = {"name": "Bayer", "type": "big_pharma", "country": "DE"}
+        t0 = time.time()
+        try:
+            raw = list(fetch_bayer())
+            normalized = [n for r in raw if (n := normalize_sitemap_job(r, bayer_meta))]
+            # tag the source so the frontend can show the filter pill correctly
+            for j in normalized:
+                j["source"] = "Bayer"
+            log.info("[BAYER  %-22s] %4d raw → %3d digital (%.1fs)",
+                     "Bayer", len(raw), len(normalized), time.time() - t0)
+            all_jobs.extend(normalized)
+            company_stats.append({"name": "Bayer", "type": "big_pharma",
+                                  "jobs": len(normalized), "ok": True})
+        except Exception as e:
+            log.warning("Bayer fetch failed: %s", e)
+            errors.append({"source": "Bayer", "error": str(e)})
 
     all_jobs = dedupe(all_jobs)
     # Sort: seniority desc, then company A→Z, then title
