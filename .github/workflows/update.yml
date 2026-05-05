@@ -53,8 +53,11 @@ jobs:
             echo "is_sunday=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Scrape ATS + boards
+      - name: Scrape ATS + boards + Adzuna
         if: ${{ inputs.digest_only != true }}
+        env:
+          ADZUNA_APP_ID:  ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scraper/run.py
         continue-on-error: true
 

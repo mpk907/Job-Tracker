@@ -19,6 +19,7 @@ from classify import (
 )
 from sources import fetch_company
 from boards import BOARD_FETCHERS
+from adzuna import fetch_all as fetch_adzuna_all
 
 log = logging.getLogger(__name__)
 ROOT = Path(__file__).resolve().parents[1]
@@ -73,6 +74,33 @@ def normalize_board_job(raw: dict) -> dict | None:
         posted_at=raw.get("posted_at"),
         external_id=raw.get("external_id", ""),
         source=raw.get("source", "Board"),
+    )
+
+
+def normalize_adzuna_job(raw: dict) -> dict | None:
+    """Adzuna rows behave like board rows but we filter for digital + health."""
+    title = (raw.get("title") or "").strip()
+    company = (raw.get("company") or "").strip()
+    if not title or not company:
+        return None
+    if not is_digital(title, raw.get("tags", "")):
+        return None
+    # Adzuna already targets pharma/health queries but topic sweeps catch
+    # broader posts; require health context to keep noise out.
+    if not is_health_related(title, company, raw.get("tags", "")):
+        return None
+    return _row(
+        title=title,
+        company=company,
+        company_type=classify_company_type(company),
+        country=None,
+        location=raw.get("location") or "",
+        department="",
+        seniority=classify_seniority(title),
+        url=raw.get("url", ""),
+        posted_at=raw.get("posted_at"),
+        external_id=raw.get("external_id", ""),
+        source="Adzuna",
     )
 
 
@@ -142,6 +170,7 @@ def main():
     parser.add_argument("--limit", type=int, help="Process only N companies (debug)")
     parser.add_argument("--no-boards", action="store_true", help="Skip generic job boards")
     parser.add_argument("--no-ats", action="store_true", help="Skip ATS scrapes")
+    parser.add_argument("--no-adzuna", action="store_true", help="Skip Adzuna API")
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -175,6 +204,20 @@ def main():
                                       "jobs": len(jobs), "ok": err is None})
                 if err:
                     errors.append({"source": name, "error": str(err)})
+
+    if not args.no_adzuna:
+        try:
+            t0 = time.time()
+            raw = fetch_adzuna_all()
+            adz_jobs = [n for r in raw if (n := normalize_adzuna_job(r))]
+            log.info("[ADZUNA total            ] %4d raw → %3d digital+health (%.1fs)",
+                     len(raw), len(adz_jobs), time.time() - t0)
+            all_jobs.extend(adz_jobs)
+            company_stats.append({"name": "[Adzuna]", "type": "aggregator",
+                                  "jobs": len(adz_jobs), "ok": True})
+        except Exception as e:
+            log.warning("Adzuna fetch failed: %s", e)
+            errors.append({"source": "Adzuna", "error": str(e)})
 
     all_jobs = dedupe(all_jobs)
     # Sort: seniority desc, then company A→Z, then title
