@@ -112,9 +112,9 @@ def _fetch_sitemap_urls(sitemap_url: str) -> list[str]:
     return re.findall(r"<loc>([^<]+)</loc>", r.text)
 
 
-def fetch_sitemap_jobs(source: dict, *, max_jobs: int = 800,
+def fetch_sitemap_jobs(source: dict, *, max_jobs: int = 600,
                        enrich_locations: bool = True,
-                       max_enrich: int = 200) -> Iterator[dict]:
+                       max_enrich: int = 80) -> Iterator[dict]:
     """Yield raw job rows for one Phenom-style sitemap source."""
     seen = set()
     pat = re.compile(source["url_pattern"])
