@@ -183,6 +183,8 @@ def _clean_url(url: str) -> str:
 def _normalize(j: dict) -> dict:
     company = (j.get("company") or {}).get("display_name") or "Via Adzuna"
     loc = (j.get("location") or {}).get("display_name") or ""
+    smin = j.get("salary_min")
+    smax = j.get("salary_max")
     return {
         "title":      (j.get("title") or "").strip(),
         "company":    company,
@@ -193,6 +195,9 @@ def _normalize(j: dict) -> dict:
         "tags":       (j.get("category") or {}).get("label", ""),
         "external_id": str(j.get("id", "")),
         "source":     "Adzuna",
+        "salary_min": smin,
+        "salary_max": smax,
+        "salary_predicted": bool(j.get("salary_is_predicted")),
     }
 
 

@@ -20,11 +20,33 @@ from classify import (
 from sources import fetch_company
 from boards import BOARD_FETCHERS
 from adzuna import fetch_all as fetch_adzuna_all
+from sitemap import SITEMAP_SOURCES, fetch_sitemap_jobs
 
 log = logging.getLogger(__name__)
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs" / "jobs.json"
 MAX_WORKERS = 8
+
+
+def normalize_sitemap_job(raw: dict, source: dict) -> dict | None:
+    title = (raw.get("title") or "").strip()
+    if not title:
+        return None
+    if not is_digital(title, raw.get("department", "")):
+        return None
+    return _row(
+        title=title,
+        company=source["name"],
+        company_type=source["type"],
+        country=source.get("country"),
+        location=raw.get("location") or "",
+        department=raw.get("department") or "",
+        seniority=classify_seniority(title),
+        url=raw.get("url", ""),
+        posted_at=raw.get("posted_at"),
+        external_id=raw.get("external_id", ""),
+        source="Sitemap",
+    )
 
 
 def normalize_company_job(raw: dict, company: dict) -> dict | None:
@@ -101,11 +123,15 @@ def normalize_adzuna_job(raw: dict) -> dict | None:
         posted_at=raw.get("posted_at"),
         external_id=raw.get("external_id", ""),
         source="Adzuna",
+        salary_min=raw.get("salary_min"),
+        salary_max=raw.get("salary_max"),
+        salary_predicted=raw.get("salary_predicted", False),
     )
 
 
 def _row(*, title, company, company_type, country, location, department,
-         seniority, url, posted_at, external_id, source) -> dict:
+         seniority, url, posted_at, external_id, source,
+         salary_min=None, salary_max=None, salary_predicted=False) -> dict:
     return {
         "title":           title,
         "company":         company,
@@ -121,6 +147,9 @@ def _row(*, title, company, company_type, country, location, department,
         "posted_at":       posted_at,
         "external_id":     external_id,
         "source":          source,
+        "salary_min":      salary_min,
+        "salary_max":      salary_max,
+        "salary_predicted": bool(salary_predicted),
     }
 
 
@@ -171,6 +200,8 @@ def main():
     parser.add_argument("--no-boards", action="store_true", help="Skip generic job boards")
     parser.add_argument("--no-ats", action="store_true", help="Skip ATS scrapes")
     parser.add_argument("--no-adzuna", action="store_true", help="Skip Adzuna API")
+    parser.add_argument("--no-sitemaps", action="store_true",
+                        help="Skip sitemap-based companies (Roche / AbbVie / J&J)")
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -218,6 +249,23 @@ def main():
         except Exception as e:
             log.warning("Adzuna fetch failed: %s", e)
             errors.append({"source": "Adzuna", "error": str(e)})
+
+    if not args.no_sitemaps:
+        for source in SITEMAP_SOURCES:
+            t0 = time.time()
+            try:
+                raw = list(fetch_sitemap_jobs(source))
+                normalized = [n for r in raw if (n := normalize_sitemap_job(r, source))]
+                log.info("[SMAP   %-22s] %4d raw → %3d digital (%.1fs)",
+                         source["name"], len(raw), len(normalized),
+                         time.time() - t0)
+                all_jobs.extend(normalized)
+                company_stats.append({"name": source["name"], "type": source["type"],
+                                      "jobs": len(normalized), "ok": True})
+            except Exception as e:
+                log.warning("Sitemap %s failed: %s", source["name"], e)
+                errors.append({"source": f"Sitemap:{source['name']}",
+                               "error": str(e)})
 
     all_jobs = dedupe(all_jobs)
     # Sort: seniority desc, then company A→Z, then title

@@ -5,7 +5,8 @@ const PAGE_SIZE = 100;
 
 const state = {
   data: null,
-  filters: { type: new Set(), seniority: new Set(), country: new Set(), source: new Set() },
+  filters: { type: new Set(), seniority: new Set(), country: new Set(),
+             source: new Set(), company: new Set() },
   query: "",
   sort: { col: "seniority_rank", dir: "desc" },
   page: 0,
@@ -99,6 +100,44 @@ function buildFilters() {
                   state.data.seniority_order);
   buildCheckboxes("country", buckets.country, (k) => k || "—");
   buildCheckboxes("source", buckets.source, (k) => k || "—");
+  buildCompanyFilter(tally("company"));
+}
+
+function buildCompanyFilter(tally) {
+  const list = document.getElementById("company-list");
+  const search = document.getElementById("company-search");
+  const entries = [...tally.entries()]
+    .filter(([k]) => !!k)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+
+  function paint(filter = "") {
+    const f = filter.toLowerCase();
+    list.innerHTML = "";
+    let shown = 0;
+    for (const [val, count] of entries) {
+      if (f && !val.toLowerCase().includes(f)) continue;
+      if (!f && shown >= 100) break;   // cap top-N when not searching
+      shown++;
+      const id = `f-company-${val.replace(/\W/g, "_")}`;
+      const wrap = document.createElement("label");
+      wrap.innerHTML = `
+        <input type="checkbox" id="${id}" value="${escape(val)}"
+               ${state.filters.company.has(val) ? "checked" : ""}>
+        <span>${escape(val)}</span>
+        <span class="pill">${count}</span>`;
+      wrap.querySelector("input").addEventListener("change", (e) => {
+        if (e.target.checked) state.filters.company.add(val);
+        else state.filters.company.delete(val);
+        state.page = 0;
+        render();
+      });
+      list.appendChild(wrap);
+    }
+    if (!shown) list.innerHTML = `<div class="muted small" style="padding:6px">No matches</div>`;
+  }
+
+  paint();
+  search.addEventListener("input", (e) => paint(e.target.value.trim()));
 }
 
 function tally(key) {
@@ -155,6 +194,8 @@ function setupReset() {
     $("#q").value = "";
     for (const k of Object.keys(state.filters)) state.filters[k].clear();
     $$('input[type=checkbox]').forEach((c) => (c.checked = false));
+    const cs = document.getElementById("company-search");
+    if (cs) { cs.value = ""; cs.dispatchEvent(new Event("input")); }
     state.page = 0;
     render();
   });
@@ -227,6 +268,11 @@ function renderActiveFilters() {
         const cb = document.getElementById(`f-${name}-${v.replace(/\W/g, "_")}`);
         if (cb) cb.checked = false;
         state.page = 0; render();
+        // re-paint the company list when a chip removed it
+        if (name === "company") {
+          const search = document.getElementById("company-search");
+          if (search) search.dispatchEvent(new Event("input"));
+        }
       });
       root.appendChild(chip);
     }
@@ -245,7 +291,7 @@ function renderTable(rows) {
   const start = state.page * PAGE_SIZE;
   const slice = rows.slice(start, start + PAGE_SIZE);
   if (!slice.length) {
-    tbody.innerHTML = `<tr><td colspan="7" style="text-align:center;padding:32px;color:#888">No matching jobs.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="8" style="text-align:center;padding:32px;color:#888">No matching jobs.</td></tr>`;
     return;
   }
   tbody.innerHTML = slice.map((j) => `
@@ -255,9 +301,24 @@ function renderTable(rows) {
       <td class="company">${escape(j.company)}${j.country ? ` <span class="muted small">(${j.country})</span>` : ""}</td>
       <td><span class="badge b-${j.company_type}">${escape(j.type_label)}</span></td>
       <td>${escape(j.location)}</td>
+      <td class="muted small">${formatSalary(j)}</td>
       <td class="muted small">${formatDate(j.posted_at)}</td>
       <td>${j.url ? `<a class="apply-btn" href="${escape(j.url)}" target="_blank" rel="noopener">View</a>` : ""}</td>
     </tr>`).join("");
+}
+
+function formatSalary(j) {
+  if (!j.salary_min && !j.salary_max) return "—";
+  const lo = j.salary_min, hi = j.salary_max;
+  const fmt = (n) => {
+    if (n == null) return "?";
+    if (n >= 1000) return Math.round(n / 1000) + "k";
+    return n.toLocaleString();
+  };
+  const range = (lo && hi && lo !== hi) ? `${fmt(lo)}–${fmt(hi)}`
+              : `${fmt(hi || lo)}`;
+  const tag = j.salary_predicted ? `<span title="Predicted by Adzuna" style="opacity:0.6">~</span>` : "";
+  return `${tag}${range}`;
 }
 
 function renderPager(total) {
