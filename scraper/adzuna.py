@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 import time
 from typing import Iterator
 from urllib.parse import urlencode
@@ -162,6 +163,23 @@ def _get(url: str, params: dict) -> requests.Response:
                         timeout=TIMEOUT)
 
 
+_LAND_RX = re.compile(r"^(https?://www\.adzuna\.[a-z.]+)/land/ad/(\d+)")
+
+
+def _clean_url(url: str) -> str:
+    """Adzuna's redirect_url comes in two flavours:
+
+      /details/{id}            → public job-detail page, always renders
+      /land/ad/{id}?se=…&v=…   → click-tracker page that 403s for bots and
+                                  occasionally for real users when the
+                                  tracker's signed token expires.
+
+    Rewrite the second form to the first so apply links don't break.
+    """
+    m = _LAND_RX.match(url or "")
+    return f"{m.group(1)}/details/{m.group(2)}" if m else url
+
+
 def _normalize(j: dict) -> dict:
     company = (j.get("company") or {}).get("display_name") or "Via Adzuna"
     loc = (j.get("location") or {}).get("display_name") or ""
@@ -169,7 +187,7 @@ def _normalize(j: dict) -> dict:
         "title":      (j.get("title") or "").strip(),
         "company":    company,
         "location":   loc,
-        "url":        j.get("redirect_url", ""),
+        "url":        _clean_url(j.get("redirect_url", "")),
         "posted_at":  j.get("created"),
         "department": "",
         "tags":       (j.get("category") or {}).get("label", ""),
