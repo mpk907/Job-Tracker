@@ -33,8 +33,14 @@ log = logging.getLogger(__name__)
 
 UA = "PharmaJobTracker/1.0 (+https://github.com/mpk907/job-tracker)"
 TIMEOUT = 25
-MAX_PAGES = 2          # 2×50 = 100 results per query, defensive vs free tier
+# Free Adzuna tier ≈ 250 calls/day per app. Defaults below come in well
+# under that:
+#   targeted ~80 entries × avg ~2 countries × 1 page  ≈ 160 calls
+#   topic    1 country × 1 topic × 1 page              ≈ 0–6 calls
+#   reserve  ~80 calls/day for retries / next-day burst
+MAX_PAGES = 1                # 50 results per (company,country) is plenty
 RESULTS_PER_PAGE = 50
+RATE_LIMIT_BUDGET = 220      # hard stop just below the daily limit
 
 # Two-letter ISO country codes Adzuna supports & we care about.
 DACH_AND_EU = ["ch", "de", "at", "fr", "nl", "be", "it", "es", "pl", "gb", "ie"]
@@ -172,14 +178,28 @@ def _normalize(j: dict) -> dict:
     }
 
 
+_call_count = {"n": 0}
+
+
+def _budget_left() -> bool:
+    return _call_count["n"] < RATE_LIMIT_BUDGET
+
+
+def _bump():
+    _call_count["n"] += 1
+
+
 def fetch_topic(country: str, topic: str, app_id: str, app_key: str) -> Iterator[dict]:
     """Broad keyword sweep per country."""
     base = f"https://api.adzuna.com/v1/api/jobs/{country}/search"
     for page in range(1, MAX_PAGES + 1):
+        if not _budget_left():
+            log.info("Adzuna budget exhausted (%d) — stopping topic sweep", _call_count["n"])
+            return
         params = {"app_id": app_id, "app_key": app_key,
                   "results_per_page": RESULTS_PER_PAGE, "what": topic}
         try:
-            r = _get(f"{base}/{page}", params)
+            r = _get(f"{base}/{page}", params); _bump()
             r.raise_for_status()
         except Exception as e:
             log.warning("adzuna %s/%s page %d: %s", country, topic, page, e)
@@ -196,10 +216,13 @@ def fetch_company(country: str, company: str, app_id: str, app_key: str) -> Iter
     """Targeted company query."""
     base = f"https://api.adzuna.com/v1/api/jobs/{country}/search"
     for page in range(1, MAX_PAGES + 1):
+        if not _budget_left():
+            log.info("Adzuna budget exhausted (%d) — stopping company lookups", _call_count["n"])
+            return
         params = {"app_id": app_id, "app_key": app_key,
                   "results_per_page": RESULTS_PER_PAGE, "company": company}
         try:
-            r = _get(f"{base}/{page}", params)
+            r = _get(f"{base}/{page}", params); _bump()
             r.raise_for_status()
         except Exception as e:
             log.warning("adzuna %s/company=%s page %d: %s", country, company, page, e)
@@ -220,10 +243,12 @@ def fetch_all() -> list[dict]:
         log.info("ADZUNA_APP_ID/ADZUNA_APP_KEY not set — skipping Adzuna.")
         return []
 
+    # Default to a single broad topic per primary country to leave the
+    # bulk of the budget for targeted company lookups.
     countries = (os.environ.get("ADZUNA_COUNTRIES")
-                 or ",".join(["ch", "de", "at", "us", "gb", "fr", "nl", "ie", "in"])).split(",")
+                 or "ch,de,at,gb,us").split(",")
     countries = [c.strip().lower() for c in countries if c.strip()]
-    topics = (os.environ.get("ADZUNA_TOPICS") or ",".join(DEFAULT_TOPICS)).split(",")
+    topics = (os.environ.get("ADZUNA_TOPICS") or "pharma,digital health").split(",")
     topics = [t.strip() for t in topics if t.strip()]
 
     out: list[dict] = []
