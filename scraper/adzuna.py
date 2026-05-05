@@ -236,7 +236,10 @@ def fetch_topic(country: str, topic: str, app_id: str, app_key: str) -> Iterator
 
 
 def fetch_company(country: str, company: str, app_id: str, app_key: str) -> Iterator[dict]:
-    """Targeted company query."""
+    """Targeted company query. Adzuna's company=NAME filter is exact-match
+    against their per-country index; a company that exists in the CH index
+    may return HTTP 400 in the US index. Treat 400 as a clean miss, not
+    an error."""
     base = f"https://api.adzuna.com/v1/api/jobs/{country}/search"
     for page in range(1, MAX_PAGES + 1):
         if not _budget_left():
@@ -246,6 +249,9 @@ def fetch_company(country: str, company: str, app_id: str, app_key: str) -> Iter
                   "results_per_page": RESULTS_PER_PAGE, "company": company}
         try:
             r = _get(f"{base}/{page}", params); _bump()
+            if r.status_code == 400:
+                log.debug("adzuna %s/company=%s: not in index", country, company)
+                return
             r.raise_for_status()
         except Exception as e:
             log.warning("adzuna %s/company=%s page %d: %s", country, company, page, e)
