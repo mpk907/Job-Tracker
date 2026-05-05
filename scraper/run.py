@@ -22,6 +22,9 @@ from boards import BOARD_FETCHERS
 from adzuna import fetch_all as fetch_adzuna_all
 from sitemap import SITEMAP_SOURCES, fetch_sitemap_jobs
 from bayer import fetch_bayer
+from biontech import fetch_biontech
+from siemens_hc import fetch_siemens_hc
+from stealth import is_enabled as stealth_enabled
 
 log = logging.getLogger(__name__)
 ROOT = Path(__file__).resolve().parents[1]
@@ -275,7 +278,6 @@ def main():
         try:
             raw = list(fetch_bayer())
             normalized = [n for r in raw if (n := normalize_sitemap_job(r, bayer_meta))]
-            # tag the source so the frontend can show the filter pill correctly
             for j in normalized:
                 j["source"] = "Bayer"
             log.info("[BAYER  %-22s] %4d raw → %3d digital (%.1fs)",
@@ -286,6 +288,32 @@ def main():
         except Exception as e:
             log.warning("Bayer fetch failed: %s", e)
             errors.append({"source": "Bayer", "error": str(e)})
+
+        # Stealth-only sources (BioNTech, Siemens Healthineers) — no-op
+        # without SCRAPINGBEE_API_KEY.
+        if stealth_enabled():
+            for src_name, src_country, fetcher in [
+                ("BioNTech",            "DE", fetch_biontech),
+                ("Siemens Healthineers","DE", fetch_siemens_hc),
+            ]:
+                meta = {"name": src_name, "type": "big_pharma" if "BioNTech" in src_name else "medtech",
+                        "country": src_country}
+                t0 = time.time()
+                try:
+                    raw = list(fetcher())
+                    normalized = [n for r in raw if (n := normalize_sitemap_job(r, meta))]
+                    for j in normalized:
+                        j["source"] = "Stealth"
+                    log.info("[STEALTH %-21s] %4d raw → %3d digital (%.1fs)",
+                             src_name, len(raw), len(normalized), time.time() - t0)
+                    all_jobs.extend(normalized)
+                    company_stats.append({"name": src_name, "type": meta["type"],
+                                          "jobs": len(normalized), "ok": True})
+                except Exception as e:
+                    log.warning("%s stealth fetch failed: %s", src_name, e)
+                    errors.append({"source": src_name, "error": str(e)})
+        else:
+            log.info("stealth: SCRAPINGBEE_API_KEY not set — BioNTech/Siemens HC skipped.")
 
     all_jobs = dedupe(all_jobs)
     # Sort: seniority desc, then company A→Z, then title

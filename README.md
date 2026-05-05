@@ -119,22 +119,21 @@ python scraper/discover.py --no-rss   # YC + HN only (faster)
 
 ## Known coverage gaps
 
-A handful of large pharma run their careers portal on platforms that block
-programmatic access without a real browser:
+Three large pharma careers portals refuse plain HTTP / headless Chromium:
 
-- **BioNTech** — Cloudflare-style edge with strict TLS/SNI checks. Curl
-  and headless Chromium both 503. Would need a stealth-configured
-  Playwright session via a residential proxy.
-- **Siemens Healthineers** — Avature SPA loads jobs through a React /
-  TanStack-Query stack with form-token auth; no clean HTTP entrypoint.
-- **Bayer** — `talent.bayer.com` exposes a public Phenom-Cloud endpoint
-  but throttles non-authenticated callers to 10 "featured" jobs. We
-  ship those few; the full search is gated.
+| Company | Wall | Adapter | Activated by |
+|---------|------|---------|---------------|
+| **BioNTech** | Cloudflare-edge w/ TLS fingerprinting | `scraper/biontech.py` (sitemap via stealth) | `SCRAPINGBEE_API_KEY` |
+| **Siemens Healthineers** | Avature SPA, tokenised XHRs | `scraper/siemens_hc.py` (rendered HTML) | `SCRAPINGBEE_API_KEY` |
+| **Bayer (full search)** | Search endpoint requires auth | `scraper/bayer.py` (10 featured jobs only) | always on |
 
-Adzuna fills part of these gaps when those companies index there. If
-you need full coverage of one of these, the cleanest path is a paid
-proxy (ScrapingBee, ZenRows, Bright Data) plus a per-company Playwright
-adapter — ~$30/mo and ~30 min of code per company.
+The first two are ScrapingBee-gated. Without the key the scraper logs
+`SCRAPINGBEE_API_KEY not set — skipping` and continues; **the rest of
+the pipeline keeps running normally**. ScrapingBee's free tier (1,000
+credits, no card) covers the daily run with budget to spare.
+
+Bayer's full search is behind a tokenised endpoint we haven't reverse-
+engineered; only the 10 publicly featured roles ship today.
 
 ## Weekly newsletter
 
