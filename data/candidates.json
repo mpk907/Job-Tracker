@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-04T08:28:14Z",
+  "generated_at": "2026-05-05T05:51:21Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 160,
-    "MedCity News": 4,
+    "Y Combinator": 161,
+    "MedCity News": 5,
     "Endpoints News": 2,
     "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -47,6 +47,19 @@
           "snippet": "10x Genomics | Pleasanton, CA & San Francisco, CA | Various Engineers & PMs |  https://www.10xgenomics.com/careers/  | US Remote Scientists are using our techno"
         }
       ]
+    },
+    {
+      "name": "10x Science",
+      "website": "https://10xscience.com",
+      "one_liner": "The AI-native platform for next-generation protein characterization.",
+      "stage": "Early",
+      "batch": "Winter 2026",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "1bios",
@@ -164,7 +177,7 @@
       "one_liner": "We're building fully automated labs for protein engineering",
       "stage": "Early",
       "batch": "Summer 2021",
-      "team_size": 12,
+      "team_size": 25,
       "location": "Lausanne, VD, Switzerland",
       "sources": [
         "Y Combinator"
@@ -173,7 +186,7 @@
     },
     {
       "name": "adyn",
-      "website": "https://www.adynhealth.com",
+      "website": "https://adyn.com",
       "one_liner": "The first test designed to prevent birth control side effects",
       "stage": "Early",
       "batch": "Summer 2020",
@@ -533,7 +546,7 @@
       "one_liner": "Faster clinical documentation for home health nurses",
       "stage": "Early",
       "batch": "Winter 2024",
-      "team_size": 2,
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -674,19 +687,6 @@
           "snippet": "ArchiveSocial - Durham, NC - ONSITE -  http://archivesocial.com  We automate record keeping, monitoring, & analytics of social media to help organizations fulfi"
         }
       ]
-    },
-    {
-      "name": "Argon AI, Inc.",
-      "website": "https://www.argon-ai.com/",
-      "one_liner": "AI for Pharma Intelligence ",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 2,
-      "location": "",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Arini",
@@ -873,19 +873,6 @@
       ]
     },
     {
-      "name": "Beacon Health",
-      "website": "https://www.beaconhealth.ai/",
-      "one_liner": "AI Agents for Primary Care",
-      "stage": "Early",
-      "batch": "Winter 2026",
-      "team_size": 2,
-      "location": "New York, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "BeHealth Solutions",
       "website": "",
       "one_liner": "BeHealth Solutions | Senior Rails Developer | US | Remote Hi, I'm Alan Lattimore, lead developer at BeHealth Solutions. We are seeking an experienced software engineer to join a small team developing high-volume Software as a Service web ap",
@@ -977,6 +964,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15391479",
           "snippet": "BigchainDB | Python - Decentralized Software Engineer| Berlin, Germany | Full-time ONSITE |  http://www.bigchaindb.com  BigchainDB is a leader in the blockchain"
+        }
+      ]
+    },
+    {
+      "name": "Biotech",
+      "website": "",
+      "one_liner": "STAT+: Biotech raises $42 million to run Huntington’s disease trial",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/?utm_campaign=rss",
+          "snippet": "STAT+: Biotech raises $42 million to run Huntington’s disease trial"
         }
       ]
     },
@@ -1113,19 +1119,6 @@
       ]
     },
     {
-      "name": "Bot MD",
-      "website": "https://www.botmd.io",
-      "one_liner": "AI Clinical Assistant for Doctors",
-      "stage": "Growth",
-      "batch": "Summer 2018",
-      "team_size": 15,
-      "location": "Singapore, Singapore",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Boulder Care",
       "website": "",
       "one_liner": "Boulder Care | Senior Product Manager | Portland OR | Full-time onsite (WFH currently due to covid) |  https://boulder.care  Come work for Boulder Care! Boulder Care is a digital health platform for treating opioid addiction. We are a well-",
@@ -1189,7 +1182,7 @@
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 14,
-      "location": "",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1311,24 +1304,11 @@
     {
       "name": "Cair Health",
       "website": "https://www.cairhealth.com/",
-      "one_liner": "Predictive analytics and automation for medical claims",
+      "one_liner": "AI Agents for Healthcare RCM",
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 6,
-      "location": "",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Cairns Health",
-      "website": "https://www.cairns.ai",
-      "one_liner": "Your voice. Your health. We care.",
-      "stage": "Early",
-      "batch": "Summer 2017",
-      "team_size": 17,
-      "location": "Sunnyvale, CA, USA",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1429,19 +1409,6 @@
       ]
     },
     {
-      "name": "careCycle",
-      "website": "https://www.careCycle.ai",
-      "one_liner": "Voice AI teams for medicare agencies.",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 4,
-      "location": "San Mateo, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "CareEvolution",
       "website": "",
       "one_liner": "CareEvolution | Software Dev | Ann Arbor, MI | ONSITE, REMOTE, VISA,  https://www.careevolution.com/  What we do actually matters. It's estimated that 250,000 people die in America annually because of medical errors. That makes it the #3 ca",
@@ -1471,7 +1438,7 @@
       "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
       "stage": "Early",
       "batch": "Fall 2024",
-      "team_size": null,
+      "team_size": 9,
       "location": "Oakland, CA, USA",
       "sources": [
         "Y Combinator"
@@ -1547,6 +1514,19 @@
           "snippet": "Catapult | Full Time | Remote (Europe) What: On demand staffing for retail, office and hospitality, sort of like Uber for staff $: £45k - £60k depending on expe"
         }
       ]
+    },
+    {
+      "name": "CellType",
+      "website": "https://www.celltype.com",
+      "one_liner": "The agentic drug company. We simulate human biology.",
+      "stage": "Early",
+      "batch": "Winter 2026",
+      "team_size": 2,
+      "location": "",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Center for Clinical Data Science",
@@ -1686,6 +1666,19 @@
       ]
     },
     {
+      "name": "Clara",
+      "website": "http://askclara.com",
+      "one_liner": "AI primary care doctor",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 9,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Clarion",
       "website": "https://clarionhealth.com",
       "one_liner": "The AI communication layer for healthcare",
@@ -1693,19 +1686,6 @@
       "batch": "Winter 2024",
       "team_size": 14,
       "location": "New York, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Cleancard",
-      "website": "https://www.cleancard.bio",
-      "one_liner": "Making cancer detection as easy as a pregnancy test",
-      "stage": "Growth",
-      "batch": "Summer 2023",
-      "team_size": 16,
-      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1749,7 +1729,7 @@
       "one_liner": "India's Telemedicine Platform & Online Pharmacy for Dermatology Care",
       "stage": "Growth",
       "batch": "Summer 2022",
-      "team_size": 76,
+      "team_size": 125,
       "location": "Gurugram, HR, India",
       "sources": [
         "Y Combinator"
@@ -1762,8 +1742,8 @@
       "one_liner": "Connects workplaces with professionals nearby.",
       "stage": "Growth",
       "batch": "Winter 2017",
-      "team_size": 800,
-      "location": "San Francisco, CA, USA; Remote",
+      "team_size": 1000,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1889,25 +1869,12 @@
       ]
     },
     {
-      "name": "CodeAnt AI",
-      "website": "https://codeant.ai/",
-      "one_liner": "AI Code Health Platform",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 10,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Codes Health",
       "website": "https://www.getcodeshealth.com/",
-      "one_liner": "Perfect medical histories. ",
+      "one_liner": "Medical Record Retrieval with Zero Human Error",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 10,
+      "team_size": 12,
       "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
@@ -2016,7 +1983,7 @@
       "stage": "Early",
       "batch": "Summer 2025",
       "team_size": 4,
-      "location": "",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -2174,6 +2141,19 @@
       ]
     },
     {
+      "name": "Curebase",
+      "website": "https://www.curebase.ai/",
+      "one_liner": "Modern, AI-powered clinical trial software platform.",
+      "stage": "Growth",
+      "batch": "Summer 2018",
+      "team_size": 27,
+      "location": "San Francisco, CA, USA; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Data Driven Bioscience",
       "website": "http://datadrivenbioscience.com",
       "one_liner": "Cancer Diagnosis 10X faster, 10X cheaper",
@@ -2240,10 +2220,10 @@
     {
       "name": "Decoda Health",
       "website": "https://decodahealth.com/",
-      "one_liner": "AI-powered platform automating medical practice operations",
+      "one_liner": "The all-in-one EMR built for med spas and elective care",
       "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 9,
+      "team_size": 15,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -2252,12 +2232,12 @@
     },
     {
       "name": "Deep24",
-      "website": "https://deep24.ai",
+      "website": "https://deep24.com",
       "one_liner": "AI coach for your entire life",
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": 2,
-      "location": "",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -2409,6 +2389,19 @@
       ]
     },
     {
+      "name": "Dodo",
+      "website": "https://www.dodo.ai/",
+      "one_liner": "AI agents that handle communications for clinics",
+      "stage": "Early",
+      "batch": "Summer 2024",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Domino Data Lab",
       "website": "",
       "one_liner": "Domino Data Lab | San Francisco, CA | Onsite Full-Time  https://www.dominodatalab.com/  We make a software product that helps data science teams accelerate research, increase collaboration, and easily operationalize predictive models. Our c",
@@ -2550,6 +2543,19 @@
           "snippet": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic b"
         }
       ]
+    },
+    {
+      "name": "Eden",
+      "website": "https://edenmed.com",
+      "one_liner": "Developing AI to unleash diagnostic abundance.",
+      "stage": "Growth",
+      "batch": "Summer 2018",
+      "team_size": 55,
+      "location": "Mexico City, CDMX, Mexico",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Eight Sleep",
@@ -3259,7 +3265,7 @@
       "stage": "Early",
       "batch": "Fall 2024",
       "team_size": 4,
-      "location": "San Francisco, CA, USA",
+      "location": "NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3442,12 +3448,12 @@
     },
     {
       "name": "Glass Health",
-      "website": "http://glass.health",
-      "one_liner": "AI-Powered Clinical Decision Support",
+      "website": "https://glass.health",
+      "one_liner": "AI-Powered Clinical Decision Support & Ambient Scribing",
       "stage": "Early",
       "batch": "Winter 2023",
-      "team_size": 2,
-      "location": "San Francisco, CA, USA",
+      "team_size": 7,
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -3853,6 +3859,19 @@
       ]
     },
     {
+      "name": "Healthtech 1",
+      "website": "https://www.healthtech1.uk/",
+      "one_liner": "Automating repetitive processes in healthcare",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 28,
+      "location": "London, England, United Kingdom",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "HealthVerity",
       "website": "",
       "one_liner": "HealthVerity | Philadelphia, PA | ONSITE | Permanent | Full Stack Developer, Healthcare Data Engineer, Director - Data Warehousing, Healthcare Data Scientist |  http://www.healthverity.com/  HealthVerity is a VC-funded early-stage tech star",
@@ -4222,19 +4241,6 @@
       ]
     },
     {
-      "name": "Inflow",
-      "website": "https://getinflow.io/",
-      "one_liner": "A self-help app for people to manage their ADHD.",
-      "stage": "Early",
-      "batch": "Summer 2021",
-      "team_size": 20,
-      "location": "London, England, United Kingdom; New York, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Influence Health",
       "website": "",
       "one_liner": "Influence Health | Birmingham, AL or Atlanta, GA | Security Engineer | Full-time | ONSITE job description:  http://www.influencehealth.com/career-center/?p=job%2FoeIr3f...  We are looking for a Security Engineer to join a growing team taske",
@@ -4280,6 +4286,19 @@
       "batch": "Winter 2019",
       "team_size": 100,
       "location": "Bengaluru, KA, India",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "InpharmD",
+      "website": "https://www.inpharmd.com",
+      "one_liner": "We provide a curated, evidence- based answer to any clinical question.",
+      "stage": "Early",
+      "batch": "Winter 2021",
+      "team_size": 16,
+      "location": "Atlanta, GA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -4364,19 +4383,6 @@
           "snippet": "inviCRO | Linux Systems Engineer | Boston, MA | ONSITE | Full-time  https://www.invicro.com  Make an impact at a dynamic and growing life sciences company that "
         }
       ]
-    },
-    {
-      "name": "iollo",
-      "website": "https://iollo.com",
-      "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 4,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "IOMED",
@@ -4763,19 +4769,6 @@
       ]
     },
     {
-      "name": "Knowtex",
-      "website": "http://www.knowtex.ai/",
-      "one_liner": "Making doctors 2x more efficient with AI note-taking & charge capture",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": null,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Kolonial.no / Senior Software Engineers / Fulltime / On",
       "website": "",
       "one_liner": "Kolonial.no / Senior Software Engineers / Fulltime / On-site / Oslo, Norway Kolonial.no a Norwegian scale-up that has been building tech and logistics since 2013 - to challenge the ways we do grocery shopping. Building everything from end-u",
@@ -4962,7 +4955,7 @@
     {
       "name": "Legion Health",
       "website": "https://legionhealth.com",
-      "one_liner": "AI-native psychiatry, built for scale and covered by insurance",
+      "one_liner": "Autonomous medical care",
       "stage": "Growth",
       "batch": "Summer 2021",
       "team_size": 11,
@@ -5074,7 +5067,7 @@
       "stage": "Early",
       "batch": "Winter 2020",
       "team_size": 40,
-      "location": "Charleston, SC, USA",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5376,7 +5369,7 @@
       "one_liner": "Democratizing Dermatology with AI ",
       "stage": "Growth",
       "batch": "Winter 2017",
-      "team_size": 25,
+      "team_size": 40,
       "location": "San Francisco, CA, USA; Remote",
       "sources": [
         "Y Combinator"
@@ -5386,11 +5379,11 @@
     {
       "name": "mdhub",
       "website": "https://www.mdhub.ai/",
-      "one_liner": "AI workers for healthcare clinics, starting with behavioral health",
+      "one_liner": "AI-native operating system for behavioral health clinics.",
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 11,
-      "location": "",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5448,19 +5441,6 @@
       ]
     },
     {
-      "name": "Mederva Health",
-      "website": "https://medervahealth.com/",
-      "one_liner": "Longevity medicine for the 99%.",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 13,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -5480,26 +5460,13 @@
       ]
     },
     {
-      "name": "MediSearch",
-      "website": "https://medisearch.io",
-      "one_liner": "Search engine for trustworthy medical information.",
-      "stage": "Early",
-      "batch": "Summer 2023",
-      "team_size": 6,
-      "location": "London, England, United Kingdom",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "MedMe Health",
       "website": "https://www.medmehealth.com",
       "one_liner": "Software for pharmacies to move beyond dispensing",
       "stage": "Growth",
       "batch": "Winter 2021",
-      "team_size": 30,
-      "location": "Toronto, ON, Canada; Remote",
+      "team_size": 60,
+      "location": "Toronto, ON, Canada",
       "sources": [
         "Y Combinator"
       ],
@@ -5508,7 +5475,7 @@
     {
       "name": "Mednet",
       "website": "https://www.themednet.org",
-      "one_liner": "Stack Overflow for Medicine",
+      "one_liner": "Mednet helps doctors answer their toughest clinical questions —…",
       "stage": "Growth",
       "batch": "Winter 2017",
       "team_size": 35,
@@ -5669,7 +5636,7 @@
       "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
       "stage": "Growth",
       "batch": "Summer 2022",
-      "team_size": 16,
+      "team_size": 23,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -5766,19 +5733,6 @@
       ]
     },
     {
-      "name": "Miracle",
-      "website": "http://www.miracleml.com",
-      "one_liner": "Accelerate clinical trials with real-time, actionable insights",
-      "stage": "Early",
-      "batch": "Winter 2023",
-      "team_size": 6,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -5792,13 +5746,13 @@
       "evidence": []
     },
     {
-      "name": "Modulari-T",
-      "website": "https://modularit.bio",
-      "one_liner": "We teach your immune system to attack and cure cancer",
+      "name": "Moonset Health",
+      "website": "https://www.moonsethealth.com/",
+      "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
       "stage": "Early",
-      "batch": "Winter 2023",
+      "batch": "Fall 2024",
       "team_size": 4,
-      "location": "Montreal, QC, Canada; San Francisco, CA, USA",
+      "location": "WA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6013,7 +5967,7 @@
       "one_liner": "Software to launch and integrate genetics into clinical care",
       "stage": "Early",
       "batch": "Winter 2022",
-      "team_size": 11,
+      "team_size": 14,
       "location": "New York, NY, USA; Remote",
       "sources": [
         "Y Combinator"
@@ -6177,19 +6131,6 @@
       ]
     },
     {
-      "name": "Noora Health",
-      "website": "http://noorahealth.org",
-      "one_liner": "Training patients and their families with health skills",
-      "stage": "Early",
-      "batch": "Winter 2014",
-      "team_size": 500,
-      "location": "Bengaluru, KA, India",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Northwestern University Center for Behavioral Intervention Technologies",
       "website": "",
       "one_liner": "Northwestern University Center for Behavioral Intervention Technologies | Chicago | ONSITE | Rails, Angular |  http://www.cbits.northwestern.edu/  We're hiring all levels of web developer to help support our expanding list of projects. We b",
@@ -6223,12 +6164,12 @@
     },
     {
       "name": "Nourish",
-      "website": "https://usenourish.com",
+      "website": "https://nourish.com",
       "one_liner": "Telehealth dietitians covered by insurance",
       "stage": "Growth",
       "batch": "Winter 2021",
-      "team_size": 38,
-      "location": "New York, NY, USA; San Francisco, CA, USA",
+      "team_size": 250,
+      "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6241,7 +6182,20 @@
       "stage": "Early",
       "batch": "Spring 2025",
       "team_size": 6,
-      "location": "",
+      "location": "CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Numen",
+      "website": "https://www.numen.com",
+      "one_liner": "Engineering a future without cancer deaths.",
+      "stage": "Growth",
+      "batch": "Summer 2023",
+      "team_size": 16,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6482,7 +6436,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT readers on MAHA activists, perimenopause, and diversity in medical school",
+      "one_liner": "Opinion: Mifepristone court ruling makes drug development riskier for everyone",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6491,6 +6445,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/?utm_campaign=rss",
+          "snippet": "Opinion: Mifepristone court ruling makes drug development riskier for everyone"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/04/china-biotech-pharmaceuticals-supply-chain-regulations/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: China’s strict new supply chain regulations could create massive problems for Western biopharma companies"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/02/stat-letters-to-editor-perimenopause-diversity-medical-school-maha/?utm_campaign=rss",
@@ -6673,6 +6637,19 @@
       "evidence": []
     },
     {
+      "name": "Overdrive Health",
+      "website": "https://overdrive.health",
+      "one_liner": "AI-Native Medical Billing Services",
+      "stage": "Early",
+      "batch": "Winter 2026",
+      "team_size": 1,
+      "location": "NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Owlstone Medical",
       "website": "",
       "one_liner": "Owlstone Medical | London/Cambridge UK | Onsite, full-time | Full Stack Software Engineer The work you'll do at Owlstone will be at the intersection of electronics, physics, chemistry, computer science, and data visualization. Owlstone’s mi",
@@ -6767,6 +6744,19 @@
       "evidence": []
     },
     {
+      "name": "Panoptive",
+      "website": "https://www.panoptive.com",
+      "one_liner": "The oversight engine for clinical trials",
+      "stage": "Early",
+      "batch": "Summer 2025",
+      "team_size": 2,
+      "location": "CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Papa",
       "website": "https://www.papa.com",
       "one_liner": "One-stop-shop for flexible family care",
@@ -6774,6 +6764,19 @@
       "batch": "Summer 2018",
       "team_size": 500,
       "location": "Miami, FL, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Parallel Bio",
+      "website": "http://parallel.bio",
+      "one_liner": "Using the immune system to cure disease",
+      "stage": "Early",
+      "batch": "Summer 2021",
+      "team_size": 20,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -7009,9 +7012,9 @@
       ]
     },
     {
-      "name": "PicnicHealth",
-      "website": "https://picnichealth.com",
-      "one_liner": "Empowering Patients for Deep Real World Data",
+      "name": "PicnicAI",
+      "website": "https://picnic.ai",
+      "one_liner": "Intelligence to accelerate human health.",
       "stage": "Growth",
       "batch": "Summer 2014",
       "team_size": 100,
@@ -7027,7 +7030,7 @@
       "one_liner": "AI workforce management for healthcare ",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 3,
+      "team_size": 4,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -7375,6 +7378,19 @@
       ]
     },
     {
+      "name": "Quill Bills",
+      "website": "https://quillbills.com",
+      "one_liner": "AI-Powered Medical Billing",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Qventus",
       "website": "http://qventus.com",
       "one_liner": "We automate operations for hospitals and health systems",
@@ -7548,25 +7564,6 @@
       ]
     },
     {
-      "name": "Remembering J. Craig Venter",
-      "website": "",
-      "one_liner": "Remembering J. Craig Venter: a relentless scientist who changed biotech — and was all too easily misunderstood",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/04/30/craig-venter-an-appreciation-pioneer-modern-genomics-dies-age-79/?utm_campaign=rss",
-          "snippet": "Remembering J. Craig Venter: a relentless scientist who changed biotech — and was all too easily misunderstood"
-        }
-      ]
-    },
-    {
       "name": "Remote",
       "website": "",
       "one_liner": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget - Great company culture Express your interest at careers at servmask dot com",
@@ -7611,7 +7608,7 @@
       "stage": "Early",
       "batch": "Winter 2022",
       "team_size": 3,
-      "location": "Boston, MA, USA; Remote",
+      "location": "CA, USA; Boston, MA, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -7899,19 +7896,6 @@
       ]
     },
     {
-      "name": "Sample",
-      "website": "https://samplehc.com",
-      "one_liner": "Flexible systems for clinical reasoning.",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 5,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "San Francisco",
       "website": "",
       "one_liner": "San Francisco | Senior Data Engineer | Tubi TV | Full-Time | On-Site | VISA (transfer H1/O1) We are making premium TV shows and movies available for streaming everywhere and to everyone, 100% free. Join Tubi TV and reinvent the way consumer",
@@ -8103,7 +8087,7 @@
       "one_liner": "AI operating system for veterinary care",
       "stage": "Early",
       "batch": "Winter 2024",
-      "team_size": 5,
+      "team_size": null,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -8263,19 +8247,6 @@
       ]
     },
     {
-      "name": "Serif Health",
-      "website": "https://www.serifhealth.com",
-      "one_liner": "Healthcare Price Transparency APIs and Data Products",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 15,
-      "location": "Los Angeles, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Shape (ShapeScale)",
       "website": "https://shapescale.com",
       "one_liner": "ShapeScale is a personal 3D scanner and fitness tracker that…",
@@ -8283,6 +8254,32 @@
       "batch": "Summer 2015",
       "team_size": 7,
       "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Shimmer",
+      "website": "https://shimmer.care",
+      "one_liner": "1:1 ADHD coaching, 5-10X More affordable than alternatives",
+      "stage": "Early",
+      "batch": "Summer 2021",
+      "team_size": 9,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Shiru",
+      "website": "https://www.shiru.com/",
+      "one_liner": "Shiru leverages ML to create proteins to feed the world sustainably. ",
+      "stage": "Early",
+      "batch": "Summer 2019",
+      "team_size": 4,
+      "location": "Emeryville, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -8384,19 +8381,6 @@
       ]
     },
     {
-      "name": "Simbie AI",
-      "website": "http://www.simbie.ai",
-      "one_liner": "We get patients to their next appointment",
-      "stage": "Early",
-      "batch": "Summer 2023",
-      "team_size": 5,
-      "location": "New York, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "SimpleLegal",
       "website": "",
       "one_liner": "SimpleLegal | Mountain View, CA | Onsite | Technical Ops Analyst SimpleLegal is the dashboard for in-house legal departments. Salesforce -> Sales Ops. SimpleLegal -> Legal Ops. We're looking for the right person to fill a varied role that s",
@@ -8469,7 +8453,7 @@
     {
       "name": "SiPhox Health",
       "website": "https://www.siphoxhealth.com",
-      "one_liner": "Wearable and At-Home protein monitoring with silicon photonic chips",
+      "one_liner": "Wearable and At-Home health monitoring with silicon photonic chips",
       "stage": "Early",
       "batch": "Summer 2020",
       "team_size": 63,
@@ -8613,6 +8597,19 @@
       ]
     },
     {
+      "name": "Sohar Health",
+      "website": "https://www.soharhealth.com",
+      "one_liner": "AI-powered insurance verification to boost patient conversion.",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 8,
+      "location": "New York, NY, USA; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Sojern",
       "website": "",
       "one_liner": "Sojern | Site Reliability Engineer | Dublin, Ireland | Full-time | ONSITE |  https://www.sojern.com/careers/  The Company\nWant to join a company on the cutting edge of technology and travel? Want to be part of a fantastic and fun company th",
@@ -8672,10 +8669,10 @@
     {
       "name": "Sonia",
       "website": "https://soniahealth.com",
-      "one_liner": "AI Therapy",
+      "one_liner": "Validated mental health support in your pocket, anytime. ",
       "stage": "Early",
       "batch": "Winter 2024",
-      "team_size": 6,
+      "team_size": 8,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -8980,7 +8977,7 @@
     {
       "name": "Sully.ai",
       "website": "https://www.sully.ai",
-      "one_liner": "AutonomousOS for healthcare organizations",
+      "one_liner": "Autonomous team of AI agents that runs the entire hospital operations",
       "stage": "Early",
       "batch": "Summer 2021",
       "team_size": 49,
@@ -9086,12 +9083,25 @@
       ]
     },
     {
+      "name": "Synthio Labs",
+      "website": "https://synthiolabs.com/",
+      "one_liner": "Agentic AI platform for Pharma GTM teams",
+      "stage": "Early",
+      "batch": "Spring 2025",
+      "team_size": 29,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Syntra",
       "website": "https://www.syntra.com",
-      "one_liner": "AI chart review for speciality medical clinics.",
+      "one_liner": "Medical chart and claim review ",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 9,
+      "team_size": 8,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -9139,11 +9149,11 @@
     {
       "name": "Tamarind Bio",
       "website": "https://www.tamarind.bio",
-      "one_liner": "Easy to use computational biology tools for drug discovery",
+      "one_liner": "AI Inference Platform for Drug Discovery",
       "stage": "Growth",
       "batch": "Winter 2024",
-      "team_size": 10,
-      "location": "",
+      "team_size": 15,
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9261,6 +9271,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815637",
           "snippet": "Thanks for applying. Sorry we didn't get back to you promptly. That should never happen. Our process is different enough that we are still trying to figure out "
+        }
+      ]
+    },
+    {
+      "name": "The Behavioral Health Workforce Crisis",
+      "website": "",
+      "one_liner": "The Behavioral Health Workforce Crisis: Administrative Burden Is Breaking Your Nursing Team",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/the-behavioral-health-workforce-crisis-administrative-burden-is-breaking-your-nursing-team/",
+          "snippet": "The Behavioral Health Workforce Crisis: Administrative Burden Is Breaking Your Nursing Team"
         }
       ]
     },
@@ -9442,7 +9471,7 @@
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 2,
-      "location": "",
+      "location": "NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9759,7 +9788,7 @@
       "stage": "Early",
       "batch": "Winter 2023",
       "team_size": 6,
-      "location": "",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9890,7 +9919,7 @@
       "stage": "Growth",
       "batch": "Summer 2015",
       "team_size": 50,
-      "location": "",
+      "location": "CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9926,7 +9955,7 @@
       "one_liner": "Software platform for in-home healthcare",
       "stage": "Growth",
       "batch": "Summer 2018",
-      "team_size": 95,
+      "team_size": 200,
       "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
@@ -10106,6 +10135,19 @@
       "evidence": []
     },
     {
+      "name": "Vitalize",
+      "website": "https://vitalize.care",
+      "one_liner": "Transforming how health systems optimize labor",
+      "stage": "Growth",
+      "batch": "Winter 2023",
+      "team_size": 28,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Waterline Data (https://www.waterlinedata.com/)",
       "website": "",
       "one_liner": "Waterline Data ( https://www.waterlinedata.com/ ) | Mountain View, CA | Full Time Waterline Data is the Smart Data Catalog company. Our software automatically discovers, organizes, catalogs and raises trusted data above the waterline. Our o",
@@ -10277,19 +10319,6 @@
       ]
     },
     {
-      "name": "Wyndly",
-      "website": "https://www.wyndly.com",
-      "one_liner": "Life's better without allergies",
-      "stage": "Early",
-      "batch": "Winter 2021",
-      "team_size": 10,
-      "location": "New York, NY, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "xbird",
       "website": "",
       "one_liner": "xbird | Backend/Machine Learning Engineer | Berlin, Germany | ONSITE, VISA, FULL-TIME |  http://xbird.io  Every minute, 8 people die from a preventable disease. xbird is an award-winning medical artifical intelligence company. We use the la",
@@ -10326,6 +10355,19 @@
           "snippet": "Yeah that's euro's. We're bound by the collective bargaining agreement (cao) for universities. So it's a bit low even for dutch standards. However, it's hard to"
         }
       ]
+    },
+    {
+      "name": "YouShift",
+      "website": "https://www.you-shift.com/",
+      "one_liner": "The OS for hospital workforce management",
+      "stage": "Early",
+      "batch": "Winter 2025",
+      "team_size": 5,
+      "location": "New York, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Zagster http://zagster.com @ 24 Thorndike St Cambridge, MA 02141",
