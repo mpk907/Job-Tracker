@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-05T12:26:37Z",
+  "generated_at": "2026-05-07T08:14:28Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 161,
+    "Endpoints News": 3,
+    "BioPharma Dive": 1,
     "MedCity News": 5,
-    "Endpoints News": 2,
-    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -243,25 +243,6 @@
       "evidence": []
     },
     {
-      "name": "AI-Driven Layoffs In Healthcare",
-      "website": "",
-      "one_liner": "AI-Driven Layoffs In Healthcare: Navigating Legal Risks and Operational Challenges",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/04/ai-driven-layoffs-in-healthcare-navigating-legal-risks-and-operational-challenges/",
-          "snippet": "AI-Driven Layoffs In Healthcare: Navigating Legal Risks and Operational Challenges"
-        }
-      ]
-    },
-    {
       "name": "Aios Medical",
       "website": "https://www.fellahealth.com/",
       "one_liner": "Accelerating the global take-up of GLP-1 medications",
@@ -458,25 +439,6 @@
       ]
     },
     {
-      "name": "Amgen",
-      "website": "",
-      "one_liner": "Amgen launches late-stage obesity trial in patients who switch from rival drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/amgen-launches-late-stage-obesity-trial-in-patients-who-switch-from-rival-drugs/",
-          "snippet": "Amgen launches late-stage obesity trial in patients who switch from rival drugs"
-        }
-      ]
-    },
-    {
       "name": "Amyris, Inc.",
       "website": "",
       "one_liner": "Amyris, Inc. | Software Engineer | Emeryville, CA | Full-time, ONSITE,  http://amyris.com  We are searching for talented, curious, and self-motivated developers to join our software engineering team in building the most advanced production-",
@@ -587,6 +549,19 @@
       "batch": "Winter 2022",
       "team_size": 30,
       "location": "San Francisco, CA, USA; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "ANORIA",
+      "website": "https://www.anoria.com",
+      "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 5,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -830,6 +805,25 @@
       ]
     },
     {
+      "name": "Banyan",
+      "website": "",
+      "one_liner": "Madrigal's Rezdiffra beats estimates; Gilead cuts jobs; Banyan debuts",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/madrigals-rezdiffra-beats-estimates-gilead-cuts-jobs-banyan-debuts/",
+          "snippet": "Madrigal's Rezdiffra beats estimates; Gilead cuts jobs; Banyan debuts"
+        }
+      ]
+    },
+    {
       "name": "Bay Labs",
       "website": "",
       "one_liner": "Bay Labs - San Francisco (Union Square) Bay Labs is at the forefront of bringing deep learning advances to critical unsolved healthcare problems. We have assembled an exceptional team of clinicians, engineers and scientists who are developi",
@@ -966,38 +960,6 @@
           "snippet": "BigchainDB | Python - Decentralized Software Engineer| Berlin, Germany | Full-time ONSITE |  http://www.bigchaindb.com  BigchainDB is a leader in the blockchain"
         }
       ]
-    },
-    {
-      "name": "Biotech",
-      "website": "",
-      "one_liner": "STAT+: Biotech raises $42 million to run Huntington’s disease trial",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/?utm_campaign=rss",
-          "snippet": "STAT+: Biotech raises $42 million to run Huntington’s disease trial"
-        }
-      ]
-    },
-    {
-      "name": "Blank Bio",
-      "website": "http://blank.bio/",
-      "one_liner": "RNA-based AI for better drugs and smarter clinical trials.",
-      "stage": "Early",
-      "batch": "Summer 2025",
-      "team_size": 3,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Blink Health",
@@ -1512,6 +1474,31 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11814858",
           "snippet": "Catapult | Full Time | Remote (Europe) What: On demand staffing for retail, office and hospitality, sort of like Uber for staff $: £45k - £60k depending on expe"
+        }
+      ]
+    },
+    {
+      "name": "CellCentric",
+      "website": "",
+      "one_liner": "CellCentric raises $220M to get multiple myeloma pill to market",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News",
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/cellcentric-raises-220m-to-get-multiple-myeloma-pill-to-market/",
+          "snippet": "CellCentric raises $220M to get multiple myeloma pill to market"
+        },
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
+          "snippet": "CellCentric raises $220M for a ‘transformative’ multiple myeloma medicine"
         }
       ]
     },
@@ -2139,19 +2126,6 @@
           "snippet": "Curai Health | Office Manager + People Ops Lead | Full-time | Onsite | Palo Alto We're hiring for a new workplace experience manager role at Curai in Palo Alto "
         }
       ]
-    },
-    {
-      "name": "Curebase",
-      "website": "https://www.curebase.ai/",
-      "one_liner": "Modern, AI-powered clinical trial software platform.",
-      "stage": "Growth",
-      "batch": "Summer 2018",
-      "team_size": 27,
-      "location": "San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Data Driven Bioscience",
@@ -5422,25 +5396,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: Inside Partum Health’s Partnership with UChicago Medicine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/04/partum-health-partnership-uchicago-medicine-doula/",
-          "snippet": "MedCity FemFwd: Inside Partum Health’s Partnership with UChicago Medicine"
-        }
-      ]
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -5682,6 +5637,25 @@
       ]
     },
     {
+      "name": "Microbiome startup",
+      "website": "",
+      "one_liner": "Microbiome startup raises $48M for immunotherapy and malnutrition treatments",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/microbiome-startup-raises-48m-for-immunotherapy-and-malnutrition-treatments/",
+          "snippet": "Microbiome startup raises $48M for immunotherapy and malnutrition treatments"
+        }
+      ]
+    },
+    {
       "name": "Millennium Health",
       "website": "",
       "one_liner": "Millennium Health | San Diego, CA | Full-time | ONSITE | DevOps, Full-Stack, Front-End We’re building the next generation of medical testing solutions including consumer-focused pharmacognetics. We're looking for software engineers that are",
@@ -5752,7 +5726,7 @@
       "stage": "Early",
       "batch": "Fall 2024",
       "team_size": 4,
-      "location": "WA, USA",
+      "location": "Seattle, WA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6131,6 +6105,19 @@
       ]
     },
     {
+      "name": "Noora Health",
+      "website": "http://noorahealth.org",
+      "one_liner": "Training patients and their families with health skills",
+      "stage": "Early",
+      "batch": "Winter 2014",
+      "team_size": 500,
+      "location": "Bengaluru, KA, India",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Northwestern University Center for Behavioral Intervention Technologies",
       "website": "",
       "one_liner": "Northwestern University Center for Behavioral Intervention Technologies | Chicago | ONSITE | Rails, Angular |  http://www.cbits.northwestern.edu/  We're hiring all levels of web developer to help support our expanding list of projects. We b",
@@ -6182,7 +6169,7 @@
       "stage": "Early",
       "batch": "Spring 2025",
       "team_size": 6,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6432,35 +6419,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/05/brain-drain-doctors-returning-home-systems/?utm_campaign=rss",
-          "snippet": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/?utm_campaign=rss",
-          "snippet": "Opinion: Mifepristone court ruling makes drug development riskier for everyone"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/04/china-biotech-pharmaceuticals-supply-chain-regulations/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: China’s strict new supply chain regulations could create massive problems for Western biopharma companies"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -7274,6 +7232,25 @@
       "evidence": []
     },
     {
+      "name": "Provider-Payer Tensions Brew in Courtrooms",
+      "website": "",
+      "one_liner": "Provider-Payer Tensions Brew in Courtrooms: 3 Recent Lawsuits",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/provider-payer-legal-lawsuit/",
+          "snippet": "Provider-Payer Tensions Brew in Courtrooms: 3 Recent Lawsuits"
+        }
+      ]
+    },
+    {
       "name": "PulsePoint (https://pulsepoint.com)",
       "website": "",
       "one_liner": "PulsePoint ( https://pulsepoint.com ) | Senior Backend Engineer, Scala | New York, NY | Full-time, remote or onsite\nWe're looking for an Senior Backend Engineer to help us architect and scale our micro-service oriented platform. Some techno",
@@ -7930,25 +7907,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557402",
           "snippet": "San Francisco, CA | Sys Admin / Developer (CentOS, ESXi, Ansible, Python, Medical Imaging)\nCenter for Imaging of Neurodegenerative Diseases (CIND) The CIND is a"
-        }
-      ]
-    },
-    {
-      "name": "Save the date",
-      "website": "",
-      "one_liner": "Save the date: Premium subscriber-exclusive Post-Hoc Live",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/save-the-date-exclusive-post-hoc-live/",
-          "snippet": "Save the date: Premium subscriber-exclusive Post-Hoc Live"
         }
       ]
     },
@@ -8794,6 +8752,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Startup Enabling Aging at Home",
+      "website": "",
+      "one_liner": "Startup Enabling Aging at Home Raises $6M, Gains New MA and Medicaid Partnerships",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/aging-home-funding-rosarium/",
+          "snippet": "Startup Enabling Aging at Home Raises $6M, Gains New MA and Medicaid Partnerships"
+        }
+      ]
     },
     {
       "name": "Stasis Labs",
@@ -10357,7 +10334,7 @@
       "one_liner": "The OS for hospital workforce management",
       "stage": "Early",
       "batch": "Winter 2025",
-      "team_size": 5,
+      "team_size": 10,
       "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
