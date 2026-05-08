@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-07T08:14:28Z",
+  "generated_at": "2026-05-08T07:18:07Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 161,
+    "Y Combinator": 160,
     "Endpoints News": 3,
     "BioPharma Dive": 1,
-    "MedCity News": 5,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "MedCity News": 5
   },
-  "count": 578,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -707,6 +707,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "as biotech",
+      "website": "",
+      "one_liner": "Odyssey raises more than $300M as biotech goes public in IPO",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/odyssey-raises-more-than-300m-as-biotech-goes-public-in-ipo/",
+          "snippet": "Odyssey raises more than $300M as biotech goes public in IPO"
+        }
+      ]
     },
     {
       "name": "Asha Health",
@@ -3239,7 +3258,7 @@
       "stage": "Early",
       "batch": "Fall 2024",
       "team_size": 4,
-      "location": "NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3810,25 +3829,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815888",
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
-        }
-      ]
-    },
-    {
-      "name": "Healthcare Moves",
-      "website": "",
-      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/04/healthcare-exec-moves-layoffs/",
-          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
         }
       ]
     },
@@ -5633,25 +5633,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15388105",
           "snippet": "MIAMED GmbH (US: amboss.com, DE: miamed.de) | Berlin, Germany; Cologne, Germany | Full-time, ONSITE, VISA |  https://www.miamed.de/jobs  AMBOSS is a revolutiona"
-        }
-      ]
-    },
-    {
-      "name": "Microbiome startup",
-      "website": "",
-      "one_liner": "Microbiome startup raises $48M for immunotherapy and malnutrition treatments",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/microbiome-startup-raises-48m-for-immunotherapy-and-malnutrition-treatments/",
-          "snippet": "Microbiome startup raises $48M for immunotherapy and malnutrition treatments"
         }
       ]
     },
@@ -8226,19 +8207,6 @@
       "evidence": []
     },
     {
-      "name": "Shiru",
-      "website": "https://www.shiru.com/",
-      "one_liner": "Shiru leverages ML to create proteins to feed the world sustainably. ",
-      "stage": "Early",
-      "batch": "Summer 2019",
-      "team_size": 4,
-      "location": "Emeryville, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "ShopPad",
       "website": "",
       "one_liner": "ShopPad | Software Engineer (Full-stack) | Oakland, CA | ONSITE |  https://www.theshoppad.com  ShopPad is one of the largest solution providers for Shopify's eCommerce platform. We work with exciting companies like Tesla Automotive, General",
@@ -9478,6 +9446,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13548039",
           "snippet": "Townsquared | San Francisco, CA | Full-time | ONSITE |  https://townsquared.com/  Townsquared is the only online network that allows local businesses and indepe"
+        }
+      ]
+    },
+    {
+      "name": "Transforming CTMS",
+      "website": "",
+      "one_liner": "Transforming CTMS: An Operating Layer for Real-Time Trial Execution",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/transforming-ctms-an-operating-layer-for-real-time-trial-execution/",
+          "snippet": "Transforming CTMS: An Operating Layer for Real-Time Trial Execution"
         }
       ]
     },
