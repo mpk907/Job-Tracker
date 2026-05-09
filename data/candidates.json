@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-08T07:18:07Z",
+  "generated_at": "2026-05-09T07:33:44Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 160,
+    "Y Combinator": 159,
     "Endpoints News": 3,
-    "BioPharma Dive": 1,
     "RockHealth": 2,
-    "MedCity News": 5
+    "MedCity News": 4,
+    "STAT News": 1
   },
-  "count": 577,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -709,9 +709,28 @@
       "evidence": []
     },
     {
+      "name": "Artiva",
+      "website": "",
+      "one_liner": "delays Leqembi decision; Artiva raises $300M; Pharvaris prices offering",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/fda-delays-leqembi-decision-artiva-raises-300m-pharvaris-prices-offering/",
+          "snippet": "delays Leqembi decision; Artiva raises $300M; Pharvaris prices offering"
+        }
+      ]
+    },
+    {
       "name": "as biotech",
       "website": "",
-      "one_liner": "Odyssey raises more than $300M as biotech goes public in IPO",
+      "one_liner": "Odyssey raises more than $300M as biotech goes public",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -723,7 +742,7 @@
         {
           "source": "Endpoints News",
           "url": "https://endpoints.news/odyssey-raises-more-than-300m-as-biotech-goes-public-in-ipo/",
-          "snippet": "Odyssey raises more than $300M as biotech goes public in IPO"
+          "snippet": "Odyssey raises more than $300M as biotech goes public"
         }
       ]
     },
@@ -1493,31 +1512,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11814858",
           "snippet": "Catapult | Full Time | Remote (Europe) What: On demand staffing for retail, office and hospitality, sort of like Uber for staff $: £45k - £60k depending on expe"
-        }
-      ]
-    },
-    {
-      "name": "CellCentric",
-      "website": "",
-      "one_liner": "CellCentric raises $220M to get multiple myeloma pill to market",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News",
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/cellcentric-raises-220m-to-get-multiple-myeloma-pill-to-market/",
-          "snippet": "CellCentric raises $220M to get multiple myeloma pill to market"
-        },
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
-          "snippet": "CellCentric raises $220M for a ‘transformative’ multiple myeloma medicine"
         }
       ]
     },
@@ -5706,21 +5700,8 @@
       "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
       "stage": "Early",
       "batch": "Fall 2024",
-      "team_size": 4,
-      "location": "Seattle, WA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Morf Health",
-      "website": "https://morf.health",
-      "one_liner": "Workflow automation for healthcare providers",
-      "stage": "Early",
-      "batch": "Summer 2022",
       "team_size": 6,
-      "location": "",
+      "location": "Seattle, WA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9234,25 +9215,6 @@
       ]
     },
     {
-      "name": "The Evolving Medical Practice",
-      "website": "",
-      "one_liner": "The Evolving Medical Practice: How Doctors Can Adapt and Prosper In a Changing Environment",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/the-evolving-medical-practice-how-doctors-can-adapt-and-prosper-in-a-changing-environment/",
-          "snippet": "The Evolving Medical Practice: How Doctors Can Adapt and Prosper In a Changing Environment"
-        }
-      ]
-    },
-    {
       "name": "The Farmer's Dog",
       "website": "",
       "one_liner": "The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k,  https://www.thefarmersdog.com/  The Farmer’s Dog is a VC backed (we just raised $8.1m Series A from Shasta Ventures) direct-to-consumer pet health brand on a mi",
@@ -10141,6 +10103,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9818003",
           "snippet": "We are looking for engineers who can work with us and expand the limits of the lump of sensors empowered through software. Our SDK will include functionalities "
+        }
+      ]
+    },
+    {
+      "name": "we left the FDA",
+      "website": "",
+      "one_liner": "we left the FDA: Six former officials share their stories",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/08/former-fda-regulators-on-why-they-left-status-report/?utm_campaign=rss",
+          "snippet": "we left the FDA: Six former officials share their stories"
         }
       ]
     },
