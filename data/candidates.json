@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-09T07:33:44Z",
+  "generated_at": "2026-05-10T07:55:34Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 159,
     "Endpoints News": 3,
+    "STAT News": 2,
     "RockHealth": 2,
-    "MedCity News": 4,
-    "STAT News": 1
+    "MedCity News": 4
   },
-  "count": 576,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6381,6 +6381,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
+          "snippet": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
