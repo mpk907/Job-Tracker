@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-10T08:57:26Z",
+  "generated_at": "2026-05-11T08:57:09Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 159,
     "Endpoints News": 3,
-    "STAT News": 2,
+    "STAT News": 1,
     "RockHealth": 2,
     "MedCity News": 4
   },
-  "count": 577,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1182,7 +1182,7 @@
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 14,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1308,7 +1308,7 @@
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 6,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1522,7 +1522,7 @@
       "stage": "Early",
       "batch": "Winter 2026",
       "team_size": 2,
-      "location": "",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1983,7 +1983,7 @@
       "stage": "Early",
       "batch": "Summer 2025",
       "team_size": 4,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -2224,7 +2224,7 @@
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": 2,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -4517,7 +4517,7 @@
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": null,
-      "location": "",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5035,7 +5035,7 @@
       "stage": "Early",
       "batch": "Winter 2020",
       "team_size": 40,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5351,7 +5351,7 @@
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 11,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6003,7 +6003,7 @@
       "stage": "Growth",
       "batch": "Winter 2015",
       "team_size": 130,
-      "location": "Redwood City, CA, USA; Menlo Park, CA, USA",
+      "location": "San Francisco, CA, USA; Menlo Park, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6385,7 +6385,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
+      "one_liner": "Opinion: AI doctors should be licensed. Here’s a framework to do that",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6394,6 +6394,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss",
+          "snippet": "Opinion: AI doctors should be licensed. Here’s a framework to do that"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/11/ai-dependence-addiction-substances-relief-psychology/?utm_campaign=rss",
+          "snippet": "Opinion: What addiction medicine can teach us about depending on AI"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
@@ -6577,7 +6587,7 @@
       "stage": "Early",
       "batch": "Winter 2026",
       "team_size": 1,
-      "location": "NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6684,7 +6694,7 @@
       "stage": "Early",
       "batch": "Summer 2025",
       "team_size": 2,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -7561,7 +7571,7 @@
       "stage": "Early",
       "batch": "Winter 2022",
       "team_size": 3,
-      "location": "CA, USA; Boston, MA, USA; Remote",
+      "location": "San Francisco, CA, USA; Boston, MA, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -8378,7 +8388,7 @@
       "stage": "Early",
       "batch": "Summer 2020",
       "team_size": 63,
-      "location": "Burlington, MA, USA",
+      "location": "Boston, MA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -8876,7 +8886,7 @@
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 2,
-      "location": "Remote",
+      "location": "San Francisco, CA, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -9093,7 +9103,7 @@
       "stage": "Growth",
       "batch": "Winter 2024",
       "team_size": 15,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9211,25 +9221,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815637",
           "snippet": "Thanks for applying. Sorry we didn't get back to you promptly. That should never happen. Our process is different enough that we are still trying to figure out "
-        }
-      ]
-    },
-    {
-      "name": "The Behavioral Health Workforce Crisis",
-      "website": "",
-      "one_liner": "The Behavioral Health Workforce Crisis: Administrative Burden Is Breaking Your Nursing Team",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/the-behavioral-health-workforce-crisis-administrative-burden-is-breaking-your-nursing-team/",
-          "snippet": "The Behavioral Health Workforce Crisis: Administrative Burden Is Breaking Your Nursing Team"
         }
       ]
     },
@@ -9392,7 +9383,7 @@
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 2,
-      "location": "NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9728,7 +9719,7 @@
       "stage": "Early",
       "batch": "Winter 2023",
       "team_size": 6,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9859,7 +9850,7 @@
       "stage": "Growth",
       "batch": "Summer 2015",
       "team_size": 50,
-      "location": "CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -10126,25 +10117,6 @@
       ]
     },
     {
-      "name": "we left the FDA",
-      "website": "",
-      "one_liner": "we left the FDA: Six former officials share their stories",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/08/former-fda-regulators-on-why-they-left-status-report/?utm_campaign=rss",
-          "snippet": "we left the FDA: Six former officials share their stories"
-        }
-      ]
-    },
-    {
       "name": "Wealthfront",
       "website": "",
       "one_liner": "Wealthfront | Palo Alto, CA | Onsite |  https://www.wealthfront.com  | VISA Wealthfront is a nextgen banking service. We help you manage your money for both the short term and long term by providing a high-interest cash account, best in cla",
@@ -10179,6 +10151,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12851079",
           "snippet": "Wellframe | Boston | Onsite\nWellframe is building a way for people and healthcare practitioners to connect instantly.  We simplify patient communication with th"
+        }
+      ]
+    },
+    {
+      "name": "Windward Bio",
+      "website": "",
+      "one_liner": "Windward Bio Secures $165M for Clinical Trials in Asthma, COPD & More",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/windward-bio-tslp-long-acting-antibody-immunology-asthma-copd-crossover/",
+          "snippet": "Windward Bio Secures $165M for Clinical Trials in Asthma, COPD & More"
         }
       ]
     },
