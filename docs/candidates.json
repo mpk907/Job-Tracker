@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-05-11T08:57:09Z",
+  "generated_at": "2026-05-12T08:21:50Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 159,
+    "Y Combinator": 160,
     "Endpoints News": 3,
-    "STAT News": 1,
+    "STAT News": 2,
+    "MedCity News": 5,
     "RockHealth": 2,
-    "MedCity News": 4
+    "BioPharma Dive": 1
   },
-  "count": 576,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -843,25 +844,6 @@
       ]
     },
     {
-      "name": "Banyan",
-      "website": "",
-      "one_liner": "Madrigal's Rezdiffra beats estimates; Gilead cuts jobs; Banyan debuts",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/madrigals-rezdiffra-beats-estimates-gilead-cuts-jobs-banyan-debuts/",
-          "snippet": "Madrigal's Rezdiffra beats estimates; Gilead cuts jobs; Banyan debuts"
-        }
-      ]
-    },
-    {
       "name": "Bay Labs",
       "website": "",
       "one_liner": "Bay Labs - San Francisco (Union Square) Bay Labs is at the forefront of bringing deep learning advances to critical unsolved healthcare problems. We have assembled an exceptional team of clinicians, engineers and scientists who are developi",
@@ -1204,6 +1186,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815380",
           "snippet": "BrightGauge ( http://www.brightgauge.com/)|  Front End Web Developer | Miami, FL | Full-time/Onsite BrightGauge Software is looking for an incredible Front End "
+        }
+      ]
+    },
+    {
+      "name": "Bristol Myers Squibb",
+      "website": "",
+      "one_liner": "STAT+: Bristol Myers Squibb partners with China’s Hengrui Pharma on a dozen drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/12/bristol-myers-squibb-hengrui-china-licensing-deal/?utm_campaign=rss",
+          "snippet": "STAT+: Bristol Myers Squibb partners with China’s Hengrui Pharma on a dozen drugs"
         }
       ]
     },
@@ -1738,8 +1739,8 @@
     },
     {
       "name": "Clipboard",
-      "website": "https://www.clipboardhealth.com/careers",
-      "one_liner": "Connects workplaces with professionals nearby.",
+      "website": "https://www.clipboardworks.com/careers",
+      "one_liner": "Every shift, Covered.",
       "stage": "Growth",
       "batch": "Winter 2017",
       "team_size": 1000,
@@ -1765,6 +1766,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22669533",
           "snippet": "Clockwise |  https://getclockwise.com  | San Francisco (SF Bay Area) | currently REMOTE but ONSITE after shelter in place lifted | Product Hunt's #2 Product of "
+        }
+      ]
+    },
+    {
+      "name": "Closer",
+      "website": "",
+      "one_liner": "Closer: What Triage Nurses Hear That Others Miss",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/listen-closer-what-triage-nurses-hear-that-others-miss/",
+          "snippet": "Closer: What Triage Nurses Hear That Others Miss"
         }
       ]
     },
@@ -2099,6 +2119,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15388361",
           "snippet": "Creighton University | Mid-Senior Full Stack JS Engineers | Remote | Part-Time Creighton University is a Jesuit, Catholic university bridging health, law, busin"
+        }
+      ]
+    },
+    {
+      "name": "Critical Care Documentation",
+      "website": "",
+      "one_liner": "Critical Care Documentation: Why It’s Different and How It Impacts Patient Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/critical-care-documentation-why-its-different-and-how-it-impacts-patient-care/",
+          "snippet": "Critical Care Documentation: Why It’s Different and How It Impacts Patient Care"
         }
       ]
     },
@@ -4737,6 +4776,19 @@
       ]
     },
     {
+      "name": "Knowtex",
+      "website": "http://www.knowtex.ai/",
+      "one_liner": "Making doctors 2x more efficient with AI note-taking & charge capture",
+      "stage": "Early",
+      "batch": "Summer 2022",
+      "team_size": null,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Kolonial.no / Senior Software Engineers / Fulltime / On",
       "website": "",
       "one_liner": "Kolonial.no / Senior Software Engineers / Fulltime / On-site / Oslo, Norway Kolonial.no a Norwegian scale-up that has been building tech and logistics since 2013 - to challenge the ways we do grocery shopping. Building everything from end-u",
@@ -6431,6 +6483,25 @@
       ]
     },
     {
+      "name": "Optum Rx",
+      "website": "",
+      "one_liner": "Optum Rx unveils pharmacy model with clear fees, building on transparency push",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/optum-rx-unveils-pharmacy-model-with-clear-fees-building-on-transparency-push/",
+          "snippet": "Optum Rx unveils pharmacy model with clear fees, building on transparency push"
+        }
+      ]
+    },
+    {
       "name": "Orchid",
       "website": "https://orchid.health",
       "one_liner": "AI-powered EHR for independent mental health professionals",
@@ -7116,6 +7187,25 @@
       ]
     },
     {
+      "name": "Precision in motion",
+      "website": "",
+      "one_liner": "Precision in motion: Decoding the critical operations behind the logistics of next-generation cell and gene therapies",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/precision-in-motion-decoding-the-critical-operations-behind-the-logistics/819290/",
+          "snippet": "Precision in motion: Decoding the critical operations behind the logistics of next-generation cell and gene therapies"
+        }
+      ]
+    },
+    {
       "name": "Presidential Innovation Fellows",
       "website": "",
       "one_liner": "Presidential Innovation Fellows | Washington, DC | ONSITE | Full-time The Presidential Innovation Fellows (PIF) program is looking for high-performing data scientists, designers, engineers, executives, innovators, product managers, and tech",
@@ -7221,25 +7311,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Provider-Payer Tensions Brew in Courtrooms",
-      "website": "",
-      "one_liner": "Provider-Payer Tensions Brew in Courtrooms: 3 Recent Lawsuits",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/provider-payer-legal-lawsuit/",
-          "snippet": "Provider-Payer Tensions Brew in Courtrooms: 3 Recent Lawsuits"
-        }
-      ]
     },
     {
       "name": "PulsePoint (https://pulsepoint.com)",
