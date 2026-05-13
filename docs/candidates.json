@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T08:21:50Z",
+  "generated_at": "2026-05-13T08:33:54Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 160,
-    "Endpoints News": 3,
-    "STAT News": 2,
+    "Y Combinator": 161,
     "MedCity News": 5,
+    "Endpoints News": 3,
+    "STAT News": 1,
     "RockHealth": 2,
     "BioPharma Dive": 1
   },
@@ -242,6 +242,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "AI in Transplant Diagnostics",
+      "website": "",
+      "one_liner": "AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/ai-in-transplant-diagnostics-turning-complexity-into-clinical-clarity/",
+          "snippet": "AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity"
+        }
+      ]
     },
     {
       "name": "Aios Medical",
@@ -530,19 +549,6 @@
       "evidence": []
     },
     {
-      "name": "Anja Health",
-      "website": "https://anjahealth.com",
-      "one_liner": "Cord Blood Banking Reimagined",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 2,
-      "location": "Los Angeles, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Ankr Health",
       "website": "https://ankr.us",
       "one_liner": "Virtualizing brick-mortar infrastructures of clinics w/ generative AI ",
@@ -725,25 +731,6 @@
           "source": "Endpoints News",
           "url": "https://endpoints.news/fda-delays-leqembi-decision-artiva-raises-300m-pharvaris-prices-offering/",
           "snippet": "delays Leqembi decision; Artiva raises $300M; Pharvaris prices offering"
-        }
-      ]
-    },
-    {
-      "name": "as biotech",
-      "website": "",
-      "one_liner": "Odyssey raises more than $300M as biotech goes public",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/odyssey-raises-more-than-300m-as-biotech-goes-public-in-ipo/",
-          "snippet": "Odyssey raises more than $300M as biotech goes public"
         }
       ]
     },
@@ -1186,25 +1173,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815380",
           "snippet": "BrightGauge ( http://www.brightgauge.com/)|  Front End Web Developer | Miami, FL | Full-time/Onsite BrightGauge Software is looking for an incredible Front End "
-        }
-      ]
-    },
-    {
-      "name": "Bristol Myers Squibb",
-      "website": "",
-      "one_liner": "STAT+: Bristol Myers Squibb partners with China’s Hengrui Pharma on a dozen drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/12/bristol-myers-squibb-hengrui-china-licensing-deal/?utm_campaign=rss",
-          "snippet": "STAT+: Bristol Myers Squibb partners with China’s Hengrui Pharma on a dozen drugs"
         }
       ]
     },
@@ -2334,6 +2302,25 @@
       "evidence": []
     },
     {
+      "name": "Digital Fatigue",
+      "website": "",
+      "one_liner": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/digital-fatigue-healthcares-next-patient-experience-crisis/",
+          "snippet": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis"
+        }
+      ]
+    },
+    {
       "name": "Digital H2O",
       "website": "",
       "one_liner": "Digital H2O | Chicago, IL |  http://www.digitalh2o.com/  | Full Time | ONSITE Digital H2O, a water-focused SaaS company, is looking for talented software engineers to join our Front-End Dev team in building products to solve the challenge o",
@@ -3137,6 +3124,19 @@
           "snippet": "Fluidigm | Software Automation Tester | Toronto (Markham) | ONSITE | Full-time Fluidigm creates innovative life science technologies designed to revolutionize b"
         }
       ]
+    },
+    {
+      "name": "Fort",
+      "website": "https://fort.cx",
+      "one_liner": "Strength Tracking Wearable",
+      "stage": "Early",
+      "batch": "Winter 2026",
+      "team_size": 3,
+      "location": "",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Fortuna Health",
@@ -4757,6 +4757,25 @@
       ]
     },
     {
+      "name": "Knit Health",
+      "website": "",
+      "one_liner": "Knit Health raises $11.6M for 'fundamentally different' approach to healthcare AI",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/knit-health-raises-11-6m-for-fundamentally-different-approach-to-healthcare-ai/",
+          "snippet": "Knit Health raises $11.6M for 'fundamentally different' approach to healthcare AI"
+        }
+      ]
+    },
+    {
       "name": "Knotch",
       "website": "",
       "one_liner": "Knotch | Senior Backend Engineers, Fullstack Engineers | NYC | On-site or remote Knotch ( https://www.knotch.it ) is a series A funded ($14M) brand measurement platform used by some of the world’s largest brands and distributed on some of t",
@@ -5635,9 +5654,9 @@
       "name": "Metriport",
       "website": "https://metriport.com/",
       "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2022",
-      "team_size": 23,
+      "team_size": 24,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6437,7 +6456,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: AI doctors should be licensed. Here’s a framework to do that",
+      "one_liner": "Opinion: STAT+: Pharma and biotech leaders are destroying their own industry",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6448,18 +6467,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss",
-          "snippet": "Opinion: AI doctors should be licensed. Here’s a framework to do that"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/11/ai-dependence-addiction-substances-relief-psychology/?utm_campaign=rss",
-          "snippet": "Opinion: What addiction medicine can teach us about depending on AI"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
-          "snippet": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news"
+          "url": "https://www.statnews.com/2026/05/12/biotech-pharmaceutical-industry-china-leaders-destroying-industry/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: Pharma and biotech leaders are destroying their own industry"
         }
       ]
     },
@@ -7290,9 +7299,9 @@
       "name": "Probably Genetic",
       "website": "https://www.probablygenetic.com/",
       "one_liner": "Patient Intelligence Platform for Genetic Disease ",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2019",
-      "team_size": 20,
+      "team_size": 17,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -8803,25 +8812,6 @@
       "evidence": []
     },
     {
-      "name": "Startup Enabling Aging at Home",
-      "website": "",
-      "one_liner": "Startup Enabling Aging at Home Raises $6M, Gains New MA and Medicaid Partnerships",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/aging-home-funding-rosarium/",
-          "snippet": "Startup Enabling Aging at Home Raises $6M, Gains New MA and Medicaid Partnerships"
-        }
-      ]
-    },
-    {
       "name": "Stasis Labs",
       "website": "",
       "one_liner": "Stasis Labs |  https://www.stasislabs.com  | Onsite Bangalore, India or Los Angeles, USA Up to 75% of injuries and deaths in hospitals happen to patients who lack continuous monitoring technology. Existing solutions are expensive and comple",
@@ -9489,25 +9479,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13548039",
           "snippet": "Townsquared | San Francisco, CA | Full-time | ONSITE |  https://townsquared.com/  Townsquared is the only online network that allows local businesses and indepe"
-        }
-      ]
-    },
-    {
-      "name": "Transforming CTMS",
-      "website": "",
-      "one_liner": "Transforming CTMS: An Operating Layer for Real-Time Trial Execution",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/transforming-ctms-an-operating-layer-for-real-time-trial-execution/",
-          "snippet": "Transforming CTMS: An Operating Layer for Real-Time Trial Execution"
         }
       ]
     },
@@ -10478,6 +10449,19 @@
           "snippet": "Zesty (YC W14) | San Francisco, CA / Remote | Software engineers of all types Zesty is changing the way companies serve food. We’re just two and a half years ol"
         }
       ]
+    },
+    {
+      "name": "ZETA SURGICAL",
+      "website": "http://zetasurgical.com",
+      "one_liner": "Next-Generation Surgical Navigation and Robotics",
+      "stage": "Early",
+      "batch": "Summer 2019",
+      "team_size": 12,
+      "location": "Boston, MA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Zipari",
