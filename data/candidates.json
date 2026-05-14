@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-05-13T08:33:54Z",
+  "generated_at": "2026-05-14T08:27:00Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 161,
+    "Y Combinator": 159,
     "MedCity News": 5,
     "Endpoints News": 3,
     "STAT News": 1,
-    "RockHealth": 2,
-    "BioPharma Dive": 1
+    "RockHealth": 2
   },
-  "count": 580,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -716,25 +715,6 @@
       "evidence": []
     },
     {
-      "name": "Artiva",
-      "website": "",
-      "one_liner": "delays Leqembi decision; Artiva raises $300M; Pharvaris prices offering",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/fda-delays-leqembi-decision-artiva-raises-300m-pharvaris-prices-offering/",
-          "snippet": "delays Leqembi decision; Artiva raises $300M; Pharvaris prices offering"
-        }
-      ]
-    },
-    {
       "name": "Asha Health",
       "website": "https://asha.health",
       "one_liner": "We help medical practices become AI-native",
@@ -1408,7 +1388,7 @@
       "stage": "Early",
       "batch": "Fall 2024",
       "team_size": 9,
-      "location": "Oakland, CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3283,19 +3263,6 @@
           "snippet": "Full-Stack Software Engineer | Syntasa | ONSITE | Fulltime | Washington DC Metro Area (Herndon, VA) | Visa Transfer OK | www.syntasa.com\nSyntasa is a Predictive"
         }
       ]
-    },
-    {
-      "name": "FutureClinic",
-      "website": "https://www.futureclinic.com",
-      "one_liner": "Personal doctors through chat",
-      "stage": "Early",
-      "batch": "Fall 2024",
-      "team_size": 4,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Gametime",
@@ -5654,7 +5621,7 @@
       "name": "Metriport",
       "website": "https://metriport.com/",
       "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2022",
       "team_size": 24,
       "location": "San Francisco, CA, USA",
@@ -6068,19 +6035,6 @@
       ]
     },
     {
-      "name": "NimbleRx",
-      "website": "http://nimblerx.com",
-      "one_liner": "On-demand prescription delivery.",
-      "stage": "Growth",
-      "batch": "Winter 2015",
-      "team_size": 130,
-      "location": "San Francisco, CA, USA; Menlo Park, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Nines",
       "website": "",
       "one_liner": "Nines | Software Engineers | Full-Time | Palo Alto, CA Nines is the first-of-its-kind radiology service. Our radiologists and engineers are on a mission to build world-class tools to enable the best radiologists to deliver the best patient",
@@ -6456,7 +6410,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: Pharma and biotech leaders are destroying their own industry",
+      "one_liner": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6467,8 +6421,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/12/biotech-pharmaceutical-industry-china-leaders-destroying-industry/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: Pharma and biotech leaders are destroying their own industry"
+          "url": "https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/?utm_campaign=rss",
+          "snippet": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis"
         }
       ]
     },
@@ -7164,6 +7118,25 @@
       ]
     },
     {
+      "name": "Post-Hoc",
+      "website": "",
+      "one_liner": "Post-Hoc: Why FDA Commissioner Marty Makary was ousted",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-why-fda-commissioner-marty-makary-was-ousted/",
+          "snippet": "Post-Hoc: Why FDA Commissioner Marty Makary was ousted"
+        }
+      ]
+    },
+    {
       "name": "PostEra",
       "website": "https://postera.ai/",
       "one_liner": "Medicinal Chemistry powered by Machine Learning",
@@ -7192,25 +7165,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386466",
           "snippet": "Postie | Machine Learning Engineer, Data Scientist, Data Engineer | Southern California or REMOTE (USA) |  https://postie.com  | Full Time Postie works with top"
-        }
-      ]
-    },
-    {
-      "name": "Precision in motion",
-      "website": "",
-      "one_liner": "Precision in motion: Decoding the critical operations behind the logistics of next-generation cell and gene therapies",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/precision-in-motion-decoding-the-critical-operations-behind-the-logistics/819290/",
-          "snippet": "Precision in motion: Decoding the critical operations behind the logistics of next-generation cell and gene therapies"
         }
       ]
     },
@@ -7299,7 +7253,7 @@
       "name": "Probably Genetic",
       "website": "https://www.probablygenetic.com/",
       "one_liner": "Patient Intelligence Platform for Genetic Disease ",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2019",
       "team_size": 17,
       "location": "San Francisco, CA, USA",
