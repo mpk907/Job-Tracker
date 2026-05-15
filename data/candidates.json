@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-05-14T08:27:00Z",
+  "generated_at": "2026-05-15T08:39:01Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 159,
     "MedCity News": 5,
-    "Endpoints News": 3,
+    "BioPharma Dive": 1,
     "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 1
   },
-  "count": 577,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2050,6 +2051,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Create Medicines",
+      "website": "",
+      "one_liner": "Create Medicines raises $122M to bolster in vivo CAR-T therapies",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/create-medicines-series-b-in-vivo-car-t-therapy/820226/",
+          "snippet": "Create Medicines raises $122M to bolster in vivo CAR-T therapies"
+        }
+      ]
     },
     {
       "name": "Creighton University",
@@ -4724,25 +4744,6 @@
       ]
     },
     {
-      "name": "Knit Health",
-      "website": "",
-      "one_liner": "Knit Health raises $11.6M for 'fundamentally different' approach to healthcare AI",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/knit-health-raises-11-6m-for-fundamentally-different-approach-to-healthcare-ai/",
-          "snippet": "Knit Health raises $11.6M for 'fundamentally different' approach to healthcare AI"
-        }
-      ]
-    },
-    {
       "name": "Knotch",
       "website": "",
       "one_liner": "Knotch | Senior Backend Engineers, Fullstack Engineers | NYC | On-site or remote Knotch ( https://www.knotch.it ) is a series A funded ($14M) brand measurement platform used by some of the world’s largest brands and distributed on some of t",
@@ -6410,7 +6411,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis",
+      "one_liner": "Opinion: I’m 73. I wish my pills wouldn’t keep changing colors and shapes",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6421,8 +6422,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/?utm_campaign=rss",
-          "snippet": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis"
+          "url": "https://www.statnews.com/2026/05/15/pills-changing-colors-shape-generics-confusion/?utm_campaign=rss",
+          "snippet": "Opinion: I’m 73. I wish my pills wouldn’t keep changing colors and shapes"
         }
       ]
     },
@@ -6442,25 +6443,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15465433",
           "snippet": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and"
-        }
-      ]
-    },
-    {
-      "name": "Optum Rx",
-      "website": "",
-      "one_liner": "Optum Rx unveils pharmacy model with clear fees, building on transparency push",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/optum-rx-unveils-pharmacy-model-with-clear-fees-building-on-transparency-push/",
-          "snippet": "Optum Rx unveils pharmacy model with clear fees, building on transparency push"
         }
       ]
     },
