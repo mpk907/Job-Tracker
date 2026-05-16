@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-15T08:39:01Z",
+  "generated_at": "2026-05-16T07:48:49Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 159,
-    "MedCity News": 5,
+    "MedCity News": 6,
     "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 576,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -560,6 +560,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Anomaly",
+      "website": "",
+      "one_liner": "Anomaly Raises $17M for AI-Powered Payer Intelligence Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/anomaly-raises-17m-for-ai-powered-payer-intelligence-platform/",
+          "snippet": "Anomaly Raises $17M for AI-Powered Payer Intelligence Platform"
+        }
+      ]
     },
     {
       "name": "ANORIA",
@@ -1715,25 +1734,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22669533",
           "snippet": "Clockwise |  https://getclockwise.com  | San Francisco (SF Bay Area) | currently REMOTE but ONSITE after shelter in place lifted | Product Hunt's #2 Product of "
-        }
-      ]
-    },
-    {
-      "name": "Closer",
-      "website": "",
-      "one_liner": "Closer: What Triage Nurses Hear That Others Miss",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/listen-closer-what-triage-nurses-hear-that-others-miss/",
-          "snippet": "Closer: What Triage Nurses Hear That Others Miss"
         }
       ]
     },
@@ -4171,6 +4171,25 @@
       ]
     },
     {
+      "name": "IKS Health",
+      "website": "",
+      "one_liner": "IKS Health Acquires ARAI to Build Out Specialized AI Stack",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/iks-healthcare-ai-acquisition/",
+          "snippet": "IKS Health Acquires ARAI to Build Out Specialized AI Stack"
+        }
+      ]
+    },
+    {
       "name": "Illuminant Surgical",
       "website": "https://www.illuminant.ai/",
       "one_liner": "A new way of seeing inside the human body.",
@@ -6411,7 +6430,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I’m 73. I wish my pills wouldn’t keep changing colors and shapes",
+      "one_liner": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6420,6 +6439,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
+          "snippet": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/15/pills-changing-colors-shape-generics-confusion/?utm_campaign=rss",
@@ -7100,9 +7124,9 @@
       ]
     },
     {
-      "name": "Post-Hoc",
+      "name": "Post-Hoc Live",
       "website": "",
-      "one_liner": "Post-Hoc: Why FDA Commissioner Marty Makary was ousted",
+      "one_liner": "Post-Hoc Live: Makary's out at FDA and what comes next",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -7113,8 +7137,8 @@
       "evidence": [
         {
           "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-why-fda-commissioner-marty-makary-was-ousted/",
-          "snippet": "Post-Hoc: Why FDA Commissioner Marty Makary was ousted"
+          "url": "https://endpoints.news/post-hoc-live-makarys-out-at-fda-and-what-comes-next/",
+          "snippet": "Post-Hoc Live: Makary's out at FDA and what comes next"
         }
       ]
     },
@@ -7228,6 +7252,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667436",
           "snippet": "Private | Los Angeles, CA REMOTE OR LOCAL | Ecommerce Full Stack We're a cannabis manufacturing and distribution firm that's been in business since 2013. Compan"
+        }
+      ]
+    },
+    {
+      "name": "Private Voice AI in Healthcare",
+      "website": "",
+      "one_liner": "Private Voice AI in Healthcare: How to Capture Critical Conversations Without Letting Patient Data Leave the Building",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/private-voice-ai-in-healthcare-how-to-capture-critical-conversations-without-letting-patient-data-leave-the-building/",
+          "snippet": "Private Voice AI in Healthcare: How to Capture Critical Conversations Without Letting Patient Data Leave the Building"
         }
       ]
     },
@@ -10129,25 +10172,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12851079",
           "snippet": "Wellframe | Boston | Onsite\nWellframe is building a way for people and healthcare practitioners to connect instantly.  We simplify patient communication with th"
-        }
-      ]
-    },
-    {
-      "name": "Windward Bio",
-      "website": "",
-      "one_liner": "Windward Bio Secures $165M for Clinical Trials in Asthma, COPD & More",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/windward-bio-tslp-long-acting-antibody-immunology-asthma-copd-crossover/",
-          "snippet": "Windward Bio Secures $165M for Clinical Trials in Asthma, COPD & More"
         }
       ]
     },
