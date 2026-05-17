@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T07:48:49Z",
+  "generated_at": "2026-05-17T08:11:29Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 159,
@@ -6430,7 +6430,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place",
+      "one_liner": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6439,6 +6439,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
+          "snippet": "Opinion: Marty Makary misunderstood something fundamental about the FDA"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
