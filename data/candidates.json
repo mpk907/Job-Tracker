@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-17T09:08:36Z",
+  "generated_at": "2026-05-18T09:39:55Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 159,
-    "MedCity News": 6,
+    "MedCity News": 4,
     "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 577,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2091,25 +2091,6 @@
       ]
     },
     {
-      "name": "Critical Care Documentation",
-      "website": "",
-      "one_liner": "Critical Care Documentation: Why It’s Different and How It Impacts Patient Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/critical-care-documentation-why-its-different-and-how-it-impacts-patient-care/",
-          "snippet": "Critical Care Documentation: Why It’s Different and How It Impacts Patient Care"
-        }
-      ]
-    },
-    {
       "name": "CrowdFlower is the essential human",
       "website": "",
       "one_liner": "CrowdFlower is the essential human-in-the-loop AI platform for data science and machine learning teams. The CrowdFlower software platform trains, tests, and tunes machine learning models to make AI work in the real world. CrowdFlower’s tech",
@@ -2300,25 +2281,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Digital Fatigue",
-      "website": "",
-      "one_liner": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/digital-fatigue-healthcares-next-patient-experience-crisis/",
-          "snippet": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis"
-        }
-      ]
     },
     {
       "name": "Digital H2O",
@@ -3132,7 +3094,7 @@
       "stage": "Early",
       "batch": "Winter 2026",
       "team_size": 3,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6430,7 +6392,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
+      "one_liner": "Opinion: How to restore credibility to the CDC’s vaccine advisory committee",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6441,6 +6403,16 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/18/acip-charter-vaccine-policy-cdc-political-interference/?utm_campaign=rss",
+          "snippet": "Opinion: How to restore credibility to the CDC’s vaccine advisory committee"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/18/patient-autonomy-childhood-vaccines-red-herring/?utm_campaign=rss",
+          "snippet": "Opinion: ‘Patient autonomy’ has nothing to do with childhood vaccine policies"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
           "snippet": "Opinion: Marty Makary misunderstood something fundamental about the FDA"
         },
@@ -6448,11 +6420,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
           "snippet": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/15/pills-changing-colors-shape-generics-confusion/?utm_campaign=rss",
-          "snippet": "Opinion: I’m 73. I wish my pills wouldn’t keep changing colors and shapes"
         }
       ]
     },
