@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-18T09:39:55Z",
+  "generated_at": "2026-05-19T09:00:02Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 159,
-    "MedCity News": 4,
+    "Y Combinator": 156,
+    "MedCity News": 3,
     "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 575,
+  "count": 571,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -244,28 +244,9 @@
       "evidence": []
     },
     {
-      "name": "AI in Transplant Diagnostics",
-      "website": "",
-      "one_liner": "AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/ai-in-transplant-diagnostics-turning-complexity-into-clinical-clarity/",
-          "snippet": "AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity"
-        }
-      ]
-    },
-    {
-      "name": "Aios Medical",
-      "website": "https://www.fellahealth.com/",
-      "one_liner": "Accelerating the global take-up of GLP-1 medications",
+      "name": "AIOS",
+      "website": "https://www.boltpharmacy.co.uk/",
+      "one_liner": "Building AI-native infrastructure for the next era of care.",
       "stage": "Early",
       "batch": "Winter 2020",
       "team_size": 100,
@@ -2045,7 +2026,7 @@
       "one_liner": "Using AI to help dementia patients age at home",
       "stage": "Early",
       "batch": "Winter 2022",
-      "team_size": 36,
+      "team_size": 64,
       "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
@@ -2663,19 +2644,6 @@
           "snippet": "Elysium Health | VP of Engineering | New York, NY | Full-time | Onsite Our mission is to turn critical scientific advancements into accessible consumer products"
         }
       ]
-    },
-    {
-      "name": "Embeddables",
-      "website": "https://embeddables.com",
-      "one_liner": "The funnel builder built for health & wellness brands.",
-      "stage": "Early",
-      "batch": "Summer 2018",
-      "team_size": 23,
-      "location": "San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "EMPATICA ~ iOS DEVELOPER ~ MILAN, ITALY ~ FULL TIME ~ ONSITE ~ https://www.empat",
@@ -4150,19 +4118,6 @@
           "snippet": "IKS Health Acquires ARAI to Build Out Specialized AI Stack"
         }
       ]
-    },
-    {
-      "name": "Illuminant Surgical",
-      "website": "https://www.illuminant.ai/",
-      "one_liner": "A new way of seeing inside the human body.",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 8,
-      "location": "Culver City, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "iMarc",
@@ -6074,19 +6029,6 @@
       ]
     },
     {
-      "name": "Noora Health",
-      "website": "http://noorahealth.org",
-      "one_liner": "Training patients and their families with health skills",
-      "stage": "Early",
-      "batch": "Winter 2014",
-      "team_size": 500,
-      "location": "Bengaluru, KA, India",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Northwestern University Center for Behavioral Intervention Technologies",
       "website": "",
       "one_liner": "Northwestern University Center for Behavioral Intervention Technologies | Chicago | ONSITE | Rails, Angular |  http://www.cbits.northwestern.edu/  We're hiring all levels of web developer to help support our expanding list of projects. We b",
@@ -6392,7 +6334,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How to restore credibility to the CDC’s vaccine advisory committee",
+      "one_liner": "Opinion: I’m a heart transplant recipient. I’m haunted by ‘ghost approval’ for medication I need to survive",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6403,6 +6345,11 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/19/insurance-approval-denial-cost-access-transplant-medication/?utm_campaign=rss",
+          "snippet": "Opinion: I’m a heart transplant recipient. I’m haunted by ‘ghost approval’ for medication I need to survive"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/18/acip-charter-vaccine-policy-cdc-political-interference/?utm_campaign=rss",
           "snippet": "Opinion: How to restore credibility to the CDC’s vaccine advisory committee"
         },
@@ -6410,16 +6357,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/18/patient-autonomy-childhood-vaccines-red-herring/?utm_campaign=rss",
           "snippet": "Opinion: ‘Patient autonomy’ has nothing to do with childhood vaccine policies"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
-          "snippet": "Opinion: Marty Makary misunderstood something fundamental about the FDA"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
-          "snippet": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place"
         }
       ]
     },
@@ -6975,6 +6912,19 @@
       "batch": "Summer 2014",
       "team_size": 100,
       "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Pirouette Pharma",
+      "website": "https://www.pirouettepharma.com/",
+      "one_liner": "We make injections as easy as pushing a button!",
+      "stage": "Growth",
+      "batch": "Summer 2021",
+      "team_size": 9,
+      "location": "Boston, MA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -8627,19 +8577,6 @@
           "snippet": "Someone in my family is a prime example of this: got a degree in pharmacy, joined an actual pharmacy  for a bit, then ended up working for an equivalent of FDA "
         }
       ]
-    },
-    {
-      "name": "Sonia",
-      "website": "https://soniahealth.com",
-      "one_liner": "Validated mental health support in your pocket, anytime. ",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 8,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Sounds great!",
