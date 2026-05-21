@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-20T08:54:05Z",
+  "generated_at": "2026-05-21T08:55:55Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 158,
-    "MedCity News": 5,
-    "Endpoints News": 3,
-    "STAT News": 2,
+    "Y Combinator": 160,
+    "MedCity News": 7,
+    "Endpoints News": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 575,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2822,6 +2822,19 @@
       ]
     },
     {
+      "name": "Exonic",
+      "website": "https://exonic.ai",
+      "one_liner": "Unsupervised Biological AI",
+      "stage": "Early",
+      "batch": "Fall 2025",
+      "team_size": 3,
+      "location": "",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Eyenuk, Inc",
       "website": "",
       "one_liner": "Eyenuk, Inc | Senior Software Engineer and Research Engineer | Woodland Hills, CA | Fulltime | Onsite |  http://www.eyenuk.com  At Eyenuk we are developing the next generation of retinal diagnostic solutions that leverage state of the art c",
@@ -5115,7 +5128,7 @@
       "name": "Lucis",
       "website": "https://www.lucis.life",
       "one_liner": "Function Health for Europe ",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Spring 2025",
       "team_size": 17,
       "location": "Paris, Île-de-France, France",
@@ -5384,6 +5397,38 @@
       "batch": "Winter 2021",
       "team_size": 12,
       "location": "New York, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "MedCity Pivot Podcast",
+      "website": "",
+      "one_liner": "MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/medcity-pivot-podcast-a-conversation-about-interoperability-with-particle-healths-ceo/",
+          "snippet": "MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO"
+        }
+      ]
+    },
+    {
+      "name": "MedCrypt",
+      "website": "https://www.medcrypt.co",
+      "one_liner": "MedCrypt gives medical device vendors cybersecurity features in a few…",
+      "stage": "Growth",
+      "batch": "Winter 2019",
+      "team_size": 16,
+      "location": "San Diego, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5955,7 +6000,7 @@
     {
       "name": "New Investment Firm",
       "website": "",
-      "one_liner": "New Investment Firm Launches to Back Healthcare Startups That Have ‘Earned the Right to Scale’",
+      "one_liner": "New Investment Firm Launches to Back Healthcare Companies That Have ‘Earned the Right to Scale’",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -5967,7 +6012,7 @@
         {
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/05/healthcare-investment-finance-startup/",
-          "snippet": "New Investment Firm Launches to Back Healthcare Startups That Have ‘Earned the Right to Scale’"
+          "snippet": "New Investment Firm Launches to Back Healthcare Companies That Have ‘Earned the Right to Scale’"
         }
       ]
     },
@@ -6404,7 +6449,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I’m a heart transplant recipient. I’m haunted by ‘ghost approval’ for medication I need to survive",
+      "one_liner": "Opinion: STAT+: Dark times ahead at the FDA",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6415,8 +6460,18 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/19/insurance-approval-denial-cost-access-transplant-medication/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a heart transplant recipient. I’m haunted by ‘ghost approval’ for medication I need to survive"
+          "url": "https://www.statnews.com/2026/05/21/fda-makary-hoeg-szarama-leadership-vacuum/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: Dark times ahead at the FDA"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/21/retained-bullet-fragments-depression-lead-poisoning-trauma/?utm_campaign=rss",
+          "snippet": "Opinion: Living with bullet fragments in the body can have long-term medical consequences"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/20/ebola-patients-suffering-health-care-workers/?utm_campaign=rss",
+          "snippet": "Opinion: I saw Ebola as both doctor and patient. I wish people cared more about the Africans I worked alongside"
         }
       ]
     },
@@ -7106,25 +7161,6 @@
       ]
     },
     {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: Makary's out at FDA and what comes next",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-makarys-out-at-fda-and-what-comes-next/",
-          "snippet": "Post-Hoc Live: Makary's out at FDA and what comes next"
-        }
-      ]
-    },
-    {
       "name": "PostEra",
       "website": "https://postera.ai/",
       "one_liner": "Medicinal Chemistry powered by Machine Learning",
@@ -7583,6 +7619,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12846959",
           "snippet": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget -"
+        }
+      ]
+    },
+    {
+      "name": "Report",
+      "website": "",
+      "one_liner": "Report: How Employers Can Better Manage GLP-1s for Adolescents",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/report-how-employers-can-better-manage-glp-1s-for-adolescents/",
+          "snippet": "Report: How Employers Can Better Manage GLP-1s for Adolescents"
         }
       ]
     },
@@ -9057,7 +9112,7 @@
     {
       "name": "Syntra",
       "website": "https://www.syntra.com",
-      "one_liner": "Medical chart and claim review ",
+      "one_liner": "Medical chart intelligence",
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 8,
@@ -9249,25 +9304,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386105",
           "snippet": "The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k,  https://www.thefarmersdog.com/  The Farmer’s Dog is a VC backed (we just raised "
-        }
-      ]
-    },
-    {
-      "name": "The latest on Ebola",
-      "website": "",
-      "one_liner": "The latest on Ebola: A travel ban and an old vaccine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/?utm_campaign=rss",
-          "snippet": "The latest on Ebola: A travel ban and an old vaccine"
         }
       ]
     },
