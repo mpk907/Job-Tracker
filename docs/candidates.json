@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-21T08:55:55Z",
+  "generated_at": "2026-05-22T08:53:49Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
-    "MedCity News": 7,
     "Endpoints News": 2,
+    "MedCity News": 4,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 574,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -540,25 +540,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Anomaly",
-      "website": "",
-      "one_liner": "Anomaly Raises $17M for AI-Powered Payer Intelligence Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/anomaly-raises-17m-for-ai-powered-payer-intelligence-platform/",
-          "snippet": "Anomaly Raises $17M for AI-Powered Payer Intelligence Platform"
-        }
-      ]
     },
     {
       "name": "ANORIA",
@@ -1845,7 +1826,7 @@
     },
     {
       "name": "Codes Health",
-      "website": "https://www.getcodeshealth.com/",
+      "website": "https://www.codeshealth.com/",
       "one_liner": "Medical Record Retrieval with Zero Human Error",
       "stage": "Early",
       "batch": "Summer 2024",
@@ -4139,23 +4120,17 @@
       ]
     },
     {
-      "name": "IKS Health",
-      "website": "",
-      "one_liner": "IKS Health Acquires ARAI to Build Out Specialized AI Stack",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
+      "name": "Illuminant Surgical",
+      "website": "https://www.illuminant.ai/",
+      "one_liner": "A new way of seeing inside the human body.",
+      "stage": "Early",
+      "batch": "Summer 2022",
+      "team_size": 11,
+      "location": "Culver City, CA, USA",
       "sources": [
-        "MedCity News"
+        "Y Combinator"
       ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/iks-healthcare-ai-acquisition/",
-          "snippet": "IKS Health Acquires ARAI to Build Out Specialized AI Stack"
-        }
-      ]
+      "evidence": []
     },
     {
       "name": "iMarc",
@@ -6449,7 +6424,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: Dark times ahead at the FDA",
+      "one_liner": "Opinion: Check-in and intake at the doctor’s office are perfect for AI",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6460,6 +6435,16 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/22/chatbots-doctor-office-check-in-intake-ai/?utm_campaign=rss",
+          "snippet": "Opinion: Check-in and intake at the doctor’s office are perfect for AI"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss",
+          "snippet": "Opinion: The seed oil panic is hurting my cardiac patients"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/21/fda-makary-hoeg-szarama-leadership-vacuum/?utm_campaign=rss",
           "snippet": "Opinion: STAT+: Dark times ahead at the FDA"
         },
@@ -6467,11 +6452,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/21/retained-bullet-fragments-depression-lead-poisoning-trauma/?utm_campaign=rss",
           "snippet": "Opinion: Living with bullet fragments in the body can have long-term medical consequences"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/20/ebola-patients-suffering-health-care-workers/?utm_campaign=rss",
-          "snippet": "Opinion: I saw Ebola as both doctor and patient. I wish people cared more about the Africans I worked alongside"
         }
       ]
     },
@@ -6759,19 +6739,6 @@
       "batch": "Summer 2025",
       "team_size": 2,
       "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Papa",
-      "website": "https://www.papa.com",
-      "one_liner": "One-stop-shop for flexible family care",
-      "stage": "Growth",
-      "batch": "Summer 2018",
-      "team_size": 500,
-      "location": "Miami, FL, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -7270,25 +7237,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667436",
           "snippet": "Private | Los Angeles, CA REMOTE OR LOCAL | Ecommerce Full Stack We're a cannabis manufacturing and distribution firm that's been in business since 2013. Compan"
-        }
-      ]
-    },
-    {
-      "name": "Private Voice AI in Healthcare",
-      "website": "",
-      "one_liner": "Private Voice AI in Healthcare: How to Capture Critical Conversations Without Letting Patient Data Leave the Building",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/private-voice-ai-in-healthcare-how-to-capture-critical-conversations-without-letting-patient-data-leave-the-building/",
-          "snippet": "Private Voice AI in Healthcare: How to Capture Critical Conversations Without Letting Patient Data Leave the Building"
         }
       ]
     },
