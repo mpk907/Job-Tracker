@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-24T09:25:58Z",
+  "generated_at": "2026-05-25T09:48:24Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 160,
+    "Y Combinator": 161,
     "BioPharma Dive": 1,
-    "MedCity News": 5,
+    "MedCity News": 6,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 575,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -8480,6 +8480,25 @@
       ]
     },
     {
+      "name": "Smarter Engagement for Stronger Growth",
+      "website": "",
+      "one_liner": "Smarter Engagement for Stronger Growth: How Payers Can Successfully Do More with Less",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/smarter-engagement-for-stronger-growth-how-payers-can-successfully-do-more-with-less/",
+          "snippet": "Smarter Engagement for Stronger Growth: How Payers Can Successfully Do More with Less"
+        }
+      ]
+    },
+    {
       "name": "Smartleaf",
       "website": "",
       "one_liner": "Smartleaf | Senior Software Developer | Boston (Cambridge) | ONSITE, Full-time We are making it possible for all investors to get the level of portfolio oversight and customization that was once the exclusive preserve of the ultra-wealthy.",
@@ -8624,6 +8643,19 @@
           "snippet": "Someone in my family is a prime example of this: got a degree in pharmacy, joined an actual pharmacy  for a bit, then ended up working for an equivalent of FDA "
         }
       ]
+    },
+    {
+      "name": "Sonia",
+      "website": "https://soniahealth.com",
+      "one_liner": "Validated mental health support in your pocket, anytime. ",
+      "stage": "Early",
+      "batch": "Winter 2024",
+      "team_size": 8,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Sounds great!",
