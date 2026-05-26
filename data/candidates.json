@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-25T09:48:24Z",
+  "generated_at": "2026-05-26T09:06:47Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 161,
-    "BioPharma Dive": 1,
+    "BioPharma Dive": 2,
     "MedCity News": 6,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1647,7 +1647,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 9,
-      "location": "San Francisco, CA, USA",
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -5391,6 +5391,25 @@
       "evidence": []
     },
     {
+      "name": "Measuring what matters",
+      "website": "",
+      "one_liner": "Measuring what matters: New priorities in COA selection",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/measuring-what-matters-new-priorities-in-coa-selection/820214/",
+          "snippet": "Measuring what matters: New priorities in COA selection"
+        }
+      ]
+    },
+    {
       "name": "MedCity Pivot Podcast",
       "website": "",
       "one_liner": "MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO",
@@ -6106,6 +6125,19 @@
       ]
     },
     {
+      "name": "Noora Health",
+      "website": "http://noorahealth.org",
+      "one_liner": "Training patients and their families with health skills",
+      "stage": "Early",
+      "batch": "Winter 2014",
+      "team_size": 500,
+      "location": "Bengaluru, KA, India",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Northwestern University Center for Behavioral Intervention Technologies",
       "website": "",
       "one_liner": "Northwestern University Center for Behavioral Intervention Technologies | Chicago | ONSITE | Rails, Angular |  http://www.cbits.northwestern.edu/  We're hiring all levels of web developer to help support our expanding list of projects. We b",
@@ -6418,7 +6450,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Check-in and intake at the doctor’s office are perfect for AI",
+      "one_liner": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6427,6 +6459,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss",
+          "snippet": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/22/chatbots-doctor-office-check-in-intake-ai/?utm_campaign=rss",
@@ -6710,19 +6747,6 @@
       "batch": "Summer 2019",
       "team_size": 500,
       "location": "San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Panoptive",
-      "website": "https://www.panoptive.com",
-      "one_liner": "The oversight engine for clinical trials",
-      "stage": "Early",
-      "batch": "Summer 2025",
-      "team_size": 2,
-      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
