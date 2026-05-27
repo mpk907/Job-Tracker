@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-05-26T09:06:47Z",
+  "generated_at": "2026-05-27T09:01:16Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 161,
-    "BioPharma Dive": 2,
+    "Y Combinator": 163,
     "MedCity News": 6,
+    "BioPharma Dive": 2,
     "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 1
   },
-  "count": 578,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -241,6 +242,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "AI Health Check",
+      "website": "",
+      "one_liner": "AI Health Check: No Governance, No Trust",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/ai-health-check-no-governance-no-trust/",
+          "snippet": "AI Health Check: No Governance, No Trust"
+        }
+      ]
     },
     {
       "name": "AIOS",
@@ -5992,25 +6012,6 @@
       ]
     },
     {
-      "name": "New Investment Firm",
-      "website": "",
-      "one_liner": "New Investment Firm Launches to Back Healthcare Companies That Have ‘Earned the Right to Scale’",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/healthcare-investment-finance-startup/",
-          "snippet": "New Investment Firm Launches to Back Healthcare Companies That Have ‘Earned the Right to Scale’"
-        }
-      ]
-    },
-    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6178,16 +6179,9 @@
       "team_size": 250,
       "location": "New York, NY, USA",
       "sources": [
-        "Y Combinator",
-        "MedCity News"
+        "Y Combinator"
       ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/nourish-secures-100m-for-metabolic-health-clinic/",
-          "snippet": "Nourish Secures $100M for Metabolic Health Clinic"
-        }
-      ]
+      "evidence": []
     },
     {
       "name": "Novoflow",
@@ -6463,16 +6457,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss",
           "snippet": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/22/chatbots-doctor-office-check-in-intake-ai/?utm_campaign=rss",
-          "snippet": "Opinion: Check-in and intake at the doctor’s office are perfect for AI"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss",
-          "snippet": "Opinion: The seed oil panic is hurting my cardiac patients"
         }
       ]
     },
@@ -6581,6 +6565,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22668264",
           "snippet": "Ought |  https://ought.org  | Software Engineer | San Francisco (onsite) We're a non-profit AI research lab. Our goal is to make machine learning solve tasks wh"
+        }
+      ]
+    },
+    {
+      "name": "Oura",
+      "website": "",
+      "one_liner": "Oura Files for IPO As Healthcare Ambitions Grow",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/oura-ipo-healthcare-ring-device/",
+          "snippet": "Oura Files for IPO As Healthcare Ambitions Grow"
         }
       ]
     },
@@ -7136,6 +7139,25 @@
       ]
     },
     {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: Jeremy Levin on biotech's existential moment",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-jeremy-levin-on-biotechs-existential-moment/",
+          "snippet": "Post-Hoc Live: Jeremy Levin on biotech's existential moment"
+        }
+      ]
+    },
+    {
       "name": "PostEra",
       "website": "https://postera.ai/",
       "one_liner": "Medicinal Chemistry powered by Machine Learning",
@@ -7356,13 +7378,14 @@
     },
     {
       "name": "Quartzy",
-      "website": "",
-      "one_liner": "Quartzy | Palo Alto, CA | Onsite (Relocation provided) Quartzy helps hundreds of thousands of scientists improve the efficiency of their research by saving them time and money. Our team is passionate about accelerating scientific research t",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
+      "website": "https://www.quartzy.com",
+      "one_liner": "Marketplace for life science supplies.",
+      "stage": "Growth",
+      "batch": "Summer 2011",
+      "team_size": 100,
+      "location": "Hayward, CA, USA",
       "sources": [
+        "Y Combinator",
         "HN Hiring"
       ],
       "evidence": [
@@ -7380,6 +7403,19 @@
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Quinn",
+      "website": "https://www.quinnbio.com",
+      "one_liner": "The AI that delivers pharma R&D decisions in days, not months",
+      "stage": "Early",
+      "batch": "Summer 2022",
+      "team_size": 4,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
