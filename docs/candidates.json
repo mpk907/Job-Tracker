@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-05-27T09:01:16Z",
+  "generated_at": "2026-05-28T09:44:46Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
-    "MedCity News": 6,
-    "BioPharma Dive": 2,
+    "Y Combinator": 162,
+    "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2,
-    "Endpoints News": 1
+    "Endpoints News": 2
   },
-  "count": 581,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -716,25 +715,6 @@
       "evidence": []
     },
     {
-      "name": "ASCO26",
-      "website": "",
-      "one_liner": "ASCO26: 5 data snapshots ahead of the year’s biggest cancer drug meeting",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/",
-          "snippet": "ASCO26: 5 data snapshots ahead of the year’s biggest cancer drug meeting"
-        }
-      ]
-    },
-    {
       "name": "Asha Health",
       "website": "https://asha.health",
       "one_liner": "We help medical practices become AI-native",
@@ -883,6 +863,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813630",
           "snippet": "Bayes Impact | Project Development Lead | San Francisco, CA | ONSITE Bayes Impact is a technology nonprofit that uses data science to solve pressing social chal"
+        }
+      ]
+    },
+    {
+      "name": "be tested by new product",
+      "website": "",
+      "one_liner": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/?utm_campaign=rss",
+          "snippet": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches"
         }
       ]
     },
@@ -3216,6 +3215,25 @@
       ]
     },
     {
+      "name": "From Benefits to Protection",
+      "website": "",
+      "one_liner": "From Benefits to Protection: Medical Debt Belongs in Employer Strategy",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/from-benefits-to-protection-medical-debt-belongs-in-employer-strategy/",
+          "snippet": "From Benefits to Protection: Medical Debt Belongs in Employer Strategy"
+        }
+      ]
+    },
+    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -5411,44 +5429,6 @@
       "evidence": []
     },
     {
-      "name": "Measuring what matters",
-      "website": "",
-      "one_liner": "Measuring what matters: New priorities in COA selection",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/measuring-what-matters-new-priorities-in-coa-selection/820214/",
-          "snippet": "Measuring what matters: New priorities in COA selection"
-        }
-      ]
-    },
-    {
-      "name": "MedCity Pivot Podcast",
-      "website": "",
-      "one_liner": "MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/medcity-pivot-podcast-a-conversation-about-interoperability-with-particle-healths-ceo/",
-          "snippet": "MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO"
-        }
-      ]
-    },
-    {
       "name": "MedCrypt",
       "website": "https://www.medcrypt.co",
       "one_liner": "MedCrypt gives medical device vendors cybersecurity features in a few…",
@@ -6440,25 +6420,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss",
-          "snippet": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -7615,25 +7576,6 @@
       ]
     },
     {
-      "name": "Report",
-      "website": "",
-      "one_liner": "Report: How Employers Can Better Manage GLP-1s for Adolescents",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/report-how-employers-can-better-manage-glp-1s-for-adolescents/",
-          "snippet": "Report: How Employers Can Better Manage GLP-1s for Adolescents"
-        }
-      ]
-    },
-    {
       "name": "Research Data Scientist (w/m) for Applied Biophysics @ Beiersdorf",
       "website": "",
       "one_liner": "Research Data Scientist (w/m) for Applied Biophysics @ Beiersdorf REQUIREMENTS: -An extremely good degree in natural sciences, engineering, or IT, plus a doctorate if possible (preferably in computer science, mathematics, or physics) -Very",
@@ -8362,6 +8304,25 @@
       ]
     },
     {
+      "name": "Signos",
+      "website": "",
+      "one_liner": "Signos raises $20M as it eyes health plan, pharma relationships",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/signos-raises-20m-as-it-eyes-health-plan-pharma-relationships/",
+          "snippet": "Signos raises $20M as it eyes health plan, pharma relationships"
+        }
+      ]
+    },
+    {
       "name": "silverorange",
       "website": "",
       "one_liner": "silverorange | Charlottetown, PE | REMOTE | Full time |  https://silverorange.com/  Silverorange is a small design and development agency based in Canada. We’re looking for an excellent back-end web developer to help us build new features f",
@@ -8703,19 +8664,6 @@
           "snippet": "Someone in my family is a prime example of this: got a degree in pharmacy, joined an actual pharmacy  for a bit, then ended up working for an equivalent of FDA "
         }
       ]
-    },
-    {
-      "name": "Sonia",
-      "website": "https://soniahealth.com",
-      "one_liner": "Validated mental health support in your pocket, anytime. ",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 8,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Sounds great!",
