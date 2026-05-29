@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:44:46Z",
+  "generated_at": "2026-05-29T09:05:58Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
@@ -5429,6 +5429,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: The Complicated History Behind Hormone Replacement Therapy",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/medcity-femfwd-hrt-veradigm/",
+          "snippet": "MedCity FemFwd: The Complicated History Behind Hormone Replacement Therapy"
+        }
+      ]
+    },
+    {
       "name": "MedCrypt",
       "website": "https://www.medcrypt.co",
       "one_liner": "MedCrypt gives medical device vendors cybersecurity features in a few…",
@@ -5637,7 +5656,7 @@
       "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
       "stage": "Growth",
       "batch": "Summer 2022",
-      "team_size": 24,
+      "team_size": 26,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6180,9 +6199,9 @@
       "name": "Numen",
       "website": "https://www.numen.com",
       "one_liner": "Engineering a future without cancer deaths.",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 16,
+      "team_size": 18,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -9409,25 +9428,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544955",
           "snippet": "Thumbtack |  https://thumbtack.com  | San Francisco, CA | ONSITE Thumbtack is a local services marketplace that connects millions of customers with the right pr"
-        }
-      ]
-    },
-    {
-      "name": "Timing Meets Context",
-      "website": "",
-      "one_liner": "Timing Meets Context: Aligning Patients and Providers with AI-Enabled Omnichannel Engagement",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/timing-meets-context-aligning-patients-and-providers-with-ai-enabled-omnichannel-engagement/",
-          "snippet": "Timing Meets Context: Aligning Patients and Providers with AI-Enabled Omnichannel Engagement"
         }
       ]
     },
