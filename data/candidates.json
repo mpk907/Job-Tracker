@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-29T09:05:58Z",
+  "generated_at": "2026-05-30T08:17:12Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
-    "MedCity News": 5,
-    "STAT News": 1,
+    "MedCity News": 6,
+    "BioPharma Dive": 1,
     "RockHealth": 2,
-    "Endpoints News": 2
+    "Endpoints News": 1
   },
   "count": 578,
   "candidates": [
@@ -867,25 +867,6 @@
       ]
     },
     {
-      "name": "be tested by new product",
-      "website": "",
-      "one_liner": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/?utm_campaign=rss",
-          "snippet": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches"
-        }
-      ]
-    },
-    {
       "name": "BeHealth Solutions",
       "website": "",
       "one_liner": "BeHealth Solutions | Senior Rails Developer | US | Remote Hi, I'm Alan Lattimore, lead developer at BeHealth Solutions. We are seeking an experienced software engineer to join a small team developing high-volume Software as a Service web ap",
@@ -1198,6 +1179,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815380",
           "snippet": "BrightGauge ( http://www.brightgauge.com/)|  Front End Web Developer | Miami, FL | Full-time/Onsite BrightGauge Software is looking for an incredible Front End "
+        }
+      ]
+    },
+    {
+      "name": "Bristol Myers",
+      "website": "",
+      "one_liner": "Bristol Myers unveils data for one of its next-gen blood cancer drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/bristol-myers-mezigdomide-asco-2026-successor-results/821509/",
+          "snippet": "Bristol Myers unveils data for one of its next-gen blood cancer drugs"
         }
       ]
     },
@@ -3291,6 +3291,25 @@
       ]
     },
     {
+      "name": "Garner Health",
+      "website": "",
+      "one_liner": "Garner Health Secures $100M to Connect Patients with High-Performing Doctors",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/garner-health-quality-providers/",
+          "snippet": "Garner Health Secures $100M to Connect Patients with High-Performing Doctors"
+        }
+      ]
+    },
+    {
       "name": "Geeky Medics",
       "website": "",
       "one_liner": "Geeky Medics | Front-end developer (Bootstrap, Jquery)| Newcastle, UK | Part-time | Remote |  https://geekyquiz.com  Geeky Medics is a free online education platform for medical students. I founded it almost 10 years ago and have bootstrapp",
@@ -3836,6 +3855,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815888",
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare Moves",
+      "website": "",
+      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/05/healthcare-moves-layoffs-executive/",
+          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
         }
       ]
     },
@@ -6199,7 +6237,7 @@
       "name": "Numen",
       "website": "https://www.numen.com",
       "one_liner": "Engineering a future without cancer deaths.",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 18,
       "location": "San Francisco, CA, USA",
@@ -7115,25 +7153,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: Jeremy Levin on biotech's existential moment",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-jeremy-levin-on-biotechs-existential-moment/",
-          "snippet": "Post-Hoc Live: Jeremy Levin on biotech's existential moment"
         }
       ]
     },
@@ -8516,25 +8535,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15385784",
           "snippet": "Slice | Full Stack Developer, Software Engineer, Database Developer/Engineer, Data Science Manager| San Mateo, CA | ONSITE Slice is online shopping, smarter. Sl"
-        }
-      ]
-    },
-    {
-      "name": "Smarter Engagement for Stronger Growth",
-      "website": "",
-      "one_liner": "Smarter Engagement for Stronger Growth: How Payers Can Successfully Do More with Less",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/smarter-engagement-for-stronger-growth-how-payers-can-successfully-do-more-with-less/",
-          "snippet": "Smarter Engagement for Stronger Growth: How Payers Can Successfully Do More with Less"
         }
       ]
     },
