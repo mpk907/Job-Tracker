@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-05-30T08:17:12Z",
+  "generated_at": "2026-05-31T08:36:17Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
     "MedCity News": 6,
     "BioPharma Dive": 1,
-    "RockHealth": 2,
-    "Endpoints News": 1
+    "RockHealth": 2
   },
-  "count": 578,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -8338,25 +8337,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12848898",
           "snippet": "Sift ( http://justsift.com ) | Detroit, MI | ONSITE * Front End ReactJS Engineer * Backend Node Engineer * Or Full Stack of the Above Analytics for your employe"
-        }
-      ]
-    },
-    {
-      "name": "Signos",
-      "website": "",
-      "one_liner": "Signos raises $20M as it eyes health plan, pharma relationships",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/signos-raises-20m-as-it-eyes-health-plan-pharma-relationships/",
-          "snippet": "Signos raises $20M as it eyes health plan, pharma relationships"
         }
       ]
     },
