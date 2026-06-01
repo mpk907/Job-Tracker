@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-05-31T09:51:32Z",
+  "generated_at": "2026-06-01T11:07:05Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
-    "MedCity News": 6,
     "BioPharma Dive": 1,
+    "MedCity News": 5,
+    "STAT News": 1,
     "RockHealth": 2
   },
   "count": 577,
@@ -240,25 +241,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "AI Health Check",
-      "website": "",
-      "one_liner": "AI Health Check: No Governance, No Trust",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/ai-health-check-no-governance-no-trust/",
-          "snippet": "AI Health Check: No Governance, No Trust"
-        }
-      ]
     },
     {
       "name": "AIOS",
@@ -2846,7 +2828,7 @@
       "stage": "Early",
       "batch": "Fall 2025",
       "team_size": 3,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3112,7 +3094,7 @@
       "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 13,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6476,6 +6458,30 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Medical schools diversified. So where are all the diverse doctors?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/01/residency-diversity-med-school-disciplinary-action-dei-equity-black-latino/?utm_campaign=rss",
+          "snippet": "Opinion: Medical schools diversified. So where are all the diverse doctors?"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/01/us-military-medical-corps-recruitment-incentives/?utm_campaign=rss",
+          "snippet": "Opinion: The military’s medical corps has a serious recruitment problem"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
