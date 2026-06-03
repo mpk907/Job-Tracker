@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-06-02T10:02:02Z",
+  "generated_at": "2026-06-03T10:32:36Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
-    "Endpoints News": 1,
-    "BioPharma Dive": 1,
+    "Y Combinator": 162,
+    "Endpoints News": 3,
     "MedCity News": 5,
-    "STAT News": 1,
+    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -342,7 +341,7 @@
     {
       "name": "Allen Institute",
       "website": "",
-      "one_liner": "Allen Institute launches $200M effort to turn brain atlas lessons into medicines",
+      "one_liner": "Allen Institute launches $400M effort to turn brain atlas lessons into medicines",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -354,7 +353,7 @@
         {
           "source": "Endpoints News",
           "url": "https://endpoints.news/allen-institute-launches-200m-effort-to-turn-brain-atlas-lessons-into-medicines/",
-          "snippet": "Allen Institute launches $200M effort to turn brain atlas lessons into medicines"
+          "snippet": "Allen Institute launches $400M effort to turn brain atlas lessons into medicines"
         }
       ]
     },
@@ -586,6 +585,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Anti-aging biotech NewLimit",
+      "website": "",
+      "one_liner": "Anti-aging biotech NewLimit raises $435M at $3B+ valuation",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/",
+          "snippet": "Anti-aging biotech NewLimit raises $435M at $3B+ valuation"
+        }
+      ]
     },
     {
       "name": "Apero Health",
@@ -1184,25 +1202,6 @@
       ]
     },
     {
-      "name": "Bristol Myers",
-      "website": "",
-      "one_liner": "Bristol Myers unveils data for one of its next-gen blood cancer drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/bristol-myers-mezigdomide-asco-2026-successor-results/821509/",
-          "snippet": "Bristol Myers unveils data for one of its next-gen blood cancer drugs"
-        }
-      ]
-    },
-    {
       "name": "Broad Institute of MIT and Harvard",
       "website": "",
       "one_liner": "Broad Institute of MIT and Harvard - Cambridge/Boston, MA - ONSITE Do you want to help cure cancer? We are a motivated team of software engineers building scalable tools to analyze massive amounts of genomic data using cloud compute softwar",
@@ -1477,19 +1476,6 @@
           "snippet": "CareMessage (YC W14) | Remote DevOps Engineer | Remote (North, Central or South America) | Full Time |  https://www.caremessage.org/careers  CareMessage is a no"
         }
       ]
-    },
-    {
-      "name": "CareSwift",
-      "website": "https://www.careswift.com/",
-      "one_liner": "AI scribe for Ambulance Reports",
-      "stage": "Early",
-      "batch": "Summer 2025",
-      "team_size": 2,
-      "location": "New York, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Catapult",
@@ -3216,25 +3202,6 @@
       ]
     },
     {
-      "name": "From Benefits to Protection",
-      "website": "",
-      "one_liner": "From Benefits to Protection: Medical Debt Belongs in Employer Strategy",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/from-benefits-to-protection-medical-debt-belongs-in-employer-strategy/",
-          "snippet": "From Benefits to Protection: Medical Debt Belongs in Employer Strategy"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -4210,6 +4177,25 @@
       ]
     },
     {
+      "name": "Ilant Health",
+      "website": "",
+      "one_liner": "Ilant Health Raises $15M to Advance Obesity Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/ilant-health-raises-15m-to-advance-obesity-care/",
+          "snippet": "Ilant Health Raises $15M to Advance Obesity Care"
+        }
+      ]
+    },
+    {
       "name": "Illuminant Surgical",
       "website": "https://www.illuminant.ai/",
       "one_liner": "A new way of seeing inside the human body.",
@@ -5173,6 +5159,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9816080",
           "snippet": "Locus Energy:  http://locusenergy.com/  San Francisco, CA. Remotes, interns and those needing visas are encouraged to apply. About us: We’re dedicated to the pr"
+        }
+      ]
+    },
+    {
+      "name": "Longevity startup NewLimit",
+      "website": "",
+      "one_liner": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/?utm_campaign=rss",
+          "snippet": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial"
         }
       ]
     },
@@ -6291,6 +6296,25 @@
       ]
     },
     {
+      "name": "Obesity care startup Ilant Health",
+      "website": "",
+      "one_liner": "Obesity care startup Ilant Health raises $15M",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/obesity-care-startup-ilant-health-raises-15m/",
+          "snippet": "Obesity care startup Ilant Health raises $15M"
+        }
+      ]
+    },
+    {
       "name": "Octopus Energy",
       "website": "",
       "one_liner": "Octopus Energy | Hammersmith, London, UK | On-site | Full-time We are a new, tech-focussed energy supplier for the UK market, and we're looking for programmers (especially with Python experience) to join us. We're building a modern, event-d",
@@ -6482,7 +6506,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: The virtual end of the doctor’s office waiting room",
+      "one_liner": "Opinion: The Amish way of health care",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6493,13 +6517,18 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/?utm_campaign=rss",
-          "snippet": "Opinion: The virtual end of the doctor’s office waiting room"
+          "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
+          "snippet": "Opinion: The Amish way of health care"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/01/residency-diversity-med-school-disciplinary-action-dei-equity-black-latino/?utm_campaign=rss",
-          "snippet": "Opinion: Medical schools diversified. So where are all the diverse doctors?"
+          "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
+          "snippet": "Opinion: The medical-billing AI arms race between providers and insurance"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/?utm_campaign=rss",
+          "snippet": "Opinion: The virtual end of the doctor’s office waiting room"
         }
       ]
     },
@@ -6787,19 +6816,6 @@
       "batch": "Summer 2021",
       "team_size": 20,
       "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Paratus Health",
-      "website": "https://paratushealth.com/",
-      "one_liner": "Medical Voice Agents for Patient Management",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 6,
-      "location": "Menlo Park, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -8416,6 +8432,19 @@
           "snippet": "Silversheet | Full Stack Engineers, Product Managers, Senior QA | Los Angeles, CA + San Diego, CA + Portland, OR | REMOTE Silversheet is a healthcare SAAS start"
         }
       ]
+    },
+    {
+      "name": "Simbie AI",
+      "website": "http://www.simbie.ai",
+      "one_liner": "We get patients to their next appointment",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 5,
+      "location": "New York, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "SimpleLegal",
