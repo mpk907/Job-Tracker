@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-03T10:32:36Z",
+  "generated_at": "2026-06-04T09:43:32Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
-    "Endpoints News": 3,
-    "MedCity News": 5,
+    "Endpoints News": 4,
+    "MedCity News": 6,
     "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -183,6 +183,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "ADC biotech Ona Therapeutics",
+      "website": "",
+      "one_liner": "ADC biotech Ona Therapeutics secures $86.6M in Series B raise",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/adc-biotech-ona-therapeutics-secures-86-6m-in-series-b-raise/",
+          "snippet": "ADC biotech Ona Therapeutics secures $86.6M in Series B raise"
+        }
+      ]
     },
     {
       "name": "adyn",
@@ -3081,6 +3100,25 @@
       ]
     },
     {
+      "name": "Former FDA Officials",
+      "website": "",
+      "one_liner": "Former FDA Officials: There’s Opportunity to Rebuild the Agency — But Not the Way It Was",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/fda-rick-pazdur-regulation-cber-cder-stat-asco/",
+          "snippet": "Former FDA Officials: There’s Opportunity to Rebuild the Agency — But Not the Way It Was"
+        }
+      ]
+    },
+    {
       "name": "Fort",
       "website": "https://fort.cx",
       "one_liner": "Strength Tracking Wearable",
@@ -5473,25 +5511,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: The Complicated History Behind Hormone Replacement Therapy",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/medcity-femfwd-hrt-veradigm/",
-          "snippet": "MedCity FemFwd: The Complicated History Behind Hormone Replacement Therapy"
-        }
-      ]
-    },
-    {
       "name": "MedCrypt",
       "website": "https://www.medcrypt.co",
       "one_liner": "MedCrypt gives medical device vendors cybersecurity features in a few…",
@@ -6506,7 +6525,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: The Amish way of health care",
+      "one_liner": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6517,6 +6536,11 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
+          "snippet": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
           "snippet": "Opinion: The Amish way of health care"
         },
@@ -6524,11 +6548,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
           "snippet": "Opinion: The medical-billing AI arms race between providers and insurance"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/?utm_campaign=rss",
-          "snippet": "Opinion: The virtual end of the doctor’s office waiting room"
         }
       ]
     },
@@ -6983,6 +7002,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22668367",
           "snippet": "Perk Motivation ( https://perkmotivation.com ) | Minneapolis, MN | Full-time | Onsite & Remote | Software Engineer, Product Manager Instead of wondering what's "
+        }
+      ]
+    },
+    {
+      "name": "Peterson Philanthropies",
+      "website": "",
+      "one_liner": "Peterson Philanthropies Unveils Employer Health Analytics Company via $50M Commitment",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/peterson-philanthropies-employer-health-analytics/",
+          "snippet": "Peterson Philanthropies Unveils Employer Health Analytics Company via $50M Commitment"
         }
       ]
     },
@@ -8666,7 +8704,7 @@
       "name": "Sohar Health",
       "website": "https://www.soharhealth.com",
       "one_liner": "AI-powered insurance verification to boost patient conversion.",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 8,
       "location": "New York, NY, USA; Remote",
