@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-04T09:43:32Z",
+  "generated_at": "2026-06-05T09:05:44Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
-    "Endpoints News": 4,
+    "Endpoints News": 2,
     "MedCity News": 6,
-    "STAT News": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 582,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -262,6 +262,25 @@
       "evidence": []
     },
     {
+      "name": "AI in Drug Discovery",
+      "website": "",
+      "one_liner": "AI in Drug Discovery: Surveying the Breadth of the Challenges",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/ai-in-drug-discovery-surveying-the-breadth-of-the-challenges/",
+          "snippet": "AI in Drug Discovery: Surveying the Breadth of the Challenges"
+        }
+      ]
+    },
+    {
       "name": "AIOS",
       "website": "https://www.boltpharmacy.co.uk/",
       "one_liner": "Building AI-native infrastructure for the next era of care.",
@@ -356,25 +375,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Allen Institute",
-      "website": "",
-      "one_liner": "Allen Institute launches $400M effort to turn brain atlas lessons into medicines",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/allen-institute-launches-200m-effort-to-turn-brain-atlas-lessons-into-medicines/",
-          "snippet": "Allen Institute launches $400M effort to turn brain atlas lessons into medicines"
-        }
-      ]
     },
     {
       "name": "AlphaSheets",
@@ -3297,25 +3297,6 @@
       ]
     },
     {
-      "name": "Garner Health",
-      "website": "",
-      "one_liner": "Garner Health Secures $100M to Connect Patients with High-Performing Doctors",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/garner-health-quality-providers/",
-          "snippet": "Garner Health Secures $100M to Connect Patients with High-Performing Doctors"
-        }
-      ]
-    },
-    {
       "name": "Geeky Medics",
       "website": "",
       "one_liner": "Geeky Medics | Front-end developer (Bootstrap, Jquery)| Newcastle, UK | Part-time | Remote |  https://geekyquiz.com  Geeky Medics is a free online education platform for medical students. I founded it almost 10 years ago and have bootstrapp",
@@ -3861,25 +3842,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815888",
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
-        }
-      ]
-    },
-    {
-      "name": "Healthcare Moves",
-      "website": "",
-      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/05/healthcare-moves-layoffs-executive/",
-          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
         }
       ]
     },
@@ -5201,25 +5163,6 @@
       ]
     },
     {
-      "name": "Longevity startup NewLimit",
-      "website": "",
-      "one_liner": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/?utm_campaign=rss",
-          "snippet": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial"
-        }
-      ]
-    },
-    {
       "name": "Loula",
       "website": "https://joinloula.com",
       "one_liner": "Enabling birth & postpartum doulas to easily accept insurance.",
@@ -6315,25 +6258,6 @@
       ]
     },
     {
-      "name": "Obesity care startup Ilant Health",
-      "website": "",
-      "one_liner": "Obesity care startup Ilant Health raises $15M",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/obesity-care-startup-ilant-health-raises-15m/",
-          "snippet": "Obesity care startup Ilant Health raises $15M"
-        }
-      ]
-    },
-    {
       "name": "Octopus Energy",
       "website": "",
       "one_liner": "Octopus Energy | Hammersmith, London, UK | On-site | Full-time We are a new, tech-focussed energy supplier for the UK market, and we're looking for programmers (especially with Python experience) to join us. We're building a modern, event-d",
@@ -6525,7 +6449,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
+      "one_liner": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6536,18 +6460,13 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/05/universal-health-care-system-tradeoffs-accountability/?utm_campaign=rss",
+          "snippet": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
           "snippet": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
-          "snippet": "Opinion: The Amish way of health care"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
-          "snippet": "Opinion: The medical-billing AI arms race between providers and insurance"
         }
       ]
     },
@@ -8892,6 +8811,25 @@
       "evidence": []
     },
     {
+      "name": "Startup",
+      "website": "",
+      "one_liner": "Startup Secures $86M to Take On One of the Challenges for ADCs in Breast Cancer",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/startup-secures-86m-to-take-on-one-of-the-challenges-for-adcs-in-breast-cancer/",
+          "snippet": "Startup Secures $86M to Take On One of the Challenges for ADCs in Breast Cancer"
+        }
+      ]
+    },
+    {
       "name": "Stasis Labs",
       "website": "",
       "one_liner": "Stasis Labs |  https://www.stasislabs.com  | Onsite Bangalore, India or Los Angeles, USA Up to 75% of injuries and deaths in hospitals happen to patients who lack continuous monitoring technology. Existing solutions are expensive and comple",
@@ -9324,9 +9262,9 @@
       "name": "Tennr",
       "website": "https://www.tennr.com",
       "one_liner": "Fast, Transparent Patient Experiences",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2023",
-      "team_size": 135,
+      "team_size": 195,
       "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
