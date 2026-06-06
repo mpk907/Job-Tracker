@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T09:05:44Z",
+  "generated_at": "2026-06-06T08:24:23Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
-    "Endpoints News": 2,
+    "Y Combinator": 163,
+    "Endpoints News": 1,
     "MedCity News": 6,
     "STAT News": 1,
     "RockHealth": 2
@@ -604,25 +604,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Anti-aging biotech NewLimit",
-      "website": "",
-      "one_liner": "Anti-aging biotech NewLimit raises $435M at $3B+ valuation",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/",
-          "snippet": "Anti-aging biotech NewLimit raises $435M at $3B+ valuation"
-        }
-      ]
     },
     {
       "name": "Apero Health",
@@ -6462,11 +6443,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/05/universal-health-care-system-tradeoffs-accountability/?utm_campaign=rss",
           "snippet": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
-          "snippet": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story"
         }
       ]
     },
@@ -6923,6 +6899,19 @@
           "snippet": "Perk Motivation ( https://perkmotivation.com ) | Minneapolis, MN | Full-time | Onsite & Remote | Software Engineer, Product Manager Instead of wondering what's "
         }
       ]
+    },
+    {
+      "name": "Perspectives Health",
+      "website": "https://perspectiveshealth.ai/",
+      "one_liner": "Automating away admin for behavioral health clinics",
+      "stage": "Early",
+      "batch": "Summer 2025",
+      "team_size": 4,
+      "location": "Chicago, IL, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Peterson Philanthropies",
@@ -7945,25 +7934,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557402",
           "snippet": "San Francisco, CA | Sys Admin / Developer (CentOS, ESXi, Ansible, Python, Medical Imaging)\nCenter for Imaging of Neurodegenerative Diseases (CIND) The CIND is a"
-        }
-      ]
-    },
-    {
-      "name": "Scaling AI in Health Systems",
-      "website": "",
-      "one_liner": "Scaling AI in Health Systems: From Innovation to Sustainable Implementation",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/scaling-ai-in-health-systems-from-innovation-to-sustainable-implementation/",
-          "snippet": "Scaling AI in Health Systems: From Innovation to Sustainable Implementation"
         }
       ]
     },
@@ -9262,7 +9232,7 @@
       "name": "Tennr",
       "website": "https://www.tennr.com",
       "one_liner": "Fast, Transparent Patient Experiences",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2023",
       "team_size": 195,
       "location": "New York, NY, USA",
@@ -10230,6 +10200,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12849192",
           "snippet": "Winnie |  https://winnie.com  | San Francisco, CA | ONSITE | Full-time\nSenior Backend engineer: We're hiring a backend engineer to tackle some of the most chall"
+        }
+      ]
+    },
+    {
+      "name": "Winona",
+      "website": "",
+      "one_liner": "Winona Launches Menopause Research Initiative",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/winona-launches-menopause-research-initiative/",
+          "snippet": "Winona Launches Menopause Research Initiative"
         }
       ]
     },
