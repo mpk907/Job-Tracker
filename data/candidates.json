@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:24:23Z",
+  "generated_at": "2026-06-07T08:45:53Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 163,
@@ -6430,7 +6430,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems",
+      "one_liner": "Opinion: How the Amish think about vaccines, health care costs, and much more",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6439,6 +6439,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/?utm_campaign=rss",
+          "snippet": "Opinion: How the Amish think about vaccines, health care costs, and much more"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/05/universal-health-care-system-tradeoffs-accountability/?utm_campaign=rss",
