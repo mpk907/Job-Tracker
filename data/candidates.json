@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-06-08T10:15:18Z",
+  "generated_at": "2026-06-09T08:59:16Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
-    "Endpoints News": 1,
-    "MedCity News": 6,
+    "Y Combinator": 165,
+    "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2,
     "BioPharma Dive": 1
   },
-  "count": 581,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -184,25 +183,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "ADC biotech Ona Therapeutics",
-      "website": "",
-      "one_liner": "ADC biotech Ona Therapeutics secures $86.6M in Series B raise",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/adc-biotech-ona-therapeutics-secures-86-6m-in-series-b-raise/",
-          "snippet": "ADC biotech Ona Therapeutics secures $86.6M in Series B raise"
-        }
-      ]
     },
     {
       "name": "adyn",
@@ -753,8 +733,21 @@
       "one_liner": "AI Browser Workforce for Operations Teams",
       "stage": "Early",
       "batch": "Winter 2025",
-      "team_size": 5,
+      "team_size": 8,
       "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Astraea",
+      "website": "https://tryastraea.com",
+      "one_liner": "Agents that accelerate clinical trials.",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 2,
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -1676,7 +1669,7 @@
     {
       "name": "Clearest Health",
       "website": "https://clearesthealth.com/",
-      "one_liner": "Rebuilding trust in American health insurance.",
+      "one_liner": "AI revenue recovery for underpaid healthcare claims.",
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 3,
@@ -4159,25 +4152,6 @@
       ]
     },
     {
-      "name": "Ilant Health",
-      "website": "",
-      "one_liner": "Ilant Health Raises $15M to Advance Obesity Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/ilant-health-raises-15m-to-advance-obesity-care/",
-          "snippet": "Ilant Health Raises $15M to Advance Obesity Care"
-        }
-      ]
-    },
-    {
       "name": "Illuminant Surgical",
       "website": "https://www.illuminant.ai/",
       "one_liner": "A new way of seeing inside the human body.",
@@ -6444,7 +6418,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How the Amish think about vaccines, health care costs, and much more",
+      "one_liner": "Opinion: Why STAT is sticking with ‘health care’ as two words",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6455,8 +6429,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/?utm_campaign=rss",
-          "snippet": "Opinion: How the Amish think about vaccines, health care costs, and much more"
+          "url": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
+          "snippet": "Opinion: Why STAT is sticking with ‘health care’ as two words"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/09/pig-organ-transplant-animal-testing-impact-xenotransplantation/?utm_campaign=rss",
+          "snippet": "Opinion: Ending animal testing could set back xenotransplantation just as the field is poised for a breakthrough"
         }
       ]
     },
@@ -6920,7 +6899,7 @@
       "one_liner": "Automating away admin for behavioral health clinics",
       "stage": "Early",
       "batch": "Summer 2025",
-      "team_size": 4,
+      "team_size": 5,
       "location": "Chicago, IL, USA",
       "sources": [
         "Y Combinator"
@@ -9182,9 +9161,9 @@
       "name": "Tamarind Bio",
       "website": "https://www.tamarind.bio",
       "one_liner": "AI Inference Platform for Drug Discovery",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2024",
-      "team_size": 15,
+      "team_size": 20,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -9265,9 +9244,9 @@
       "name": "Tennr",
       "website": "https://www.tennr.com",
       "one_liner": "Fast, Transparent Patient Experiences",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2023",
-      "team_size": 195,
+      "team_size": 205,
       "location": "New York, NY, USA",
       "sources": [
         "Y Combinator"
