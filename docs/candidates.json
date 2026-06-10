@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-06-09T08:59:16Z",
+  "generated_at": "2026-06-10T09:39:58Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
-    "MedCity News": 5,
+    "Y Combinator": 164,
+    "MedCity News": 3,
+    "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2,
     "BioPharma Dive": 1
   },
-  "count": 580,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -492,6 +493,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813497",
           "snippet": "Analytics Media Group | Sr. Engineering, SysAd, and C-level roles | NYC | Full-Time | ONSITE (mostly)  http://amg.tv  Our engineers work with billions of rows o"
+        }
+      ]
+    },
+    {
+      "name": "and biotech salaries",
+      "website": "",
+      "one_liner": "and biotech salaries: Top-paying companies of 2025",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/pharma-and-biotech-salaries-top-paying-companies-of-2025/",
+          "snippet": "and biotech salaries: Top-paying companies of 2025"
         }
       ]
     },
@@ -3075,25 +3095,6 @@
       ]
     },
     {
-      "name": "Former FDA Officials",
-      "website": "",
-      "one_liner": "Former FDA Officials: There’s Opportunity to Rebuild the Agency — But Not the Way It Was",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/fda-rick-pazdur-regulation-cber-cder-stat-asco/",
-          "snippet": "Former FDA Officials: There’s Opportunity to Rebuild the Agency — But Not the Way It Was"
-        }
-      ]
-    },
-    {
       "name": "Fort",
       "website": "https://fort.cx",
       "one_liner": "Strength Tracking Wearable",
@@ -5410,19 +5411,6 @@
       "evidence": []
     },
     {
-      "name": "MedCrypt",
-      "website": "https://www.medcrypt.co",
-      "one_liner": "MedCrypt gives medical device vendors cybersecurity features in a few…",
-      "stage": "Growth",
-      "batch": "Winter 2019",
-      "team_size": 16,
-      "location": "San Diego, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6409,7 +6397,7 @@
       "stage": "Growth",
       "batch": "Winter 2020",
       "team_size": 130,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA; New York, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6418,7 +6406,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Why STAT is sticking with ‘health care’ as two words",
+      "one_liner": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6427,6 +6415,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
+          "snippet": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
@@ -6905,25 +6898,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Peterson Philanthropies",
-      "website": "",
-      "one_liner": "Peterson Philanthropies Unveils Employer Health Analytics Company via $50M Commitment",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/peterson-philanthropies-employer-health-analytics/",
-          "snippet": "Peterson Philanthropies Unveils Employer Health Analytics Company via $50M Commitment"
-        }
-      ]
     },
     {
       "name": "Pex",
@@ -9161,7 +9135,7 @@
       "name": "Tamarind Bio",
       "website": "https://www.tamarind.bio",
       "one_liner": "AI Inference Platform for Drug Discovery",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2024",
       "team_size": 20,
       "location": "San Francisco, CA, USA",
@@ -9244,7 +9218,7 @@
       "name": "Tennr",
       "website": "https://www.tennr.com",
       "one_liner": "Fast, Transparent Patient Experiences",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2023",
       "team_size": 205,
       "location": "New York, NY, USA",
