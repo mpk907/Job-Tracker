@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-06-10T09:39:58Z",
+  "generated_at": "2026-06-11T10:03:29Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
+    "Endpoints News": 4,
     "MedCity News": 3,
-    "Endpoints News": 1,
     "STAT News": 1,
-    "RockHealth": 2,
-    "BioPharma Dive": 1
+    "RockHealth": 2
   },
-  "count": 578,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -242,25 +241,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "AI in Drug Discovery",
-      "website": "",
-      "one_liner": "AI in Drug Discovery: Surveying the Breadth of the Challenges",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/ai-in-drug-discovery-surveying-the-breadth-of-the-challenges/",
-          "snippet": "AI in Drug Discovery: Surveying the Breadth of the Challenges"
-        }
-      ]
     },
     {
       "name": "AIOS",
@@ -2309,6 +2289,25 @@
       ]
     },
     {
+      "name": "DiMe",
+      "website": "",
+      "one_liner": "DiMe Launches New Initiative for Virtual-First Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/dime-launches-new-initiative-for-virtual-first-care/",
+          "snippet": "DiMe Launches New Initiative for Virtual-First Care"
+        }
+      ]
+    },
+    {
       "name": "Discord",
       "website": "",
       "one_liner": "Discord | San Francisco, CA | ONSITE | Full-Time | Hiring for all Engineering Roles  https://discordapp.com/  We're reinventing the way that people communicate while playing PC games. Discord is kind of like Skype / Slack except it has a lo",
@@ -2818,6 +2817,25 @@
       "evidence": []
     },
     {
+      "name": "Ethyreal",
+      "website": "",
+      "one_liner": "Ethyreal lands $101M to treat both Graves' and thyroid eye disease",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/ethyreal-lands-101m-to-treat-both-graves-and-thyroid-eye-disease/",
+          "snippet": "Ethyreal lands $101M to treat both Graves' and thyroid eye disease"
+        }
+      ]
+    },
+    {
       "name": "Evidation Health",
       "website": "",
       "one_liner": "Evidation Health | software / signal processing / data / analysis / QA / project mgmg / product management | Santa Barbara, Bay Area, and REMOTE | Full-time Evidation Health runs distributed virtual health care studies in partnership with r",
@@ -3111,9 +3129,9 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 13,
+      "team_size": 15,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -3837,10 +3855,10 @@
     {
       "name": "Healthtech 1",
       "website": "https://www.healthtech1.uk/",
-      "one_liner": "Automating repetitive processes in healthcare",
+      "one_liner": "Navigating patients to the right place, first time.",
       "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 28,
+      "team_size": 40,
       "location": "London, England, United Kingdom",
       "sources": [
         "Y Combinator"
@@ -6406,7 +6424,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
+      "one_liner": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6417,18 +6435,13 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/11/open-access-journal-fees-nature-wiley-elsevier-nih/?utm_campaign=rss",
+          "snippet": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
           "snippet": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
-          "snippet": "Opinion: Why STAT is sticking with ‘health care’ as two words"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/09/pig-organ-transplant-animal-testing-impact-xenotransplantation/?utm_campaign=rss",
-          "snippet": "Opinion: Ending animal testing could set back xenotransplantation just as the field is poised for a breakthrough"
         }
       ]
     },
@@ -6830,6 +6843,25 @@
       ]
     },
     {
+      "name": "pay analysis",
+      "website": "",
+      "one_liner": "pay analysis: 12 execs with $35M+ M&A golden parachutes",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/biotech-pay-analysis-12-execs-with-35m-ma-golden-parachutes/",
+          "snippet": "pay analysis: 12 execs with $35M+ M&A golden parachutes"
+        }
+      ]
+    },
+    {
       "name": "Pear going public via SPAC",
       "website": "",
       "one_liner": "Pear going public via SPAC: Take a bite out of that",
@@ -7124,25 +7156,6 @@
       ]
     },
     {
-      "name": "Precision under pressure",
-      "website": "",
-      "one_liner": "Precision under pressure: Logistic solutions for nuclear medicine scalability",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/precision-under-pressure-logistic-solutions-for-nuclear-medicine-scalabili/821374/",
-          "snippet": "Precision under pressure: Logistic solutions for nuclear medicine scalability"
-        }
-      ]
-    },
-    {
       "name": "Presidential Innovation Fellows",
       "website": "",
       "one_liner": "Presidential Innovation Fellows | Washington, DC | ONSITE | Full-time The Presidential Innovation Fellows (PIF) program is looking for high-performing data scientists, designers, engineers, executives, innovators, product managers, and tech",
@@ -7346,6 +7359,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15388717",
           "snippet": "Quartzy | Palo Alto, CA | Onsite (Relocation provided) Quartzy helps hundreds of thousands of scientists improve the efficiency of their research by saving them"
+        }
+      ]
+    },
+    {
+      "name": "Quest to Drug the Undruggable",
+      "website": "",
+      "one_liner": "Parabilis Medicines’ Quest to Drug the Undruggable Picks Up $745M From Upsized IPO",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/parabilis-medicines-ipo-helicon-peptide-cancer-desmoid-tumor-wnt-beta-catenin-pbls/",
+          "snippet": "Parabilis Medicines’ Quest to Drug the Undruggable Picks Up $745M From Upsized IPO"
         }
       ]
     },
@@ -8239,6 +8271,25 @@
       "evidence": []
     },
     {
+      "name": "Shattuck",
+      "website": "",
+      "one_liner": "Shattuck raises $75M; Servier inks neuro ASO pact with n-Lorem Foundation",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/shattuck-raises-75m-servier-inks-neuro-aso-pact-with-n-lorem-foundation/",
+          "snippet": "Shattuck raises $75M; Servier inks neuro ASO pact with n-Lorem Foundation"
+        }
+      ]
+    },
+    {
       "name": "Shimmer",
       "website": "https://shimmer.care",
       "one_liner": "1:1 ADHD coaching, 5-10X More affordable than alternatives",
@@ -8767,25 +8818,6 @@
       "evidence": []
     },
     {
-      "name": "Startup",
-      "website": "",
-      "one_liner": "Startup Secures $86M to Take On One of the Challenges for ADCs in Breast Cancer",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/startup-secures-86m-to-take-on-one-of-the-challenges-for-adcs-in-breast-cancer/",
-          "snippet": "Startup Secures $86M to Take On One of the Challenges for ADCs in Breast Cancer"
-        }
-      ]
-    },
-    {
       "name": "Stasis Labs",
       "website": "",
       "one_liner": "Stasis Labs |  https://www.stasislabs.com  | Onsite Bangalore, India or Los Angeles, USA Up to 75% of injuries and deaths in hospitals happen to patients who lack continuous monitoring technology. Existing solutions are expensive and comple",
@@ -9086,7 +9118,7 @@
       "one_liner": "Medical chart intelligence",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 8,
+      "team_size": 10,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
