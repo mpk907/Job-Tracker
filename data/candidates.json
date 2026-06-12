@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-11T10:03:29Z",
+  "generated_at": "2026-06-12T09:55:01Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
+    "MedCity News": 4,
     "Endpoints News": 4,
-    "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -101,6 +101,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544320",
           "snippet": "Abilitie | Full-Stack Software Engineer | Austin, TX | Full-Time |  http://www.abilitie.com  Abilitie is an energetic 10-person company located at the Capital F"
+        }
+      ]
+    },
+    {
+      "name": "Abridge Goes Beyond Documentation",
+      "website": "",
+      "one_liner": "Abridge Goes Beyond Documentation: 4 Updates",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/abridge-clinical-ai/",
+          "snippet": "Abridge Goes Beyond Documentation: 4 Updates"
         }
       ]
     },
@@ -473,25 +492,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813497",
           "snippet": "Analytics Media Group | Sr. Engineering, SysAd, and C-level roles | NYC | Full-Time | ONSITE (mostly)  http://amg.tv  Our engineers work with billions of rows o"
-        }
-      ]
-    },
-    {
-      "name": "and biotech salaries",
-      "website": "",
-      "one_liner": "and biotech salaries: Top-paying companies of 2025",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/pharma-and-biotech-salaries-top-paying-companies-of-2025/",
-          "snippet": "and biotech salaries: Top-paying companies of 2025"
         }
       ]
     },
@@ -3129,7 +3129,7 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 15,
       "location": "New York City, NY, USA",
@@ -3230,6 +3230,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
+        }
+      ]
+    },
+    {
+      "name": "From Copilots to Clinical Judgment",
+      "website": "",
+      "one_liner": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/from-copilots-to-clinical-judgment-the-next-phase-of-ai-in-digital-behavioral-health/",
+          "snippet": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health"
         }
       ]
     },
@@ -5937,6 +5956,25 @@
       ]
     },
     {
+      "name": "Neion Bio",
+      "website": "",
+      "one_liner": "Neion Bio raises $23M Series A to make proteins from chicken eggs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/neion-bio-raises-23m-series-a-to-make-proteins-from-chicken-eggs/",
+          "snippet": "Neion Bio raises $23M Series A to make proteins from chicken eggs"
+        }
+      ]
+    },
+    {
       "name": "Neodocs",
       "website": "https://www.neodocs.in",
       "one_liner": "Instant lab tests on your smartphone",
@@ -6424,7 +6462,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850",
+      "one_liner": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6435,13 +6473,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/11/open-access-journal-fees-nature-wiley-elsevier-nih/?utm_campaign=rss",
-          "snippet": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
-          "snippet": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72"
+          "url": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
+          "snippet": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule"
         }
       ]
     },
@@ -10218,25 +10251,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12849192",
           "snippet": "Winnie |  https://winnie.com  | San Francisco, CA | ONSITE | Full-time\nSenior Backend engineer: We're hiring a backend engineer to tackle some of the most chall"
-        }
-      ]
-    },
-    {
-      "name": "Winona",
-      "website": "",
-      "one_liner": "Winona Launches Menopause Research Initiative",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/winona-launches-menopause-research-initiative/",
-          "snippet": "Winona Launches Menopause Research Initiative"
         }
       ]
     },
