@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T09:55:01Z",
+  "generated_at": "2026-06-13T08:46:08Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 4,
-    "Endpoints News": 4,
-    "STAT News": 1,
+    "MedCity News": 5,
+    "Endpoints News": 2,
+    "STAT News": 2,
     "RockHealth": 2
   },
   "count": 581,
@@ -743,7 +743,7 @@
     {
       "name": "Astraea",
       "website": "https://tryastraea.com",
-      "one_liner": "Agents that accelerate clinical trials.",
+      "one_liner": "AI Operating System for Clinical Development",
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 2,
@@ -1103,6 +1103,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9866651",
           "snippet": "Bomgar Corporation | Ridgeland, MS | Full Time, Onsite Preferred, VISA |  https://www.bomgar.com/jobs  Bomgar has immediate openings for strong C++ Software Dev"
+        }
+      ]
+    },
+    {
+      "name": "Bot vs. Bot",
+      "website": "",
+      "one_liner": "Bot vs. Bot: Why Healthcare AI Progress Might Be Stuck",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/healthcare-ai-hfma/",
+          "snippet": "Bot vs. Bot: Why Healthcare AI Progress Might Be Stuck"
         }
       ]
     },
@@ -2815,25 +2834,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Ethyreal",
-      "website": "",
-      "one_liner": "Ethyreal lands $101M to treat both Graves' and thyroid eye disease",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/ethyreal-lands-101m-to-treat-both-graves-and-thyroid-eye-disease/",
-          "snippet": "Ethyreal lands $101M to treat both Graves' and thyroid eye disease"
-        }
-      ]
     },
     {
       "name": "Evidation Health",
@@ -6462,7 +6462,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
+      "one_liner": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6471,6 +6471,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
+          "snippet": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
@@ -6876,25 +6881,6 @@
       ]
     },
     {
-      "name": "pay analysis",
-      "website": "",
-      "one_liner": "pay analysis: 12 execs with $35M+ M&A golden parachutes",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/biotech-pay-analysis-12-execs-with-35m-ma-golden-parachutes/",
-          "snippet": "pay analysis: 12 execs with $35M+ M&A golden parachutes"
-        }
-      ]
-    },
-    {
       "name": "Pear going public via SPAC",
       "website": "",
       "one_liner": "Pear going public via SPAC: Take a bite out of that",
@@ -7281,6 +7267,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Prometheus",
+      "website": "",
+      "one_liner": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
+          "snippet": "STAT+: Prometheus raises $12 billion in capital for artificial engineers"
+        }
+      ]
     },
     {
       "name": "Prosper",
