@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-13T08:46:08Z",
+  "generated_at": "2026-06-14T09:03:54Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "MedCity News": 5,
-    "Endpoints News": 2,
+    "Endpoints News": 1,
     "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -567,7 +567,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 5,
-      "location": "San Francisco, CA, USA",
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -1666,7 +1666,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 9,
-      "location": "San Francisco, CA, USA",
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -8307,25 +8307,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Shattuck",
-      "website": "",
-      "one_liner": "Shattuck raises $75M; Servier inks neuro ASO pact with n-Lorem Foundation",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/shattuck-raises-75m-servier-inks-neuro-aso-pact-with-n-lorem-foundation/",
-          "snippet": "Shattuck raises $75M; Servier inks neuro ASO pact with n-Lorem Foundation"
-        }
-      ]
     },
     {
       "name": "Shimmer",
