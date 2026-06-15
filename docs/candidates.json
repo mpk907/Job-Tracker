@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-14T10:32:43Z",
+  "generated_at": "2026-06-15T11:42:52Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "MedCity News": 5,
-    "Endpoints News": 1,
+    "Endpoints News": 2,
     "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -567,7 +567,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 5,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -747,7 +747,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 2,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -773,7 +773,7 @@
       "stage": "Early",
       "batch": "Winter 2021",
       "team_size": 2,
-      "location": "Mountain View, CA, USA; Oakland, CA, USA",
+      "location": "San Francisco, CA, USA; Oakland, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3957,6 +3957,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22669196",
           "snippet": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/"
+        }
+      ]
+    },
+    {
+      "name": "HMNC Brain Health",
+      "website": "",
+      "one_liner": "HMNC Brain Health raises $50M Series B to advance two depression drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/hmnc-brain-health-raises-50m-series-b-to-advance-two-depression-drugs/",
+          "snippet": "HMNC Brain Health raises $50M Series B to advance two depression drugs"
         }
       ]
     },
