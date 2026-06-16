@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-15T11:42:52Z",
+  "generated_at": "2026-06-16T10:52:29Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "MedCity News": 5,
-    "Endpoints News": 2,
-    "STAT News": 2,
+    "Endpoints News": 1,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -747,7 +747,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 2,
-      "location": "San Francisco, CA, USA",
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -5975,25 +5975,6 @@
       ]
     },
     {
-      "name": "Neion Bio",
-      "website": "",
-      "one_liner": "Neion Bio raises $23M Series A to make proteins from chicken eggs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/neion-bio-raises-23m-series-a-to-make-proteins-from-chicken-eggs/",
-          "snippet": "Neion Bio raises $23M Series A to make proteins from chicken eggs"
-        }
-      ]
-    },
-    {
       "name": "Neodocs",
       "website": "https://www.neodocs.in",
       "one_liner": "Instant lab tests on your smartphone",
@@ -6481,7 +6462,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
+      "one_liner": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6492,13 +6473,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
-          "snippet": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73"
+          "url": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
+          "snippet": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
-          "snippet": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule"
+          "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
+          "snippet": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73"
         }
       ]
     },
@@ -7286,25 +7267,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Prometheus",
-      "website": "",
-      "one_liner": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
-          "snippet": "STAT+: Prometheus raises $12 billion in capital for artificial engineers"
-        }
-      ]
     },
     {
       "name": "Prosper",
