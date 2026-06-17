@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T10:52:29Z",
+  "generated_at": "2026-06-17T10:25:33Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
@@ -567,7 +567,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 5,
-      "location": "San Francisco, CA, USA",
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -2304,25 +2304,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11816198",
           "snippet": "Digital H2O | Chicago, IL |  http://www.digitalh2o.com/  | Full Time | ONSITE Digital H2O, a water-focused SaaS company, is looking for talented software engine"
-        }
-      ]
-    },
-    {
-      "name": "DiMe",
-      "website": "",
-      "one_liner": "DiMe Launches New Initiative for Virtual-First Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/dime-launches-new-initiative-for-virtual-first-care/",
-          "snippet": "DiMe Launches New Initiative for Virtual-First Care"
         }
       ]
     },
@@ -4356,6 +4337,25 @@
       ]
     },
     {
+      "name": "InStride",
+      "website": "",
+      "one_liner": "InStride Raises $30M to Scale Pediatric Mental Health Support",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/instride-pediatric-mental-health-funding/",
+          "snippet": "InStride Raises $30M to Scale Pediatric Mental Health Support"
+        }
+      ]
+    },
+    {
       "name": "Intercom",
       "website": "",
       "one_liner": "Intercom | Dublin, Ireland | ENGINEERING MANAGER | Full Time | ONSITE WHAT: Software-as-a-Service, customer communication platform. Intercom is one of the fastest growing software companies of our generation. ROLE: Want to write code, defin",
@@ -6030,6 +6030,25 @@
       ]
     },
     {
+      "name": "New Cancer Biotech",
+      "website": "",
+      "one_liner": "New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/prostate-cancer-multivalent-biotherapies-startup-peptide-conjugate-psma-folate-receptor-alpha/",
+          "snippet": "New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug"
+        }
+      ]
+    },
+    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6462,7 +6481,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act",
+      "one_liner": "Opinion: How STAT decided to keep ‘health care’ as two words",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6473,13 +6492,18 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
-          "snippet": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act"
+          "url": "https://www.statnews.com/2026/06/17/health-care-one-word-or-two-stat-style/?utm_campaign=rss",
+          "snippet": "Opinion: How STAT decided to keep ‘health care’ as two words"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
-          "snippet": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73"
+          "url": "https://www.statnews.com/2026/06/17/congenital-syphilis-rates-mothers-babies-policy/?utm_campaign=rss",
+          "snippet": "Opinion: As a physician, I have never been more concerned about rates of congenital syphilis"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
+          "snippet": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act"
         }
       ]
     },
@@ -7378,25 +7402,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15388717",
           "snippet": "Quartzy | Palo Alto, CA | Onsite (Relocation provided) Quartzy helps hundreds of thousands of scientists improve the efficiency of their research by saving them"
-        }
-      ]
-    },
-    {
-      "name": "Quest to Drug the Undruggable",
-      "website": "",
-      "one_liner": "Parabilis Medicines’ Quest to Drug the Undruggable Picks Up $745M From Upsized IPO",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/parabilis-medicines-ipo-helicon-peptide-cancer-desmoid-tumor-wnt-beta-catenin-pbls/",
-          "snippet": "Parabilis Medicines’ Quest to Drug the Undruggable Picks Up $745M From Upsized IPO"
         }
       ]
     },
