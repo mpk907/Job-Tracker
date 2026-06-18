@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-17T10:25:33Z",
+  "generated_at": "2026-06-18T10:07:44Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 5,
-    "Endpoints News": 1,
+    "MedCity News": 3,
+    "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
@@ -101,25 +101,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544320",
           "snippet": "Abilitie | Full-Stack Software Engineer | Austin, TX | Full-Time |  http://www.abilitie.com  Abilitie is an energetic 10-person company located at the Capital F"
-        }
-      ]
-    },
-    {
-      "name": "Abridge Goes Beyond Documentation",
-      "website": "",
-      "one_liner": "Abridge Goes Beyond Documentation: 4 Updates",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/abridge-clinical-ai/",
-          "snippet": "Abridge Goes Beyond Documentation: 4 Updates"
         }
       ]
     },
@@ -2375,7 +2356,7 @@
       "one_liner": "AI agents that handle communications for clinics",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 3,
+      "team_size": 6,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -3215,25 +3196,6 @@
       ]
     },
     {
-      "name": "From Copilots to Clinical Judgment",
-      "website": "",
-      "one_liner": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/from-copilots-to-clinical-judgment-the-next-phase-of-ai-in-digital-behavioral-health/",
-          "snippet": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3942,25 +3904,6 @@
       ]
     },
     {
-      "name": "HMNC Brain Health",
-      "website": "",
-      "one_liner": "HMNC Brain Health raises $50M Series B to advance two depression drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/hmnc-brain-health-raises-50m-series-b-to-advance-two-depression-drugs/",
-          "snippet": "HMNC Brain Health raises $50M Series B to advance two depression drugs"
-        }
-      ]
-    },
-    {
       "name": "Holmusk",
       "website": "",
       "one_liner": "Holmusk | Europe, REMOTE | Haskell Backend | Full-time | send your cv to [careers@holmusk.com](mailto:careers@holmusk.com) We ([ https://holmusk.com/](https://holmusk.com/) ) leverage technology & data science to accelerate research and imp",
@@ -4603,6 +4546,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667936",
           "snippet": "Kaiser Permanente Medical Informatics | Machine Learning Engineers and Scientists (Data Science Team), Backend Engineers (Applications Team) | San Diego, CA | O"
+        }
+      ]
+    },
+    {
+      "name": "Kardigan",
+      "website": "",
+      "one_liner": "Kardigan raises $400M in IPO to back three clinical-stage cardio drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/kardigan-raises-400m-in-ipo-to-back-three-clinical-stage-cardio-drugs/",
+          "snippet": "Kardigan raises $400M in IPO to back three clinical-stage cardio drugs"
         }
       ]
     },
@@ -6481,7 +6443,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How STAT decided to keep ‘health care’ as two words",
+      "one_liner": "Opinion: Congress should embrace strategic health diplomacy",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6492,18 +6454,18 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/18/strategic-health-diplomacy-congress-oversight-ebola-hantavirus/?utm_campaign=rss",
+          "snippet": "Opinion: Congress should embrace strategic health diplomacy"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/18/ai-energy-water-usage-public-health-electricity-policy/?utm_campaign=rss",
+          "snippet": "Opinion: AI’s growing appetite for power is a public health issue. Here’s a fix"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/17/health-care-one-word-or-two-stat-style/?utm_campaign=rss",
           "snippet": "Opinion: How STAT decided to keep ‘health care’ as two words"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/17/congenital-syphilis-rates-mothers-babies-policy/?utm_campaign=rss",
-          "snippet": "Opinion: As a physician, I have never been more concerned about rates of congenital syphilis"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
-          "snippet": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act"
         }
       ]
     },
@@ -8740,6 +8702,25 @@
       ]
     },
     {
+      "name": "Spot Bio",
+      "website": "",
+      "one_liner": "Update: Spot Bio launches with $40M to study non-viral gene therapy for muscular dystrophy",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/spot-bio-launches-with-40m-to-study-mrna-therapy-for-muscular-dystrophy/",
+          "snippet": "Update: Spot Bio launches with $40M to study non-viral gene therapy for muscular dystrophy"
+        }
+      ]
+    },
+    {
       "name": "Spot Health",
       "website": "https://spotdx.com",
       "one_liner": "At-home diagnostics as a service",
@@ -9581,6 +9562,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544833",
           "snippet": "Triggr Health | Full Stack and Data Engineers | Chicago | RELOCATION Triggr Health is the first predictive system of care for addiction recovery. We are a world"
+        }
+      ]
+    },
+    {
+      "name": "Triveni Bio",
+      "website": "",
+      "one_liner": "Triveni Bio raises $65M ahead of upcoming readouts on eczema drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/triveni-bio-raises-65m-ahead-of-upcoming-readouts-on-eczema-drugs/",
+          "snippet": "Triveni Bio raises $65M ahead of upcoming readouts on eczema drugs"
         }
       ]
     },
