@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-19T10:12:05Z",
+  "generated_at": "2026-06-20T08:41:35Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "BioPharma Dive": 1,
+    "Endpoints News": 4,
     "MedCity News": 3,
-    "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3474,6 +3474,25 @@
       ]
     },
     {
+      "name": "government",
+      "website": "",
+      "one_liner": "government launches probe into Germany's plan to pay less for drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/us-government-launches-probe-into-germanys-plan-to-pay-less-for-drugs/",
+          "snippet": "government launches probe into Germany's plan to pay less for drugs"
+        }
+      ]
+    },
+    {
       "name": "Grand Rounds",
       "website": "",
       "one_liner": "Grand Rounds | Warehouse & Search Engineers| San Francisco | Onsite | Fulltime|  https://www.grandrounds.com  Data driven healthcare navigation and delivery. Billions of rows of exclusive and semantically rich data from hundreds of data sou",
@@ -6463,7 +6482,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: The real work for making dramatic gains against pancreatic cancer is just beginning",
+      "one_liner": "Opinion: Why the space in ‘health care’ matters",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6474,13 +6493,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/19/daraxonrasib-pancreatic-cancer-miracle-drug-oncosystems-ai/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: The real work for making dramatic gains against pancreatic cancer is just beginning"
+          "url": "https://www.statnews.com/2026/06/20/healthcare-or-health-care-stat-style-guide-ap/?utm_campaign=rss",
+          "snippet": "Opinion: Why the space in ‘health care’ matters"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/18/strategic-health-diplomacy-congress-oversight-ebola-hantavirus/?utm_campaign=rss",
-          "snippet": "Opinion: Congress should embrace strategic health diplomacy"
+          "url": "https://www.statnews.com/2026/06/19/daraxonrasib-pancreatic-cancer-miracle-drug-oncosystems-ai/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: The real work for making dramatic gains against pancreatic cancer is just beginning"
         }
       ]
     },
