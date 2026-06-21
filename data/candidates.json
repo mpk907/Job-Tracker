@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-20T08:41:35Z",
+  "generated_at": "2026-06-21T09:35:46Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "BioPharma Dive": 1,
-    "Endpoints News": 4,
+    "Endpoints News": 3,
     "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -9596,25 +9596,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544833",
           "snippet": "Triggr Health | Full Stack and Data Engineers | Chicago | RELOCATION Triggr Health is the first predictive system of care for addiction recovery. We are a world"
-        }
-      ]
-    },
-    {
-      "name": "Triveni Bio",
-      "website": "",
-      "one_liner": "Triveni Bio raises $65M ahead of upcoming readouts on eczema drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/triveni-bio-raises-65m-ahead-of-upcoming-readouts-on-eczema-drugs/",
-          "snippet": "Triveni Bio raises $65M ahead of upcoming readouts on eczema drugs"
         }
       ]
     },
