@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T10:32:41Z",
+  "generated_at": "2026-06-22T11:31:27Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "BioPharma Dive": 1,
-    "Endpoints News": 3,
-    "MedCity News": 3,
+    "Endpoints News": 2,
+    "MedCity News": 4,
     "STAT News": 1,
     "RockHealth": 2
   },
@@ -549,7 +549,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 5,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -729,7 +729,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 2,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1648,7 +1648,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 9,
-      "location": "",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -4217,6 +4217,25 @@
       ]
     },
     {
+      "name": "Inflammation Startup Bionyra",
+      "website": "",
+      "one_liner": "Inflammation Startup Bionyra Launches With $165M and Ex-Sanofi Exec at the Helm",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/inflammation-startup-bionyra-pharma-tl1a-il23p19-ibd-immunology-marrache/",
+          "snippet": "Inflammation Startup Bionyra Launches With $165M and Ex-Sanofi Exec at the Helm"
+        }
+      ]
+    },
+    {
       "name": "Influence Health",
       "website": "",
       "one_liner": "Influence Health | Birmingham, AL or Atlanta, GA | Security Engineer | Full-time | ONSITE job description:  http://www.influencehealth.com/career-center/?p=job%2FoeIr3f...  We are looking for a Security Engineer to join a growing team taske",
@@ -6482,7 +6501,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Why the space in ‘health care’ matters",
+      "one_liner": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6491,6 +6510,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/22/clinical-trial-data-how-much-is-too-much/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/20/healthcare-or-health-care-stat-style-guide-ap/?utm_campaign=rss",
@@ -8736,25 +8760,6 @@
       ]
     },
     {
-      "name": "Spot Bio",
-      "website": "",
-      "one_liner": "Update: Spot Bio launches with $40M to study non-viral gene therapy for muscular dystrophy",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/spot-bio-launches-with-40m-to-study-mrna-therapy-for-muscular-dystrophy/",
-          "snippet": "Update: Spot Bio launches with $40M to study non-viral gene therapy for muscular dystrophy"
-        }
-      ]
-    },
-    {
       "name": "Spot Health",
       "website": "https://spotdx.com",
       "one_liner": "At-home diagnostics as a service",
@@ -9286,7 +9291,7 @@
       "stage": "Early",
       "batch": "Winter 2021",
       "team_size": 25,
-      "location": "London, England, United Kingdom",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
