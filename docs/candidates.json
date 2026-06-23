@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-06-22T11:31:27Z",
+  "generated_at": "2026-06-23T08:57:20Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "BioPharma Dive": 1,
-    "Endpoints News": 2,
-    "MedCity News": 4,
+    "Endpoints News": 3,
+    "MedCity News": 5,
     "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Sifted": 1
   },
-  "count": 580,
+  "count": 583,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3905,6 +3906,25 @@
       ]
     },
     {
+      "name": "HHS",
+      "website": "",
+      "one_liner": "HHS launches broad effort to expand and speed up clinical trials",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/hhs-launches-broad-effort-to-expand-and-speed-up-clinical-trials/",
+          "snippet": "HHS launches broad effort to expand and speed up clinical trials"
+        }
+      ]
+    },
+    {
       "name": "Hinge Health",
       "website": "",
       "one_liner": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/careers  As a healthcare company providing pain relief and alternatives to surgi",
@@ -4604,25 +4624,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667936",
           "snippet": "Kaiser Permanente Medical Informatics | Machine Learning Engineers and Scientists (Data Science Team), Backend Engineers (Applications Team) | San Diego, CA | O"
-        }
-      ]
-    },
-    {
-      "name": "Kardigan",
-      "website": "",
-      "one_liner": "Kardigan raises $400M in IPO to back three clinical-stage cardio drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/kardigan-raises-400m-in-ipo-to-back-three-clinical-stage-cardio-drugs/",
-          "snippet": "Kardigan raises $400M in IPO to back three clinical-stage cardio drugs"
         }
       ]
     },
@@ -6501,7 +6502,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection",
+      "one_liner": "Opinion: Ending birthright citizenship could be a public health disaster",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6512,18 +6513,13 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/?utm_campaign=rss",
+          "snippet": "Opinion: Ending birthright citizenship could be a public health disaster"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/22/clinical-trial-data-how-much-is-too-much/?utm_campaign=rss",
           "snippet": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/20/healthcare-or-health-care-stat-style-guide-ap/?utm_campaign=rss",
-          "snippet": "Opinion: Why the space in ‘health care’ matters"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/19/daraxonrasib-pancreatic-cancer-miracle-drug-oncosystems-ai/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: The real work for making dramatic gains against pancreatic cancer is just beginning"
         }
       ]
     },
@@ -6887,6 +6883,25 @@
       "evidence": []
     },
     {
+      "name": "Passive Immunization",
+      "website": "",
+      "one_liner": "Passive Immunization: The Expanding Role of Monoclonal Antibodies in Preventive Medicine",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/passive-immunization-the-expanding-role-of-monoclonal-antibodies-in-preventive-medicine/",
+          "snippet": "Passive Immunization: The Expanding Role of Monoclonal Antibodies in Preventive Medicine"
+        }
+      ]
+    },
+    {
       "name": "PatientBank (YC S16)",
       "website": "",
       "one_liner": "PatientBank (YC S16) | San Francisco, CA | Onsite | Full-time | Full-stack software engineering We're looking for exceptional software engineers to help us build a patient-centered health record system. We build technology that lets patient",
@@ -7183,6 +7198,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: Are the China hawks winning?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-are-the-china-hawks-winning/",
+          "snippet": "Post-Hoc Live: Are the China hawks winning?"
         }
       ]
     },
@@ -9200,6 +9234,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Tandem Health CEO",
+      "website": "",
+      "one_liner": "Tandem Health CEO: ‘We’re not dependent on OpenAI or Anthropic’",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Sifted"
+      ],
+      "evidence": [
+        {
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/tandem-health-we-are-not-dependent-on-openai-and-anthropic/",
+          "snippet": "Tandem Health CEO: ‘We’re not dependent on OpenAI or Anthropic’"
+        }
+      ]
     },
     {
       "name": "Taskade (YC S19)",
