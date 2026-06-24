@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:57:20Z",
+  "generated_at": "2026-06-24T08:53:00Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "BioPharma Dive": 1,
-    "Endpoints News": 3,
-    "MedCity News": 5,
-    "STAT News": 1,
+    "STAT News": 4,
+    "Endpoints News": 2,
+    "MedCity News": 4,
     "RockHealth": 2,
     "Sifted": 1
   },
@@ -1273,6 +1272,25 @@
       ]
     },
     {
+      "name": "Cadence",
+      "website": "",
+      "one_liner": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
+          "snippet": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI"
+        }
+      ]
+    },
+    {
       "name": "Cair Health",
       "website": "https://www.cairhealth.com/",
       "one_liner": "AI Agents for Healthcare RCM",
@@ -1297,25 +1315,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "cAMPfield",
-      "website": "",
-      "one_liner": "cAMPfield lands $180M  to build gut disease drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/campfield-series-a-launch-immune-drugs/823259/",
-          "snippet": "cAMPfield lands $180M  to build gut disease drug"
-        }
-      ]
     },
     {
       "name": "Canvas Medical",
@@ -3274,6 +3273,25 @@
       ]
     },
     {
+      "name": "Gene-editing startup",
+      "website": "",
+      "one_liner": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
+          "snippet": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal"
+        }
+      ]
+    },
+    {
       "name": "General Proximity",
       "website": "https://www.generalproximity.bio/",
       "one_liner": "The next generation of induced-proximity medicines.",
@@ -3471,25 +3489,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544167",
           "snippet": "Gotthardt Health Group AG | Full Time | Heidelberg, Germany | C++ Developers / System Administrator / Python Back-End Developer Gotthardt Healthgroup AG  http:/"
-        }
-      ]
-    },
-    {
-      "name": "government",
-      "website": "",
-      "one_liner": "government launches probe into Germany's plan to pay less for drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/us-government-launches-probe-into-germanys-plan-to-pay-less-for-drugs/",
-          "snippet": "government launches probe into Germany's plan to pay less for drugs"
         }
       ]
     },
@@ -4339,25 +4338,6 @@
       ]
     },
     {
-      "name": "InStride",
-      "website": "",
-      "one_liner": "InStride Raises $30M to Scale Pediatric Mental Health Support",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/instride-pediatric-mental-health-funding/",
-          "snippet": "InStride Raises $30M to Scale Pediatric Mental Health Support"
-        }
-      ]
-    },
-    {
       "name": "Intercom",
       "website": "",
       "one_liner": "Intercom | Dublin, Ireland | ENGINEERING MANAGER | Full Time | ONSITE WHAT: Software-as-a-Service, customer communication platform. Intercom is one of the fastest growing software companies of our generation. ROLE: Want to write code, defin",
@@ -4575,6 +4555,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Justice Department",
+      "website": "",
+      "one_liner": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
+          "snippet": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown"
+        }
+      ]
     },
     {
       "name": "JustWatch",
@@ -5022,7 +5021,7 @@
       "name": "Legion Health",
       "website": "https://legionhealth.com",
       "one_liner": "Autonomous medical care",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2021",
       "team_size": 11,
       "location": "San Francisco, CA, USA",
@@ -6051,25 +6050,6 @@
       ]
     },
     {
-      "name": "New Cancer Biotech",
-      "website": "",
-      "one_liner": "New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/prostate-cancer-multivalent-biotherapies-startup-peptide-conjugate-psma-folate-receptor-alpha/",
-          "snippet": "New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug"
-        }
-      ]
-    },
-    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6515,11 +6495,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/?utm_campaign=rss",
           "snippet": "Opinion: Ending birthright citizenship could be a public health disaster"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/22/clinical-trial-data-how-much-is-too-much/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection"
         }
       ]
     },
@@ -8875,6 +8850,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Startup",
+      "website": "",
+      "one_liner": "Startup Raises $7M for Virtual-First Pediatric Therapy Model",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/startup-raises-7m-for-virtual-first-pediatric-therapy-model/",
+          "snippet": "Startup Raises $7M for Virtual-First Pediatric Therapy Model"
+        }
+      ]
     },
     {
       "name": "Stasis Labs",
