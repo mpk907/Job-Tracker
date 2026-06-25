@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-06-24T08:53:00Z",
+  "generated_at": "2026-06-25T08:48:30Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
-    "STAT News": 4,
-    "Endpoints News": 2,
-    "MedCity News": 4,
-    "RockHealth": 2,
+    "Y Combinator": 163,
+    "MedCity News": 7,
+    "Endpoints News": 1,
+    "STAT News": 1,
     "Sifted": 1
   },
-  "count": 583,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -485,19 +484,6 @@
       "batch": "Summer 2023",
       "team_size": 10,
       "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Andson Biotech",
-      "website": "http://www.andsonbiotech.com",
-      "one_liner": "Empowering Mass Spec for Biotech and Beyond",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 4,
-      "location": "Atlanta, GA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1272,25 +1258,6 @@
       ]
     },
     {
-      "name": "Cadence",
-      "website": "",
-      "one_liner": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
-          "snippet": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI"
-        }
-      ]
-    },
-    {
       "name": "Cair Health",
       "website": "https://www.cairhealth.com/",
       "one_liner": "AI Agents for Healthcare RCM",
@@ -1394,6 +1361,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22680257",
           "snippet": "Caption Health | Full-time | Onsite (currently all remote) | SF Bay Area  |  https://captionhealth.com/careers/  You will become an integral member of a team th"
+        }
+      ]
+    },
+    {
+      "name": "Care Without Walls",
+      "website": "",
+      "one_liner": "Care Without Walls: Scaling Alternatives to Skilled Nursing Facilities",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/care-without-walls-scaling-alternatives-to-skilled-nursing-facilities/",
+          "snippet": "Care Without Walls: Scaling Alternatives to Skilled Nursing Facilities"
         }
       ]
     },
@@ -3197,6 +3183,25 @@
       ]
     },
     {
+      "name": "From Trial-and-Error to Targeted Success",
+      "website": "",
+      "one_liner": "From Trial-and-Error to Targeted Success: How Computational Disease Models Can Help Patients and Pharma Companies",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/from-trial-and-error-to-targeted-success-how-computational-disease-models-can-help-patients-and-pharma-companies/",
+          "snippet": "From Trial-and-Error to Targeted Success: How Computational Disease Models Can Help Patients and Pharma Companies"
+        }
+      ]
+    },
+    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3269,25 +3274,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22690782",
           "snippet": "Geeky Medics | Front-end developer (Bootstrap, Jquery)| Newcastle, UK | Part-time | Remote |  https://geekyquiz.com  Geeky Medics is a free online education pla"
-        }
-      ]
-    },
-    {
-      "name": "Gene-editing startup",
-      "website": "",
-      "one_liner": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
-          "snippet": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal"
         }
       ]
     },
@@ -3901,25 +3887,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815834",
           "snippet": "Help.com - Software Engineer (Full Stack and Front end) - Austin, TX Backed by $6 million in angel funding, Help.com is building the next generation of customer"
-        }
-      ]
-    },
-    {
-      "name": "HHS",
-      "website": "",
-      "one_liner": "HHS launches broad effort to expand and speed up clinical trials",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/hhs-launches-broad-effort-to-expand-and-speed-up-clinical-trials/",
-          "snippet": "HHS launches broad effort to expand and speed up clinical trials"
         }
       ]
     },
@@ -4557,25 +4524,6 @@
       "evidence": []
     },
     {
-      "name": "Justice Department",
-      "website": "",
-      "one_liner": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
-          "snippet": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown"
-        }
-      ]
-    },
-    {
       "name": "JustWatch",
       "website": "",
       "one_liner": "JustWatch | Backend, Frontend & System Engineers | Berlin, Germany | INTERNS, VISA, ONSITE,  https://www.justwatch.com/us/talent  is searching for hungry & curious engineers (from INTERN to senior level): - Backend Engineering (Golang, GRPC",
@@ -5021,7 +4969,7 @@
       "name": "Legion Health",
       "website": "https://legionhealth.com",
       "one_liner": "Autonomous medical care",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2021",
       "team_size": 11,
       "location": "San Francisco, CA, USA",
@@ -6310,6 +6258,25 @@
       ]
     },
     {
+      "name": "Ollin",
+      "website": "",
+      "one_liner": "Ollin nets $330M to run Phase 3 trials of Vabysmo challenger from China",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/ollin-nets-330m-to-run-phase-3-trials-of-vabysmo-challenger-from-china/",
+          "snippet": "Ollin nets $330M to run Phase 3 trials of Vabysmo challenger from China"
+        }
+      ]
+    },
+    {
       "name": "Omada Health",
       "website": "",
       "one_liner": "Omada Health | San Francisco, Ca | Rails, DevOps, iOS, Android | H1B Transfers OK | ONSITE Omada Health is a digital health company on a mission to make healthy behavior change more accessible and achievable. We’re looking for software engi",
@@ -6482,7 +6449,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Ending birthright citizenship could be a public health disaster",
+      "one_liner": "Opinion: How a 1976 murder case changed doctor-patient confidentiality",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6493,8 +6460,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/?utm_campaign=rss",
-          "snippet": "Opinion: Ending birthright citizenship could be a public health disaster"
+          "url": "https://www.statnews.com/2026/06/25/tarasoff-50th-anniversary-murder-doctor-patient-confidentiality/?utm_campaign=rss",
+          "snippet": "Opinion: How a 1976 murder case changed doctor-patient confidentiality"
         }
       ]
     },
@@ -6915,25 +6882,6 @@
       ]
     },
     {
-      "name": "Pear going public via SPAC",
-      "website": "",
-      "one_liner": "Pear going public via SPAC: Take a bite out of that",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "RockHealth"
-      ],
-      "evidence": [
-        {
-          "source": "RockHealth",
-          "url": "https://rockhealth.com/pear-going-public-via-spac-take-a-bite-out-of-that/",
-          "snippet": "Pear going public via SPAC: Take a bite out of that"
-        }
-      ]
-    },
-    {
       "name": "Peloton Cycle",
       "website": "",
       "one_liner": "Peloton Cycle | NYC, NY | Onsite | Full-time  https://www.pelotoncycle.com  At Peloton we are changing the way people get fit by delivering live-streaming indoor cycling classes to the most technologically advanced indoor cycle. A recent ne",
@@ -7173,25 +7121,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: Are the China hawks winning?",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-are-the-china-hawks-winning/",
-          "snippet": "Post-Hoc Live: Are the China hawks winning?"
         }
       ]
     },
@@ -7808,25 +7737,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814503",
           "snippet": "RJMetrics - Philadelphia, PA At RJMetrics, we inspire and empower data-driven people with powerful hosted software. High-growth e-commerce and software as a ser"
-        }
-      ]
-    },
-    {
-      "name": "Ro",
-      "website": "",
-      "one_liner": "Ro acquires Modern Fertility: Segment-specific M&A another front in the platform wars",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "RockHealth"
-      ],
-      "evidence": [
-        {
-          "source": "RockHealth",
-          "url": "https://rockhealth.com/ro-acquires-modern-fertility-segment-specific-ma-another-front-in-the-platform-wars/",
-          "snippet": "Ro acquires Modern Fertility: Segment-specific M&A another front in the platform wars"
         }
       ]
     },
@@ -9398,6 +9308,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22665649",
           "snippet": "The Pacific Financial Group | DevOps Engineer | REMOTE (US based) | Full Time | tpfg.com The Pacific Financial Group Inc. (‘TPFG’) is an innovative, fast growin"
+        }
+      ]
+    },
+    {
+      "name": "The Payer AI Readiness Gap",
+      "website": "",
+      "one_liner": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/the-payer-ai-readiness-gap-why-better-data-will-define-the-next-era-of-health-plan-performance/",
+          "snippet": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance"
         }
       ]
     },
