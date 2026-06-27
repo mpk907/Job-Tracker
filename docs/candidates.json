@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-06-26T08:49:37Z",
+  "generated_at": "2026-06-27T08:26:23Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
-    "MedCity News": 6,
+    "MedCity News": 4,
     "Endpoints News": 1,
-    "RockHealth": 2,
-    "Sifted": 1
+    "RockHealth": 2
   },
-  "count": 578,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4203,25 +4202,6 @@
       ]
     },
     {
-      "name": "Inflammation Startup Bionyra",
-      "website": "",
-      "one_liner": "Inflammation Startup Bionyra Launches With $165M and Ex-Sanofi Exec at the Helm",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/inflammation-startup-bionyra-pharma-tl1a-il23p19-ibd-immunology-marrache/",
-          "snippet": "Inflammation Startup Bionyra Launches With $165M and Ex-Sanofi Exec at the Helm"
-        }
-      ]
-    },
-    {
       "name": "Influence Health",
       "website": "",
       "one_liner": "Influence Health | Birmingham, AL or Atlanta, GA | Security Engineer | Full-time | ONSITE job description:  http://www.influencehealth.com/career-center/?p=job%2FoeIr3f...  We are looking for a Security Engineer to join a growing team taske",
@@ -5205,6 +5185,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Lycia",
+      "website": "",
+      "one_liner": "Lycia raises $75M for food allergy and Graves’ disease",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/lycia-raises-75m-for-food-allergy-and-graves-disease/",
+          "snippet": "Lycia raises $75M for food allergy and Graves’ disease"
+        }
+      ]
     },
     {
       "name": "Lyft",
@@ -6226,25 +6225,6 @@
       ]
     },
     {
-      "name": "Ollin",
-      "website": "",
-      "one_liner": "Ollin nets $330M to run Phase 3 trials of Vabysmo challenger from China",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/ollin-nets-330m-to-run-phase-3-trials-of-vabysmo-challenger-from-china/",
-          "snippet": "Ollin nets $330M to run Phase 3 trials of Vabysmo challenger from China"
-        }
-      ]
-    },
-    {
       "name": "Omada Health",
       "website": "",
       "one_liner": "Omada Health | San Francisco, Ca | Rails, DevOps, iOS, Android | H1B Transfers OK | ONSITE Omada Health is a digital health company on a mission to make healthy behavior change more accessible and achievable. We’re looking for software engi",
@@ -6774,25 +6754,6 @@
       "evidence": []
     },
     {
-      "name": "Passive Immunization",
-      "website": "",
-      "one_liner": "Passive Immunization: The Expanding Role of Monoclonal Antibodies in Preventive Medicine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/passive-immunization-the-expanding-role-of-monoclonal-antibodies-in-preventive-medicine/",
-          "snippet": "Passive Immunization: The Expanding Role of Monoclonal Antibodies in Preventive Medicine"
-        }
-      ]
-    },
-    {
       "name": "PatientBank (YC S16)",
       "website": "",
       "one_liner": "PatientBank (YC S16) | San Francisco, CA | Onsite | Full-time | Full-stack software engineering We're looking for exceptional software engineers to help us build a patient-centered health record system. We build technology that lets patient",
@@ -6983,7 +6944,7 @@
       "one_liner": "AI workforce management for healthcare ",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 4,
+      "team_size": 6,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -8200,7 +8161,7 @@
       "one_liner": "Healthcare Price Transparency APIs and Data Products",
       "stage": "Early",
       "batch": "Winter 2022",
-      "team_size": 15,
+      "team_size": 20,
       "location": "Los Angeles, CA, USA; Remote",
       "sources": [
         "Y Combinator"
@@ -9125,25 +9086,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Tandem Health CEO",
-      "website": "",
-      "one_liner": "Tandem Health CEO: ‘We’re not dependent on OpenAI or Anthropic’",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Sifted"
-      ],
-      "evidence": [
-        {
-          "source": "Sifted",
-          "url": "https://sifted.eu/articles/tandem-health-we-are-not-dependent-on-openai-and-anthropic/",
-          "snippet": "Tandem Health CEO: ‘We’re not dependent on OpenAI or Anthropic’"
-        }
-      ]
     },
     {
       "name": "Taskade (YC S19)",
