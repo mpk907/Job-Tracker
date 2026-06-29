@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-28T10:00:56Z",
+  "generated_at": "2026-06-29T10:19:53Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
-    "MedCity News": 4,
+    "Y Combinator": 163,
+    "MedCity News": 3,
     "Endpoints News": 1,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 575,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -5295,6 +5296,19 @@
       ]
     },
     {
+      "name": "Maven Bio",
+      "website": "https://mavenbio.com",
+      "one_liner": "The AI Platform for Life Sciences Intelligence",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 10,
+      "location": "Boston, MA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Maven Clinic Co",
       "website": "",
       "one_liner": "Maven Clinic Co | Senior Backend Engineer | NYC | FULLTIME, ONSITE |  https://www.mavenclinic.com  Maven is looking for a backend engineer to join our growing team in our NYC hq. Maven is a leading telemedicine platform and digital clinic f",
@@ -6393,6 +6407,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
@@ -8708,25 +8741,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Startup",
-      "website": "",
-      "one_liner": "Startup Raises $7M for Virtual-First Pediatric Therapy Model",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/startup-raises-7m-for-virtual-first-pediatric-therapy-model/",
-          "snippet": "Startup Raises $7M for Virtual-First Pediatric Therapy Model"
-        }
-      ]
     },
     {
       "name": "Stasis Labs",
