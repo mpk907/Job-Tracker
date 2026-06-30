@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-29T10:19:53Z",
+  "generated_at": "2026-06-30T08:55:11Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 163,
-    "MedCity News": 3,
-    "Endpoints News": 1,
+    "MedCity News": 1,
+    "Endpoints News": 2,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 576,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1361,25 +1361,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22680257",
           "snippet": "Caption Health | Full-time | Onsite (currently all remote) | SF Bay Area  |  https://captionhealth.com/careers/  You will become an integral member of a team th"
-        }
-      ]
-    },
-    {
-      "name": "Care Without Walls",
-      "website": "",
-      "one_liner": "Care Without Walls: Scaling Alternatives to Skilled Nursing Facilities",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/care-without-walls-scaling-alternatives-to-skilled-nursing-facilities/",
-          "snippet": "Care Without Walls: Scaling Alternatives to Skilled Nursing Facilities"
         }
       ]
     },
@@ -3183,25 +3164,6 @@
       ]
     },
     {
-      "name": "From Trial-and-Error to Targeted Success",
-      "website": "",
-      "one_liner": "From Trial-and-Error to Targeted Success: How Computational Disease Models Can Help Patients and Pharma Companies",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/from-trial-and-error-to-targeted-success-how-computational-disease-models-can-help-patients-and-pharma-companies/",
-          "snippet": "From Trial-and-Error to Targeted Success: How Computational Disease Models Can Help Patients and Pharma Companies"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3804,6 +3766,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815888",
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare Moves",
+      "website": "",
+      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/healthcare-moves-layoffs-retirement/",
+          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
         }
       ]
     },
@@ -6411,7 +6392,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most",
+      "one_liner": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6420,6 +6401,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
+          "snippet": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/?utm_campaign=rss",
@@ -7083,6 +7069,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc",
+      "website": "",
+      "one_liner": "Post-Hoc: China deals are pharma’s new tax inversions",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-china-deals-are-pharmas-new-tax-inversions/",
+          "snippet": "Post-Hoc: China deals are pharma’s new tax inversions"
         }
       ]
     },
@@ -9187,7 +9192,7 @@
     {
       "name": "Terra API",
       "website": "http://tryterra.co",
-      "one_liner": "API for developers to access health data ",
+      "one_liner": "API for developers and AIs to access health data ",
       "stage": "Early",
       "batch": "Winter 2021",
       "team_size": 25,
@@ -9251,25 +9256,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22665649",
           "snippet": "The Pacific Financial Group | DevOps Engineer | REMOTE (US based) | Full Time | tpfg.com The Pacific Financial Group Inc. (‘TPFG’) is an innovative, fast growin"
-        }
-      ]
-    },
-    {
-      "name": "The Payer AI Readiness Gap",
-      "website": "",
-      "one_liner": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/the-payer-ai-readiness-gap-why-better-data-will-define-the-next-era-of-health-plan-performance/",
-          "snippet": "The Payer AI Readiness Gap: Why Better Data Will Define the Next Era of Health Plan Performance"
         }
       ]
     },
