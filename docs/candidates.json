@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-30T08:55:11Z",
+  "generated_at": "2026-07-01T09:29:01Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
-    "MedCity News": 1,
-    "Endpoints News": 2,
+    "Y Combinator": 162,
+    "MedCity News": 5,
     "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 1
   },
-  "count": 575,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -553,6 +553,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Anthropic",
+      "website": "",
+      "one_liner": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
+          "snippet": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO"
+        }
+      ]
     },
     {
       "name": "Apero Health",
@@ -3164,6 +3183,25 @@
       ]
     },
     {
+      "name": "From Management to Personalized Prevention",
+      "website": "",
+      "one_liner": "From Management to Personalized Prevention: The Phase Shift in Chronic Disease",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/from-management-to-personalized-prevention-the-phase-shift-in-chronic-disease/",
+          "snippet": "From Management to Personalized Prevention: The Phase Shift in Chronic Disease"
+        }
+      ]
+    },
+    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -5169,25 +5207,6 @@
       "evidence": []
     },
     {
-      "name": "Lycia",
-      "website": "",
-      "one_liner": "Lycia raises $75M for food allergy and Graves’ disease",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/lycia-raises-75m-for-food-allergy-and-graves-disease/",
-          "snippet": "Lycia raises $75M for food allergy and Graves’ disease"
-        }
-      ]
-    },
-    {
       "name": "Lyft",
       "website": "",
       "one_liner": "Lyft -  https://www.lyft.com/jobs  - San Francisco, CA With the tap of a button, passengers in need of a ride are instantly connected to nearby drivers. We currently operate in 65 cities all across the country, and with your help, we’ll tak",
@@ -5410,6 +5429,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity Pivot Podcast",
+      "website": "",
+      "one_liner": "MedCity Pivot Podcast: The Evolution of At-Home Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/medcity-pivot-podcast-the-evolution-of-at-home-care/",
+          "snippet": "MedCity Pivot Podcast: The Evolution of At-Home Care"
+        }
+      ]
+    },
+    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -5460,7 +5498,7 @@
       "one_liner": "API first electronic health record (EHR) that is open source",
       "stage": "Early",
       "batch": "Summer 2022",
-      "team_size": 12,
+      "team_size": 20,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6392,7 +6430,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
+      "one_liner": "Opinion: What Ebola and Marburg are teaching us about the next pandemic",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6403,13 +6441,18 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
-          "snippet": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions"
+          "url": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
+          "snippet": "Opinion: What Ebola and Marburg are teaching us about the next pandemic"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most"
+          "url": "https://www.statnews.com/2026/07/01/young-men-mental-health-loneliness-despair-maryland-wes-moore/?utm_campaign=rss",
+          "snippet": "Opinion: Maryland Gov. Wes Moore: How to improve young men’s mental health"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
+          "snippet": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions"
         }
       ]
     },
@@ -9923,19 +9966,6 @@
       "evidence": []
     },
     {
-      "name": "VetRec",
-      "website": "https://vetrec.io",
-      "one_liner": "AI Scribe for veterinarians. Saving time and improving patient care.",
-      "stage": "Early",
-      "batch": "Summer 2023",
-      "team_size": 25,
-      "location": "Seattle, WA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Vetspire",
       "website": "",
       "one_liner": "Vetspire | Full Stack Software Engineer | Austin, TX | Full-Time |  https://vetspire.com  Veterinary medicine is one of the essential services needed to be provided during the coronavirus pandemic. Every day, veterinarians risk themselves t",
@@ -10313,6 +10343,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814815",
           "snippet": "Zappos Labs - San Francisco, CA - ONSITE Zappos Labs is looking for a Full-Stack Developer! What is the job? We are a small team of smart people looking to solv"
+        }
+      ]
+    },
+    {
+      "name": "Zelis",
+      "website": "",
+      "one_liner": "Zelis Unveils Solution to Tackle Payer IDR Challenges",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/zelis-unveils-solution-to-tackle-payer-idr-challenges/",
+          "snippet": "Zelis Unveils Solution to Tackle Payer IDR Challenges"
         }
       ]
     },
