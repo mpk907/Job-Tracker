@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-01T09:29:01Z",
+  "generated_at": "2026-07-02T08:42:10Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
-    "MedCity News": 5,
+    "Y Combinator": 163,
+    "MedCity News": 6,
+    "Endpoints News": 1,
     "STAT News": 1,
-    "RockHealth": 2,
-    "Endpoints News": 1
+    "RockHealth": 2
   },
-  "count": 577,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4417,6 +4417,25 @@
       "evidence": []
     },
     {
+      "name": "it prepares three more drug",
+      "website": "",
+      "one_liner": "BridgeBio adds $1B as it prepares three more drug launches",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/bridgebio-adds-1b-as-it-prepares-three-more-drug-launches/",
+          "snippet": "BridgeBio adds $1B as it prepares three more drug launches"
+        }
+      ]
+    },
+    {
       "name": "Jane",
       "website": "",
       "one_liner": "Jane | Santa Cruz, CA | Onsite |  https://www.iheartjane.com  | Will relocate Jane Technologies, Inc. has developed the cannabis industry's first real-time marketplace, where consumers can discover and order cannabis online. We believe in t",
@@ -5194,6 +5213,19 @@
       ]
     },
     {
+      "name": "Lumius",
+      "website": "https://www.lumius-imaging.com",
+      "one_liner": "Fast, smart, accessible 3D ultrasound that anyone can use",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 4,
+      "location": "Durham, NC, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "LunaJoy Health",
       "website": "http://HelloLunaJoy.com",
       "one_liner": "AI-powered scalable infrastructure + mental health services, starting…",
@@ -5429,9 +5461,28 @@
       "evidence": []
     },
     {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/medcity-femfwd-inside-winonas-new-womens-health-research-initiative/",
+          "snippet": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative"
+        }
+      ]
+    },
+    {
       "name": "MedCity Pivot Podcast",
       "website": "",
-      "one_liner": "MedCity Pivot Podcast: The Evolution of At-Home Care",
+      "one_liner": "MedCity Pivot Podcast: The Evolution of Palliative Care at Home",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -5443,7 +5494,7 @@
         {
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/06/medcity-pivot-podcast-the-evolution-of-at-home-care/",
-          "snippet": "MedCity Pivot Podcast: The Evolution of At-Home Care"
+          "snippet": "MedCity Pivot Podcast: The Evolution of Palliative Care at Home"
         }
       ]
     },
@@ -6430,7 +6481,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: What Ebola and Marburg are teaching us about the next pandemic",
+      "one_liner": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6441,6 +6492,11 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
+          "snippet": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
           "snippet": "Opinion: What Ebola and Marburg are teaching us about the next pandemic"
         },
@@ -6448,11 +6504,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/01/young-men-mental-health-loneliness-despair-maryland-wes-moore/?utm_campaign=rss",
           "snippet": "Opinion: Maryland Gov. Wes Moore: How to improve young men’s mental health"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
-          "snippet": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions"
         }
       ]
     },
@@ -7116,25 +7167,6 @@
       ]
     },
     {
-      "name": "Post-Hoc",
-      "website": "",
-      "one_liner": "Post-Hoc: China deals are pharma’s new tax inversions",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-china-deals-are-pharmas-new-tax-inversions/",
-          "snippet": "Post-Hoc: China deals are pharma’s new tax inversions"
-        }
-      ]
-    },
-    {
       "name": "PostEra",
       "website": "https://postera.ai/",
       "one_liner": "Medicinal Chemistry powered by Machine Learning",
@@ -7517,7 +7549,7 @@
       ]
     },
     {
-      "name": "Reframe (Glucobit)",
+      "name": "Reframe",
       "website": "https://www.joinreframeapp.com/",
       "one_liner": "App to help people quit or cut back on alcohol use",
       "stage": "Growth",
