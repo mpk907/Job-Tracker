@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-02T08:42:10Z",
+  "generated_at": "2026-07-03T08:46:58Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 163,
     "MedCity News": 6,
-    "Endpoints News": 1,
+    "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6494,16 +6494,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
           "snippet": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
-          "snippet": "Opinion: What Ebola and Marburg are teaching us about the next pandemic"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/01/young-men-mental-health-loneliness-despair-maryland-wes-moore/?utm_campaign=rss",
-          "snippet": "Opinion: Maryland Gov. Wes Moore: How to improve young men’s mental health"
         }
       ]
     },
@@ -7980,6 +7970,25 @@
       ]
     },
     {
+      "name": "Sandoz",
+      "website": "",
+      "one_liner": "Sandoz launches direct-to-consumer platform with growth disorder drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/sandoz-launches-direct-to-consumer-platform-with-growth-disorder-drug/",
+          "snippet": "Sandoz launches direct-to-consumer platform with growth disorder drug"
+        }
+      ]
+    },
+    {
       "name": "Scanadu",
       "website": "",
       "one_liner": "Scanadu | Sunnyvale, CA | Full-Time | ONSITE Scanadu is a consumer medical devices company developing a human-centered suite of products using science and technology to empower everyday people to monitor and better understand their health —",
@@ -8076,6 +8085,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11817110",
           "snippet": "Scoot | San Francisco, CA | full-time | full-stack and vp of engineering As as an engineer at Scoot, your work could involve adding user-facing features to our "
+        }
+      ]
+    },
+    {
+      "name": "Scribe Therapeutics",
+      "website": "",
+      "one_liner": "Scribe Therapeutics files for IPO in test of appetite for early-stage biotechs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/scribe-therapeutics-files-for-ipo-in-test-of-appetite-for-early-stage-biotechs/",
+          "snippet": "Scribe Therapeutics files for IPO in test of appetite for early-stage biotechs"
         }
       ]
     },
