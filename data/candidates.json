@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-03T08:46:58Z",
+  "generated_at": "2026-07-04T08:20:41Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
+    "Y Combinator": 162,
     "MedCity News": 6,
     "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -7402,19 +7402,6 @@
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 3,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Quinn",
-      "website": "https://www.quinnbio.com",
-      "one_liner": "The AI that delivers pharma R&D decisions in days, not months",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 4,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
