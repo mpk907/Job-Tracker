@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-04T08:20:41Z",
+  "generated_at": "2026-07-05T08:39:21Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 162,
+    "Endpoints News": 4,
     "MedCity News": 6,
-    "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
@@ -557,15 +557,21 @@
     {
       "name": "Anthropic",
       "website": "",
-      "one_liner": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO",
+      "one_liner": "Anthropic launches Claude Science; House China panel probes trial sites; and more",
       "stage": null,
       "batch": null,
       "team_size": null,
       "location": null,
       "sources": [
+        "Endpoints News",
         "MedCity News"
       ],
       "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/anthropic-launches-claude-science-house-china-panel-probes-trial-sites-and-more/",
+          "snippet": "Anthropic launches Claude Science; House China panel probes trial sites; and more"
+        },
         {
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
