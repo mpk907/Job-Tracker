@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-07-05T09:45:35Z",
+  "generated_at": "2026-07-06T09:52:18Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
+    "Y Combinator": 163,
     "Endpoints News": 4,
-    "MedCity News": 6,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -563,19 +562,13 @@
       "team_size": null,
       "location": null,
       "sources": [
-        "Endpoints News",
-        "MedCity News"
+        "Endpoints News"
       ],
       "evidence": [
         {
           "source": "Endpoints News",
           "url": "https://endpoints.news/anthropic-launches-claude-science-house-china-panel-probes-trial-sites-and-more/",
           "snippet": "Anthropic launches Claude Science; House China panel probes trial sites; and more"
-        },
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
-          "snippet": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO"
         }
       ]
     },
@@ -2109,6 +2102,19 @@
       ]
     },
     {
+      "name": "Curebase",
+      "website": "https://www.curebase.ai/",
+      "one_liner": "Modern, AI-powered clinical trial software platform.",
+      "stage": "Growth",
+      "batch": "Summer 2018",
+      "team_size": 27,
+      "location": "San Francisco, CA, USA; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Data Driven Bioscience",
       "website": "http://datadrivenbioscience.com",
       "one_liner": "Cancer Diagnosis 10X faster, 10X cheaper",
@@ -3189,25 +3195,6 @@
       ]
     },
     {
-      "name": "From Management to Personalized Prevention",
-      "website": "",
-      "one_liner": "From Management to Personalized Prevention: The Phase Shift in Chronic Disease",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/from-management-to-personalized-prevention-the-phase-shift-in-chronic-disease/",
-          "snippet": "From Management to Personalized Prevention: The Phase Shift in Chronic Disease"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3810,25 +3797,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815888",
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
-        }
-      ]
-    },
-    {
-      "name": "Healthcare Moves",
-      "website": "",
-      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/healthcare-moves-layoffs-retirement/",
-          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
         }
       ]
     },
@@ -5467,44 +5435,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/medcity-femfwd-inside-winonas-new-womens-health-research-initiative/",
-          "snippet": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative"
-        }
-      ]
-    },
-    {
-      "name": "MedCity Pivot Podcast",
-      "website": "",
-      "one_liner": "MedCity Pivot Podcast: The Evolution of Palliative Care at Home",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/medcity-pivot-podcast-the-evolution-of-at-home-care/",
-          "snippet": "MedCity Pivot Podcast: The Evolution of Palliative Care at Home"
-        }
-      ]
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6487,7 +6417,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
+      "one_liner": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6498,8 +6428,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
-          "snippet": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe"
+          "url": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
+          "snippet": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
+          "snippet": "Opinion: The smart way to regulate the peptide boom"
         }
       ]
     },
@@ -10396,25 +10331,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814815",
           "snippet": "Zappos Labs - San Francisco, CA - ONSITE Zappos Labs is looking for a Full-Stack Developer! What is the job? We are a small team of smart people looking to solv"
-        }
-      ]
-    },
-    {
-      "name": "Zelis",
-      "website": "",
-      "one_liner": "Zelis Unveils Solution to Tackle Payer IDR Challenges",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/zelis-unveils-solution-to-tackle-payer-idr-challenges/",
-          "snippet": "Zelis Unveils Solution to Tackle Payer IDR Challenges"
         }
       ]
     },
