@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-07-06T09:52:18Z",
+  "generated_at": "2026-07-07T09:06:17Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
-    "Endpoints News": 4,
-    "STAT News": 1,
+    "Y Combinator": 164,
+    "MedCity News": 5,
+    "Endpoints News": 3,
+    "BioPharma Dive": 1,
+    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 576,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -240,6 +242,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "AI in Mental Health",
+      "website": "",
+      "one_liner": "AI in Mental Health: Why Clinicians Need to Be in the Room",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/ai-in-mental-health-why-clinicians-need-to-be-in-the-room/",
+          "snippet": "AI in Mental Health: Why Clinicians Need to Be in the Room"
+        }
+      ]
     },
     {
       "name": "AIOS",
@@ -562,13 +583,19 @@
       "team_size": null,
       "location": null,
       "sources": [
-        "Endpoints News"
+        "Endpoints News",
+        "MedCity News"
       ],
       "evidence": [
         {
           "source": "Endpoints News",
           "url": "https://endpoints.news/anthropic-launches-claude-science-house-china-panel-probes-trial-sites-and-more/",
           "snippet": "Anthropic launches Claude Science; House China panel probes trial sites; and more"
+        },
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
+          "snippet": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO"
         }
       ]
     },
@@ -938,6 +965,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814561",
           "snippet": "Better | Palo Alto, CA | Full-time | On Site Senior Rails Engineer, Senior Android Engineer The health technology space is seeing rapid growth and Better’s goal"
+        }
+      ]
+    },
+    {
+      "name": "Beyond Boston",
+      "website": "",
+      "one_liner": "Beyond Boston: Unlikely cities stake biotech claims",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/unlikely-biotech-hubs-boston-vegas-oklahoma-pennsylvania/824445/",
+          "snippet": "Beyond Boston: Unlikely cities stake biotech claims"
         }
       ]
     },
@@ -4391,25 +4437,6 @@
       "evidence": []
     },
     {
-      "name": "it prepares three more drug",
-      "website": "",
-      "one_liner": "BridgeBio adds $1B as it prepares three more drug launches",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/bridgebio-adds-1b-as-it-prepares-three-more-drug-launches/",
-          "snippet": "BridgeBio adds $1B as it prepares three more drug launches"
-        }
-      ]
-    },
-    {
       "name": "Jane",
       "website": "",
       "one_liner": "Jane | Santa Cruz, CA | Onsite |  https://www.iheartjane.com  | Will relocate Jane Technologies, Inc. has developed the cannabis industry's first real-time marketplace, where consumers can discover and order cannabis online. We believe in t",
@@ -4492,6 +4519,19 @@
       "batch": "Winter 2020",
       "team_size": 19,
       "location": "London, England, United Kingdom; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Juno",
+      "website": "https://junocompanion.com/",
+      "one_liner": "AI Health Assistant for Chronic Illness",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5213,6 +5253,25 @@
       "evidence": []
     },
     {
+      "name": "Lung-Focused Celea",
+      "website": "",
+      "one_liner": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/celea-lung-idiopathic-pulmonary-fibrosis-puretech-ipf-startup-deupirfenidone/",
+          "snippet": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug"
+        }
+      ]
+    },
+    {
       "name": "Lyft",
       "website": "",
       "one_liner": "Lyft -  https://www.lyft.com/jobs  - San Francisco, CA With the tap of a button, passengers in need of a ride are instantly connected to nearby drivers. We currently operate in 65 cities all across the country, and with your help, we’ll tak",
@@ -5435,6 +5494,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/medcity-femfwd-inside-winonas-new-womens-health-research-initiative/",
+          "snippet": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative"
+        }
+      ]
+    },
+    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -5473,7 +5551,7 @@
       "stage": "Growth",
       "batch": "Winter 2017",
       "team_size": 35,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6417,7 +6495,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
+      "one_liner": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6426,6 +6504,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+          "snippet": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
@@ -9922,6 +10005,25 @@
       ]
     },
     {
+      "name": "Vertex",
+      "website": "",
+      "one_liner": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+          "snippet": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms"
+        }
+      ]
+    },
+    {
       "name": "Very Real Help",
       "website": "",
       "one_liner": "Very Real Help | Nashville, TN | Backend Software Engineer | Fulltime | Onsite or Remote Very Real Help is developing a social VR application that will be widely accessible to millions of people who struggle from mental health issues. We wi",
@@ -10331,6 +10433,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814815",
           "snippet": "Zappos Labs - San Francisco, CA - ONSITE Zappos Labs is looking for a Full-Stack Developer! What is the job? We are a small team of smart people looking to solv"
+        }
+      ]
+    },
+    {
+      "name": "Zelis",
+      "website": "",
+      "one_liner": "Zelis Unveils Solution to Tackle Payer IDR Challenges",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/06/zelis-unveils-solution-to-tackle-payer-idr-challenges/",
+          "snippet": "Zelis Unveils Solution to Tackle Payer IDR Challenges"
         }
       ]
     },
