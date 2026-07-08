@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-07T09:06:17Z",
+  "generated_at": "2026-07-08T08:08:52Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 5,
+    "MedCity News": 2,
     "Endpoints News": 3,
     "BioPharma Dive": 1,
     "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 582,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -583,19 +583,13 @@
       "team_size": null,
       "location": null,
       "sources": [
-        "Endpoints News",
-        "MedCity News"
+        "Endpoints News"
       ],
       "evidence": [
         {
           "source": "Endpoints News",
           "url": "https://endpoints.news/anthropic-launches-claude-science-house-china-panel-probes-trial-sites-and-more/",
           "snippet": "Anthropic launches Claude Science; House China panel probes trial sites; and more"
-        },
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
-          "snippet": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO"
         }
       ]
     },
@@ -5494,25 +5488,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/medcity-femfwd-inside-winonas-new-womens-health-research-initiative/",
-          "snippet": "MedCity FemFwd: Inside Winona’s New Women’s Health Research Initiative"
-        }
-      ]
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6508,16 +6483,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
           "snippet": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
-          "snippet": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
-          "snippet": "Opinion: The smart way to regulate the peptide boom"
         }
       ]
     },
@@ -10433,25 +10398,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814815",
           "snippet": "Zappos Labs - San Francisco, CA - ONSITE Zappos Labs is looking for a Full-Stack Developer! What is the job? We are a small team of smart people looking to solv"
-        }
-      ]
-    },
-    {
-      "name": "Zelis",
-      "website": "",
-      "one_liner": "Zelis Unveils Solution to Tackle Payer IDR Challenges",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/06/zelis-unveils-solution-to-tackle-payer-idr-challenges/",
-          "snippet": "Zelis Unveils Solution to Tackle Payer IDR Challenges"
         }
       ]
     },
