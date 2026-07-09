@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-07-08T08:08:52Z",
+  "generated_at": "2026-07-09T09:04:26Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
-    "MedCity News": 2,
-    "Endpoints News": 3,
+    "Y Combinator": 165,
+    "MedCity News": 3,
     "BioPharma Dive": 1,
-    "STAT News": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -575,25 +574,6 @@
       "evidence": []
     },
     {
-      "name": "Anthropic",
-      "website": "",
-      "one_liner": "Anthropic launches Claude Science; House China panel probes trial sites; and more",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/anthropic-launches-claude-science-house-china-panel-probes-trial-sites-and-more/",
-          "snippet": "Anthropic launches Claude Science; House China panel probes trial sites; and more"
-        }
-      ]
-    },
-    {
       "name": "Apero Health",
       "website": "https://www.aperohealth.com",
       "one_liner": "Modern medical billing",
@@ -715,7 +695,7 @@
       "stage": "Growth",
       "batch": "Summer 2020",
       "team_size": 55,
-      "location": "New York, NY, USA; Remote",
+      "location": "New York City, NY, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -2078,7 +2058,7 @@
       "stage": "Early",
       "batch": "Winter 2022",
       "team_size": 64,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5310,7 +5290,7 @@
       "stage": "Early",
       "batch": "Summer 2022",
       "team_size": 3,
-      "location": "Stanford, CA, USA",
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6470,7 +6450,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong",
+      "one_liner": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6481,8 +6461,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
-          "snippet": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong"
+          "url": "https://www.statnews.com/2026/07/09/cannabis-seniors-medical-marijuana-legal-thc-cbd-chronic-pain/?utm_campaign=rss",
+          "snippet": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/?utm_campaign=rss",
+          "snippet": "Opinion: The AI licensure debate is missing the point of licensure"
         }
       ]
     },
@@ -6899,6 +6884,25 @@
           "source": "RockHealth",
           "url": "https://rockhealth.com/pear-going-public-via-spac-take-a-bite-out-of-that/",
           "snippet": "Pear going public via SPAC: Take a bite out of that"
+        }
+      ]
+    },
+    {
+      "name": "Pearl Health",
+      "website": "",
+      "one_liner": "Pearl Health Lands $110M to Support Value-Based Care for Medicare Patients",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/pearl-health-funding/",
+          "snippet": "Pearl Health Lands $110M to Support Value-Based Care for Medicare Patients"
         }
       ]
     },
@@ -7391,6 +7395,19 @@
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Quinn",
+      "website": "https://www.quinnbio.com",
+      "one_liner": "The AI that delivers pharma R&D decisions in days, not months",
+      "stage": "Early",
+      "batch": "Summer 2022",
+      "team_size": 4,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -7946,25 +7963,6 @@
       ]
     },
     {
-      "name": "Sandoz",
-      "website": "",
-      "one_liner": "Sandoz launches direct-to-consumer platform with growth disorder drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/sandoz-launches-direct-to-consumer-platform-with-growth-disorder-drug/",
-          "snippet": "Sandoz launches direct-to-consumer platform with growth disorder drug"
-        }
-      ]
-    },
-    {
       "name": "Scanadu",
       "website": "",
       "one_liner": "Scanadu | Sunnyvale, CA | Full-Time | ONSITE Scanadu is a consumer medical devices company developing a human-centered suite of products using science and technology to empower everyday people to monitor and better understand their health —",
@@ -8061,25 +8059,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11817110",
           "snippet": "Scoot | San Francisco, CA | full-time | full-stack and vp of engineering As as an engineer at Scoot, your work could involve adding user-facing features to our "
-        }
-      ]
-    },
-    {
-      "name": "Scribe Therapeutics",
-      "website": "",
-      "one_liner": "Scribe Therapeutics files for IPO in test of appetite for early-stage biotechs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/scribe-therapeutics-files-for-ipo-in-test-of-appetite-for-early-stage-biotechs/",
-          "snippet": "Scribe Therapeutics files for IPO in test of appetite for early-stage biotechs"
         }
       ]
     },
@@ -9966,25 +9945,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13545892",
           "snippet": "Versus Systems | Los Angeles | Software Engineer | Full Time | ONSITE |  http://www.versussystems.com/careers/  Come be part of a team of smart, passionate, and"
-        }
-      ]
-    },
-    {
-      "name": "Vertex",
-      "website": "",
-      "one_liner": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
-          "snippet": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms"
         }
       ]
     },
