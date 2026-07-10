@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-07-09T09:04:26Z",
+  "generated_at": "2026-07-10T08:59:18Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
-    "MedCity News": 3,
-    "BioPharma Dive": 1,
+    "Y Combinator": 164,
+    "MedCity News": 2,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 578,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -241,25 +240,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "AI in Mental Health",
-      "website": "",
-      "one_liner": "AI in Mental Health: Why Clinicians Need to Be in the Room",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/ai-in-mental-health-why-clinicians-need-to-be-in-the-room/",
-          "snippet": "AI in Mental Health: Why Clinicians Need to Be in the Room"
-        }
-      ]
     },
     {
       "name": "AIOS",
@@ -939,25 +919,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814561",
           "snippet": "Better | Palo Alto, CA | Full-time | On Site Senior Rails Engineer, Senior Android Engineer The health technology space is seeing rapid growth and Better’s goal"
-        }
-      ]
-    },
-    {
-      "name": "Beyond Boston",
-      "website": "",
-      "one_liner": "Beyond Boston: Unlikely cities stake biotech claims",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/unlikely-biotech-hubs-boston-vegas-oklahoma-pennsylvania/824445/",
-          "snippet": "Beyond Boston: Unlikely cities stake biotech claims"
         }
       ]
     },
@@ -1855,8 +1816,8 @@
       "one_liner": "Medical Record Retrieval with Zero Human Error",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 12,
-      "location": "New York, NY, USA",
+      "team_size": 25,
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -4267,19 +4228,6 @@
       "evidence": []
     },
     {
-      "name": "InpharmD",
-      "website": "https://www.inpharmd.com",
-      "one_liner": "We provide a curated, evidence- based answer to any clinical question.",
-      "stage": "Early",
-      "batch": "Winter 2021",
-      "team_size": 16,
-      "location": "Atlanta, GA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Institute for Health Metrics and Evaluation (UW)",
       "website": "",
       "one_liner": "Institute for Health Metrics and Evaluation (UW)  |  Seattle, WA  |  Developers, Data Scientists, Research Fellows Tired of spending your time trying to trick people into clicking on ads and buying things they don't need? Put your big old b",
@@ -4693,7 +4641,7 @@
       "stage": "Growth",
       "batch": "Summer 2020",
       "team_size": 18,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6450,7 +6398,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely",
+      "one_liner": "Opinion: The primary care crisis paradox",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6461,13 +6409,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/09/cannabis-seniors-medical-marijuana-legal-thc-cbd-chronic-pain/?utm_campaign=rss",
-          "snippet": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely"
+          "url": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
+          "snippet": "Opinion: The primary care crisis paradox"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/?utm_campaign=rss",
-          "snippet": "Opinion: The AI licensure debate is missing the point of licensure"
+          "url": "https://www.statnews.com/2026/07/09/cannabis-seniors-medical-marijuana-legal-thc-cbd-chronic-pain/?utm_campaign=rss",
+          "snippet": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely"
         }
       ]
     },
@@ -7282,7 +7230,7 @@
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 9,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9241,7 +9189,7 @@
       "stage": "Growth",
       "batch": "Winter 2023",
       "team_size": 205,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
