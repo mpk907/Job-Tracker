@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-10T08:59:18Z",
+  "generated_at": "2026-07-11T07:33:16Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 2,
+    "Endpoints News": 1,
     "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "MedCity News": 2
   },
-  "count": 575,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -565,6 +566,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Apnimed",
+      "website": "",
+      "one_liner": "Apnimed files for IPO as FDA reviews its sleep apnea drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/apnimed-files-for-ipo-as-fda-reviews-its-sleep-apnea-drug/",
+          "snippet": "Apnimed files for IPO as FDA reviews its sleep apnea drug"
+        }
+      ]
     },
     {
       "name": "appFigures",
@@ -1276,7 +1296,7 @@
       "stage": "Growth",
       "batch": "Winter 2021",
       "team_size": 85,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -5175,25 +5195,6 @@
       "evidence": []
     },
     {
-      "name": "Lung-Focused Celea",
-      "website": "",
-      "one_liner": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/celea-lung-idiopathic-pulmonary-fibrosis-puretech-ipf-startup-deupirfenidone/",
-          "snippet": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug"
-        }
-      ]
-    },
-    {
       "name": "Lyft",
       "website": "",
       "one_liner": "Lyft -  https://www.lyft.com/jobs  - San Francisco, CA With the tap of a button, passengers in need of a ride are instantly connected to nearby drivers. We currently operate in 65 cities all across the country, and with your help, we’ll tak",
@@ -6411,11 +6412,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
           "snippet": "Opinion: The primary care crisis paradox"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/09/cannabis-seniors-medical-marijuana-legal-thc-cbd-chronic-pain/?utm_campaign=rss",
-          "snippet": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely"
         }
       ]
     },
@@ -7420,7 +7416,7 @@
       "stage": "Early",
       "batch": "Fall 2024",
       "team_size": 3,
-      "location": "New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -9612,6 +9608,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13546784",
           "snippet": "Twist Bioscience | San Francisco, CA | ONSITE | www.twistbioscience.com Precision Machine-Vision-Controlled Laboratory-Robotics for DNA Synthesis Programmable D"
+        }
+      ]
+    },
+    {
+      "name": "UHC",
+      "website": "",
+      "one_liner": "UHC Unveils New Employer-Sponsored Spending Account Benefit",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/uhc-unveils-new-employer-sponsored-spending-account-benefit/",
+          "snippet": "UHC Unveils New Employer-Sponsored Spending Account Benefit"
         }
       ]
     },
