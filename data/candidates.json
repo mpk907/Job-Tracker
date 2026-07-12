@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-11T07:33:16Z",
+  "generated_at": "2026-07-12T07:57:13Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
+    "Y Combinator": 165,
     "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2,
     "MedCity News": 2
   },
-  "count": 576,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -803,6 +803,19 @@
           "snippet": "Axon (part of Taser International) | Seattle | Local - relo available We're leading the charge in developing body cameras and other wearable computing devices f"
         }
       ]
+    },
+    {
+      "name": "b12 Labs",
+      "website": "https://b12-labs.com/",
+      "one_liner": "Making hard molecules for Pharma and Biotech",
+      "stage": "Early",
+      "batch": "Summer 2025",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Bainbridge Health",
