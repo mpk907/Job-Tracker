@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-07-14T07:46:24Z",
+  "generated_at": "2026-07-15T07:49:45Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 165,
-    "Endpoints News": 1,
+    "Endpoints News": 5,
     "STAT News": 1,
     "RockHealth": 2,
-    "MedCity News": 2
+    "Sifted": 1,
+    "MedCity News": 1
   },
-  "count": 577,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2439,6 +2440,25 @@
       ]
     },
     {
+      "name": "Draig",
+      "website": "",
+      "one_liner": "Draig nets $65M to advance depression drug aimed at rebuilding synapses",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/draig-nets-65m-to-advance-depression-drug-aimed-at-rebuilding-synapses/",
+          "snippet": "Draig nets $65M to advance depression drug aimed at rebuilding synapses"
+        }
+      ]
+    },
+    {
       "name": "drchrono",
       "website": "",
       "one_liner": "drchrono | Software Engineer | Sunnyvale, CA; Hunt Valley, Maryland  | REMOTE, VISA,  https://www.drchrono.com/careers/  drchrono is a medical platform for doctors and patients. We are crafting the best mobile healthcare experience, with a",
@@ -3088,6 +3108,25 @@
       ]
     },
     {
+      "name": "Former Akero team",
+      "website": "",
+      "one_liner": "Former Akero team announces new I&I company, Avere, with China drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/former-akero-team-announces-new-ii-company-avere-with-china-drug/",
+          "snippet": "Former Akero team announces new I&I company, Avere, with China drug"
+        }
+      ]
+    },
+    {
       "name": "Fort",
       "website": "https://fort.cx",
       "one_liner": "Strength Tracking Wearable",
@@ -3313,6 +3352,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22666537",
           "snippet": "Genesis Therapeutics | South San Francisco, CA | Onsite (Flexible WFH) | Full-time |  https://www.genesistherapeutics.ai  We’re a hybrid AI + biotech company, d"
+        }
+      ]
+    },
+    {
+      "name": "Genetic medicine startup Lyora",
+      "website": "",
+      "one_liner": "Genetic medicine startup Lyora launches with programs from Editas, Biogen",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/genetic-medicine-startup-lyora-launches-with-editas-biogen-stalled-programs/",
+          "snippet": "Genetic medicine startup Lyora launches with programs from Editas, Biogen"
         }
       ]
     },
@@ -6412,7 +6470,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Is there a doctor on board? Yes, and airlines depend on it",
+      "one_liner": "Opinion: It looks like your doctor and talks like your doctor. But it’s not your doctor",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6423,18 +6481,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/13/doctors-airlines-volunteer-emergency-inflight-emergency-divert/?utm_campaign=rss",
-          "snippet": "Opinion: Is there a doctor on board? Yes, and airlines depend on it"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/13/forensic-pathologist-shortage-medical-examiners/?utm_campaign=rss",
-          "snippet": "Opinion: The shortage of forensic pathologists is hurting justice, public health, and families"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
-          "snippet": "Opinion: The primary care crisis paradox"
+          "url": "https://www.statnews.com/2026/07/14/deepfakes-ai-generated-medicine-misinformation-regulation-video/?utm_campaign=rss",
+          "snippet": "Opinion: It looks like your doctor and talks like your doctor. But it’s not your doctor"
         }
       ]
     },
@@ -6855,25 +6903,6 @@
       ]
     },
     {
-      "name": "Pearl Health",
-      "website": "",
-      "one_liner": "Pearl Health Lands $110M to Support Value-Based Care for Medicare Patients",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/pearl-health-funding/",
-          "snippet": "Pearl Health Lands $110M to Support Value-Based Care for Medicare Patients"
-        }
-      ]
-    },
-    {
       "name": "Peloton Cycle",
       "website": "",
       "one_liner": "Peloton Cycle | NYC, NY | Onsite | Full-time  https://www.pelotoncycle.com  At Peloton we are changing the way people get fit by delivering live-streaming indoor cycling classes to the most technologically advanced indoor cycle. A recent ne",
@@ -7113,6 +7142,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: What’s making biotech IPOs work again?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-whats-making-biotech-ipos-work-again/",
+          "snippet": "Post-Hoc Live: What’s making biotech IPOs work again?"
         }
       ]
     },
@@ -7787,6 +7835,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11816856",
           "snippet": "Rollbar |  https://rollbar.com  | San Francisco or REMOTE | Developer Advocate, Design, Support About Rollbar: * We help tens of thousands of developers find an"
+        }
+      ]
+    },
+    {
+      "name": "ropean biotech mapped",
+      "website": "",
+      "one_liner": "ropean biotech mapped: 89 startups reshaping medicine",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Sifted"
+      ],
+      "evidence": [
+        {
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/european-biotech-mapped-89-startups-reshaping-medicine/",
+          "snippet": "ropean biotech mapped: 89 startups reshaping medicine"
         }
       ]
     },
