@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-15T07:49:45Z",
+  "generated_at": "2026-07-16T07:54:40Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
+    "Y Combinator": 166,
     "Endpoints News": 5,
-    "STAT News": 1,
+    "MedCity News": 2,
     "RockHealth": 2,
     "Sifted": 1,
-    "MedCity News": 1
+    "STAT News": 1
   },
-  "count": 581,
+  "count": 583,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -55,6 +55,19 @@
       "one_liner": "The AI-native platform for next-generation protein characterization.",
       "stage": "Early",
       "batch": "Winter 2026",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "14.ai",
+      "website": "https://gloglo.com",
+      "one_liner": "AI companion helping people with diabetes stay in range",
+      "stage": "Early",
+      "batch": "Winter 2024",
       "team_size": 3,
       "location": "San Francisco, CA, USA",
       "sources": [
@@ -567,25 +580,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Apnimed",
-      "website": "",
-      "one_liner": "Apnimed files for IPO as FDA reviews its sleep apnea drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/apnimed-files-for-ipo-as-fda-reviews-its-sleep-apnea-drug/",
-          "snippet": "Apnimed files for IPO as FDA reviews its sleep apnea drug"
-        }
-      ]
     },
     {
       "name": "appFigures",
@@ -1142,6 +1136,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
+        }
+      ]
+    },
+    {
+      "name": "Braveheart",
+      "website": "",
+      "one_liner": "Braveheart files for IPO to fund Phase 3 of Hengrui's Cytokinetics rival",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/braveheart-files-for-ipo-to-fund-phase-3-of-hengruis-cytokinetics-rival/",
+          "snippet": "Braveheart files for IPO to fund Phase 3 of Hengrui's Cytokinetics rival"
         }
       ]
     },
@@ -5983,6 +5996,25 @@
       ]
     },
     {
+      "name": "Neko Health",
+      "website": "",
+      "one_liner": "Neko Health Secures $700M to Support US Expansion",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/neko-health-secures-700m-to-support-us-expansion/",
+          "snippet": "Neko Health Secures $700M to Support US Expansion"
+        }
+      ]
+    },
+    {
       "name": "Neodocs",
       "website": "https://www.neodocs.in",
       "one_liner": "Instant lab tests on your smartphone",
@@ -6466,25 +6498,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: It looks like your doctor and talks like your doctor. But it’s not your doctor",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/14/deepfakes-ai-generated-medicine-misinformation-regulation-video/?utm_campaign=rss",
-          "snippet": "Opinion: It looks like your doctor and talks like your doctor. But it’s not your doctor"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -7841,7 +7854,7 @@
     {
       "name": "ropean biotech mapped",
       "website": "",
-      "one_liner": "ropean biotech mapped: 89 startups reshaping medicine",
+      "one_liner": "ropean biotech mapped: 90 startups reshaping medicine",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -7853,7 +7866,7 @@
         {
           "source": "Sifted",
           "url": "https://sifted.eu/articles/european-biotech-mapped-89-startups-reshaping-medicine/",
-          "snippet": "ropean biotech mapped: 89 startups reshaping medicine"
+          "snippet": "ropean biotech mapped: 90 startups reshaping medicine"
         }
       ]
     },
@@ -9042,6 +9055,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9812814",
           "snippet": "Swift Systems - Frederick, MD - Systems Support Engineer I  -  http://www.swiftsystems.com/careers  Swift Systems is a full-service IT engineering and services "
+        }
+      ]
+    },
+    {
+      "name": "Swing Therapeutics",
+      "website": "",
+      "one_liner": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
+          "snippet": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health"
         }
       ]
     },
