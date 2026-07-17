@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-16T07:54:40Z",
+  "generated_at": "2026-07-17T07:52:26Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
-    "Endpoints News": 5,
-    "MedCity News": 2,
+    "Y Combinator": 165,
+    "Endpoints News": 3,
+    "MedCity News": 1,
+    "STAT News": 1,
     "RockHealth": 2,
-    "Sifted": 1,
-    "STAT News": 1
+    "Sifted": 1
   },
-  "count": 583,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -64,8 +64,8 @@
     },
     {
       "name": "14.ai",
-      "website": "https://gloglo.com",
-      "one_liner": "AI companion helping people with diabetes stay in range",
+      "website": "https://14.ai",
+      "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": 3,
@@ -2130,19 +2130,6 @@
       ]
     },
     {
-      "name": "Curebase",
-      "website": "https://www.curebase.ai/",
-      "one_liner": "Modern, AI-powered clinical trial software platform.",
-      "stage": "Growth",
-      "batch": "Summer 2018",
-      "team_size": 27,
-      "location": "San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Data Driven Bioscience",
       "website": "http://datadrivenbioscience.com",
       "one_liner": "Cancer Diagnosis 10X faster, 10X cheaper",
@@ -2449,25 +2436,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15390728",
           "snippet": "Doximity | Software Engineering, Data Science, DevOps | San Francisco (SOMA) or Remote | Full-time We are the largest social network for doctors. What we do: - "
-        }
-      ]
-    },
-    {
-      "name": "Draig",
-      "website": "",
-      "one_liner": "Draig nets $65M to advance depression drug aimed at rebuilding synapses",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/draig-nets-65m-to-advance-depression-drug-aimed-at-rebuilding-synapses/",
-          "snippet": "Draig nets $65M to advance depression drug aimed at rebuilding synapses"
         }
       ]
     },
@@ -3121,25 +3089,6 @@
       ]
     },
     {
-      "name": "Former Akero team",
-      "website": "",
-      "one_liner": "Former Akero team announces new I&I company, Avere, with China drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/former-akero-team-announces-new-ii-company-avere-with-china-drug/",
-          "snippet": "Former Akero team announces new I&I company, Avere, with China drug"
-        }
-      ]
-    },
-    {
       "name": "Fort",
       "website": "https://fort.cx",
       "one_liner": "Strength Tracking Wearable",
@@ -3365,25 +3314,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22666537",
           "snippet": "Genesis Therapeutics | South San Francisco, CA | Onsite (Flexible WFH) | Full-time |  https://www.genesistherapeutics.ai  We’re a hybrid AI + biotech company, d"
-        }
-      ]
-    },
-    {
-      "name": "Genetic medicine startup Lyora",
-      "website": "",
-      "one_liner": "Genetic medicine startup Lyora launches with programs from Editas, Biogen",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/genetic-medicine-startup-lyora-launches-with-editas-biogen-stalled-programs/",
-          "snippet": "Genetic medicine startup Lyora launches with programs from Editas, Biogen"
         }
       ]
     },
@@ -5009,7 +4939,7 @@
       "name": "Legion Health",
       "website": "https://legionhealth.com",
       "one_liner": "Autonomous medical care",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2021",
       "team_size": 11,
       "location": "San Francisco, CA, USA",
@@ -5793,6 +5723,25 @@
       ]
     },
     {
+      "name": "Mirador",
+      "website": "",
+      "one_liner": "Mirador unveils part of pipeline with drug from Kira to rival Tavneos",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/mirador-unveils-part-of-pipeline-with-drug-from-kira-to-rival-tavneos/",
+          "snippet": "Mirador unveils part of pipeline with drug from Kira to rival Tavneos"
+        }
+      ]
+    },
+    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -6498,6 +6447,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/16/snap-cuts-mental-illness-hunger-psychiatric-emergency/?utm_campaign=rss",
+          "snippet": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
@@ -9059,25 +9027,6 @@
       ]
     },
     {
-      "name": "Swing Therapeutics",
-      "website": "",
-      "one_liner": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
-          "snippet": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health"
-        }
-      ]
-    },
-    {
       "name": "Syapse Inc",
       "website": "",
       "one_liner": "Syapse Inc -- Palo Alto, CA & Philadelphia, PA Roles: Customer Solutions Software Engineer (Python/JavaScript), Customer Solutions Project Manager Be a part of a team helping to cure cancer, stop heart disease, and deliver the right drugs t",
@@ -9730,25 +9679,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13546784",
           "snippet": "Twist Bioscience | San Francisco, CA | ONSITE | www.twistbioscience.com Precision Machine-Vision-Controlled Laboratory-Robotics for DNA Synthesis Programmable D"
-        }
-      ]
-    },
-    {
-      "name": "UHC",
-      "website": "",
-      "one_liner": "UHC Unveils New Employer-Sponsored Spending Account Benefit",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/uhc-unveils-new-employer-sponsored-spending-account-benefit/",
-          "snippet": "UHC Unveils New Employer-Sponsored Spending Account Benefit"
         }
       ]
     },
