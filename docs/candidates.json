@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T07:52:26Z",
+  "generated_at": "2026-07-18T07:25:30Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 165,
-    "Endpoints News": 3,
-    "MedCity News": 1,
+    "Endpoints News": 2,
+    "MedCity News": 2,
     "STAT News": 1,
     "RockHealth": 2,
     "Sifted": 1
@@ -4494,6 +4494,25 @@
       "evidence": []
     },
     {
+      "name": "Juno Bio",
+      "website": "",
+      "one_liner": "Juno Bio Raises $3.8M to Support Vaginal Health",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/juno-bio-raises-3-8m-to-support-vaginal-health/",
+          "snippet": "Juno Bio Raises $3.8M to Support Vaginal Health"
+        }
+      ]
+    },
+    {
       "name": "JustWatch",
       "website": "",
       "one_liner": "JustWatch | Backend, Frontend & System Engineers | Berlin, Germany | INTERNS, VISA, ONSITE,  https://www.justwatch.com/us/talent  is searching for hungry & curious engineers (from INTERN to senior level): - Backend Engineering (Golang, GRPC",
@@ -4939,7 +4958,7 @@
       "name": "Legion Health",
       "website": "https://legionhealth.com",
       "one_liner": "Autonomous medical care",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2021",
       "team_size": 11,
       "location": "San Francisco, CA, USA",
@@ -6451,7 +6470,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness",
+      "one_liner": "Opinion: MAHA is rewriting the vocabulary of American mental health care",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6462,8 +6481,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/16/snap-cuts-mental-illness-hunger-psychiatric-emergency/?utm_campaign=rss",
-          "snippet": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness"
+          "url": "https://www.statnews.com/2026/07/17/maha-mental-health-care-vocabulary-rhetoric-wellness/?utm_campaign=rss",
+          "snippet": "Opinion: MAHA is rewriting the vocabulary of American mental health care"
         }
       ]
     },
@@ -7123,25 +7142,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: What’s making biotech IPOs work again?",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-whats-making-biotech-ipos-work-again/",
-          "snippet": "Post-Hoc Live: What’s making biotech IPOs work again?"
         }
       ]
     },
