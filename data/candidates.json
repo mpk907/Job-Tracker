@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-18T07:25:30Z",
+  "generated_at": "2026-07-19T07:57:26Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
+    "Y Combinator": 164,
     "Endpoints News": 2,
     "MedCity News": 2,
     "STAT News": 1,
     "RockHealth": 2,
     "Sifted": 1
   },
-  "count": 579,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4145,19 +4145,6 @@
           "snippet": "If you like working in a small and fun startup environment, take full ownership and responsibility to deliver tangible results, Insightly is the right place for"
         }
       ]
-    },
-    {
-      "name": "Illuminant Surgical",
-      "website": "https://www.illuminant.ai/",
-      "one_liner": "A new way of seeing inside the human body.",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 11,
-      "location": "Los Angeles, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "iMarc",
