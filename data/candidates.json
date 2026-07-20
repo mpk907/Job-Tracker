@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-07-19T09:08:38Z",
+  "generated_at": "2026-07-20T08:35:49Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "Endpoints News": 2,
     "MedCity News": 2,
     "STAT News": 1,
-    "RockHealth": 2,
-    "Sifted": 1
+    "RockHealth": 2
   },
-  "count": 578,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -536,7 +535,7 @@
       "stage": "Early",
       "batch": "Winter 2022",
       "team_size": 30,
-      "location": "San Francisco, CA, USA; Remote",
+      "location": "Houston, TX, USA; San Francisco, CA, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -1231,7 +1230,7 @@
     {
       "name": "Bunkerhill Health",
       "website": "http://bunkerhillhealth.com",
-      "one_liner": "Bunkerhill Health is building the system of action for health systems",
+      "one_liner": "Bunkerhill is the agentic AI platform for health systems",
       "stage": "Growth",
       "batch": "Winter 2019",
       "team_size": 30,
@@ -6499,7 +6498,7 @@
       "stage": "Early",
       "batch": "Winter 2023",
       "team_size": 4,
-      "location": "San Francisco, CA, USA; New York, NY, USA",
+      "location": "Philadelphia, PA, USA; New York, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -7803,25 +7802,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11816856",
           "snippet": "Rollbar |  https://rollbar.com  | San Francisco or REMOTE | Developer Advocate, Design, Support About Rollbar: * We help tens of thousands of developers find an"
-        }
-      ]
-    },
-    {
-      "name": "ropean biotech mapped",
-      "website": "",
-      "one_liner": "ropean biotech mapped: 90 startups reshaping medicine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Sifted"
-      ],
-      "evidence": [
-        {
-          "source": "Sifted",
-          "url": "https://sifted.eu/articles/european-biotech-mapped-89-startups-reshaping-medicine/",
-          "snippet": "ropean biotech mapped: 90 startups reshaping medicine"
         }
       ]
     },
