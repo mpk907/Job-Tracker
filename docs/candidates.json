@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-07-20T08:35:49Z",
+  "generated_at": "2026-07-21T08:06:54Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "Endpoints News": 2,
-    "MedCity News": 2,
-    "STAT News": 1,
+    "MedCity News": 3,
+    "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1135,25 +1134,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
-        }
-      ]
-    },
-    {
-      "name": "Braveheart",
-      "website": "",
-      "one_liner": "Braveheart files for IPO to fund Phase 3 of Hengrui's Cytokinetics rival",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/braveheart-files-for-ipo-to-fund-phase-3-of-hengruis-cytokinetics-rival/",
-          "snippet": "Braveheart files for IPO to fund Phase 3 of Hengrui's Cytokinetics rival"
         }
       ]
     },
@@ -6454,25 +6434,6 @@
       "evidence": []
     },
     {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: MAHA is rewriting the vocabulary of American mental health care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/17/maha-mental-health-care-vocabulary-rhetoric-wellness/?utm_campaign=rss",
-          "snippet": "Opinion: MAHA is rewriting the vocabulary of American mental health care"
-        }
-      ]
-    },
-    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -9258,6 +9219,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815637",
           "snippet": "Thanks for applying. Sorry we didn't get back to you promptly. That should never happen. Our process is different enough that we are still trying to figure out "
+        }
+      ]
+    },
+    {
+      "name": "The AI Tension in Healthcare",
+      "website": "",
+      "one_liner": "The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/",
+          "snippet": "The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints"
         }
       ]
     },
