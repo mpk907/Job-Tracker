@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-07-22T08:07:26Z",
+  "generated_at": "2026-07-23T08:09:48Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
-    "Endpoints News": 1,
+    "Y Combinator": 163,
     "MedCity News": 3,
+    "Endpoints News": 1,
+    "BioPharma Dive": 1,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 576,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -53,7 +55,7 @@
       "one_liner": "The AI-native platform for next-generation protein characterization.",
       "stage": "Early",
       "batch": "Winter 2026",
-      "team_size": 3,
+      "team_size": 4,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -706,6 +708,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Assured Health",
+      "website": "",
+      "one_liner": "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/",
+          "snippet": "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI"
+        }
+      ]
     },
     {
       "name": "Asteroid",
@@ -1671,7 +1692,7 @@
       "one_liner": "The AI communication layer for healthcare",
       "stage": "Early",
       "batch": "Winter 2024",
-      "team_size": 14,
+      "team_size": 16,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -2105,6 +2126,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15384992",
           "snippet": "CrowdFlower is the essential human-in-the-loop AI platform for data science and machine learning teams. The CrowdFlower software platform trains, tests, and tun"
+        }
+      ]
+    },
+    {
+      "name": "Crystalys",
+      "website": "",
+      "one_liner": "Crystalys nets $130M more to push gout drug through late-stage tests",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
+          "snippet": "Crystalys nets $130M more to push gout drug through late-stage tests"
         }
       ]
     },
@@ -5930,25 +5970,6 @@
       ]
     },
     {
-      "name": "Neko Health",
-      "website": "",
-      "one_liner": "Neko Health Secures $700M to Support US Expansion",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/neko-health-secures-700m-to-support-us-expansion/",
-          "snippet": "Neko Health Secures $700M to Support US Expansion"
-        }
-      ]
-    },
-    {
       "name": "Neodocs",
       "website": "https://www.neodocs.in",
       "one_liner": "Instant lab tests on your smartphone",
@@ -6424,14 +6445,33 @@
       "name": "Ophelia",
       "website": "https://ophelia.com",
       "one_liner": "Medication & support to beat opioid addiction from home",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2020",
-      "team_size": 130,
+      "team_size": 250,
       "location": "New York City, NY, USA; New York, NY, USA",
       "sources": [
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
@@ -6592,10 +6632,10 @@
     {
       "name": "Output Biosciences",
       "website": "https://www.outputbio.com/",
-      "one_liner": "Teaching Generative AI the Language of Biology",
+      "one_liner": "The foundation for the next era of biology",
       "stage": "Early",
       "batch": "Summer 2021",
-      "team_size": 6,
+      "team_size": 8,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -6778,19 +6818,6 @@
           "snippet": "Pascal Metrics, Washington DC (Georgetown) We're a healthcare startup focused on keeping patients safe in hospitals. Our software platform enables clients to de"
         }
       ]
-    },
-    {
-      "name": "Pasito",
-      "website": "https://pasito.ai",
-      "one_liner": "AI agents for insurance and benefits",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 20,
-      "location": "New York City, NY, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "PatientBank (YC S16)",
