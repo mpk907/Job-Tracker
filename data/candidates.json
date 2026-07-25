@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-07-24T08:08:09Z",
+  "generated_at": "2026-07-25T07:52:25Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
+    "Y Combinator": 166,
     "MedCity News": 3,
-    "BioPharma Dive": 2,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -730,7 +729,7 @@
     {
       "name": "Asteroid",
       "website": "https://asteroid.ai",
-      "one_liner": "AI Browser Workforce for Operations Teams",
+      "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
       "stage": "Early",
       "batch": "Winter 2025",
       "team_size": 8,
@@ -2119,25 +2118,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15384992",
           "snippet": "CrowdFlower is the essential human-in-the-loop AI platform for data science and machine learning teams. The CrowdFlower software platform trains, tests, and tun"
-        }
-      ]
-    },
-    {
-      "name": "Crystalys",
-      "website": "",
-      "one_liner": "Crystalys nets $130M more to push gout drug through late-stage tests",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
-          "snippet": "Crystalys nets $130M more to push gout drug through late-stage tests"
         }
       ]
     },
@@ -4197,6 +4177,19 @@
       ]
     },
     {
+      "name": "Imperfect",
+      "website": "https://imperfect.co",
+      "one_liner": "Adaptive training coach for athletes with real lives and epic goals",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 4,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "IMT Care",
       "website": "https://www.imt.care",
       "one_liner": "Disrupting Indian Insurance space by empowering distrubutors",
@@ -4510,25 +4503,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Juno Bio",
-      "website": "",
-      "one_liner": "Juno Bio Raises $3.8M to Support Vaginal Health",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/juno-bio-raises-3-8m-to-support-vaginal-health/",
-          "snippet": "Juno Bio Raises $3.8M to Support Vaginal Health"
-        }
-      ]
     },
     {
       "name": "JustWatch",
@@ -6450,7 +6424,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: New billing codes likely to raise maternity care costs",
+      "one_liner": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6461,8 +6435,18 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/23/global-billing-maternity-care-mistake/?utm_campaign=rss",
-          "snippet": "Opinion: New billing codes likely to raise maternity care costs"
+          "url": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+          "snippet": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china/?utm_campaign=rss",
+          "snippet": "Opinion: The U.S. pharmaceutical supply chain problem is not about China"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/24/medical-school-federal-student-loan-changes/?utm_campaign=rss",
+          "snippet": "Opinion: I may be one of the last middle-class medical students who could afford to become a doctor"
         }
       ]
     },
@@ -7216,6 +7200,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9840995",
           "snippet": "Princess Margaret Cancer Centre: Postdoctoral fellowships in computational biology and machine learning -  http://pmgenomics.ca/hoffmanlab/join/  Toronto, ON Th"
+        }
+      ]
+    },
+    {
+      "name": "Priority Health",
+      "website": "",
+      "one_liner": "Priority Health Launches 2 Cancer Support Solutions with Color Health, Grail",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/priority-health-launches-2-cancer-support-solutions-with-color-health-grail/",
+          "snippet": "Priority Health Launches 2 Cancer Support Solutions with Color Health, Grail"
         }
       ]
     },
@@ -8035,25 +8038,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11817110",
           "snippet": "Scoot | San Francisco, CA | full-time | full-stack and vp of engineering As as an engineer at Scoot, your work could involve adding user-facing features to our "
-        }
-      ]
-    },
-    {
-      "name": "Scribe",
-      "website": "",
-      "one_liner": "Scribe secures $129M in a rare gene editing IPO",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
-          "snippet": "Scribe secures $129M in a rare gene editing IPO"
         }
       ]
     },
