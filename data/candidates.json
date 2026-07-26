@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T07:52:25Z",
+  "generated_at": "2026-07-26T08:06:26Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
+    "Y Combinator": 167,
     "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 578,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4687,6 +4687,19 @@
       "batch": "Summer 2020",
       "team_size": 18,
       "location": "New York City, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Kivo Health",
+      "website": "https://kivohealth.com",
+      "one_liner": "AI-powered care for seniors with chronic disease",
+      "stage": "Growth",
+      "batch": "Winter 2023",
+      "team_size": 35,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
