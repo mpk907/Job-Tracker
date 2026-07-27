@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-26T09:15:19Z",
+  "generated_at": "2026-07-27T09:06:15Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 167,
     "MedCity News": 3,
+    "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -494,7 +495,7 @@
       "one_liner": "Autonomous surgical robots",
       "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 10,
+      "team_size": 12,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -3221,6 +3222,25 @@
       ]
     },
     {
+      "name": "From confidence to capital",
+      "website": "",
+      "one_liner": "From confidence to capital: Positioning biotech for the next growth cycle",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/from-confidence-to-capital-positioning-biotech-for-the-next-growth-cycle/825612/",
+          "snippet": "From confidence to capital: Positioning biotech for the next growth cycle"
+        }
+      ]
+    },
+    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -5403,7 +5423,7 @@
       "stage": "Growth",
       "batch": "Winter 2017",
       "team_size": 40,
-      "location": "San Francisco, CA, USA; Remote",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -6437,7 +6457,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
+      "one_liner": "Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6446,6 +6466,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/27/e-bikes-scooters-children-teens-safety-orthopedics-research/?utm_campaign=rss",
+          "snippet": "Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/27/midwives-vaccine-denial-misinformation-judgment/?utm_campaign=rss",
+          "snippet": "Opinion: How midwives like me can help fight medical misinformation"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
