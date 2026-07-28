@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T09:06:15Z",
+  "generated_at": "2026-07-28T08:13:41Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
-    "MedCity News": 3,
+    "Y Combinator": 168,
+    "MedCity News": 2,
     "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2
@@ -3610,6 +3610,19 @@
       ]
     },
     {
+      "name": "Gutgutgoose",
+      "website": "https://gutgutgoose.com/",
+      "one_liner": "AI training infrastructure via custom probiotics",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Gyroscope [https://gyrosco.pe]",
       "website": "",
       "one_liner": "Gyroscope [ https://gyrosco.pe ] | Remote / Onsite | Backend Engineer We are building a new operating system for the human body. The Gyroscope app is currently featured in the Health & Fitness section of the app store and has a few thousand",
@@ -4199,7 +4212,7 @@
     {
       "name": "Imperfect",
       "website": "https://imperfect.co",
-      "one_liner": "Adaptive training coach for athletes with real lives and epic goals",
+      "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 4,
@@ -6480,16 +6493,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
           "snippet": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china/?utm_campaign=rss",
-          "snippet": "Opinion: The U.S. pharmaceutical supply chain problem is not about China"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/24/medical-school-federal-student-loan-changes/?utm_campaign=rss",
-          "snippet": "Opinion: I may be one of the last middle-class medical students who could afford to become a doctor"
         }
       ]
     },
@@ -9298,25 +9301,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815637",
           "snippet": "Thanks for applying. Sorry we didn't get back to you promptly. That should never happen. Our process is different enough that we are still trying to figure out "
-        }
-      ]
-    },
-    {
-      "name": "The AI Tension in Healthcare",
-      "website": "",
-      "one_liner": "The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/",
-          "snippet": "The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints"
         }
       ]
     },
