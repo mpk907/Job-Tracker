@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T08:13:41Z",
+  "generated_at": "2026-07-29T08:18:04Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 168,
     "MedCity News": 2,
     "BioPharma Dive": 1,
-    "STAT News": 1,
+    "Endpoints News": 1,
     "RockHealth": 2
   },
   "count": 580,
@@ -55,19 +55,6 @@
       "stage": "Early",
       "batch": "Winter 2026",
       "team_size": 4,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "14.ai",
-      "website": "https://14.ai",
-      "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 3,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -3486,6 +3473,19 @@
       ]
     },
     {
+      "name": "GloGlo",
+      "website": "https://gloglo.com",
+      "one_liner": "AI glucose companion for diabetics ",
+      "stage": "Early",
+      "batch": "Winter 2024",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "GoGoGrandparent",
       "website": "https://gogograndparent.com",
       "one_liner": "A concierge service for seniors’ rides, meals, meds, home and more.",
@@ -5780,6 +5780,25 @@
       ]
     },
     {
+      "name": "Mirae",
+      "website": "",
+      "one_liner": "Mirae raises $5.4M to turn patient texts into data for doctors",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/mirae-raises-5-4m-to-turn-patient-texts-into-data-for-doctors/",
+          "snippet": "Mirae raises $5.4M to turn patient texts into data for doctors"
+        }
+      ]
+    },
+    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -6466,35 +6485,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/27/e-bikes-scooters-children-teens-safety-orthopedics-research/?utm_campaign=rss",
-          "snippet": "Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/27/midwives-vaccine-denial-misinformation-judgment/?utm_campaign=rss",
-          "snippet": "Opinion: How midwives like me can help fight medical misinformation"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
-          "snippet": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
