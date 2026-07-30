@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T08:18:04Z",
+  "generated_at": "2026-07-30T08:07:27Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
-    "MedCity News": 2,
-    "BioPharma Dive": 1,
+    "Y Combinator": 167,
+    "MedCity News": 3,
     "Endpoints News": 1,
+    "STAT News": 1,
     "RockHealth": 2
   },
   "count": 580,
@@ -694,25 +694,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Assured Health",
-      "website": "",
-      "one_liner": "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/",
-          "snippet": "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI"
-        }
-      ]
     },
     {
       "name": "Asteroid",
@@ -2364,6 +2345,25 @@
       ]
     },
     {
+      "name": "Doctronic",
+      "website": "",
+      "one_liner": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/doctronic-acquires-summer-health-to-expand-into-pediatric-primary-care/",
+          "snippet": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care"
+        }
+      ]
+    },
+    {
       "name": "Dodo",
       "website": "https://www.dodo.ai/",
       "one_liner": "AI agents that handle communications for clinics",
@@ -3209,25 +3209,6 @@
       ]
     },
     {
-      "name": "From confidence to capital",
-      "website": "",
-      "one_liner": "From confidence to capital: Positioning biotech for the next growth cycle",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/from-confidence-to-capital-positioning-biotech-for-the-next-growth-cycle/825612/",
-          "snippet": "From confidence to capital: Positioning biotech for the next growth cycle"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3858,19 +3839,6 @@
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
         }
       ]
-    },
-    {
-      "name": "HealthKey",
-      "website": "https://gethealthkey.com/",
-      "one_liner": "AI-powered Patient Identification for Clinical Trials",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 10,
-      "location": "Austin, TX, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Healthtech 1",
@@ -6485,6 +6453,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Prolonged hospital stays can leave children isolated. It needs to change",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/29/long-hospital-stays-children-research-isolation/?utm_campaign=rss",
+          "snippet": "Opinion: Prolonged hospital stays can leave children isolated. It needs to change"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
@@ -9310,6 +9297,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386105",
           "snippet": "The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k,  https://www.thefarmersdog.com/  The Farmer’s Dog is a VC backed (we just raised "
+        }
+      ]
+    },
+    {
+      "name": "The Healthcare Cloud Maturity Model",
+      "website": "",
+      "one_liner": "The Healthcare Cloud Maturity Model: The Five Stages Most Health Systems Skip",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/the-healthcare-cloud-maturity-model-the-five-stages-most-health-systems-skip/",
+          "snippet": "The Healthcare Cloud Maturity Model: The Five Stages Most Health Systems Skip"
         }
       ]
     },
