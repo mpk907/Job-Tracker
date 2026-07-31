@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-07-30T08:07:27Z",
+  "generated_at": "2026-07-31T08:30:13Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
-    "MedCity News": 3,
+    "Y Combinator": 168,
     "Endpoints News": 1,
-    "STAT News": 1,
+    "MedCity News": 4,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -568,6 +567,25 @@
       "evidence": []
     },
     {
+      "name": "Apnimed",
+      "website": "",
+      "one_liner": "Apnimed raises $192M IPO for potential 2027 sleep apnea drug launch",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/apnimed-raises-192m-ipo-for-potential-2027-sleep-apnea-drug-launch/",
+          "snippet": "Apnimed raises $192M IPO for potential 2027 sleep apnea drug launch"
+        }
+      ]
+    },
+    {
       "name": "appFigures",
       "website": "",
       "one_liner": "appFigures | New York, NY | Onsite - appFigures is a leading app store intelligence platform that aims to make app store data accessible to everyone. We take lots of data and turn it into meaningful insights so app makers and other industry",
@@ -1086,6 +1104,19 @@
           "snippet": "Bomgar Corporation | Ridgeland, MS | Full Time, Onsite Preferred, VISA |  https://www.bomgar.com/jobs  Bomgar has immediate openings for strong C++ Software Dev"
         }
       ]
+    },
+    {
+      "name": "Bot MD",
+      "website": "https://www.botmd.io",
+      "one_liner": "AI Clinical Assistant for Doctors",
+      "stage": "Growth",
+      "batch": "Summer 2018",
+      "team_size": 15,
+      "location": "Singapore, Singapore",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Boulder Care",
@@ -5748,25 +5779,6 @@
       ]
     },
     {
-      "name": "Mirae",
-      "website": "",
-      "one_liner": "Mirae raises $5.4M to turn patient texts into data for doctors",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/mirae-raises-5-4m-to-turn-patient-texts-into-data-for-doctors/",
-          "snippet": "Mirae raises $5.4M to turn patient texts into data for doctors"
-        }
-      ]
-    },
-    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -5840,6 +5852,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12847709",
           "snippet": "Mountain View, San Francisco, Atlanta, Tel Aviv, NYC, Tokyo, Toronto, Chicago, Austin, Sydney, Paris, Mexico City, Taiwan, Reston | ONSITE | Google Hiring a tea"
+        }
+      ]
+    },
+    {
+      "name": "Moving Beyond Reactive Healthcare",
+      "website": "",
+      "one_liner": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/moving-beyond-reactive-healthcare-5-traits-of-successful-healthcare-organizations/",
+          "snippet": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations"
         }
       ]
     },
@@ -6453,25 +6484,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: Prolonged hospital stays can leave children isolated. It needs to change",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/29/long-hospital-stays-children-research-isolation/?utm_campaign=rss",
-          "snippet": "Opinion: Prolonged hospital stays can leave children isolated. It needs to change"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
