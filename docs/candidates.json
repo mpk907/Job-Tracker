@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-31T08:30:13Z",
+  "generated_at": "2026-08-01T08:02:49Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 168,
     "Endpoints News": 1,
-    "MedCity News": 4,
+    "MedCity News": 6,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 584,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1711,9 +1712,9 @@
       ]
     },
     {
-      "name": "Clicks",
-      "website": "https://goclicks.ai/",
-      "one_liner": "AI agents for your back-office operations.",
+      "name": "Clicks Health",
+      "website": "https://clickshealth.com/",
+      "one_liner": "AI agents for your healthcare back-office operations.",
       "stage": "Early",
       "batch": "Fall 2025",
       "team_size": 8,
@@ -2137,6 +2138,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22734534",
           "snippet": "Curai Health | Office Manager + People Ops Lead | Full-time | Onsite | Palo Alto We're hiring for a new workplace experience manager role at Curai in Palo Alto "
+        }
+      ]
+    },
+    {
+      "name": "Daffodil Health",
+      "website": "",
+      "one_liner": "Daffodil Health Launches No Surprises Act Dispute Management Solution",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/daffodil-health-launches-no-surprises-act-dispute-management-solution/",
+          "snippet": "Daffodil Health Launches No Surprises Act Dispute Management Solution"
         }
       ]
     },
@@ -3868,6 +3888,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815888",
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare Moves",
+      "website": "",
+      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/healthcare-moves-layoffs-2/",
+          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
         }
       ]
     },
@@ -6486,6 +6525,25 @@
       "evidence": []
     },
     {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Limb girdle muscular dystrophy patients face a maddening reality",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/31/fda-platform-designation-hold-limb-girdle-muscular-dystrophy-lgmd/?utm_campaign=rss",
+          "snippet": "Opinion: Limb girdle muscular dystrophy patients face a maddening reality"
+        }
+      ]
+    },
+    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -7235,25 +7293,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9840995",
           "snippet": "Princess Margaret Cancer Centre: Postdoctoral fellowships in computational biology and machine learning -  http://pmgenomics.ca/hoffmanlab/join/  Toronto, ON Th"
-        }
-      ]
-    },
-    {
-      "name": "Priority Health",
-      "website": "",
-      "one_liner": "Priority Health Launches 2 Cancer Support Solutions with Color Health, Grail",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/priority-health-launches-2-cancer-support-solutions-with-color-health-grail/",
-          "snippet": "Priority Health Launches 2 Cancer Support Solutions with Color Health, Grail"
         }
       ]
     },
@@ -9290,6 +9329,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815637",
           "snippet": "Thanks for applying. Sorry we didn't get back to you promptly. That should never happen. Our process is different enough that we are still trying to figure out "
+        }
+      ]
+    },
+    {
+      "name": "The Battles We Face",
+      "website": "",
+      "one_liner": "The Battles We Face: ADHD From A Patient Perspective, And What Providers Should Know",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/07/the-battles-we-face-adhd-from-a-patient-perspective-and-what-providers-should-know/",
+          "snippet": "The Battles We Face: ADHD From A Patient Perspective, And What Providers Should Know"
         }
       ]
     },
