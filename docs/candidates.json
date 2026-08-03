@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T09:12:08Z",
+  "generated_at": "2026-08-03T08:59:05Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
+    "Y Combinator": 167,
     "Endpoints News": 1,
-    "MedCity News": 6,
+    "MedCity News": 7,
     "STAT News": 1,
     "RockHealth": 2
   },
@@ -3642,19 +3642,6 @@
       ]
     },
     {
-      "name": "Gutgutgoose",
-      "website": "https://gutgutgoose.com/",
-      "one_liner": "Personalized probiotics, guaranteed to colonize.",
-      "stage": "Early",
-      "batch": "Summer 2026",
-      "team_size": 2,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Gyroscope [https://gyrosco.pe]",
       "website": "",
       "one_liner": "Gyroscope [ https://gyrosco.pe ] | Remote / Onsite | Backend Engineer We are building a new operating system for the human body. The Gyroscope app is currently featured in the Health & Fitness section of the app store and has a few thousand",
@@ -4443,6 +4430,25 @@
       ]
     },
     {
+      "name": "IPO",
+      "website": "",
+      "one_liner": "Apnimed’s IPO Bags $192M for What Could Become the First Oral Sleep Apnea Drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/apnimed-ipo-apmd-obstructive-sleep-apnea-osa-oxnimbi-atomoxetine-aroxybutynin/",
+          "snippet": "Apnimed’s IPO Bags $192M for What Could Become the First Oral Sleep Apnea Drug"
+        }
+      ]
+    },
+    {
       "name": "Is the drug testing portion of the application still in effect?",
       "website": "",
       "one_liner": "Is the drug testing portion of the application still in effect? I find the concept an invasion of basic privacy and while I'd love to work at USDS someday I can't see myself submitting to such a process.",
@@ -4753,10 +4759,10 @@
     {
       "name": "Kingdom",
       "website": "https://kingdomsuperculture.com",
-      "one_liner": "Natural functional ingredients that actually work",
-      "stage": "Growth",
+      "one_liner": "Clinically-validated ingredients from natural microbes",
+      "stage": "Early",
       "batch": "Summer 2020",
-      "team_size": 18,
+      "team_size": 21,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -6527,7 +6533,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Limb girdle muscular dystrophy patients face a maddening reality",
+      "one_liner": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6536,6 +6542,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/?utm_campaign=rss",
+          "snippet": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/07/31/fda-platform-designation-hold-limb-girdle-muscular-dystrophy-lgmd/?utm_campaign=rss",
