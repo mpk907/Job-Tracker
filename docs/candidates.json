@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-03T08:59:05Z",
+  "generated_at": "2026-08-04T08:16:32Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
-    "Endpoints News": 1,
-    "MedCity News": 7,
+    "Y Combinator": 168,
+    "Endpoints News": 2,
+    "MedCity News": 9,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 584,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -952,6 +952,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814561",
           "snippet": "Better | Palo Alto, CA | Full-time | On Site Senior Rails Engineer, Senior Android Engineer The health technology space is seeing rapid growth and Better’s goal"
+        }
+      ]
+    },
+    {
+      "name": "Beyond Adoption",
+      "website": "",
+      "one_liner": "Beyond Adoption: The Habits Shaping Digital Health",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/beyond-adoption-the-habits-shaping-digital-health/",
+          "snippet": "Beyond Adoption: The Habits Shaping Digital Health"
         }
       ]
     },
@@ -2157,6 +2176,25 @@
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/07/daffodil-health-launches-no-surprises-act-dispute-management-solution/",
           "snippet": "Daffodil Health Launches No Surprises Act Dispute Management Solution"
+        }
+      ]
+    },
+    {
+      "name": "Dash Bio",
+      "website": "",
+      "one_liner": "Dash Bio raises $30M Series A led by Oak HC/FT",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/dash-bio-raises-30m-series-a-led-by-oak-hc-ft/",
+          "snippet": "Dash Bio raises $30M Series A led by Oak HC/FT"
         }
       ]
     },
@@ -3642,6 +3680,19 @@
       ]
     },
     {
+      "name": "Gutgutgoose",
+      "website": "https://gutgutgoose.com/",
+      "one_liner": "Personalized probiotics, guaranteed to colonize.",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Gyroscope [https://gyrosco.pe]",
       "website": "",
       "one_liner": "Gyroscope [ https://gyrosco.pe ] | Remote / Onsite | Backend Engineer We are building a new operating system for the human body. The Gyroscope app is currently featured in the Health & Fitness section of the app store and has a few thousand",
@@ -4603,11 +4654,11 @@
     {
       "name": "Kabilah",
       "website": "https://www.kabilah.com",
-      "one_liner": "Pioneering Generative AI for Nursing",
+      "one_liner": "Agentic AI for Nursing Workflows",
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": null,
-      "location": "New York City, NY, USA",
+      "location": "",
       "sources": [
         "Y Combinator"
       ],
@@ -4760,7 +4811,7 @@
       "name": "Kingdom",
       "website": "https://kingdomsuperculture.com",
       "one_liner": "Clinically-validated ingredients from natural microbes",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2020",
       "team_size": 21,
       "location": "New York City, NY, USA",
@@ -6546,11 +6597,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/?utm_campaign=rss",
           "snippet": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/07/31/fda-platform-designation-hold-limb-girdle-muscular-dystrophy-lgmd/?utm_campaign=rss",
-          "snippet": "Opinion: Limb girdle muscular dystrophy patients face a maddening reality"
         }
       ]
     },
@@ -7667,6 +7713,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12846959",
           "snippet": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget -"
+        }
+      ]
+    },
+    {
+      "name": "Report",
+      "website": "",
+      "one_liner": "Report: Telehealth Uptake Is Lagging in Rural Areas",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/report-telehealth-uptake-is-lagging-in-rural-areas/",
+          "snippet": "Report: Telehealth Uptake Is Lagging in Rural Areas"
         }
       ]
     },
