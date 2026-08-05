@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-04T08:16:32Z",
+  "generated_at": "2026-08-05T08:15:26Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 168,
-    "Endpoints News": 2,
-    "MedCity News": 9,
+    "MedCity News": 8,
+    "Endpoints News": 4,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 589,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -566,25 +566,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Apnimed",
-      "website": "",
-      "one_liner": "Apnimed raises $192M IPO for potential 2027 sleep apnea drug launch",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/apnimed-raises-192m-ipo-for-potential-2027-sleep-apnea-drug-launch/",
-          "snippet": "Apnimed raises $192M IPO for potential 2027 sleep apnea drug launch"
-        }
-      ]
     },
     {
       "name": "appFigures",
@@ -3182,7 +3163,7 @@
       "one_liner": "Strength Tracking Wearable",
       "stage": "Early",
       "batch": "Winter 2026",
-      "team_size": 3,
+      "team_size": 4,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6324,6 +6305,25 @@
       "evidence": []
     },
     {
+      "name": "Novo vs. Lilly",
+      "website": "",
+      "one_liner": "Novo vs. Lilly: Q2's cardiometabolic grudge match",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/novo-vs-lilly-q2s-cardiometabolic-grudge-match/",
+          "snippet": "Novo vs. Lilly: Q2's cardiometabolic grudge match"
+        }
+      ]
+    },
+    {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
       "one_liner": "AI employees that automate medical operations for clinics. ",
@@ -6584,7 +6584,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine",
+      "one_liner": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6595,8 +6595,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/?utm_campaign=rss",
-          "snippet": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine"
+          "url": "https://www.statnews.com/2026/08/04/assisted-suicide-medical-aid-in-dying-quebec-mental-illness-suffering/?utm_campaign=rss",
+          "snippet": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/04/diabetes-open-source-software-fda-approval/?utm_campaign=rss",
+          "snippet": "Opinion: I’m using not-FDA-approved software to manage my diabetes. I’ve never felt better"
         }
       ]
     },
@@ -7256,6 +7261,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: Who wants an AstraZeneca-Bristol Myers megadeal?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-who-wants-an-astrazeneca-bristol-myers-megadeal/",
+          "snippet": "Post-Hoc Live: Who wants an AstraZeneca-Bristol Myers megadeal?"
         }
       ]
     },
@@ -9428,6 +9452,25 @@
       ]
     },
     {
+      "name": "The China Debate",
+      "website": "",
+      "one_liner": "The China Debate: Biotech deserves a deeper discussion",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/the-china-debate-biotech-deserves-a-deeper-discussion/",
+          "snippet": "The China Debate: Biotech deserves a deeper discussion"
+        }
+      ]
+    },
+    {
       "name": "The Farmer's Dog",
       "website": "",
       "one_liner": "The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k,  https://www.thefarmersdog.com/  The Farmer’s Dog is a VC backed (we just raised $8.1m Series A from Shasta Ventures) direct-to-consumer pet health brand on a mi",
@@ -9443,25 +9486,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386105",
           "snippet": "The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k,  https://www.thefarmersdog.com/  The Farmer’s Dog is a VC backed (we just raised "
-        }
-      ]
-    },
-    {
-      "name": "The Healthcare Cloud Maturity Model",
-      "website": "",
-      "one_liner": "The Healthcare Cloud Maturity Model: The Five Stages Most Health Systems Skip",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/the-healthcare-cloud-maturity-model-the-five-stages-most-health-systems-skip/",
-          "snippet": "The Healthcare Cloud Maturity Model: The Five Stages Most Health Systems Skip"
         }
       ]
     },
