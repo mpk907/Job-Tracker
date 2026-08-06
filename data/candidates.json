@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-05T08:15:26Z",
+  "generated_at": "2026-08-06T08:14:28Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 168,
-    "MedCity News": 8,
-    "Endpoints News": 4,
-    "STAT News": 1,
+    "MedCity News": 6,
+    "Endpoints News": 3,
+    "BioPharma Dive": 1,
+    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 589,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1158,6 +1159,25 @@
       ]
     },
     {
+      "name": "Braveheart",
+      "website": "",
+      "one_liner": "Braveheart lands $383M IPO to take Hengrui cardio drug into Phase 3",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/braveheart-lands-383m-ipo-to-take-hengrui-cardio-drug-into-phase-3/",
+          "snippet": "Braveheart lands $383M IPO to take Hengrui cardio drug into Phase 3"
+        }
+      ]
+    },
+    {
       "name": "Brightcove / Zencoder (YC 2010)",
       "website": "",
       "one_liner": "Brightcove / Zencoder (YC 2010) | London | ONSITE | Full-Time | Go (Golang) < > / Apply at  http://app.jobvite.com/m?3XV6diwY  We're currently looking for Software Engineers of all levels for our video ingestion & delivery team based in Cov",
@@ -2161,25 +2181,6 @@
       ]
     },
     {
-      "name": "Dash Bio",
-      "website": "",
-      "one_liner": "Dash Bio raises $30M Series A led by Oak HC/FT",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/dash-bio-raises-30m-series-a-led-by-oak-hc-ft/",
-          "snippet": "Dash Bio raises $30M Series A led by Oak HC/FT"
-        }
-      ]
-    },
-    {
       "name": "Data Driven Bioscience",
       "website": "http://datadrivenbioscience.com",
       "one_liner": "Cancer Diagnosis 10X faster, 10X cheaper",
@@ -2415,25 +2416,6 @@
       ]
     },
     {
-      "name": "Doctronic",
-      "website": "",
-      "one_liner": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/doctronic-acquires-summer-health-to-expand-into-pediatric-primary-care/",
-          "snippet": "Doctronic Acquires Summer Health to Expand into Pediatric Primary Care"
-        }
-      ]
-    },
-    {
       "name": "Dodo",
       "website": "https://www.dodo.ai/",
       "one_liner": "AI agents that handle communications for clinics",
@@ -2586,6 +2568,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11906595",
           "snippet": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic b"
+        }
+      ]
+    },
+    {
+      "name": "Earnings roundup",
+      "website": "",
+      "one_liner": "Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/pfizer-merck-gilead-earnings-2q-2026-analysis/827029/",
+          "snippet": "Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch"
         }
       ]
     },
@@ -4805,9 +4806,9 @@
       "name": "Kivo Health",
       "website": "https://kivohealth.com",
       "one_liner": "AI-powered care for seniors with chronic disease",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2023",
-      "team_size": 35,
+      "team_size": 40,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -5869,6 +5870,25 @@
       "evidence": []
     },
     {
+      "name": "Moderna",
+      "website": "",
+      "one_liner": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/?utm_campaign=rss",
+          "snippet": "STAT+: Moderna launches early trial of Ebola mRNA vaccine"
+        }
+      ]
+    },
+    {
       "name": "Moonset Health",
       "website": "https://www.moonsethealth.com/",
       "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
@@ -5929,25 +5949,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12847709",
           "snippet": "Mountain View, San Francisco, Atlanta, Tel Aviv, NYC, Tokyo, Toronto, Chicago, Austin, Sydney, Paris, Mexico City, Taiwan, Reston | ONSITE | Google Hiring a tea"
-        }
-      ]
-    },
-    {
-      "name": "Moving Beyond Reactive Healthcare",
-      "website": "",
-      "one_liner": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/moving-beyond-reactive-healthcare-5-traits-of-successful-healthcare-organizations/",
-          "snippet": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations"
         }
       ]
     },
@@ -6584,7 +6585,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide",
+      "one_liner": "Opinion: Something is missing from movies about medical aid in dying",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6595,13 +6596,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/04/assisted-suicide-medical-aid-in-dying-quebec-mental-illness-suffering/?utm_campaign=rss",
-          "snippet": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/04/diabetes-open-source-software-fda-approval/?utm_campaign=rss",
-          "snippet": "Opinion: I’m using not-FDA-approved software to manage my diabetes. I’ve never felt better"
+          "url": "https://www.statnews.com/2026/08/05/new-york-medical-aid-dying-assisted-suicide-room-next-door-movies/?utm_campaign=rss",
+          "snippet": "Opinion: Something is missing from movies about medical aid in dying"
         }
       ]
     },
@@ -7261,25 +7257,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: Who wants an AstraZeneca-Bristol Myers megadeal?",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-who-wants-an-astrazeneca-bristol-myers-megadeal/",
-          "snippet": "Post-Hoc Live: Who wants an AstraZeneca-Bristol Myers megadeal?"
         }
       ]
     },
