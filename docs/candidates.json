@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-06T08:14:28Z",
+  "generated_at": "2026-08-07T07:00:36Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
-    "MedCity News": 6,
-    "Endpoints News": 3,
+    "Y Combinator": 169,
+    "MedCity News": 7,
+    "Endpoints News": 1,
     "BioPharma Dive": 1,
-    "STAT News": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1998,6 +1998,25 @@
       ]
     },
     {
+      "name": "Connecting the Dots",
+      "website": "",
+      "one_liner": "Connecting the Dots: How Oral Health Can Enable Whole-Person Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/connecting-the-dots-how-a-unified-platform-enables-whole-person-care/",
+          "snippet": "Connecting the Dots: How Oral Health Can Enable Whole-Person Care"
+        }
+      ]
+    },
+    {
       "name": "Convexia",
       "website": "https://convexia.bio",
       "one_liner": "The world's first AI-maximalist pharma company",
@@ -3175,9 +3194,9 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 15,
+      "team_size": 16,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -4806,7 +4825,7 @@
       "name": "Kivo Health",
       "website": "https://kivohealth.com",
       "one_liner": "AI-powered care for seniors with chronic disease",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2023",
       "team_size": 40,
       "location": "San Francisco, CA, USA",
@@ -5005,6 +5024,19 @@
       "stage": "Early",
       "batch": "Winter 2023",
       "team_size": 50,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Layers",
+      "website": "https://www.layers.bio/",
+      "one_liner": "A 30 min appointment to measure everything in your body",
+      "stage": "Early",
+      "batch": "Fall 2025",
+      "team_size": 2,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -5870,25 +5902,6 @@
       "evidence": []
     },
     {
-      "name": "Moderna",
-      "website": "",
-      "one_liner": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/?utm_campaign=rss",
-          "snippet": "STAT+: Moderna launches early trial of Ebola mRNA vaccine"
-        }
-      ]
-    },
-    {
       "name": "Moonset Health",
       "website": "https://www.moonsethealth.com/",
       "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
@@ -6306,25 +6319,6 @@
       "evidence": []
     },
     {
-      "name": "Novo vs. Lilly",
-      "website": "",
-      "one_liner": "Novo vs. Lilly: Q2's cardiometabolic grudge match",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/novo-vs-lilly-q2s-cardiometabolic-grudge-match/",
-          "snippet": "Novo vs. Lilly: Q2's cardiometabolic grudge match"
-        }
-      ]
-    },
-    {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
       "one_liner": "AI employees that automate medical operations for clinics. ",
@@ -6585,7 +6579,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Something is missing from movies about medical aid in dying",
+      "one_liner": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6596,8 +6590,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/05/new-york-medical-aid-dying-assisted-suicide-room-next-door-movies/?utm_campaign=rss",
-          "snippet": "Opinion: Something is missing from movies about medical aid in dying"
+          "url": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/?utm_campaign=rss",
+          "snippet": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: Stop asking if AI is good for medicine"
         }
       ]
     },
@@ -9425,25 +9424,6 @@
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/07/the-battles-we-face-adhd-from-a-patient-perspective-and-what-providers-should-know/",
           "snippet": "The Battles We Face: ADHD From A Patient Perspective, And What Providers Should Know"
-        }
-      ]
-    },
-    {
-      "name": "The China Debate",
-      "website": "",
-      "one_liner": "The China Debate: Biotech deserves a deeper discussion",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/the-china-debate-biotech-deserves-a-deeper-discussion/",
-          "snippet": "The China Debate: Biotech deserves a deeper discussion"
         }
       ]
     },
