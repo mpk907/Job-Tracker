@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-08-07T07:00:36Z",
+  "generated_at": "2026-08-08T06:31:50Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 169,
-    "MedCity News": 7,
-    "Endpoints News": 1,
-    "BioPharma Dive": 1,
+    "Y Combinator": 168,
+    "MedCity News": 5,
+    "Endpoints News": 2,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 587,
+  "count": 584,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2181,25 +2180,6 @@
       ]
     },
     {
-      "name": "Daffodil Health",
-      "website": "",
-      "one_liner": "Daffodil Health Launches No Surprises Act Dispute Management Solution",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/daffodil-health-launches-no-surprises-act-dispute-management-solution/",
-          "snippet": "Daffodil Health Launches No Surprises Act Dispute Management Solution"
-        }
-      ]
-    },
-    {
       "name": "Data Driven Bioscience",
       "website": "http://datadrivenbioscience.com",
       "one_liner": "Cancer Diagnosis 10X faster, 10X cheaper",
@@ -2587,25 +2567,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11906595",
           "snippet": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic b"
-        }
-      ]
-    },
-    {
-      "name": "Earnings roundup",
-      "website": "",
-      "one_liner": "Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/pfizer-merck-gilead-earnings-2q-2026-analysis/827029/",
-          "snippet": "Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch"
         }
       ]
     },
@@ -3194,7 +3155,7 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 16,
       "location": "New York City, NY, USA",
@@ -3931,25 +3892,6 @@
       ]
     },
     {
-      "name": "Healthcare Moves",
-      "website": "",
-      "one_liner": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/healthcare-moves-layoffs-2/",
-          "snippet": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs"
-        }
-      ]
-    },
-    {
       "name": "Healthtech 1",
       "website": "https://www.healthtech1.uk/",
       "one_liner": "Navigating patients to the right place, first time.",
@@ -4548,6 +4490,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22668979",
           "snippet": "Jane | Santa Cruz, CA | Onsite |  https://www.iheartjane.com  | Will relocate Jane Technologies, Inc. has developed the cannabis industry's first real-time mark"
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Taubert",
+      "website": "",
+      "one_liner": "Jennifer Taubert announces retirement from J&J; Takeda's global TYK2 leader exits",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/jennifer-taubert-announces-retirement-from-j-takedas-global-tyk2-leader-exits/",
+          "snippet": "Jennifer Taubert announces retirement from J&J; Takeda's global TYK2 leader exits"
         }
       ]
     },
@@ -6592,11 +6553,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/?utm_campaign=rss",
           "snippet": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: Stop asking if AI is good for medicine"
         }
       ]
     },
@@ -7057,7 +7013,7 @@
     {
       "name": "Perspectives Health",
       "website": "https://perspectiveshealth.ai/",
-      "one_liner": "Automating away admin for behavioral health clinics",
+      "one_liner": "AI to run behavioral health programs better",
       "stage": "Early",
       "batch": "Summer 2025",
       "team_size": 5,
@@ -7604,6 +7560,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15385814",
           "snippet": "ReactiveOps | Senior Site Reliability Engineer | Remote (U.S.) | www.ReactiveOps.com | FTE ReactiveOps builds and maintains great infrastructure as code using K"
+        }
+      ]
+    },
+    {
+      "name": "Recovery for Replimune",
+      "website": "",
+      "one_liner": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/replimune-fda-approval-melanoma-oncolytic-viral-therapy-cancer-tudriqev-rp1-repl/",
+          "snippet": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA"
         }
       ]
     },
@@ -8744,19 +8719,6 @@
       ]
     },
     {
-      "name": "Sohar Health",
-      "website": "https://www.soharhealth.com",
-      "one_liner": "AI-powered insurance verification to boost patient conversion.",
-      "stage": "Growth",
-      "batch": "Summer 2023",
-      "team_size": 8,
-      "location": "New York City, NY, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Sojern",
       "website": "",
       "one_liner": "Sojern | Site Reliability Engineer | Dublin, Ireland | Full-time | ONSITE |  https://www.sojern.com/careers/  The Company\nWant to join a company on the cutting edge of technology and travel? Want to be part of a fantastic and fun company th",
@@ -9405,25 +9367,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815637",
           "snippet": "Thanks for applying. Sorry we didn't get back to you promptly. That should never happen. Our process is different enough that we are still trying to figure out "
-        }
-      ]
-    },
-    {
-      "name": "The Battles We Face",
-      "website": "",
-      "one_liner": "The Battles We Face: ADHD From A Patient Perspective, And What Providers Should Know",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/07/the-battles-we-face-adhd-from-a-patient-perspective-and-what-providers-should-know/",
-          "snippet": "The Battles We Face: ADHD From A Patient Perspective, And What Providers Should Know"
         }
       ]
     },
