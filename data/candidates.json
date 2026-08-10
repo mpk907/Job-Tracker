@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-09T07:57:10Z",
+  "generated_at": "2026-08-10T07:06:24Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
-    "MedCity News": 5,
+    "Y Combinator": 169,
     "Endpoints News": 2,
+    "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 584,
+  "count": 585,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -933,25 +933,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814561",
           "snippet": "Better | Palo Alto, CA | Full-time | On Site Senior Rails Engineer, Senior Android Engineer The health technology space is seeing rapid growth and Better’s goal"
-        }
-      ]
-    },
-    {
-      "name": "Beyond Adoption",
-      "website": "",
-      "one_liner": "Beyond Adoption: The Habits Shaping Digital Health",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/beyond-adoption-the-habits-shaping-digital-health/",
-          "snippet": "Beyond Adoption: The Habits Shaping Digital Health"
         }
       ]
     },
@@ -2716,6 +2697,19 @@
       ]
     },
     {
+      "name": "Embeddables",
+      "website": "https://embeddables.com",
+      "one_liner": "The funnel builder built for health & wellness brands.",
+      "stage": "Early",
+      "batch": "Summer 2018",
+      "team_size": 23,
+      "location": "San Francisco, CA, USA; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "EMPATICA ~ iOS DEVELOPER ~ MILAN, ITALY ~ FULL TIME ~ ONSITE ~ https://www.empat",
       "website": "",
       "one_liner": "EMPATICA ~ iOS DEVELOPER ~ MILAN, ITALY ~ FULL TIME ~ ONSITE ~  https://www.empatica.com  Empatica has provided the first beautifully designed, affordable, and accurate wearable that uses advanced machine learning analytics to detect and al",
@@ -4426,7 +4420,7 @@
     {
       "name": "IPO",
       "website": "",
-      "one_liner": "Apnimed’s IPO Bags $192M for What Could Become the First Oral Sleep Apnea Drug",
+      "one_liner": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -4437,8 +4431,8 @@
       "evidence": [
         {
           "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/apnimed-ipo-apmd-obstructive-sleep-apnea-osa-oxnimbi-atomoxetine-aroxybutynin/",
-          "snippet": "Apnimed’s IPO Bags $192M for What Could Become the First Oral Sleep Apnea Drug"
+          "url": "https://medcitynews.com/2026/08/latigo-ipo-non-opioid-pain-drug-nav1-8-inhibitor-ltgo-blossomhill-lung-cancer-c797s-blsm/",
+          "snippet": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs"
         }
       ]
     },
@@ -5556,6 +5550,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: Employer Strategies for Women’s Health",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/medcity-femfwd-employer-strategies-for-womens-health/",
+          "snippet": "MedCity FemFwd: Employer Strategies for Women’s Health"
+        }
+      ]
     },
     {
       "name": "MedicaSafe, Inc.",
