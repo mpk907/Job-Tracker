@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-08-10T07:06:24Z",
+  "generated_at": "2026-08-11T06:47:16Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 169,
-    "Endpoints News": 2,
     "MedCity News": 5,
-    "STAT News": 1,
+    "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 585,
+  "count": 583,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1135,25 +1134,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
-        }
-      ]
-    },
-    {
-      "name": "Braveheart",
-      "website": "",
-      "one_liner": "Braveheart lands $383M IPO to take Hengrui cardio drug into Phase 3",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/braveheart-lands-383m-ipo-to-take-hengrui-cardio-drug-into-phase-3/",
-          "snippet": "Braveheart lands $383M IPO to take Hengrui cardio drug into Phase 3"
         }
       ]
     },
@@ -5571,6 +5551,25 @@
       ]
     },
     {
+      "name": "MedCity Pivot",
+      "website": "",
+      "one_liner": "MedCity Pivot: How Aetna is Adopting Agentic AI",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/medcity-pivot-podcast-how-aetna-is-adopting-agentic-ai/",
+          "snippet": "MedCity Pivot: How Aetna is Adopting Agentic AI"
+        }
+      ]
+    },
+    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6549,25 +6548,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/?utm_campaign=rss",
-          "snippet": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -7701,25 +7681,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12846959",
           "snippet": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget -"
-        }
-      ]
-    },
-    {
-      "name": "Report",
-      "website": "",
-      "one_liner": "Report: Telehealth Uptake Is Lagging in Rural Areas",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/report-telehealth-uptake-is-lagging-in-rural-areas/",
-          "snippet": "Report: Telehealth Uptake Is Lagging in Rural Areas"
         }
       ]
     },
