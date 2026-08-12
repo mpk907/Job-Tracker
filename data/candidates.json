@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-08-11T06:47:16Z",
+  "generated_at": "2026-08-12T07:08:32Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 169,
-    "MedCity News": 5,
+    "MedCity News": 6,
+    "BioPharma Dive": 1,
     "Endpoints News": 1,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 583,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2823,6 +2825,25 @@
       ]
     },
     {
+      "name": "Epicrispr",
+      "website": "",
+      "one_liner": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/",
+          "snippet": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease"
+        }
+      ]
+    },
+    {
       "name": "Epinoma",
       "website": "https://www.epinoma.com/",
       "one_liner": "We engineer proteins that control the operating system of biology. ",
@@ -3230,6 +3251,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
+        }
+      ]
+    },
+    {
+      "name": "From Friction to Fix",
+      "website": "",
+      "one_liner": "From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/from-friction-to-fix-measuring-whats-breaking-payer-provider-trust/",
+          "snippet": "From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust"
         }
       ]
     },
@@ -4248,6 +4288,25 @@
       ]
     },
     {
+      "name": "Infinimmune",
+      "website": "",
+      "one_liner": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/lilly-paid-2b-upfront-for-vaccine-biotechs-infinimmune-raises-75m/",
+          "snippet": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M"
+        }
+      ]
+    },
+    {
       "name": "Influence Health",
       "website": "",
       "one_liner": "Influence Health | Birmingham, AL or Atlanta, GA | Security Engineer | Full-time | ONSITE job description:  http://www.influencehealth.com/career-center/?p=job%2FoeIr3f...  We are looking for a Security Engineer to join a growing team taske",
@@ -4464,25 +4523,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22668979",
           "snippet": "Jane | Santa Cruz, CA | Onsite |  https://www.iheartjane.com  | Will relocate Jane Technologies, Inc. has developed the cannabis industry's first real-time mark"
-        }
-      ]
-    },
-    {
-      "name": "Jennifer Taubert",
-      "website": "",
-      "one_liner": "Jennifer Taubert announces retirement from J&J; Takeda's global TYK2 leader exits",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/jennifer-taubert-announces-retirement-from-j-takedas-global-tyk2-leader-exits/",
-          "snippet": "Jennifer Taubert announces retirement from J&J; Takeda's global TYK2 leader exits"
         }
       ]
     },
@@ -6548,6 +6588,30 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss",
+          "snippet": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
+          "snippet": "Opinion: The new geography of abortion care"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
