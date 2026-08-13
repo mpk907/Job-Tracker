@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-08-12T07:08:32Z",
+  "generated_at": "2026-08-13T07:10:16Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 169,
-    "MedCity News": 6,
     "BioPharma Dive": 1,
-    "Endpoints News": 1,
-    "STAT News": 1,
+    "MedCity News": 7,
+    "Endpoints News": 3,
     "RockHealth": 2
   },
-  "count": 586,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -176,7 +175,7 @@
       "name": "Adaptyv",
       "website": "https://www.adaptyvbio.com/",
       "one_liner": "We're building fully automated labs for protein engineering",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2021",
       "team_size": 25,
       "location": "Lausanne, VD, Switzerland",
@@ -1960,25 +1959,6 @@
       ]
     },
     {
-      "name": "Connecting the Dots",
-      "website": "",
-      "one_liner": "Connecting the Dots: How Oral Health Can Enable Whole-Person Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/connecting-the-dots-how-a-unified-platform-enables-whole-person-care/",
-          "snippet": "Connecting the Dots: How Oral Health Can Enable Whole-Person Care"
-        }
-      ]
-    },
-    {
       "name": "Convexia",
       "website": "https://convexia.bio",
       "one_liner": "The world's first AI-maximalist pharma company",
@@ -3327,6 +3307,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815809",
           "snippet": "Gametime | San Francisco | Full-Time | On-Site Searching for high-performing Data, Backend, Go, and DevOps Engineers! Gametime connects communities through fric"
+        }
+      ]
+    },
+    {
+      "name": "GDUFA IV commitments",
+      "website": "",
+      "one_liner": "GDUFA IV commitments: New onshoring incentives and meeting types for generic drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/gdufa-iv-commitments-new-onshoring-incentives-and-meeting-types-for-generic-drugs/",
+          "snippet": "GDUFA IV commitments: New onshoring incentives and meeting types for generic drugs"
         }
       ]
     },
@@ -6160,6 +6159,25 @@
       ]
     },
     {
+      "name": "New Startup",
+      "website": "",
+      "one_liner": "New Startup Launches to Close the Bedside Communication Gap in Hospitals",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/suvi-health-patient-handoff/",
+          "snippet": "New Startup Launches to Close the Bedside Communication Gap in Hospitals"
+        }
+      ]
+    },
+    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6588,30 +6606,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss",
-          "snippet": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
-          "snippet": "Opinion: The new geography of abortion care"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -7269,6 +7263,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc",
+      "website": "",
+      "one_liner": "Post-Hoc: Rewatch the Boston edition of our China Biotech Debate",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-rewatch-the-boston-edition-of-our-china-biotech-debate/",
+          "snippet": "Post-Hoc: Rewatch the Boston edition of our China Biotech Debate"
         }
       ]
     },
@@ -8933,6 +8946,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Startup Boulevard Bio",
+      "website": "",
+      "one_liner": "Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/deerfield-management-startup-boulevard-bio-georg-schett-immunology-inflammation-immune-reset-3dc/",
+          "snippet": "Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder"
+        }
+      ]
     },
     {
       "name": "Stasis Labs",
