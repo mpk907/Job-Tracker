@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-13T07:10:16Z",
+  "generated_at": "2026-08-14T07:09:12Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 169,
     "BioPharma Dive": 1,
     "MedCity News": 7,
-    "Endpoints News": 3,
+    "Endpoints News": 4,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 590,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6608,6 +6609,25 @@
       "evidence": []
     },
     {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: How to disrupt the health misinformation business model",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/?utm_campaign=rss",
+          "snippet": "Opinion: How to disrupt the health misinformation business model"
+        }
+      ]
+    },
+    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -7001,6 +7021,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12850312",
           "snippet": "Patients Know Best, REMOTE-only (no physical office). Full-time, with occasional exceptions. Core working hours: within a few hours of GMT -- current IRL span: "
+        }
+      ]
+    },
+    {
+      "name": "PDUFA VIII commitments",
+      "website": "",
+      "one_liner": "PDUFA VIII commitments: 'America First' provisions, faster reviews and more",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/pdufa-viii-commitments-america-first-provisions-faster-reviews-and-more/",
+          "snippet": "PDUFA VIII commitments: 'America First' provisions, faster reviews and more"
         }
       ]
     },
