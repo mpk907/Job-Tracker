@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-08-14T07:09:12Z",
+  "generated_at": "2026-08-15T06:19:23Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 169,
-    "BioPharma Dive": 1,
-    "MedCity News": 7,
-    "Endpoints News": 4,
+    "MedCity News": 6,
+    "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 590,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -55,7 +54,7 @@
       "one_liner": "The AI-native platform for next-generation protein characterization.",
       "stage": "Early",
       "batch": "Winter 2026",
-      "team_size": 4,
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -2806,25 +2805,6 @@
       ]
     },
     {
-      "name": "Epicrispr",
-      "website": "",
-      "one_liner": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/",
-          "snippet": "Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease"
-        }
-      ]
-    },
-    {
       "name": "Epinoma",
       "website": "https://www.epinoma.com/",
       "one_liner": "We engineer proteins that control the operating system of biology. ",
@@ -4284,25 +4264,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11822157",
           "snippet": "Infectious Media | London, England | Onsite, EU Only | Many! We are a young, vibrant and award winning company specialising in programmatic advertising. Founded"
-        }
-      ]
-    },
-    {
-      "name": "Infinimmune",
-      "website": "",
-      "one_liner": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/lilly-paid-2b-upfront-for-vaccine-biotechs-infinimmune-raises-75m/",
-          "snippet": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M"
         }
       ]
     },
@@ -6611,7 +6572,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How to disrupt the health misinformation business model",
+      "one_liner": "Opinion: U.S., U.K. health care systems share a fatal flaw",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6622,8 +6583,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/?utm_campaign=rss",
-          "snippet": "Opinion: How to disrupt the health misinformation business model"
+          "url": "https://www.statnews.com/2026/08/14/us-uk-health-care-systems-loneliness-community-prevention/?utm_campaign=rss",
+          "snippet": "Opinion: U.S., U.K. health care systems share a fatal flaw"
         }
       ]
     },
@@ -7669,25 +7630,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15385814",
           "snippet": "ReactiveOps | Senior Site Reliability Engineer | Remote (U.S.) | www.ReactiveOps.com | FTE ReactiveOps builds and maintains great infrastructure as code using K"
-        }
-      ]
-    },
-    {
-      "name": "Recovery for Replimune",
-      "website": "",
-      "one_liner": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/replimune-fda-approval-melanoma-oncolytic-viral-therapy-cancer-tudriqev-rp1-repl/",
-          "snippet": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA"
         }
       ]
     },
