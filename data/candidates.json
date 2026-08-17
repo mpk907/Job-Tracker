@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-16T07:33:17Z",
+  "generated_at": "2026-08-17T06:30:24Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 169,
-    "MedCity News": 6,
+    "MedCity News": 5,
     "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 587,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4418,25 +4418,6 @@
       ]
     },
     {
-      "name": "IPO",
-      "website": "",
-      "one_liner": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/latigo-ipo-non-opioid-pain-drug-nav1-8-inhibitor-ltgo-blossomhill-lung-cancer-c797s-blsm/",
-          "snippet": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs"
-        }
-      ]
-    },
-    {
       "name": "Is the drug testing portion of the application still in effect?",
       "website": "",
       "one_liner": "Is the drug testing portion of the application still in effect? I find the concept an invasion of basic privacy and while I'd love to work at USDS someday I can't see myself submitting to such a process.",
@@ -5531,25 +5512,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: Employer Strategies for Women’s Health",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/medcity-femfwd-employer-strategies-for-womens-health/",
-          "snippet": "MedCity FemFwd: Employer Strategies for Women’s Health"
-        }
-      ]
     },
     {
       "name": "MedCity Pivot",
@@ -10242,6 +10204,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Vogenx IPO",
+      "website": "",
+      "one_liner": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/vogenx-ipo-post-bariatric-hypoglycemia-pbh-mizagliflozin-metabolic-disorder-vogx/",
+          "snippet": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs"
+        }
+      ]
     },
     {
       "name": "Waterline Data (https://www.waterlinedata.com/)",
