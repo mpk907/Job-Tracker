@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-17T06:30:24Z",
+  "generated_at": "2026-08-18T06:24:04Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 169,
-    "MedCity News": 5,
-    "Endpoints News": 3,
+    "Y Combinator": 168,
+    "MedCity News": 4,
     "STAT News": 1,
+    "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 586,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -690,19 +690,6 @@
       "batch": "Fall 2024",
       "team_size": 9,
       "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Asteroid",
-      "website": "https://asteroid.ai",
-      "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 8,
-      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3292,25 +3279,6 @@
       ]
     },
     {
-      "name": "GDUFA IV commitments",
-      "website": "",
-      "one_liner": "GDUFA IV commitments: New onshoring incentives and meeting types for generic drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/gdufa-iv-commitments-new-onshoring-incentives-and-meeting-types-for-generic-drugs/",
-          "snippet": "GDUFA IV commitments: New onshoring incentives and meeting types for generic drugs"
-        }
-      ]
-    },
-    {
       "name": "Geeky Medics",
       "website": "",
       "one_liner": "Geeky Medics | Front-end developer (Bootstrap, Jquery)| Newcastle, UK | Part-time | Remote |  https://geekyquiz.com  Geeky Medics is a free online education platform for medical students. I founded it almost 10 years ago and have bootstrapp",
@@ -5514,25 +5482,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity Pivot",
-      "website": "",
-      "one_liner": "MedCity Pivot: How Aetna is Adopting Agentic AI",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/medcity-pivot-podcast-how-aetna-is-adopting-agentic-ai/",
-          "snippet": "MedCity Pivot: How Aetna is Adopting Agentic AI"
-        }
-      ]
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6534,7 +6483,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: U.S., U.K. health care systems share a fatal flaw",
+      "one_liner": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6545,8 +6494,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/14/us-uk-health-care-systems-loneliness-community-prevention/?utm_campaign=rss",
-          "snippet": "Opinion: U.S., U.K. health care systems share a fatal flaw"
+          "url": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/?utm_campaign=rss",
+          "snippet": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/?utm_campaign=rss",
+          "snippet": "Opinion: Paid paternity leave is pediatric preventive care"
         }
       ]
     },
@@ -7225,25 +7179,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc",
-      "website": "",
-      "one_liner": "Post-Hoc: Rewatch the Boston edition of our China Biotech Debate",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-rewatch-the-boston-edition-of-our-china-biotech-debate/",
-          "snippet": "Post-Hoc: Rewatch the Boston edition of our China Biotech Debate"
         }
       ]
     },
