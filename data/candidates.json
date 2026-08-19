@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-08-18T06:24:04Z",
+  "generated_at": "2026-08-19T06:25:00Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
+    "Y Combinator": 167,
+    "BioPharma Dive": 1,
     "MedCity News": 4,
-    "STAT News": 1,
-    "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 582,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -939,6 +938,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15391479",
           "snippet": "BigchainDB | Python - Decentralized Software Engineer| Berlin, Germany | Full-time ONSITE |  http://www.bigchaindb.com  BigchainDB is a leader in the blockchain"
+        }
+      ]
+    },
+    {
+      "name": "BioMarin",
+      "website": "",
+      "one_liner": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
+          "snippet": "BioMarin acquires experimental drug for rare bone disorder in $275M deal"
         }
       ]
     },
@@ -3098,9 +3116,9 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 16,
+      "team_size": 22,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -5442,7 +5460,7 @@
       "one_liner": "AI-native operating system for behavioral health clinics.",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 11,
+      "team_size": 15,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6481,30 +6499,6 @@
       "evidence": []
     },
     {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/?utm_campaign=rss",
-          "snippet": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/?utm_campaign=rss",
-          "snippet": "Opinion: Paid paternity leave is pediatric preventive care"
-        }
-      ]
-    },
-    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -6667,19 +6661,6 @@
       "stage": "Early",
       "batch": "Summer 2021",
       "team_size": 8,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Overdrive Health",
-      "website": "https://overdrive.health",
-      "one_liner": "AI-Native Medical Billing Services",
-      "stage": "Early",
-      "batch": "Winter 2026",
-      "team_size": 1,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -6898,25 +6879,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12850312",
           "snippet": "Patients Know Best, REMOTE-only (no physical office). Full-time, with occasional exceptions. Core working hours: within a few hours of GMT -- current IRL span: "
-        }
-      ]
-    },
-    {
-      "name": "PDUFA VIII commitments",
-      "website": "",
-      "one_liner": "PDUFA VIII commitments: 'America First' provisions, faster reviews and more",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/pdufa-viii-commitments-america-first-provisions-faster-reviews-and-more/",
-          "snippet": "PDUFA VIII commitments: 'America First' provisions, faster reviews and more"
         }
       ]
     },
@@ -10010,9 +9972,9 @@
       "name": "Vetcove",
       "website": "https://www.vetcove.com",
       "one_liner": "Powering the animal health supply chain.",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2016",
-      "team_size": 83,
+      "team_size": 170,
       "location": "Miami, FL, USA; Remote",
       "sources": [
         "Y Combinator"
