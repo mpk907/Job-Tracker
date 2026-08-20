@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-08-19T06:25:00Z",
+  "generated_at": "2026-08-20T06:25:54Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 167,
     "BioPharma Dive": 1,
-    "MedCity News": 4,
+    "MedCity News": 3,
+    "STAT News": 1,
     "RockHealth": 2
   },
   "count": 580,
@@ -1699,7 +1700,7 @@
     },
     {
       "name": "Clicks Health",
-      "website": "https://clickshealth.com/",
+      "website": "https://www.goclicks.ai/",
       "one_liner": "AI agents for your healthcare back-office operations.",
       "stage": "Early",
       "batch": "Fall 2025",
@@ -3116,7 +3117,7 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 22,
       "location": "New York City, NY, USA",
@@ -3217,25 +3218,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
-        }
-      ]
-    },
-    {
-      "name": "From Friction to Fix",
-      "website": "",
-      "one_liner": "From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/from-friction-to-fix-measuring-whats-breaking-payer-provider-trust/",
-          "snippet": "From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust"
         }
       ]
     },
@@ -6497,6 +6479,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: AI has created a shadow medical system",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
+          "snippet": "Opinion: AI has created a shadow medical system"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
@@ -9972,7 +9973,7 @@
       "name": "Vetcove",
       "website": "https://www.vetcove.com",
       "one_liner": "Powering the animal health supply chain.",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2016",
       "team_size": 170,
       "location": "Miami, FL, USA; Remote",
