@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-20T06:25:54Z",
+  "generated_at": "2026-08-21T06:25:41Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
+    "Y Combinator": 166,
+    "MedCity News": 4,
     "BioPharma Dive": 1,
-    "MedCity News": 3,
+    "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -241,6 +242,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "AI in Pharmacovigilance",
+      "website": "",
+      "one_liner": "AI in Pharmacovigilance: Why Governance Will Define Success",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/ai-in-pharmacovigilance-why-governance-will-define-success/",
+          "snippet": "AI in Pharmacovigilance: Why Governance Will Define Success"
+        }
+      ]
     },
     {
       "name": "AIOS",
@@ -5038,6 +5058,25 @@
       ]
     },
     {
+      "name": "Lilly",
+      "website": "",
+      "one_liner": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/lilly-partners-with-amplitude-on-vaccines-otsuka-scraps-psychedelic-trial/",
+          "snippet": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial"
+        }
+      ]
+    },
+    {
       "name": "Linkable Networks",
       "website": "",
       "one_liner": "Linkable Networks | Senior Java Engineer | Boston, MA | Remote (U.S. Only) |  https://linkablenetworks.com/available-position-senior-engin...  * Company Summary Linkable Networks was founded on the premise that the disconnect between digita",
@@ -6483,7 +6522,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: AI has created a shadow medical system",
+      "one_liner": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6494,8 +6533,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
-          "snippet": "Opinion: AI has created a shadow medical system"
+          "url": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
+          "snippet": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/?utm_campaign=rss",
+          "snippet": "Opinion: The global health aid architecture is collapsing. The faith economy isn’t"
         }
       ]
     },
@@ -10330,19 +10374,6 @@
           "snippet": "Yeah that's euro's. We're bound by the collective bargaining agreement (cao) for universities. So it's a bit low even for dutch standards. However, it's hard to"
         }
       ]
-    },
-    {
-      "name": "YouShift",
-      "website": "https://www.you-shift.com/",
-      "one_liner": "The OS for hospital workforce management",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 10,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Zagster http://zagster.com @ 24 Thorndike St Cambridge, MA 02141",
