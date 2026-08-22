@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-21T06:25:41Z",
+  "generated_at": "2026-08-22T06:20:28Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 166,
-    "MedCity News": 4,
+    "MedCity News": 3,
     "BioPharma Dive": 1,
     "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6071,25 +6071,6 @@
       ]
     },
     {
-      "name": "New Startup",
-      "website": "",
-      "one_liner": "New Startup Launches to Close the Bedside Communication Gap in Hospitals",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/suvi-health-patient-handoff/",
-          "snippet": "New Startup Launches to Close the Bedside Communication Gap in Hospitals"
-        }
-      ]
-    },
-    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6522,7 +6503,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
+      "one_liner": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6531,6 +6512,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
+          "snippet": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
@@ -8833,25 +8819,6 @@
       "evidence": []
     },
     {
-      "name": "Startup Boulevard Bio",
-      "website": "",
-      "one_liner": "Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/deerfield-management-startup-boulevard-bio-georg-schett-immunology-inflammation-immune-reset-3dc/",
-          "snippet": "Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder"
-        }
-      ]
-    },
-    {
       "name": "Stasis Labs",
       "website": "",
       "one_liner": "Stasis Labs |  https://www.stasislabs.com  | Onsite Bangalore, India or Los Angeles, USA Up to 75% of injuries and deaths in hospitals happen to patients who lack continuous monitoring technology. Existing solutions are expensive and comple",
@@ -9417,6 +9384,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
+        }
+      ]
+    },
+    {
+      "name": "This Week In Epic News",
+      "website": "",
+      "one_liner": "This Week In Epic News: FTC Probe, AI Agents & More",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/",
+          "snippet": "This Week In Epic News: FTC Probe, AI Agents & More"
         }
       ]
     },
