@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T06:20:28Z",
+  "generated_at": "2026-08-23T06:22:47Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
+    "Y Combinator": 164,
     "MedCity News": 3,
     "BioPharma Dive": 1,
     "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -7061,19 +7061,6 @@
       "evidence": []
     },
     {
-      "name": "Planbase",
-      "website": "https://www.joinplanbase.com/",
-      "one_liner": "AI workforce management for healthcare ",
-      "stage": "Early",
-      "batch": "Summer 2024",
-      "team_size": 6,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Plex Research",
       "website": "",
       "one_liner": "Plex Research | Boston, MA | Onsite | Full-Time | Visa | Plex Research is the Boston area startup working on technology to fundamentally change how new drugs are discovered. Our team has decades of experience in drug discovery, cheminformat",
@@ -7174,19 +7161,6 @@
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
         }
       ]
-    },
-    {
-      "name": "PostEra",
-      "website": "https://postera.ai/",
-      "one_liner": "Medicinal Chemistry powered by Machine Learning",
-      "stage": "Growth",
-      "batch": "Winter 2020",
-      "team_size": 40,
-      "location": "Boston, MA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Postie",
