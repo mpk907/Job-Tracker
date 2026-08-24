@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-23T07:35:51Z",
+  "generated_at": "2026-08-24T06:34:42Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
+    "Y Combinator": 165,
     "MedCity News": 3,
     "BioPharma Dive": 1,
     "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 578,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -5819,7 +5819,7 @@
       "stage": "Growth",
       "batch": "Winter 2018",
       "team_size": 375,
-      "location": "San Francisco, CA, USA; Remote",
+      "location": "Boston, MA, USA; San Francisco, CA, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -8670,6 +8670,19 @@
           "snippet": "Someone in my family is a prime example of this: got a degree in pharmacy, joined an actual pharmacy  for a bit, then ended up working for an equivalent of FDA "
         }
       ]
+    },
+    {
+      "name": "Sonia",
+      "website": "https://soniahealth.com",
+      "one_liner": "Validated mental health support in your pocket, anytime. ",
+      "stage": "Early",
+      "batch": "Winter 2024",
+      "team_size": 7,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Sounds great!",
