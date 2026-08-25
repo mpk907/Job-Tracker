@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-08-24T06:34:42Z",
+  "generated_at": "2026-08-25T06:26:26Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 165,
     "MedCity News": 3,
-    "BioPharma Dive": 1,
     "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -963,25 +962,6 @@
       ]
     },
     {
-      "name": "BioMarin",
-      "website": "",
-      "one_liner": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
-          "snippet": "BioMarin acquires experimental drug for rare bone disorder in $275M deal"
-        }
-      ]
-    },
-    {
       "name": "Blank Bio",
       "website": "http://blank.bio/",
       "one_liner": "RNA intelligence for precision medicine",
@@ -1692,7 +1672,7 @@
       "one_liner": "AI revenue recovery for underpaid healthcare claims.",
       "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 3,
+      "team_size": 11,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -6503,7 +6483,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment",
+      "one_liner": "Opinion: Medicine stopped shaking hands. We should start again",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6514,18 +6494,18 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
+          "snippet": "Opinion: Medicine stopped shaking hands. We should start again"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
+          "snippet": "Opinion: I’m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
           "snippet": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
-          "snippet": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/?utm_campaign=rss",
-          "snippet": "Opinion: The global health aid architecture is collapsing. The faith economy isn’t"
         }
       ]
     },
