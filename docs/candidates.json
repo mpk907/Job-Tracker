@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-08-25T06:26:26Z",
+  "generated_at": "2026-08-26T06:28:17Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
+    "Y Combinator": 164,
     "MedCity News": 3,
     "Endpoints News": 1,
-    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 578,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1226,6 +1225,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Business Group on Health",
+      "website": "",
+      "one_liner": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/business-group-on-health-employer-healthcare-costs-projected-to-rise-9-2-in-2027/",
+          "snippet": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027"
+        }
+      ]
     },
     {
       "name": "Butterfly Network",
@@ -4191,19 +4209,6 @@
       ]
     },
     {
-      "name": "Imperfect",
-      "website": "https://imperfect.co",
-      "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
-      "stage": "Early",
-      "batch": "Spring 2026",
-      "team_size": 4,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "IMT Care",
       "website": "https://www.imt.care",
       "one_liner": "Disrupting Indian Insurance space by empowering distrubutors",
@@ -4459,19 +4464,6 @@
           "snippet": "Jiff - Palo Alto, CA -  http://www.jiff.com/  - Ruby Engineer, Java engineer, Frontend Engineer (AngularJS), QA Engineer, DevOps Engineer - Full Time Jiff is an"
         }
       ]
-    },
-    {
-      "name": "Joon Health",
-      "website": "https://joonhealth.co",
-      "one_liner": "Pediatric digital therapeutic for the +100M families in the US",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 10,
-      "location": "San Francisco, CA, USA; Oakland, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Jose, who do I email if I am interested in Systems Engineer (Medical Devices) ro",
@@ -5034,25 +5026,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22670783",
           "snippet": "Level | NYC - New York City, NY |  https://level.com/  Level is a financial services company that’s reinventing employee benefits, starting with the $100B+ dent"
-        }
-      ]
-    },
-    {
-      "name": "Lilly",
-      "website": "",
-      "one_liner": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/lilly-partners-with-amplitude-on-vaccines-otsuka-scraps-psychedelic-trial/",
-          "snippet": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial"
         }
       ]
     },
@@ -6354,6 +6327,25 @@
       ]
     },
     {
+      "name": "OmicsBank",
+      "website": "",
+      "one_liner": "OmicsBank raises $2.25M to bring overseas patient data to biopharma",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/omicsbank-raises-2-25m-to-bring-overseas-patient-data-to-biopharma/",
+          "snippet": "OmicsBank raises $2.25M to bring overseas patient data to biopharma"
+        }
+      ]
+    },
+    {
       "name": "Oncora Medical",
       "website": "",
       "one_liner": "Oncora Medical | Lead Engineer | Philadelphia, PA | FULL TIME, ONSITE, SALARY: $80k-$180k, oncoramedical.com - Lead Engineer ($140-180k plus stock options) - Security Engineer ($100-150k plus stock options) - Frontend Engineer ($80-120k plu",
@@ -6479,35 +6471,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: Medicine stopped shaking hands. We should start again",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
-          "snippet": "Opinion: Medicine stopped shaking hands. We should start again"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
-          "snippet": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -10101,25 +10064,6 @@
       "evidence": []
     },
     {
-      "name": "Vogenx IPO",
-      "website": "",
-      "one_liner": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/vogenx-ipo-post-bariatric-hypoglycemia-pbh-mizagliflozin-metabolic-disorder-vogx/",
-          "snippet": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs"
-        }
-      ]
-    },
-    {
       "name": "Waterline Data (https://www.waterlinedata.com/)",
       "website": "",
       "one_liner": "Waterline Data ( https://www.waterlinedata.com/ ) | Mountain View, CA | Full Time Waterline Data is the Smart Data Catalog company. Our software automatically discovers, organizes, catalogs and raises trusted data above the waterline. Our o",
@@ -10327,6 +10271,19 @@
           "snippet": "Yeah that's euro's. We're bound by the collective bargaining agreement (cao) for universities. So it's a bit low even for dutch standards. However, it's hard to"
         }
       ]
+    },
+    {
+      "name": "YouShift",
+      "website": "https://www.you-shift.com/",
+      "one_liner": "The OS for hospital workforce management",
+      "stage": "Early",
+      "batch": "Winter 2025",
+      "team_size": 10,
+      "location": "New York City, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Zagster http://zagster.com @ 24 Thorndike St Cambridge, MA 02141",
