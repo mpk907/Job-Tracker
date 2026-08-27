@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-08-26T06:28:17Z",
+  "generated_at": "2026-08-27T16:58:19Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 3,
-    "Endpoints News": 1,
+    "MedCity News": 4,
+    "Endpoints News": 4,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 576,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -178,6 +179,19 @@
       "batch": "Summer 2021",
       "team_size": 25,
       "location": "Lausanne, VD, Switzerland",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Adentris",
+      "website": "https://www.adentris.com",
+      "one_liner": "Real-time AI Compliance & Revenue Integrity for Medical Providers",
+      "stage": "Early",
+      "batch": "Spring 2025",
+      "team_size": 5,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -2917,6 +2931,25 @@
       ]
     },
     {
+      "name": "Faro",
+      "website": "",
+      "one_liner": "Faro raises $37M Series B to speed up clinical trials with AI",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/exclusive-faro-raises-37m-series-b-to-speed-up-clinical-trials-with-ai/",
+          "snippet": "Faro raises $37M Series B to speed up clinical trials with AI"
+        }
+      ]
+    },
+    {
       "name": "Ferrum Health",
       "website": "",
       "one_liner": "Ferrum Health | REMOTE | Full Time | Senior Backend Engineer |  https://ferrumhealth.com  Medical errors are the third leading cause of death in the US, and Ferrum builds AI-powered monitoring systems to help health systems detect and addre",
@@ -3624,7 +3657,7 @@
     {
       "name": "Gutgutgoose",
       "website": "https://gutgutgoose.com/",
-      "one_liner": "Personalized probiotics, guaranteed to colonize.",
+      "one_liner": "We sequence your gut and build the probiotics it’s missing",
       "stage": "Early",
       "batch": "Summer 2026",
       "team_size": 2,
@@ -5666,15 +5699,22 @@
     {
       "name": "Metriport",
       "website": "https://metriport.com/",
-      "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
+      "one_liner": "Healthcare data infrastructure for next generation care delivery.",
       "stage": "Growth",
       "batch": "Summer 2022",
       "team_size": 26,
       "location": "San Francisco, CA, USA",
       "sources": [
-        "Y Combinator"
+        "Y Combinator",
+        "Endpoints News"
       ],
-      "evidence": []
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/metriport-raises-26m-to-help-doctors-retrieve-patient-data/",
+          "snippet": "Metriport raises $26M to help doctors retrieve patient data"
+        }
+      ]
     },
     {
       "name": "Mezzanine",
@@ -6198,7 +6238,7 @@
     {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
-      "one_liner": "AI employees that automate medical operations for clinics. ",
+      "one_liner": "Computer-using agents for healthcare operations",
       "stage": "Early",
       "batch": "Spring 2025",
       "team_size": 6,
@@ -6422,6 +6462,25 @@
       ]
     },
     {
+      "name": "Onos Health",
+      "website": "",
+      "one_liner": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/onos-health-raises-17m-to-expand-ai-powered-behavioral-health-platform/",
+          "snippet": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform"
+        }
+      ]
+    },
+    {
       "name": "ONSITE on Abbot Kinney, Venice Beach, LA Los Angeles (but remote for now) & ONSI",
       "website": "",
       "one_liner": "ONSITE on Abbot Kinney, Venice Beach, LA Los Angeles (but remote for now) & ONSITE or REMOTE in Florianópolis, Brazil. AE Studio is looking to hire 1. software developers with sufficient social skills to communicate with some interesting cl",
@@ -6471,6 +6530,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
@@ -7276,6 +7354,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386573",
           "snippet": "PumpUp | React-Native Developer | Toronto, Canada | FULL-TIME REMOTE, CONTRACT PumpUp is a positive community for health & fitness. Our mission is to empower pe"
+        }
+      ]
+    },
+    {
+      "name": "Q&A",
+      "website": "",
+      "one_liner": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/qa-akeso-ceo-spells-out-why-she-thinks-its-biliary-tract-cancer-data-are-a-big-deal/",
+          "snippet": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal"
         }
       ]
     },
@@ -8414,7 +8511,7 @@
     {
       "name": "SiPhox Health",
       "website": "https://www.siphoxhealth.com",
-      "one_liner": "Wearable and At-Home health monitoring with silicon photonic chips",
+      "one_liner": "At-Home health monitoring with silicon photonic chips",
       "stage": "Early",
       "batch": "Summer 2020",
       "team_size": 63,
@@ -9037,19 +9134,6 @@
       "stage": "Early",
       "batch": "Spring 2025",
       "team_size": 29,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Syntra",
-      "website": "https://www.syntra.com",
-      "one_liner": "Medical chart intelligence",
-      "stage": "Early",
-      "batch": "Summer 2024",
-      "team_size": 10,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
