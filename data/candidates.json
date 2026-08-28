@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-27T16:58:19Z",
+  "generated_at": "2026-08-28T17:50:11Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
-    "MedCity News": 4,
-    "Endpoints News": 4,
-    "STAT News": 1,
+    "Y Combinator": 165,
+    "MedCity News": 3,
+    "Endpoints News": 2,
+    "BioPharma Dive": 2,
     "RockHealth": 2
   },
-  "count": 580,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -254,25 +254,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "AI in Pharmacovigilance",
-      "website": "",
-      "one_liner": "AI in Pharmacovigilance: Why Governance Will Define Success",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/ai-in-pharmacovigilance-why-governance-will-define-success/",
-          "snippet": "AI in Pharmacovigilance: Why Governance Will Define Success"
-        }
-      ]
     },
     {
       "name": "AIOS",
@@ -2927,25 +2908,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544117",
           "snippet": "FanThreeSixty | Software Developer, Software Architect | Austin, TX or Kansas City, MO |  http://www.fanthreesixty.com/  At FanThreeSixty we strive to build sof"
-        }
-      ]
-    },
-    {
-      "name": "Faro",
-      "website": "",
-      "one_liner": "Faro raises $37M Series B to speed up clinical trials with AI",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/exclusive-faro-raises-37m-series-b-to-speed-up-clinical-trials-with-ai/",
-          "snippet": "Faro raises $37M Series B to speed up clinical trials with AI"
         }
       ]
     },
@@ -5702,7 +5664,7 @@
       "one_liner": "Healthcare data infrastructure for next generation care delivery.",
       "stage": "Growth",
       "batch": "Summer 2022",
-      "team_size": 26,
+      "team_size": 29,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator",
@@ -5817,6 +5779,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Moderna",
+      "website": "",
+      "one_liner": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
+          "snippet": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines"
+        }
+      ]
     },
     {
       "name": "Moonset Health",
@@ -6367,25 +6348,6 @@
       ]
     },
     {
-      "name": "OmicsBank",
-      "website": "",
-      "one_liner": "OmicsBank raises $2.25M to bring overseas patient data to biopharma",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/omicsbank-raises-2-25m-to-bring-overseas-patient-data-to-biopharma/",
-          "snippet": "OmicsBank raises $2.25M to bring overseas patient data to biopharma"
-        }
-      ]
-    },
-    {
       "name": "Oncora Medical",
       "website": "",
       "one_liner": "Oncora Medical | Lead Engineer | Philadelphia, PA | FULL TIME, ONSITE, SALARY: $80k-$180k, oncoramedical.com - Lead Engineer ($140-180k plus stock options) - Security Engineer ($100-150k plus stock options) - Frontend Engineer ($80-120k plu",
@@ -6530,25 +6492,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -8318,6 +8261,19 @@
       "evidence": []
     },
     {
+      "name": "Shasta Health",
+      "website": "https://www.shasta.health",
+      "one_liner": "AI calling & browser agents for healthcare",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Shimmer",
       "website": "https://shimmer.care",
       "one_liner": "1:1 ADHD coaching, 5-10X More affordable than alternatives",
@@ -9398,6 +9354,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
+        }
+      ]
+    },
+    {
+      "name": "This week in charts",
+      "website": "",
+      "one_liner": "This week in charts: Biotech’s rebound is undeniable",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
+          "snippet": "This week in charts: Biotech’s rebound is undeniable"
         }
       ]
     },
