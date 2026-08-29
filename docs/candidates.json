@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-28T17:50:11Z",
+  "generated_at": "2026-08-29T11:54:25Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
+    "Y Combinator": 163,
     "MedCity News": 3,
     "Endpoints News": 2,
     "BioPharma Dive": 2,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1976,19 +1976,6 @@
           "snippet": "Commure, Inc. | San Francisco, CA | Multiple positions | Fulltime | ONSITE We are a stealth startup working to fix the software doctors use. If you have seen wh"
         }
       ]
-    },
-    {
-      "name": "Convexia",
-      "website": "https://convexia.bio",
-      "one_liner": "The world's first AI-maximalist pharma company",
-      "stage": "Early",
-      "batch": "Summer 2025",
-      "team_size": 4,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Cotiviti Labs",
@@ -8254,19 +8241,6 @@
       "stage": "Growth",
       "batch": "Summer 2015",
       "team_size": 7,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Shasta Health",
-      "website": "https://www.shasta.health",
-      "one_liner": "AI calling & browser agents for healthcare",
-      "stage": "Early",
-      "batch": "Summer 2023",
-      "team_size": 2,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
