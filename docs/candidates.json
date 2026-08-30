@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-29T11:54:25Z",
+  "generated_at": "2026-08-30T10:50:47Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
+    "Y Combinator": 162,
     "MedCity News": 3,
     "Endpoints News": 2,
     "BioPharma Dive": 2,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 576,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6993,19 +6993,6 @@
       "batch": "Summer 2014",
       "team_size": 100,
       "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Pirouette Pharma",
-      "website": "https://www.pirouettepharma.com/",
-      "one_liner": "We make injections as easy as pushing a button!",
-      "stage": "Growth",
-      "batch": "Summer 2021",
-      "team_size": 9,
-      "location": "Boston, MA, USA",
       "sources": [
         "Y Combinator"
       ],
