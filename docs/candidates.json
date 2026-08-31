@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-30T12:40:24Z",
+  "generated_at": "2026-08-31T12:00:33Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
+    "Y Combinator": 163,
     "MedCity News": 3,
     "Endpoints News": 2,
-    "BioPharma Dive": 2,
+    "BioPharma Dive": 3,
     "RockHealth": 2
   },
-  "count": 576,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2850,7 +2850,7 @@
     {
       "name": "Exonic",
       "website": "https://exonic.ai",
-      "one_liner": "Unsupervised Biological AI",
+      "one_liner": "Exonic is an AI-native cell and gene therapeutics company. ",
       "stage": "Early",
       "batch": "Fall 2025",
       "team_size": 3,
@@ -7120,6 +7120,19 @@
       ]
     },
     {
+      "name": "Prescience, Inc.",
+      "website": "https://www.getprescience.com/",
+      "one_liner": "Healthcare for the age of abundant intelligence.",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Presidential Innovation Fellows",
       "website": "",
       "one_liner": "Presidential Innovation Fellows | Washington, DC | ONSITE | Full-time The Presidential Innovation Fellows (PIF) program is looking for high-performing data scientists, designers, engineers, executives, innovators, product managers, and tech",
@@ -8428,7 +8441,7 @@
     {
       "name": "SiPhox Health",
       "website": "https://www.siphoxhealth.com",
-      "one_liner": "At-Home health monitoring with silicon photonic chips",
+      "one_liner": "At-Home health monitoring with silicon photonic chips for data centers",
       "stage": "Early",
       "batch": "Summer 2020",
       "team_size": 63,
@@ -9239,6 +9252,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386105",
           "snippet": "The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k,  https://www.thefarmersdog.com/  The Farmer’s Dog is a VC backed (we just raised "
+        }
+      ]
+    },
+    {
+      "name": "The next frontier",
+      "website": "",
+      "one_liner": "The next frontier: Advancing foundation models with multimodal data",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
+          "snippet": "The next frontier: Advancing foundation models with multimodal data"
         }
       ]
     },
