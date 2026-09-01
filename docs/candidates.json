@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-31T12:00:33Z",
+  "generated_at": "2026-09-01T10:39:23Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 163,
     "MedCity News": 3,
-    "Endpoints News": 2,
     "BioPharma Dive": 3,
-    "RockHealth": 2
+    "STAT News": 1,
+    "RockHealth": 2,
+    "Endpoints News": 3
   },
-  "count": 578,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -5456,6 +5457,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: How Midwives Can Support the Maternal Health Crisis",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/08/medcity-femfwd-how-midwives-can-support-the-maternal-health-crisis/",
+          "snippet": "MedCity FemFwd: How Midwives Can Support the Maternal Health Crisis"
+        }
+      ]
+    },
+    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -5654,16 +5674,9 @@
       "team_size": 29,
       "location": "San Francisco, CA, USA",
       "sources": [
-        "Y Combinator",
-        "Endpoints News"
+        "Y Combinator"
       ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/metriport-raises-26m-to-help-doctors-retrieve-patient-data/",
-          "snippet": "Metriport raises $26M to help doctors retrieve patient data"
-        }
-      ]
+      "evidence": []
     },
     {
       "name": "Mezzanine",
@@ -6481,6 +6494,25 @@
       "evidence": []
     },
     {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: The Trump administration is burying science and health care in paperwork",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
+          "snippet": "Opinion: The Trump administration is burying science and health care in paperwork"
+        }
+      ]
+    },
+    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -7122,7 +7154,7 @@
     {
       "name": "Prescience, Inc.",
       "website": "https://www.getprescience.com/",
-      "one_liner": "Healthcare for the age of abundant intelligence.",
+      "one_liner": "Health insurance for the age of abundant intelligence.",
       "stage": "Early",
       "batch": "Summer 2026",
       "team_size": 2,
@@ -7929,6 +7961,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557402",
           "snippet": "San Francisco, CA | Sys Admin / Developer (CentOS, ESXi, Ansible, Python, Medical Imaging)\nCenter for Imaging of Neurodegenerative Diseases (CIND) The CIND is a"
+        }
+      ]
+    },
+    {
+      "name": "Sanofi-backed Electra",
+      "website": "",
+      "one_liner": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/sanofi-backed-electra-files-for-ipo-to-fund-phase-2-3-immunology-drug/",
+          "snippet": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug"
         }
       ]
     },
@@ -9370,25 +9421,6 @@
       ]
     },
     {
-      "name": "This Week In Epic News",
-      "website": "",
-      "one_liner": "This Week In Epic News: FTC Probe, AI Agents & More",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/",
-          "snippet": "This Week In Epic News: FTC Probe, AI Agents & More"
-        }
-      ]
-    },
-    {
       "name": "ThreeComma.io",
       "website": "",
       "one_liner": "ThreeComma.io - Devops Wizards | REMOTE, CONTRACTOR, FLEXIBLE  http://threecomma.io/jobs/  ThreeComma is dedicated to helping our customers improve efficiencies and reduce expenses relating to cloud services and storage. We leverage this ex",
@@ -9659,6 +9691,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813643",
           "snippet": "Trulia (San Francisco) is looking for experienced Engineers, Ops and Product Managers.  http://grnh.se/i684wq  Engineering Lead - API Team -  http://grnh.se/khf"
+        }
+      ]
+    },
+    {
+      "name": "Trump",
+      "website": "",
+      "one_liner": "Trump announces nine new MFN drug pricing deals",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/trump-announces-nine-new-mfn-drug-pricing-deals/",
+          "snippet": "Trump announces nine new MFN drug pricing deals"
         }
       ]
     },
