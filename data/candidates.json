@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T10:39:23Z",
+  "generated_at": "2026-09-02T10:08:54Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
-    "MedCity News": 3,
-    "BioPharma Dive": 3,
+    "Y Combinator": 164,
+    "MedCity News": 4,
+    "BioPharma Dive": 2,
     "STAT News": 1,
     "RockHealth": 2,
-    "Endpoints News": 3
+    "Endpoints News": 2
   },
   "count": 581,
   "candidates": [
@@ -881,6 +881,19 @@
       ]
     },
     {
+      "name": "BelozFi",
+      "website": "https://www.belozfi.com.mx/",
+      "one_liner": "Financial health focused micro-lender in Mexico",
+      "stage": "Early",
+      "batch": "Winter 2022",
+      "team_size": 29,
+      "location": "Mexico City, CDMX, Mexico",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Beme (CNN)",
       "website": "",
       "one_liner": "Beme (CNN) | Platform Engineer (Golang) | NYC | ONSITE |  https://beme.com  Beme is looking for a software engineer to join us in creating the next generation of apps for newshounds. We're building a new, independent, and wildly ambitious t",
@@ -1136,6 +1149,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
+        }
+      ]
+    },
+    {
+      "name": "Breaking the Amendment Cycle",
+      "website": "",
+      "one_liner": "Breaking the Amendment Cycle: How Agentic AI Enables Smarter Clinical Trial Design and Operations",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/breaking-the-amendment-cycle-how-agentic-ai-enables-smarter-clinical-trial-design-and-operations/",
+          "snippet": "Breaking the Amendment Cycle: How Agentic AI Enables Smarter Clinical Trial Design and Operations"
         }
       ]
     },
@@ -5140,19 +5172,6 @@
       ]
     },
     {
-      "name": "Loula",
-      "website": "https://joinloula.com",
-      "one_liner": "Enabling birth & postpartum doulas to easily accept insurance.",
-      "stage": "Early",
-      "batch": "Winter 2023",
-      "team_size": 7,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Lucis",
       "website": "https://www.lucis.life",
       "one_liner": "Function Health for Europe ",
@@ -6496,7 +6515,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: The Trump administration is burying science and health care in paperwork",
+      "one_liner": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6505,6 +6524,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
+          "snippet": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
@@ -7316,25 +7340,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386573",
           "snippet": "PumpUp | React-Native Developer | Toronto, Canada | FULL-TIME REMOTE, CONTRACT PumpUp is a positive community for health & fitness. Our mission is to empower pe"
-        }
-      ]
-    },
-    {
-      "name": "Q&A",
-      "website": "",
-      "one_liner": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/qa-akeso-ceo-spells-out-why-she-thinks-its-biliary-tract-cancer-data-are-a-big-deal/",
-          "snippet": "Q&A: Akeso CEO spells out why she thinks its biliary tract cancer data are a big deal"
         }
       ]
     },
@@ -8292,6 +8297,19 @@
       "stage": "Growth",
       "batch": "Summer 2015",
       "team_size": 7,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Shasta Health",
+      "website": "https://www.shasta.health",
+      "one_liner": "The last healthcare admin hire",
+      "stage": "Early",
+      "batch": "Summer 2023",
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -9398,25 +9416,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
-        }
-      ]
-    },
-    {
-      "name": "This week in charts",
-      "website": "",
-      "one_liner": "This week in charts: Biotech’s rebound is undeniable",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
-          "snippet": "This week in charts: Biotech’s rebound is undeniable"
         }
       ]
     },
