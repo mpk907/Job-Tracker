@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-09-02T10:08:54Z",
+  "generated_at": "2026-09-03T10:15:30Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 4,
-    "BioPharma Dive": 2,
+    "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 2
   },
-  "count": 581,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1352,9 +1351,9 @@
       "name": "Camber",
       "website": "https://www.camber.health/",
       "one_liner": "Admin automation for healthcare",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2021",
-      "team_size": 85,
+      "team_size": 101,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -5800,25 +5799,6 @@
       "evidence": []
     },
     {
-      "name": "Moderna",
-      "website": "",
-      "one_liner": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
-          "snippet": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines"
-        }
-      ]
-    },
-    {
       "name": "Moonset Health",
       "website": "https://www.moonsethealth.com/",
       "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
@@ -6515,7 +6495,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+      "one_liner": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6526,13 +6506,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field"
+          "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
-          "snippet": "Opinion: The Trump administration is burying science and health care in paperwork"
+          "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
+          "snippet": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field"
         }
       ]
     },
@@ -7970,25 +7950,6 @@
       ]
     },
     {
-      "name": "Sanofi-backed Electra",
-      "website": "",
-      "one_liner": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/sanofi-backed-electra-files-for-ipo-to-fund-phase-2-3-immunology-drug/",
-          "snippet": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug"
-        }
-      ]
-    },
-    {
       "name": "Scanadu",
       "website": "",
       "one_liner": "Scanadu | Sunnyvale, CA | Full-Time | ONSITE Scanadu is a consumer medical devices company developing a human-centered suite of products using science and technology to empower everyday people to monitor and better understand their health —",
@@ -9032,6 +8993,25 @@
       "evidence": []
     },
     {
+      "name": "Superluminal",
+      "website": "",
+      "one_liner": "Superluminal secures $60M for Phase 1 of genetic obesity drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/superluminal-secures-60m-for-phase-1-of-genetic-obesity-drug/",
+          "snippet": "Superluminal secures $60M for Phase 1 of genetic obesity drug"
+        }
+      ]
+    },
+    {
       "name": "Swift Systems",
       "website": "",
       "one_liner": "Swift Systems - Frederick, MD - Systems Support Engineer I  -  http://www.swiftsystems.com/careers  Swift Systems is a full-service IT engineering and services firm focused on the delivery of managed IT services. We are looking for a discip",
@@ -9325,25 +9305,6 @@
       ]
     },
     {
-      "name": "The next frontier",
-      "website": "",
-      "one_liner": "The next frontier: Advancing foundation models with multimodal data",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
-          "snippet": "The next frontier: Advancing foundation models with multimodal data"
-        }
-      ]
-    },
-    {
       "name": "The Pacific Financial Group",
       "website": "",
       "one_liner": "The Pacific Financial Group | DevOps Engineer | REMOTE (US based) | Full Time | tpfg.com The Pacific Financial Group Inc. (‘TPFG’) is an innovative, fast growing investment advisory and WealthTech company with $3 Billion in assets under man",
@@ -9473,6 +9434,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544955",
           "snippet": "Thumbtack |  https://thumbtack.com  | San Francisco, CA | ONSITE Thumbtack is a local services marketplace that connects millions of customers with the right pr"
+        }
+      ]
+    },
+    {
+      "name": "Thyme Care",
+      "website": "",
+      "one_liner": "Thyme Care Raises $125M, Launches New Oncology Parent Entity",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/thyme-care-raises-125m-launches-new-oncology-parent-entity/",
+          "snippet": "Thyme Care Raises $125M, Launches New Oncology Parent Entity"
         }
       ]
     },
