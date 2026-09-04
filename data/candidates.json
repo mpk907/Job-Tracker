@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T10:15:30Z",
+  "generated_at": "2026-09-04T10:08:33Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "MedCity News": 5,
-    "STAT News": 1,
+    "STAT News": 2,
     "RockHealth": 2,
-    "Endpoints News": 2
+    "Endpoints News": 1
   },
   "count": 580,
   "candidates": [
@@ -1254,25 +1254,6 @@
       "evidence": []
     },
     {
-      "name": "Business Group on Health",
-      "website": "",
-      "one_liner": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/business-group-on-health-employer-healthcare-costs-projected-to-rise-9-2-in-2027/",
-          "snippet": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027"
-        }
-      ]
-    },
-    {
       "name": "Butterfly Network",
       "website": "",
       "one_liner": "Butterfly Network | New York City or Guilford, CT | Full Stack Engineer, Mobile Developer (React Native) We're a team of world-class scientists and engineers working to build the next generation of low-cost, ultraportable medical imaging de",
@@ -1351,7 +1332,7 @@
       "name": "Camber",
       "website": "https://www.camber.health/",
       "one_liner": "Admin automation for healthcare",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2021",
       "team_size": 101,
       "location": "New York City, NY, USA",
@@ -3822,6 +3803,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Healing Through Heritage",
+      "website": "",
+      "one_liner": "Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/healing-through-heritage-why-culturally-grounded-recovery-matters-on-tribal-lands/",
+          "snippet": "Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands"
+        }
+      ]
     },
     {
       "name": "Health eFilings",
@@ -6480,6 +6480,25 @@
       ]
     },
     {
+      "name": "OpenEvidence",
+      "website": "",
+      "one_liner": "STAT+: OpenEvidence launches new family of AI models",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss",
+          "snippet": "STAT+: OpenEvidence launches new family of AI models"
+        }
+      ]
+    },
+    {
       "name": "Ophelia",
       "website": "https://ophelia.com",
       "one_liner": "Medication & support to beat opioid addiction from home",
@@ -6495,7 +6514,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells",
+      "one_liner": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6506,13 +6525,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells"
+          "url": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
+          "snippet": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field"
+          "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells"
         }
       ]
     },
@@ -9670,25 +9689,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813643",
           "snippet": "Trulia (San Francisco) is looking for experienced Engineers, Ops and Product Managers.  http://grnh.se/i684wq  Engineering Lead - API Team -  http://grnh.se/khf"
-        }
-      ]
-    },
-    {
-      "name": "Trump",
-      "website": "",
-      "one_liner": "Trump announces nine new MFN drug pricing deals",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/trump-announces-nine-new-mfn-drug-pricing-deals/",
-          "snippet": "Trump announces nine new MFN drug pricing deals"
         }
       ]
     },
