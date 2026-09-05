@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-04T10:08:33Z",
+  "generated_at": "2026-09-05T09:35:20Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
-    "MedCity News": 5,
+    "Y Combinator": 163,
+    "MedCity News": 4,
     "STAT News": 2,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 580,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2676,19 +2676,6 @@
           "snippet": "Elysium Health | VP of Engineering | New York, NY | Full-time | Onsite Our mission is to turn critical scientific advancements into accessible consumer products"
         }
       ]
-    },
-    {
-      "name": "Embeddables",
-      "website": "https://embeddables.com",
-      "one_liner": "The funnel builder built for health & wellness brands.",
-      "stage": "Early",
-      "batch": "Summer 2018",
-      "team_size": 23,
-      "location": "San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "EMPATICA ~ iOS DEVELOPER ~ MILAN, ITALY ~ FULL TIME ~ ONSITE ~ https://www.empat",
@@ -5687,7 +5674,7 @@
       "name": "Metriport",
       "website": "https://metriport.com/",
       "one_liner": "Healthcare data infrastructure for next generation care delivery.",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2022",
       "team_size": 29,
       "location": "San Francisco, CA, USA",
@@ -6423,25 +6410,6 @@
       ]
     },
     {
-      "name": "Onos Health",
-      "website": "",
-      "one_liner": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/08/onos-health-raises-17m-to-expand-ai-powered-behavioral-health-platform/",
-          "snippet": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform"
-        }
-      ]
-    },
-    {
       "name": "ONSITE on Abbot Kinney, Venice Beach, LA Los Angeles (but remote for now) & ONSI",
       "website": "",
       "one_liner": "ONSITE on Abbot Kinney, Venice Beach, LA Los Angeles (but remote for now) & ONSITE or REMOTE in Florianópolis, Brazil. AE Studio is looking to hire 1. software developers with sufficient social skills to communicate with some interesting cl",
@@ -6514,7 +6482,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
+      "one_liner": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6525,13 +6493,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
-          "snippet": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains"
+          "url": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
+          "snippet": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells"
+          "url": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
+          "snippet": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains"
         }
       ]
     },
