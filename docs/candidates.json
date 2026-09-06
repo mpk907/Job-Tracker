@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-05T09:35:20Z",
+  "generated_at": "2026-09-06T09:48:54Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
+    "Y Combinator": 164,
     "MedCity News": 4,
     "STAT News": 2,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 578,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -5195,6 +5195,19 @@
       ]
     },
     {
+      "name": "Luminai",
+      "website": "https://www.luminai.com",
+      "one_liner": "Luminai is the AI platform for Health System Operations.",
+      "stage": "Early",
+      "batch": "Summer 2020",
+      "team_size": 50,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Luminostics (YC S16)",
       "website": "",
       "one_liner": "Luminostics (YC S16)| Mobile Image Processing / Computer Vision Engineer | San Jose, CA | Full-Time | Onsite |  http://www.luminostics.com/  Luminostics is building a smartphone adapter for at-home disease detection and health monitoring us",
@@ -5674,7 +5687,7 @@
       "name": "Metriport",
       "website": "https://metriport.com/",
       "one_liner": "Healthcare data infrastructure for next generation care delivery.",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2022",
       "team_size": 29,
       "location": "San Francisco, CA, USA",
