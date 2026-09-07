@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-06T11:35:10Z",
+  "generated_at": "2026-09-07T10:53:18Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 164,
+    "Y Combinator": 162,
     "MedCity News": 4,
     "STAT News": 2,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 579,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -729,19 +729,6 @@
       "batch": "Summer 2016",
       "team_size": 1000,
       "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Auricle",
-      "website": "https://auricle.com",
-      "one_liner": "Neurostimulation implant to restore hearing & speech understanding",
-      "stage": "Early",
-      "batch": "Winter 2021",
-      "team_size": 2,
-      "location": "San Francisco, CA, USA; Oakland, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3602,19 +3589,6 @@
           "snippet": "Gusto - VISA, ONSITE (SF or Denver) Gusto is building dead-simple, delightful payroll, benefits, and HR software for small businesses. In only 3.5 years, we've "
         }
       ]
-    },
-    {
-      "name": "Gutgutgoose",
-      "website": "https://gutgutgoose.com/",
-      "one_liner": "We sequence your gut and build the probiotics it’s missing",
-      "stage": "Early",
-      "batch": "Summer 2026",
-      "team_size": 2,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Gyroscope [https://gyrosco.pe]",
@@ -7158,7 +7132,7 @@
     {
       "name": "Prescience, Inc.",
       "website": "https://www.getprescience.com/",
-      "one_liner": "Health insurance for the age of abundant intelligence.",
+      "one_liner": "Superintelligent health insurance that keeps employees healthy",
       "stage": "Early",
       "batch": "Summer 2026",
       "team_size": 2,
