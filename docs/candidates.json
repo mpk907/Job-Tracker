@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-07T10:53:18Z",
+  "generated_at": "2026-09-08T10:13:45Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
+    "Y Combinator": 161,
     "MedCity News": 4,
-    "STAT News": 2,
+    "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 577,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -956,19 +956,6 @@
       ]
     },
     {
-      "name": "Blank Bio",
-      "website": "http://blank.bio/",
-      "one_liner": "RNA intelligence for precision medicine",
-      "stage": "Early",
-      "batch": "Summer 2025",
-      "team_size": 6,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Blink Health",
       "website": "",
       "one_liner": "Blink Health | Security Hire #2: Infrastructure-Focused Security Engineer | New York NY | VISA   https://www.blinkhealth.com/  Official job posting is here:  https://jobs.lever.co/blinkhealth/14ec8b7a-b5fe-495e-803d-16... . Looking for some",
@@ -1509,7 +1496,7 @@
       "one_liner": "The agentic drug company. We simulate human biology.",
       "stage": "Early",
       "batch": "Winter 2026",
-      "team_size": 2,
+      "team_size": 5,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -2522,11 +2509,11 @@
     {
       "name": "Eden",
       "website": "https://edenmed.com",
-      "one_liner": "Developing AI to unleash diagnostic abundance.",
-      "stage": "Growth",
+      "one_liner": "Building Clinical Superintelligence.",
+      "stage": "Early",
       "batch": "Summer 2018",
-      "team_size": 55,
-      "location": "Mexico City, CDMX, Mexico",
+      "team_size": 100,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6435,25 +6422,6 @@
       ]
     },
     {
-      "name": "OpenEvidence",
-      "website": "",
-      "one_liner": "STAT+: OpenEvidence launches new family of AI models",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss",
-          "snippet": "STAT+: OpenEvidence launches new family of AI models"
-        }
-      ]
-    },
-    {
       "name": "Ophelia",
       "website": "https://ophelia.com",
       "one_liner": "Medication & support to beat opioid addiction from home",
@@ -6469,7 +6437,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
+      "one_liner": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6478,6 +6446,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/08/fat-medical-student-inclusivity-advocacy-health-at-any-size-physician/?utm_campaign=rss",
+          "snippet": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
