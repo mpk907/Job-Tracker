@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T10:13:45Z",
+  "generated_at": "2026-09-09T10:16:20Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 161,
+    "Y Combinator": 160,
     "MedCity News": 4,
-    "STAT News": 1,
-    "RockHealth": 2,
-    "Endpoints News": 1
+    "Endpoints News": 1,
+    "STAT News": 2,
+    "RockHealth": 2
   },
   "count": 575,
   "candidates": [
@@ -2510,7 +2510,7 @@
       "name": "Eden",
       "website": "https://edenmed.com",
       "one_liner": "Building Clinical Superintelligence.",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2018",
       "team_size": 100,
       "location": "San Francisco, CA, USA",
@@ -2523,7 +2523,7 @@
       "name": "Eight Sleep",
       "website": "http://eightsleep.com",
       "one_liner": "The sleep fitness company.",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2015",
       "team_size": 100,
       "location": "New York City, NY, USA; New York, NY, USA; Remote",
@@ -3439,19 +3439,6 @@
           "snippet": "Glassdoor | Mill Valley, CA (near San Francisco) | Senior Software Engineer (and other roles) | Full-time | Onsite |  https://www.glassdoor.com/glassdoor  We’re"
         }
       ]
-    },
-    {
-      "name": "GloGlo",
-      "website": "https://gloglo.com",
-      "one_liner": "AI glucose companion for diabetics ",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": 3,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "GoGoGrandparent",
@@ -5773,6 +5760,25 @@
       "evidence": []
     },
     {
+      "name": "Moonwalk",
+      "website": "",
+      "one_liner": "Moonwalk raises $70M to test siRNA treatment for obesity",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/moonwalk-raises-70-million-to-test-sirna-treatment-for-obesity/",
+          "snippet": "Moonwalk raises $70M to test siRNA treatment for obesity"
+        }
+      ]
+    },
+    {
       "name": "Morphle Labs",
       "website": "https://morphlelabs.com",
       "one_liner": "Robotic Automation for cancer diagnostics - Robotic Microscopes &…",
@@ -6437,7 +6443,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it",
+      "one_liner": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6448,18 +6454,18 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+          "snippet": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+          "snippet": "Opinion: AMA CEO: AI won’t replace doctors — it will work alongside them"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/08/fat-medical-student-inclusivity-advocacy-health-at-any-size-physician/?utm_campaign=rss",
           "snippet": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
-          "snippet": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
-          "snippet": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains"
         }
       ]
     },
@@ -6568,6 +6574,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22668264",
           "snippet": "Ought |  https://ought.org  | Software Engineer | San Francisco (onsite) We're a non-profit AI research lab. Our goal is to make machine learning solve tasks wh"
+        }
+      ]
+    },
+    {
+      "name": "Oura files to",
+      "website": "",
+      "one_liner": "STAT+: Oura files to goes public, reported $1.2B in earnings",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
+          "snippet": "STAT+: Oura files to goes public, reported $1.2B in earnings"
         }
       ]
     },
@@ -7338,10 +7363,10 @@
     {
       "name": "Quinn",
       "website": "https://www.quinnbio.com",
-      "one_liner": "The AI that delivers pharma R&D decisions in days, not months",
+      "one_liner": "Your biopharma team, from molecule design to portfolio strategy",
       "stage": "Early",
       "batch": "Summer 2022",
-      "team_size": 4,
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -8938,25 +8963,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Superluminal",
-      "website": "",
-      "one_liner": "Superluminal secures $60M for Phase 1 of genetic obesity drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/superluminal-secures-60m-for-phase-1-of-genetic-obesity-drug/",
-          "snippet": "Superluminal secures $60M for Phase 1 of genetic obesity drug"
-        }
-      ]
     },
     {
       "name": "Swift Systems",
