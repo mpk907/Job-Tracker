@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-09-09T10:16:20Z",
+  "generated_at": "2026-09-10T10:11:33Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
     "MedCity News": 4,
-    "Endpoints News": 1,
-    "STAT News": 2,
+    "Endpoints News": 2,
+    "BioPharma Dive": 1,
+    "STAT News": 3,
     "RockHealth": 2
   },
-  "count": 575,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2523,7 +2524,7 @@
       "name": "Eight Sleep",
       "website": "http://eightsleep.com",
       "one_liner": "The sleep fitness company.",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2015",
       "team_size": 100,
       "location": "New York City, NY, USA; New York, NY, USA; Remote",
@@ -2682,6 +2683,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Encoded",
+      "website": "",
+      "one_liner": "Encoded closes $275M Series F for Dravet syndrome drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/encoded-closes-275m-series-f-for-dravet-syndrome-drug/",
+          "snippet": "Encoded closes $275M Series F for Dravet syndrome drug"
+        }
+      ]
     },
     {
       "name": "engageSPARK",
@@ -4859,7 +4879,7 @@
     {
       "name": "Layers",
       "website": "https://www.layers.bio/",
-      "one_liner": "A 30 min appointment to measure everything in your body",
+      "one_liner": "Improve your appearance by measuring, understanding, and tracking…",
       "stage": "Early",
       "batch": "Fall 2025",
       "team_size": 2,
@@ -5292,7 +5312,7 @@
     {
       "name": "Maven Bio",
       "website": "https://mavenbio.com",
-      "one_liner": "The AI Platform for Life Sciences Intelligence",
+      "one_liner": "Live intelligence for biopharma teams.",
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 10,
@@ -6011,6 +6031,25 @@
       ]
     },
     {
+      "name": "new immuno-oncology play",
+      "website": "",
+      "one_liner": "A new immuno-oncology play raises $225M for a next-generation drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
+          "snippet": "A new immuno-oncology play raises $225M for a next-generation drug"
+        }
+      ]
+    },
+    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6443,7 +6482,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
+      "one_liner": "Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6454,6 +6493,11 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss",
+          "snippet": "Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
           "snippet": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030"
         },
@@ -6461,11 +6505,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
           "snippet": "Opinion: AMA CEO: AI won’t replace doctors — it will work alongside them"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/08/fat-medical-student-inclusivity-advocacy-health-at-any-size-physician/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it"
         }
       ]
     },
@@ -9642,6 +9681,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13546784",
           "snippet": "Twist Bioscience | San Francisco, CA | ONSITE | www.twistbioscience.com Precision Machine-Vision-Controlled Laboratory-Robotics for DNA Synthesis Programmable D"
+        }
+      ]
+    },
+    {
+      "name": "U.K",
+      "website": "",
+      "one_liner": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+          "snippet": "STAT+: U.K. unveils recommendations for regulating AI in medicine"
         }
       ]
     },
