@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T10:10:07Z",
+  "generated_at": "2026-09-12T09:44:04Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
-    "MedCity News": 3,
     "Endpoints News": 1,
-    "BioPharma Dive": 1,
-    "STAT News": 2,
+    "MedCity News": 3,
+    "BioPharma Dive": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
   "count": 575,
@@ -1123,25 +1123,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
-        }
-      ]
-    },
-    {
-      "name": "Breaking the Amendment Cycle",
-      "website": "",
-      "one_liner": "Breaking the Amendment Cycle: How Agentic AI Enables Smarter Clinical Trial Design and Operations",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/breaking-the-amendment-cycle-how-agentic-ai-enables-smarter-clinical-trial-design-and-operations/",
-          "snippet": "Breaking the Amendment Cycle: How Agentic AI Enables Smarter Clinical Trial Design and Operations"
         }
       ]
     },
@@ -3339,6 +3320,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22669325",
           "snippet": "Genetic Networks | Miami, FL and REMOTE USA | Computer Information Research Scientist Genetic Networks combines pharmacogenomics and functional genomics to prov"
+        }
+      ]
+    },
+    {
+      "name": "GenHealth.ai",
+      "website": "",
+      "one_liner": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+          "snippet": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks"
         }
       ]
     },
@@ -6457,11 +6457,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
           "snippet": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss",
-          "snippet": "Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill"
         }
       ]
     },
@@ -9311,6 +9306,25 @@
       ]
     },
     {
+      "name": "This week in charts",
+      "website": "",
+      "one_liner": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
+          "snippet": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree"
+        }
+      ]
+    },
+    {
       "name": "ThreeComma.io",
       "website": "",
       "one_liner": "ThreeComma.io - Devops Wizards | REMOTE, CONTRACTOR, FLEXIBLE  http://threecomma.io/jobs/  ThreeComma is dedicated to helping our customers improve efficiencies and reduce expenses relating to cloud services and storage. We leverage this ex",
@@ -9619,25 +9633,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13546784",
           "snippet": "Twist Bioscience | San Francisco, CA | ONSITE | www.twistbioscience.com Precision Machine-Vision-Controlled Laboratory-Robotics for DNA Synthesis Programmable D"
-        }
-      ]
-    },
-    {
-      "name": "U.K",
-      "website": "",
-      "one_liner": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
-          "snippet": "STAT+: U.K. unveils recommendations for regulating AI in medicine"
         }
       ]
     },
