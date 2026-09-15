@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-09-14T11:09:15Z",
+  "generated_at": "2026-09-15T10:36:22Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 161,
-    "Endpoints News": 1,
+    "Y Combinator": 158,
     "MedCity News": 3,
-    "BioPharma Dive": 2,
-    "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 1,
+    "BioPharma Dive": 1
   },
-  "count": 576,
+  "count": 571,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -537,19 +536,6 @@
       "batch": "Winter 2022",
       "team_size": 30,
       "location": "Houston, TX, USA; San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "ANORIA",
-      "website": "https://www.anoria.com",
-      "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
-      "stage": "Early",
-      "batch": "Spring 2026",
-      "team_size": 5,
-      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -2666,38 +2652,6 @@
       ]
     },
     {
-      "name": "Empirical Health",
-      "website": "https://empirical.health",
-      "one_liner": "Don't die of heart disease. Empirical is the first AI-native heart…",
-      "stage": "Early",
-      "batch": "Summer 2023",
-      "team_size": 4,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Encoded",
-      "website": "",
-      "one_liner": "Encoded closes $275M Series F for Dravet syndrome drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/encoded-closes-275m-series-f-for-dravet-syndrome-drug/",
-          "snippet": "Encoded closes $275M Series F for Dravet syndrome drug"
-        }
-      ]
-    },
-    {
       "name": "engageSPARK",
       "website": "",
       "one_liner": "engageSPARK | Cebu, Philippines | ONSITE, REMOTE, FULLTIME, VISA, Code4Good  https://www.engageSPARK.com  engageSPARK, a social enterprise, is the world's EASIEST Platform that empowers professionals (marketing, sales, hr, operations, proje",
@@ -3206,6 +3160,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
+        }
+      ]
+    },
+    {
+      "name": "From Onboarding to Outcomes",
+      "website": "",
+      "one_liner": "From Onboarding to Outcomes: The Privacy-First Identity Workflow for Pharma Marketing",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/from-onboarding-to-outcomes-the-privacy-first-identity-workflow-for-pharma-marketing/",
+          "snippet": "From Onboarding to Outcomes: The Privacy-First Identity Workflow for Pharma Marketing"
         }
       ]
     },
@@ -3771,25 +3744,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Healing Through Heritage",
-      "website": "",
-      "one_liner": "Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/healing-through-heritage-why-culturally-grounded-recovery-matters-on-tribal-lands/",
-          "snippet": "Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands"
-        }
-      ]
     },
     {
       "name": "Health eFilings",
@@ -5913,6 +5867,25 @@
       "evidence": []
     },
     {
+      "name": "Nara Health",
+      "website": "",
+      "one_liner": "Nara Health Secures $14M for Third Party Administration Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/nara-health-secures-14m-for-third-party-administration-platform/",
+          "snippet": "Nara Health Secures $14M for Third Party Administration Platform"
+        }
+      ]
+    },
+    {
       "name": "Natera",
       "website": "",
       "one_liner": "Natera | Full-Stack & Back End Software Engineers, QA, SDET, Project Managers | San Carlos, CA + Austin, TX | ONSITE (remote during isolation) | Full-time, visa ok Natera operates genetics lab testing for healthcare in the reproductive + wo",
@@ -6002,25 +5975,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11817270",
           "snippet": "Neumitra - digital medicine into daily life - Boston, MA We're hiring data-driven engineers including: - Embedded developers for real-time biofeedback and senso"
-        }
-      ]
-    },
-    {
-      "name": "new immuno-oncology play",
-      "website": "",
-      "one_liner": "A new immuno-oncology play raises $225M for a next-generation drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
-          "snippet": "A new immuno-oncology play raises $225M for a next-generation drug"
         }
       ]
     },
@@ -6453,25 +6407,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -7487,6 +7422,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "RegCell",
+      "website": "",
+      "one_liner": "RegCell lands $44M Series A to take Nobel-winning Tregs into clinic",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/regcell-lands-44m-series-a-to-take-nobel-winning-tregs-into-clinic/",
+          "snippet": "RegCell lands $44M Series A to take Nobel-winning Tregs into clinic"
+        }
+      ]
     },
     {
       "name": "Reify Health",
@@ -9395,25 +9349,6 @@
       ]
     },
     {
-      "name": "Thyme Care",
-      "website": "",
-      "one_liner": "Thyme Care Raises $125M, Launches New Oncology Parent Entity",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/thyme-care-raises-125m-launches-new-oncology-parent-entity/",
-          "snippet": "Thyme Care Raises $125M, Launches New Oncology Parent Entity"
-        }
-      ]
-    },
-    {
       "name": "Tivara",
       "website": "https://tivara.com",
       "one_liner": "The AI workforce for medical groups",
@@ -9731,19 +9666,6 @@
       ]
     },
     {
-      "name": "Untether Labs",
-      "website": "https://untetherlabs.com",
-      "one_liner": "Scheduling software for digital health clinics to do more with less.",
-      "stage": "Early",
-      "batch": "Winter 2023",
-      "team_size": 6,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Uplight",
       "website": "",
       "one_liner": "Uplight | Various Engineering Openings | Full-time, Onsite | Boulder, Denver, Vancouver, Boston, Pune |  https://uplight.com/careers/  We're looking for engineers who want to fight climate change. We motivate energy users and providers to a",
@@ -9901,11 +9823,11 @@
     {
       "name": "Verse Medical",
       "website": "http://versemedical.com/",
-      "one_liner": "Software platform for in-home healthcare",
-      "stage": "Growth",
+      "one_liner": "AI-enabled ordering for medical equipment & supplies",
+      "stage": "Early",
       "batch": "Summer 2018",
       "team_size": 200,
-      "location": "New York City, NY, USA; New York, NY, USA",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
