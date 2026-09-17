@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-09-16T10:25:41Z",
+  "generated_at": "2026-09-17T10:35:25Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 159,
+    "Y Combinator": 161,
     "MedCity News": 3,
     "Endpoints News": 2,
     "STAT News": 1,
-    "RockHealth": 2,
-    "BioPharma Dive": 1
+    "RockHealth": 2
   },
-  "count": 574,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -559,7 +558,7 @@
       "name": "Apero Health",
       "website": "https://www.aperohealth.com",
       "one_liner": "Modern medical billing",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2019",
       "team_size": 24,
       "location": "San Francisco, CA, USA",
@@ -4157,6 +4156,19 @@
           "snippet": "iMarc - ONSITE FULLTIME - Newburyport, MA or Santa Cruz, CA == Current Openings == * Junior Web Engineer  http://www.imarc.net/hiring/junior_web_engineer      P"
         }
       ]
+    },
+    {
+      "name": "Imperfect",
+      "website": "https://imperfect.co",
+      "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 5,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "IMT Care",
@@ -9102,6 +9114,19 @@
       ]
     },
     {
+      "name": "Taiga",
+      "website": "https://taigabilling.com",
+      "one_liner": "Autonomous medical billing",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Tamarind Bio",
       "website": "https://www.tamarind.bio",
       "one_liner": "AI Inference Platform for Drug Discovery",
@@ -9321,25 +9346,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
-        }
-      ]
-    },
-    {
-      "name": "This week in charts",
-      "website": "",
-      "one_liner": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
-          "snippet": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree"
         }
       ]
     },
