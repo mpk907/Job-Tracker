@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-09-17T10:35:25Z",
+  "generated_at": "2026-09-18T10:12:01Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 161,
+    "Y Combinator": 160,
     "MedCity News": 3,
-    "Endpoints News": 2,
-    "STAT News": 1,
+    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 575,
+  "count": 573,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3059,9 +3058,9 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 22,
+      "team_size": 25,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -4505,25 +4504,6 @@
       "evidence": []
     },
     {
-      "name": "Kairon Health",
-      "website": "",
-      "one_liner": "Kairon Health raises $5M to use data to make patients healthier",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/kairon-health-raises-5m-to-use-data-to-make-patients-healthier/",
-          "snippet": "Kairon Health raises $5M to use data to make patients healthier"
-        }
-      ]
-    },
-    {
       "name": "Kaiser Permanente Medical Informatics",
       "website": "",
       "one_liner": "Kaiser Permanente Medical Informatics | Machine Learning Engineers and Scientists (Data Science Team), Backend Engineers (Applications Team) | San Diego, CA | ONSITE after the virus subsides Medical Informatics team develops clinical decisi",
@@ -4606,6 +4586,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15450660",
           "snippet": "Kaufman Hall | Software Eng, Full Stack, PHP/JS/MySQL | Fort Collins, CO | Onsite/Full Time The Peak platform development team at Kaufman Hall is a small group "
+        }
+      ]
+    },
+    {
+      "name": "Kennedy",
+      "website": "",
+      "one_liner": "Kennedy announces new effort to speed up autism diagnoses",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
+          "snippet": "Kennedy announces new effort to speed up autism diagnoses"
         }
       ]
     },
@@ -5415,7 +5414,7 @@
       "one_liner": "AI-native operating system for behavioral health clinics.",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 15,
+      "team_size": 25,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6456,7 +6455,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How my cancer diagnosis changed the way I train physicians",
+      "one_liner": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6467,8 +6466,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/16/medical-school-cancer-structure-pathology-professor-personal-experience/?utm_campaign=rss",
-          "snippet": "Opinion: How my cancer diagnosis changed the way I train physicians"
+          "url": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+          "snippet": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks"
         }
       ]
     },
@@ -6914,19 +6913,6 @@
       ]
     },
     {
-      "name": "Perspectives Health",
-      "website": "https://perspectiveshealth.ai/",
-      "one_liner": "AI to run behavioral health programs better",
-      "stage": "Early",
-      "batch": "Summer 2025",
-      "team_size": 5,
-      "location": "Chicago, IL, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Pex",
       "website": "",
       "one_liner": "Pex | Multiple Positions | Downtown, Los Angeles | ONSITE, FULL-TIME |Salary $100k+ & Equity |  https://pex.com \nPex is a search engine for music and video, that uses the content as a base for its search (think of Google Image Search just f",
@@ -6985,6 +6971,19 @@
       "batch": "Summer 2014",
       "team_size": 100,
       "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Pirouette Pharma",
+      "website": "https://www.pirouettepharma.com/",
+      "one_liner": "We make injections as easy as pushing a button!",
+      "stage": "Growth",
+      "batch": "Summer 2021",
+      "team_size": 9,
+      "location": "Boston, MA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -7224,7 +7223,7 @@
       "one_liner": "AI Phone Agents for Healthcare Operations",
       "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 9,
+      "team_size": 60,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -7338,19 +7337,6 @@
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 3,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Quinn",
-      "website": "https://www.quinnbio.com",
-      "one_liner": "Your biopharma team, from molecule design to portfolio strategy",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -7486,25 +7472,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "RegCell",
-      "website": "",
-      "one_liner": "RegCell lands $44M Series A to take Nobel-winning Tregs into clinic",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/regcell-lands-44m-series-a-to-take-nobel-winning-tregs-into-clinic/",
-          "snippet": "RegCell lands $44M Series A to take Nobel-winning Tregs into clinic"
-        }
-      ]
     },
     {
       "name": "Reify Health",
