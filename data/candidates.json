@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-09-18T10:12:01Z",
+  "generated_at": "2026-09-19T09:53:08Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
-    "MedCity News": 3,
+    "MedCity News": 4,
     "STAT News": 2,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 1
   },
-  "count": 573,
+  "count": 575,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -755,6 +756,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9812607",
           "snippet": "Axon (part of Taser International) | Seattle | Local - relo available We're leading the charge in developing body cameras and other wearable computing devices f"
+        }
+      ]
+    },
+    {
+      "name": "Ayble Health",
+      "website": "",
+      "one_liner": "Ayble Health Secures $16M for Virtual Digestive Health Clinic",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/ayble-health-secures-16m-for-virtual-digestive-health-clinic/",
+          "snippet": "Ayble Health Secures $16M for Virtual Digestive Health Clinic"
         }
       ]
     },
@@ -3058,7 +3078,7 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 25,
       "location": "New York City, NY, USA",
@@ -7088,6 +7108,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: The China Biotech Debate goes to Washington",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-the-china-biotech-debate-goes-to-washington/",
+          "snippet": "Post-Hoc Live: The China Biotech Debate goes to Washington"
         }
       ]
     },
