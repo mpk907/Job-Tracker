@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-09-20T12:06:28Z",
+  "generated_at": "2026-09-21T11:16:20Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
-    "MedCity News": 4,
-    "STAT News": 2,
+    "MedCity News": 6,
+    "BioPharma Dive": 1,
+    "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 575,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -516,6 +517,25 @@
       "evidence": []
     },
     {
+      "name": "Angle Health",
+      "website": "",
+      "one_liner": "Angle Health Raises $600M to Grow Employer Health Benefits Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/angle-health-raises-600m-to-grow-employer-health-benefits-platform/",
+          "snippet": "Angle Health Raises $600M to Grow Employer Health Benefits Platform"
+        }
+      ]
+    },
+    {
       "name": "Anima",
       "website": "http://www.animahealth.com",
       "one_liner": "The next generation care enablement platform",
@@ -869,6 +889,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13644888",
           "snippet": "BeHealth Solutions | Senior Rails Developer | US | Remote Hi, I'm Alan Lattimore, lead developer at BeHealth Solutions. We are seeking an experienced software e"
+        }
+      ]
+    },
+    {
+      "name": "Behind the outcomes",
+      "website": "",
+      "one_liner": "Behind the outcomes: How whole-patient support is reshaping oncology care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/830455/",
+          "snippet": "Behind the outcomes: How whole-patient support is reshaping oncology care"
         }
       ]
     },
@@ -1849,7 +1888,7 @@
       "one_liner": "Medical Record Retrieval with Zero Human Error",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 25,
+      "team_size": 35,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -4610,25 +4649,6 @@
       ]
     },
     {
-      "name": "Kennedy",
-      "website": "",
-      "one_liner": "Kennedy announces new effort to speed up autism diagnoses",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
-          "snippet": "Kennedy announces new effort to speed up autism diagnoses"
-        }
-      ]
-    },
-    {
       "name": "Kernel",
       "website": "",
       "one_liner": "Kernel | Full Time | ONSITE, VISA (Los Angeles, CA) | kernel.co | danny.an@kernel.co We're building the word's first neuroprosthesis to mimic, repair, and improve cognition. Kernel, a startup that's less than 6 months old, has $100 million",
@@ -6475,7 +6495,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
+      "one_liner": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6484,6 +6504,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss",
+          "snippet": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
@@ -9745,6 +9770,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667520",
           "snippet": "Uplight | Various Engineering Openings | Full-time, Onsite | Boulder, Denver, Vancouver, Boston, Pune |  https://uplight.com/careers/  We're looking for enginee"
+        }
+      ]
+    },
+    {
+      "name": "Upsized IPO",
+      "website": "",
+      "one_liner": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/electra-ipo-sirp-shlh-immunology-inflammation-precision-medicine-etra/",
+          "snippet": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs"
         }
       ]
     },
