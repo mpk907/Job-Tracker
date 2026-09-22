@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-21T11:16:20Z",
+  "generated_at": "2026-09-22T10:29:34Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
     "MedCity News": 6,
-    "BioPharma Dive": 1,
+    "BioPharma Dive": 2,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 577,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -504,6 +504,19 @@
       "evidence": []
     },
     {
+      "name": "Andson Biotech",
+      "website": "http://www.andsonbiotech.com",
+      "one_liner": "Empowering Mass Spec for Biotech and Beyond",
+      "stage": "Early",
+      "batch": "Winter 2022",
+      "team_size": 12,
+      "location": "Atlanta, GA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Andy AI",
       "website": "https://with-andy.com",
       "one_liner": "Faster clinical documentation for home health nurses",
@@ -701,6 +714,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Array Behavioral Care",
+      "website": "",
+      "one_liner": "Array Behavioral Care Unveils New Triage Model",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/array-behavioral-care-unveils-new-triage-model/",
+          "snippet": "Array Behavioral Care Unveils New Triage Model"
+        }
+      ]
     },
     {
       "name": "Asha Health",
@@ -1332,7 +1364,7 @@
       "name": "Camber",
       "website": "https://www.camber.health/",
       "one_liner": "Admin automation for healthcare",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2021",
       "team_size": 101,
       "location": "New York City, NY, USA",
@@ -3368,25 +3400,6 @@
       ]
     },
     {
-      "name": "GenHealth.ai",
-      "website": "",
-      "one_liner": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
-          "snippet": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks"
-        }
-      ]
-    },
-    {
       "name": "Genome Medical",
       "website": "",
       "one_liner": "Genome Medical | VP of Engineering | San Francisco Bay Area | REMOTE WHO IS GENOME MEDICAL\nGenome Medical, Inc. is an early-stage company using telemedicine to integrate genomic medicine into everyday health care.  Founded by personalized m",
@@ -4524,7 +4537,7 @@
       "stage": "Early",
       "batch": "Spring 2026",
       "team_size": 2,
-      "location": "San Francisco, CA, USA",
+      "location": "London, England, United Kingdom",
       "sources": [
         "Y Combinator"
       ],
@@ -6235,6 +6248,25 @@
       "evidence": []
     },
     {
+      "name": "Novo talks up drug",
+      "website": "",
+      "one_liner": "Novo talks up drug launches in effort to win back investors",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
+          "snippet": "Novo talks up drug launches in effort to win back investors"
+        }
+      ]
+    },
+    {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
       "one_liner": "Computer-using agents for healthcare operations",
@@ -6508,11 +6540,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss",
           "snippet": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
-          "snippet": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks"
         }
       ]
     },
@@ -7180,7 +7207,7 @@
       "one_liner": "Superintelligent health insurance that keeps employees healthy",
       "stage": "Early",
       "batch": "Summer 2026",
-      "team_size": 2,
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -8797,19 +8824,6 @@
           "snippet": "Squarespace | NYC, NY / New York, NY / Dublin, Ireland / Portland, OR | ONSITE only Find all listings & apply at:  http://grnh.se/dn27gt1  Hiring SREs in Portla"
         }
       ]
-    },
-    {
-      "name": "Starling",
-      "website": "https://starlingmedical.com/",
-      "one_liner": "AI enabling digital urine diagnostics in the home",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 5,
-      "location": "Houston, TX, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Stasis Labs",
