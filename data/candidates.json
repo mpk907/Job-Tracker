@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-22T10:29:34Z",
+  "generated_at": "2026-09-23T10:24:47Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
-    "MedCity News": 6,
-    "BioPharma Dive": 2,
-    "STAT News": 1,
-    "RockHealth": 2,
-    "Endpoints News": 1
+    "MedCity News": 5,
+    "STAT News": 2,
+    "BioPharma Dive": 1,
+    "Endpoints News": 1,
+    "RockHealth": 2
   },
-  "count": 578,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -925,25 +925,6 @@
       ]
     },
     {
-      "name": "Behind the outcomes",
-      "website": "",
-      "one_liner": "Behind the outcomes: How whole-patient support is reshaping oncology care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/830455/",
-          "snippet": "Behind the outcomes: How whole-patient support is reshaping oncology care"
-        }
-      ]
-    },
-    {
       "name": "BelozFi",
       "website": "https://www.belozfi.com.mx/",
       "one_liner": "Financial health focused micro-lender in Mexico",
@@ -1364,7 +1345,7 @@
       "name": "Camber",
       "website": "https://www.camber.health/",
       "one_liner": "Admin automation for healthcare",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Winter 2021",
       "team_size": 101,
       "location": "New York City, NY, USA",
@@ -3254,25 +3235,6 @@
       ]
     },
     {
-      "name": "From Onboarding to Outcomes",
-      "website": "",
-      "one_liner": "From Onboarding to Outcomes: The Privacy-First Identity Workflow for Pharma Marketing",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/from-onboarding-to-outcomes-the-privacy-first-identity-workflow-for-pharma-marketing/",
-          "snippet": "From Onboarding to Outcomes: The Privacy-First Identity Workflow for Pharma Marketing"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3945,6 +3907,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9815834",
           "snippet": "Help.com - Software Engineer (Full Stack and Front end) - Austin, TX Backed by $6 million in angel funding, Help.com is building the next generation of customer"
+        }
+      ]
+    },
+    {
+      "name": "HHS",
+      "website": "",
+      "one_liner": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
+          "snippet": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development"
         }
       ]
     },
@@ -5964,25 +5945,6 @@
       "evidence": []
     },
     {
-      "name": "Nara Health",
-      "website": "",
-      "one_liner": "Nara Health Secures $14M for Third Party Administration Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/nara-health-secures-14m-for-third-party-administration-platform/",
-          "snippet": "Nara Health Secures $14M for Third Party Administration Platform"
-        }
-      ]
-    },
-    {
       "name": "Natera",
       "website": "",
       "one_liner": "Natera | Full-Stack & Back End Software Engineers, QA, SDET, Project Managers | San Carlos, CA + Austin, TX | ONSITE (remote during isolation) | Full-time, visa ok Natera operates genetics lab testing for healthcare in the reproductive + wo",
@@ -6312,6 +6274,25 @@
       ]
     },
     {
+      "name": "Nvidia-backed AI biotech Iambic Therapeutics",
+      "website": "",
+      "one_liner": "Nvidia-backed AI biotech Iambic Therapeutics files for IPO",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/nvidia-backed-ai-biotech-iambic-therapeutics-files-for-ipo/",
+          "snippet": "Nvidia-backed AI biotech Iambic Therapeutics files for IPO"
+        }
+      ]
+    },
+    {
       "name": "Nylas",
       "website": "",
       "one_liner": "Nylas |  https://nylas.com/  | San Francisco, CA (Mission) | Frontend (JS), Backend (Systems+Ops)         _   _       _\n     | \\ | |     | |\n     |  \\| |_   _| | __ _ ___\n     | . ` | | | | |/ _` / __|\n     | |\\  | |_| | | (_| \\__ \\\n     \\_",
@@ -6527,7 +6508,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox",
+      "one_liner": "Opinion: Mentally ill women deserve more support to have children",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6538,8 +6519,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss",
-          "snippet": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox"
+          "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
+          "snippet": "Opinion: Mentally ill women deserve more support to have children"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+          "snippet": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA"
         }
       ]
     },
@@ -6947,6 +6933,25 @@
       ]
     },
     {
+      "name": "Pelago",
+      "website": "",
+      "one_liner": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
+          "snippet": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care"
+        }
+      ]
+    },
+    {
       "name": "Peloton Cycle",
       "website": "",
       "one_liner": "Peloton Cycle | NYC, NY | Onsite | Full-time  https://www.pelotoncycle.com  At Peloton we are changing the way people get fit by delivering live-streaming indoor cycling classes to the most technologically advanced indoor cycle. A recent ne",
@@ -7160,25 +7165,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: The China Biotech Debate goes to Washington",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-the-china-biotech-debate-goes-to-washington/",
-          "snippet": "Post-Hoc Live: The China Biotech Debate goes to Washington"
         }
       ]
     },
