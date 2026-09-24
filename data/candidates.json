@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23T10:24:47Z",
+  "generated_at": "2026-09-24T10:38:37Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 160,
-    "MedCity News": 5,
+    "MedCity News": 6,
     "STAT News": 2,
     "BioPharma Dive": 1,
     "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -753,7 +753,7 @@
       "one_liner": "AI Operating System for Clinical Development",
       "stage": "Early",
       "batch": "Spring 2026",
-      "team_size": 2,
+      "team_size": 6,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6508,7 +6508,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Mentally ill women deserve more support to have children",
+      "one_liner": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6519,13 +6519,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
-          "snippet": "Opinion: Mentally ill women deserve more support to have children"
+          "url": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
-          "snippet": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA"
+          "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
+          "snippet": "Opinion: Mentally ill women deserve more support to have children"
         }
       ]
     },
@@ -7473,11 +7473,11 @@
     },
     {
       "name": "Raycaster",
-      "website": "https://raycaster.ai",
-      "one_liner": "AI for life sciences documents",
+      "website": "https://eval.raycaster.ai",
+      "one_liner": "Agentic AI for knowledge work",
       "stage": "Early",
       "batch": "Fall 2024",
-      "team_size": 3,
+      "team_size": 6,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -9205,6 +9205,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12861845",
           "snippet": "tCell.io, Inc | San Francisco and Stockholm | Full-time | DevOps, Data Platform, Test, Security Engineers | ONSITE - tCell.io is hiring! We're a stealth AppSec "
+        }
+      ]
+    },
+    {
+      "name": "Teal Health",
+      "website": "",
+      "one_liner": "Teal Health Secures $22M for At-Home HPV Cervical Cancer Screening Device",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
+          "snippet": "Teal Health Secures $22M for At-Home HPV Cervical Cancer Screening Device"
         }
       ]
     },
