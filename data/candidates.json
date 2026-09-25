@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-09-24T10:38:37Z",
+  "generated_at": "2026-09-25T10:42:27Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 160,
+    "Y Combinator": 162,
     "MedCity News": 6,
-    "STAT News": 2,
-    "BioPharma Dive": 1,
-    "Endpoints News": 1,
-    "RockHealth": 2
+    "STAT News": 1,
+    "RockHealth": 2,
+    "BioPharma Dive": 1
   },
   "count": 578,
   "candidates": [
@@ -347,6 +346,19 @@
       "batch": "Winter 2017",
       "team_size": 25,
       "location": "Singapore, Singapore",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Allia Health",
+      "website": "https://allia.health/",
+      "one_liner": "AI-Native Medical Group for Mental Health",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3911,25 +3923,6 @@
       ]
     },
     {
-      "name": "HHS",
-      "website": "",
-      "one_liner": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
-          "snippet": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development"
-        }
-      ]
-    },
-    {
       "name": "Hinge Health",
       "website": "",
       "one_liner": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/careers  As a healthcare company providing pain relief and alternatives to surgi",
@@ -6210,25 +6203,6 @@
       "evidence": []
     },
     {
-      "name": "Novo talks up drug",
-      "website": "",
-      "one_liner": "Novo talks up drug launches in effort to win back investors",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
-          "snippet": "Novo talks up drug launches in effort to win back investors"
-        }
-      ]
-    },
-    {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
       "one_liner": "Computer-using agents for healthcare operations",
@@ -6270,25 +6244,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15385176",
           "snippet": "Nuritas | Bioinformatician |Competitive reward package| Dublin City, Ireland| Onsite| Full time | https://www.nuritas.com \nDid you know your skillset can help i"
-        }
-      ]
-    },
-    {
-      "name": "Nvidia-backed AI biotech Iambic Therapeutics",
-      "website": "",
-      "one_liner": "Nvidia-backed AI biotech Iambic Therapeutics files for IPO",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/nvidia-backed-ai-biotech-iambic-therapeutics-files-for-ipo/",
-          "snippet": "Nvidia-backed AI biotech Iambic Therapeutics files for IPO"
         }
       ]
     },
@@ -6508,7 +6463,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
+      "one_liner": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6519,13 +6474,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
-          "snippet": "Opinion: Mentally ill women deserve more support to have children"
+          "url": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/?utm_campaign=rss",
+          "snippet": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count"
         }
       ]
     },
@@ -7664,6 +7614,19 @@
       ]
     },
     {
+      "name": "Rhem Labs",
+      "website": "https://rhem.ai",
+      "one_liner": "Home care technology for aging parents and their families",
+      "stage": "Early",
+      "batch": "Fall 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Ribbon Health",
       "website": "",
       "one_liner": "Ribbon Health | New York, USA | Full-time |  https://jobs.lever.co/ribbonhealth  We’re looking for entrepreneurial software engineers who are motivated by our mission to simply healthcare. We’re building an API layer that powers the workflo",
@@ -7768,6 +7731,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814503",
           "snippet": "RJMetrics - Philadelphia, PA At RJMetrics, we inspire and empower data-driven people with powerful hosted software. High-growth e-commerce and software as a ser"
+        }
+      ]
+    },
+    {
+      "name": "RNAi drug specialist ADARx",
+      "website": "",
+      "one_liner": "RNAi drug specialist ADARx raises $446M IPO",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
+          "snippet": "RNAi drug specialist ADARx raises $446M IPO"
         }
       ]
     },
