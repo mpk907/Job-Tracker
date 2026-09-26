@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-25T10:42:27Z",
+  "generated_at": "2026-09-26T10:26:03Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 162,
-    "MedCity News": 6,
+    "Y Combinator": 163,
+    "MedCity News": 7,
     "STAT News": 1,
     "RockHealth": 2,
-    "BioPharma Dive": 1
+    "BioPharma Dive": 2
   },
-  "count": 578,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3492,6 +3492,19 @@
       ]
     },
     {
+      "name": "GloGlo",
+      "website": "https://gloglo.com",
+      "one_liner": "Curing and preventing type 1 diabetes",
+      "stage": "Early",
+      "batch": "Winter 2024",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "GoGoGrandparent",
       "website": "https://gogograndparent.com",
       "one_liner": "A concierge service for seniors’ rides, meals, meds, home and more.",
@@ -6463,7 +6476,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count",
+      "one_liner": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6472,6 +6485,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
+          "snippet": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/?utm_campaign=rss",
@@ -7559,6 +7577,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12846959",
           "snippet": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget -"
+        }
+      ]
+    },
+    {
+      "name": "Report",
+      "website": "",
+      "one_liner": "Report: High Drug Costs Are Creating Hidden Burden for Physicians",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/",
+          "snippet": "Report: High Drug Costs Are Creating Hidden Burden for Physicians"
         }
       ]
     },
@@ -9378,6 +9415,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
+        }
+      ]
+    },
+    {
+      "name": "This week in charts",
+      "website": "",
+      "one_liner": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
+          "snippet": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul"
         }
       ]
     },
