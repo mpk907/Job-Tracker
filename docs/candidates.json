@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:26:03Z",
+  "generated_at": "2026-09-27T10:58:19Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 163,
@@ -6476,7 +6476,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
+      "one_liner": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6485,6 +6485,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
+          "snippet": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
@@ -7902,7 +7907,7 @@
     {
       "name": "SafeBeat",
       "website": "https://safebeat.com",
-      "one_liner": "Guiding cardiac therapeutics - all from your phone",
+      "one_liner": "First ECG AI to go beyond diagnostics and recommend treatment",
       "stage": "Early",
       "batch": "Summer 2021",
       "team_size": 9,
