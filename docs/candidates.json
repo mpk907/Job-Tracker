@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-27T12:48:39Z",
+  "generated_at": "2026-09-28T12:10:22Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 163,
-    "MedCity News": 7,
+    "Y Combinator": 165,
+    "MedCity News": 8,
     "STAT News": 1,
     "RockHealth": 2,
     "BioPharma Dive": 2
   },
-  "count": 581,
+  "count": 584,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3142,9 +3142,9 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 25,
+      "team_size": 29,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -5552,6 +5552,25 @@
       "evidence": []
     },
     {
+      "name": "MedTech Commercialization Gap",
+      "website": "",
+      "one_liner": "MedTech Commercialization Gap: Moving Beyond Technical Viability",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/",
+          "snippet": "MedTech Commercialization Gap: Moving Beyond Technical Viability"
+        }
+      ]
+    },
+    {
       "name": "MedTech Exchange, Inc.",
       "website": "",
       "one_liner": "MedTech Exchange, Inc. | Atlanta, GA | ONSITE We are a small, but growing healthcare IT company based in Atlanta, Georgia. We’re looking for developers who are passionate about making fast, scalable, and well-designed web interfaces for the",
@@ -6044,6 +6063,19 @@
       ]
     },
     {
+      "name": "Neuromorphic",
+      "website": "https://www.neuromorphic.vision/",
+      "one_liner": "Building robots to automate wetlabs",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 3,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6476,7 +6508,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
+      "one_liner": "Opinion: I discovered a new structure in the heart — just by looking closely",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6485,6 +6517,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/28/heart-structure-left-atrial-septal-pouch-lasp-anatomy-discovery/?utm_campaign=rss",
+          "snippet": "Opinion: I discovered a new structure in the heart — just by looking closely"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
@@ -9952,6 +9989,19 @@
           "snippet": "Venture Research Inc. | Plano, TX (Dallas, TX, DFW) | Onsite |  http://www.ventureresearch.com  Interested in RFID? In improving inventory and replenishment pro"
         }
       ]
+    },
+    {
+      "name": "Vera Health",
+      "website": "https://www.vera-health.ai",
+      "one_liner": "AI-powered clinical decision support for healthcare providers",
+      "stage": "Early",
+      "batch": "Summer 2024",
+      "team_size": 6,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Verge Genomics",
