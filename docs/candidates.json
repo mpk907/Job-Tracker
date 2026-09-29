@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-09-28T12:10:22Z",
+  "generated_at": "2026-09-29T11:43:29Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
-    "MedCity News": 8,
+    "Y Combinator": 166,
+    "MedCity News": 7,
     "STAT News": 1,
     "RockHealth": 2,
-    "BioPharma Dive": 2
+    "BioPharma Dive": 2,
+    "Endpoints News": 1
   },
-  "count": 584,
+  "count": 585,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -542,25 +543,6 @@
       "evidence": []
     },
     {
-      "name": "Angle Health",
-      "website": "",
-      "one_liner": "Angle Health Raises $600M to Grow Employer Health Benefits Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/angle-health-raises-600m-to-grow-employer-health-benefits-platform/",
-          "snippet": "Angle Health Raises $600M to Grow Employer Health Benefits Platform"
-        }
-      ]
-    },
-    {
       "name": "Anima",
       "website": "http://www.animahealth.com",
       "one_liner": "The next generation care enablement platform",
@@ -824,25 +806,6 @@
       ]
     },
     {
-      "name": "Ayble Health",
-      "website": "",
-      "one_liner": "Ayble Health Secures $16M for Virtual Digestive Health Clinic",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/ayble-health-secures-16m-for-virtual-digestive-health-clinic/",
-          "snippet": "Ayble Health Secures $16M for Virtual Digestive Health Clinic"
-        }
-      ]
-    },
-    {
       "name": "b12 Labs",
       "website": "https://b12-labs.com/",
       "one_liner": "Making hard molecules for Pharma and Biotech",
@@ -1003,6 +966,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814561",
           "snippet": "Better | Palo Alto, CA | Full-time | On Site Senior Rails Engineer, Senior Android Engineer The health technology space is seeing rapid growth and Better’s goal"
+        }
+      ]
+    },
+    {
+      "name": "Beyond One-Size-Fits-All",
+      "website": "",
+      "one_liner": "Beyond One-Size-Fits-All: Women, Substance Use, and the Need for Gender-Responsive Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/beyond-one-size-fits-all-women-substance-use-and-the-need-for-gender-responsive-care/",
+          "snippet": "Beyond One-Size-Fits-All: Women, Substance Use, and the Need for Gender-Responsive Care"
         }
       ]
     },
@@ -3142,7 +3124,7 @@
       "name": "Fortuna Health",
       "website": "https://fortunahealth.com/",
       "one_liner": "TurboTax for Medicaid",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2023",
       "team_size": 29,
       "location": "New York City, NY, USA",
@@ -6508,7 +6490,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I discovered a new structure in the heart — just by looking closely",
+      "one_liner": "Opinion: Child health is the national security crisis we keep ignoring",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6519,6 +6501,11 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
+          "snippet": "Opinion: Child health is the national security crisis we keep ignoring"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/28/heart-structure-left-atrial-septal-pouch-lasp-anatomy-discovery/?utm_campaign=rss",
           "snippet": "Opinion: I discovered a new structure in the heart — just by looking closely"
         },
@@ -6526,16 +6513,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
           "snippet": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
-          "snippet": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/?utm_campaign=rss",
-          "snippet": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count"
         }
       ]
     },
@@ -6589,6 +6566,19 @@
           "snippet": "Oregon Health & Science University | Scientific Programmer | Portland, OR | ONSITE | Full Time | Relocation available We are seeking a skilled scientific progra"
         }
       ]
+    },
+    {
+      "name": "Origin",
+      "website": "https://origin.bio/",
+      "one_liner": "AI and Data for Cancer Therapeutics",
+      "stage": "Early",
+      "batch": "Winter 2026",
+      "team_size": 4,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Oscar Health, NYC: https://www.hioscar.com/jobs/",
@@ -9058,6 +9048,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Swedish biotech AnaCardio",
+      "website": "",
+      "one_liner": "Swedish biotech AnaCardio raises $70.9M to advance 'safer' heart failure drug",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/swedish-biotech-anacardio-raises-70-9m-to-advance-safer-heart-failure-drug/",
+          "snippet": "Swedish biotech AnaCardio raises $70.9M to advance 'safer' heart failure drug"
+        }
+      ]
     },
     {
       "name": "Swift Systems",
