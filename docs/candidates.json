@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-09-29T11:43:29Z",
+  "generated_at": "2026-09-30T11:30:54Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
+    "Y Combinator": 167,
+    "Endpoints News": 2,
     "MedCity News": 7,
     "STAT News": 1,
-    "RockHealth": 2,
-    "BioPharma Dive": 2,
-    "Endpoints News": 1
+    "RockHealth": 2
   },
   "count": 585,
   "candidates": [
@@ -255,6 +254,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "AI health startup Ortet",
+      "website": "",
+      "one_liner": "AI health startup Ortet launches with $500M and co-founders from Genentech",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/ai-health-startup-ortet-launches-with-500m-and-ex-genentech-co-founders/",
+          "snippet": "AI health startup Ortet launches with $500M and co-founders from Genentech"
+        }
+      ]
     },
     {
       "name": "AIOS",
@@ -708,25 +726,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Array Behavioral Care",
-      "website": "",
-      "one_liner": "Array Behavioral Care Unveils New Triage Model",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/array-behavioral-care-unveils-new-triage-model/",
-          "snippet": "Array Behavioral Care Unveils New Triage Model"
-        }
-      ]
     },
     {
       "name": "Asha Health",
@@ -1996,6 +1995,19 @@
           "snippet": "Commure, Inc. | San Francisco, CA | Multiple positions | Fulltime | ONSITE We are a stealth startup working to fix the software doctors use. If you have seen wh"
         }
       ]
+    },
+    {
+      "name": "CONUS",
+      "website": "https://www.conus-med.com",
+      "one_liner": "The AI knowledge layer for medical devices",
+      "stage": "Early",
+      "batch": "Fall 2026",
+      "team_size": 3,
+      "location": "Cologne, NRW, Germany",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Cotiviti Labs",
@@ -5476,6 +5488,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity Pivot Podcast",
+      "website": "",
+      "one_liner": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
+          "snippet": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani"
+        }
+      ]
+    },
+    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6490,7 +6521,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Child health is the national security crisis we keep ignoring",
+      "one_liner": "Opinion: America’s biotech race with China must be won at home",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6501,18 +6532,13 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
+          "snippet": "Opinion: America’s biotech race with China must be won at home"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
           "snippet": "Opinion: Child health is the national security crisis we keep ignoring"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/28/heart-structure-left-atrial-septal-pouch-lasp-anatomy-discovery/?utm_campaign=rss",
-          "snippet": "Opinion: I discovered a new structure in the heart — just by looking closely"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
-          "snippet": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?"
         }
       ]
     },
@@ -6573,7 +6599,7 @@
       "one_liner": "AI and Data for Cancer Therapeutics",
       "stage": "Early",
       "batch": "Winter 2026",
-      "team_size": 4,
+      "team_size": 8,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -7800,25 +7826,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814503",
           "snippet": "RJMetrics - Philadelphia, PA At RJMetrics, we inspire and empower data-driven people with powerful hosted software. High-growth e-commerce and software as a ser"
-        }
-      ]
-    },
-    {
-      "name": "RNAi drug specialist ADARx",
-      "website": "",
-      "one_liner": "RNAi drug specialist ADARx raises $446M IPO",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
-          "snippet": "RNAi drug specialist ADARx raises $446M IPO"
         }
       ]
     },
@@ -9470,25 +9477,6 @@
       ]
     },
     {
-      "name": "This week in charts",
-      "website": "",
-      "one_liner": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
-          "snippet": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul"
-        }
-      ]
-    },
-    {
       "name": "ThreeComma.io",
       "website": "",
       "one_liner": "ThreeComma.io - Devops Wizards | REMOTE, CONTRACTOR, FLEXIBLE  http://threecomma.io/jobs/  ThreeComma is dedicated to helping our customers improve efficiencies and reduce expenses relating to cloud services and storage. We leverage this ex",
@@ -9542,6 +9530,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544955",
           "snippet": "Thumbtack |  https://thumbtack.com  | San Francisco, CA | ONSITE Thumbtack is a local services marketplace that connects millions of customers with the right pr"
+        }
+      ]
+    },
+    {
+      "name": "Tiny Health",
+      "website": "",
+      "one_liner": "Tiny Health Secures $33M to Expand Microbiome Testing",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/tiny-health-secures-33m-to-expand-microbiome-testing/",
+          "snippet": "Tiny Health Secures $33M to Expand Microbiome Testing"
         }
       ]
     },
@@ -9878,25 +9885,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667520",
           "snippet": "Uplight | Various Engineering Openings | Full-time, Onsite | Boulder, Denver, Vancouver, Boston, Pune |  https://uplight.com/careers/  We're looking for enginee"
-        }
-      ]
-    },
-    {
-      "name": "Upsized IPO",
-      "website": "",
-      "one_liner": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/electra-ipo-sirp-shlh-immunology-inflammation-precision-medicine-etra/",
-          "snippet": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs"
         }
       ]
     },
