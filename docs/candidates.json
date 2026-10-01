@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-30T11:30:54Z",
+  "generated_at": "2026-10-01T11:58:21Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
-    "Endpoints News": 2,
+    "Y Combinator": 166,
+    "Endpoints News": 1,
     "MedCity News": 7,
-    "STAT News": 1,
+    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 585,
+  "count": 584,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -685,7 +685,7 @@
     {
       "name": "Arini",
       "website": "https://www.arini.ai",
-      "one_liner": "AI receptionist for dentists",
+      "one_liner": "The single platform to run all healthcare operations",
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": 17,
@@ -3930,6 +3930,25 @@
       ]
     },
     {
+      "name": "HHS",
+      "website": "",
+      "one_liner": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss",
+          "snippet": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI"
+        }
+      ]
+    },
+    {
       "name": "Hinge Health",
       "website": "",
       "one_liner": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/careers  As a healthcare company providing pain relief and alternatives to surgi",
@@ -5488,6 +5507,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: Opportunities in the Fertility Market",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/",
+          "snippet": "MedCity FemFwd: Opportunities in the Fertility Market"
+        }
+      ]
+    },
+    {
       "name": "MedCity Pivot Podcast",
       "website": "",
       "one_liner": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani",
@@ -6534,11 +6572,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
           "snippet": "Opinion: America’s biotech race with China must be won at home"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
-          "snippet": "Opinion: Child health is the national security crisis we keep ignoring"
         }
       ]
     },
@@ -6955,25 +6988,6 @@
           "source": "RockHealth",
           "url": "https://rockhealth.com/pear-going-public-via-spac-take-a-bite-out-of-that/",
           "snippet": "Pear going public via SPAC: Take a bite out of that"
-        }
-      ]
-    },
-    {
-      "name": "Pelago",
-      "website": "",
-      "one_liner": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
-          "snippet": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care"
         }
       ]
     },
@@ -8151,19 +8165,6 @@
       ]
     },
     {
-      "name": "Scritch",
-      "website": "https://www.scritchai.com",
-      "one_liner": "AI operating system for veterinary care",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": null,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Seattle, WA, ONSITE ONLY",
       "website": "",
       "one_liner": "Seattle, WA, ONSITE ONLY We're building a communication hub for manufacturers and retailers, so that they can exchange all kinds of information related to the goods being traded. This hub will gradually take over all other communication met",
@@ -9055,25 +9056,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Swedish biotech AnaCardio",
-      "website": "",
-      "one_liner": "Swedish biotech AnaCardio raises $70.9M to advance 'safer' heart failure drug",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/swedish-biotech-anacardio-raises-70-9m-to-advance-safer-heart-failure-drug/",
-          "snippet": "Swedish biotech AnaCardio raises $70.9M to advance 'safer' heart failure drug"
-        }
-      ]
     },
     {
       "name": "Swift Systems",
@@ -10041,7 +10023,7 @@
       "name": "Verse Medical",
       "website": "http://versemedical.com/",
       "one_liner": "AI-enabled ordering for medical equipment & supplies",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2018",
       "team_size": 200,
       "location": "New York City, NY, USA",
