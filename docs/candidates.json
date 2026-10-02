@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T11:58:21Z",
+  "generated_at": "2026-10-02T11:30:30Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
-    "Endpoints News": 1,
-    "MedCity News": 7,
-    "STAT News": 2,
+    "Y Combinator": 167,
+    "MedCity News": 6,
+    "Endpoints News": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
   "count": 584,
@@ -254,25 +254,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "AI health startup Ortet",
-      "website": "",
-      "one_liner": "AI health startup Ortet launches with $500M and co-founders from Genentech",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/ai-health-startup-ortet-launches-with-500m-and-ex-genentech-co-founders/",
-          "snippet": "AI health startup Ortet launches with $500M and co-founders from Genentech"
-        }
-      ]
     },
     {
       "name": "AIOS",
@@ -2266,7 +2247,7 @@
     {
       "name": "Denta",
       "website": "https://denta.com",
-      "one_liner": "Dental Insurance",
+      "one_liner": "Dental Benefits for Startups",
       "stage": "Early",
       "batch": "Summer 2026",
       "team_size": 1,
@@ -3080,6 +3061,19 @@
           "snippet": "Flexport | San Francisco Flexport is a platform for global trade. We make it easier for the next generation of brands to get their products to market. Paul Grah"
         }
       ]
+    },
+    {
+      "name": "Floracene",
+      "website": "https://www.floracene.com/",
+      "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 2,
+      "location": "New York City, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Flow Commerce",
@@ -3930,25 +3924,6 @@
       ]
     },
     {
-      "name": "HHS",
-      "website": "",
-      "one_liner": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss",
-          "snippet": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI"
-        }
-      ]
-    },
-    {
       "name": "Hinge Health",
       "website": "",
       "one_liner": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/careers  As a healthcare company providing pain relief and alternatives to surgi",
@@ -4340,6 +4315,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9812725",
           "snippet": "Institute for Health Metrics and Evaluation (UW)  |  Seattle, WA  |  Developers, Data Scientists, Research Fellows Tired of spending your time trying to trick p"
+        }
+      ]
+    },
+    {
+      "name": "Insurer startup Devoted Health",
+      "website": "",
+      "one_liner": "Insurer startup Devoted Health raises $1.2B as it revs up growth",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/insurer-startup-devoted-health-raises-1-2b-as-it-revs-up-growth/",
+          "snippet": "Insurer startup Devoted Health raises $1.2B as it revs up growth"
         }
       ]
     },
@@ -6559,7 +6553,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: America’s biotech race with China must be won at home",
+      "one_liner": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6570,8 +6564,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
-          "snippet": "Opinion: America’s biotech race with China must be won at home"
+          "url": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
+          "snippet": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss",
+          "snippet": "Opinion: I treated heat stroke at the NYC Marathon. Marathons need to prepare for a climate-changed world"
         }
       ]
     },
@@ -6850,6 +6849,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Parakeet Health",
+      "website": "",
+      "one_liner": "Parakeet Health raises $10M to automate patient outreach",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/parakeet-health-raises-10m-to-automate-patient-outreach/",
+          "snippet": "Parakeet Health raises $10M to automate patient outreach"
+        }
+      ]
     },
     {
       "name": "Parallel Bio",
@@ -9268,25 +9286,6 @@
       ]
     },
     {
-      "name": "Teal Health",
-      "website": "",
-      "one_liner": "Teal Health Secures $22M for At-Home HPV Cervical Cancer Screening Device",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
-          "snippet": "Teal Health Secures $22M for At-Home HPV Cervical Cancer Screening Device"
-        }
-      ]
-    },
-    {
       "name": "Telehealth",
       "website": "",
       "one_liner": "Telehealth - Ambra Health ( https://ambrahealth.com ) | REMOTE | Java / Scala / Linux Engineer, Medical Image Storage and Processing | Full time At Ambra Health we are doing something meaningful about COVID-19. We make it possible for docto",
@@ -10023,7 +10022,7 @@
       "name": "Verse Medical",
       "website": "http://versemedical.com/",
       "one_liner": "AI-enabled ordering for medical equipment & supplies",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2018",
       "team_size": 200,
       "location": "New York City, NY, USA",
