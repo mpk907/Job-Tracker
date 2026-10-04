@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-03T10:47:50Z",
+  "generated_at": "2026-10-04T11:28:19Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
+    "Y Combinator": 168,
     "MedCity News": 7,
     "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 585,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -7125,6 +7125,19 @@
       "batch": "Summer 2021",
       "team_size": 9,
       "location": "Boston, MA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Plena Health",
+      "website": "https://www.plena.health/",
+      "one_liner": "Plena is the AI operating system for specialty medical practices",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": null,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
