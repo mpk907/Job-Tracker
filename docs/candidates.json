@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-04T13:09:07Z",
+  "generated_at": "2026-10-05T12:50:49Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
-    "MedCity News": 7,
+    "Y Combinator": 170,
+    "MedCity News": 6,
     "Endpoints News": 3,
     "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "BioPharma Dive": 1
   },
-  "count": 586,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -716,6 +717,19 @@
       "batch": "Fall 2024",
       "team_size": 9,
       "location": "New York City, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Asteroid",
+      "website": "https://asteroid.ai",
+      "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
+      "stage": "Early",
+      "batch": "Winter 2025",
+      "team_size": 6,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -1770,6 +1784,25 @@
       ]
     },
     {
+      "name": "Closing the Diagnostic Gap",
+      "website": "",
+      "one_liner": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/",
+          "snippet": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal"
+        }
+      ]
+    },
+    {
       "name": "Clover Health (www.cloverhealth.com)",
       "website": "",
       "one_liner": "Clover Health (www.cloverhealth.com) | San Francisco, CA | Full time, On-site Clover Health is driving down costs and producing improved health outcomes with a unique health insurance plan. We use sophisticated analytics and custom software",
@@ -2247,7 +2280,7 @@
     {
       "name": "Denta",
       "website": "https://denta.com",
-      "one_liner": "Dental Benefits for Startups",
+      "one_liner": "Fortune 500 Dental Benefits for Startups",
       "stage": "Early",
       "batch": "Summer 2026",
       "team_size": 1,
@@ -3852,6 +3885,19 @@
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
         }
       ]
+    },
+    {
+      "name": "HealthKey",
+      "website": "https://gethealthkey.com/",
+      "one_liner": "AI-powered Patient Identification for Clinical Trials",
+      "stage": "Early",
+      "batch": "Winter 2025",
+      "team_size": 10,
+      "location": "Austin, TX, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Healthtech 1",
@@ -5597,25 +5643,6 @@
       "evidence": []
     },
     {
-      "name": "MedTech Commercialization Gap",
-      "website": "",
-      "one_liner": "MedTech Commercialization Gap: Moving Beyond Technical Viability",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/",
-          "snippet": "MedTech Commercialization Gap: Moving Beyond Technical Viability"
-        }
-      ]
-    },
-    {
       "name": "MedTech Exchange, Inc.",
       "website": "",
       "one_liner": "MedTech Exchange, Inc. | Atlanta, GA | ONSITE We are a small, but growing healthcare IT company based in Atlanta, Georgia. We’re looking for developers who are passionate about making fast, scalable, and well-designed web interfaces for the",
@@ -6553,7 +6580,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
+      "one_liner": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6562,6 +6589,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
+          "snippet": "Opinion: Will Claude ever win a Nobel Prize for medicine?"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
@@ -7265,6 +7297,25 @@
       ]
     },
     {
+      "name": "Precision for All",
+      "website": "",
+      "one_liner": "Precision for All: Closing the gap between innovation and impact",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
+          "snippet": "Precision for All: Closing the gap between innovation and impact"
+        }
+      ]
+    },
+    {
       "name": "Prescience, Inc.",
       "website": "https://www.getprescience.com/",
       "one_liner": "Superintelligent health insurance that keeps employees healthy",
@@ -7686,25 +7737,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12846959",
           "snippet": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget -"
-        }
-      ]
-    },
-    {
-      "name": "Report",
-      "website": "",
-      "one_liner": "Report: High Drug Costs Are Creating Hidden Burden for Physicians",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/",
-          "snippet": "Report: High Drug Costs Are Creating Hidden Burden for Physicians"
         }
       ]
     },
