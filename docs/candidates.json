@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-10-05T12:50:49Z",
+  "generated_at": "2026-10-06T12:22:49Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 170,
+    "Y Combinator": 172,
     "MedCity News": 6,
-    "Endpoints News": 3,
     "STAT News": 1,
     "RockHealth": 2,
-    "BioPharma Dive": 1
+    "BioPharma Dive": 1,
+    "Endpoints News": 1,
+    "Sifted": 1
   },
-  "count": 588,
+  "count": 590,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -960,25 +961,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9814561",
           "snippet": "Better | Palo Alto, CA | Full-time | On Site Senior Rails Engineer, Senior Android Engineer The health technology space is seeing rapid growth and Better’s goal"
-        }
-      ]
-    },
-    {
-      "name": "Beyond One-Size-Fits-All",
-      "website": "",
-      "one_liner": "Beyond One-Size-Fits-All: Women, Substance Use, and the Need for Gender-Responsive Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/beyond-one-size-fits-all-women-substance-use-and-the-need-for-gender-responsive-care/",
-          "snippet": "Beyond One-Size-Fits-All: Women, Substance Use, and the Need for Gender-Responsive Care"
         }
       ]
     },
@@ -4027,6 +4009,19 @@
       ]
     },
     {
+      "name": "Hubble",
+      "website": "https://hubble.ai/",
+      "one_liner": "AI-native retrieval engine for medical records",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 2,
+      "location": "Seattle, WA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Huddle",
       "website": "",
       "one_liner": "Huddle | Android Product Engineer, iOS Product Engineer, Backend Engineer | New York City | Full-time, Onsite |  https://hihuddle.com  Come join the founding team of Huddle as we pursue our mission of making mental health care accessible to",
@@ -4365,25 +4360,6 @@
       ]
     },
     {
-      "name": "Insurer startup Devoted Health",
-      "website": "",
-      "one_liner": "Insurer startup Devoted Health raises $1.2B as it revs up growth",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/insurer-startup-devoted-health-raises-1-2b-as-it-revs-up-growth/",
-          "snippet": "Insurer startup Devoted Health raises $1.2B as it revs up growth"
-        }
-      ]
-    },
-    {
       "name": "Intercom",
       "website": "",
       "one_liner": "Intercom | Dublin, Ireland | ENGINEERING MANAGER | Full Time | ONSITE WHAT: Software-as-a-Service, customer communication platform. Intercom is one of the fastest growing software companies of our generation. ROLE: Want to write code, defin",
@@ -4424,6 +4400,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Investing in Community Health",
+      "website": "",
+      "one_liner": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/investing-in-community-health-a-new-model-for-safety-net-healthcare-innovation/",
+          "snippet": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation"
+        }
+      ]
     },
     {
       "name": "inviCRO",
@@ -5365,10 +5360,10 @@
     {
       "name": "Malama Health",
       "website": "https://www.heymalama.co",
-      "one_liner": "Doula-led holistic support during and after pregnancy ",
+      "one_liner": "Making motherhood safe, not scary",
       "stage": "Early",
       "batch": "Summer 2022",
-      "team_size": 3,
+      "team_size": 35,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6580,7 +6575,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
+      "one_liner": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6591,18 +6586,18 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
+          "snippet": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
+          "snippet": "Opinion: Why the FDA should not approve an ineffective multicancer screening test"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
           "snippet": "Opinion: Will Claude ever win a Nobel Prize for medicine?"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
-          "snippet": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss",
-          "snippet": "Opinion: I treated heat stroke at the NYC Marathon. Marathons need to prepare for a climate-changed world"
         }
       ]
     },
@@ -6885,21 +6880,15 @@
     {
       "name": "Parakeet Health",
       "website": "",
-      "one_liner": "Parakeet Health raises $10M to automate patient outreach",
+      "one_liner": "Parakeet Health Secures $10M for Conversational Agentic Platform",
       "stage": null,
       "batch": null,
       "team_size": null,
       "location": null,
       "sources": [
-        "Endpoints News",
         "MedCity News"
       ],
       "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/parakeet-health-raises-10m-to-automate-patient-outreach/",
-          "snippet": "Parakeet Health raises $10M to automate patient outreach"
-        },
         {
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/10/parakeet-health-secures-10m-for-conversational-agentic-platform/",
@@ -7276,6 +7265,19 @@
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
         }
       ]
+    },
+    {
+      "name": "PostEra",
+      "website": "https://postera.ai/",
+      "one_liner": "Medicinal Chemistry powered by Machine Learning",
+      "stage": "Growth",
+      "batch": "Winter 2020",
+      "team_size": 40,
+      "location": "Boston, MA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Postie",
@@ -10272,6 +10274,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Voice AI startup Vocca",
+      "website": "",
+      "one_liner": "Voice AI startup Vocca raises $20m to automate patient phone calls",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Sifted"
+      ],
+      "evidence": [
+        {
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/vocca-voice-ai-healthtech-series-a/",
+          "snippet": "Voice AI startup Vocca raises $20m to automate patient phone calls"
+        }
+      ]
     },
     {
       "name": "Waterline Data (https://www.waterlinedata.com/)",
