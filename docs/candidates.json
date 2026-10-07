@@ -1,16 +1,14 @@
 {
-  "generated_at": "2026-10-06T12:22:49Z",
+  "generated_at": "2026-10-07T12:15:49Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 172,
+    "Y Combinator": 173,
     "MedCity News": 6,
     "STAT News": 1,
     "RockHealth": 2,
-    "BioPharma Dive": 1,
-    "Endpoints News": 1,
     "Sifted": 1
   },
-  "count": 590,
+  "count": 589,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2153,6 +2151,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22734534",
           "snippet": "Curai Health | Office Manager + People Ops Lead | Full-time | Onsite | Palo Alto We're hiring for a new workplace experience manager role at Curai in Palo Alto "
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity Experts to Hospital Leaders",
+      "website": "",
+      "one_liner": "Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/",
+          "snippet": "Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning"
         }
       ]
     },
@@ -5561,25 +5578,6 @@
       ]
     },
     {
-      "name": "MedCity Pivot Podcast",
-      "website": "",
-      "one_liner": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-          "snippet": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani"
-        }
-      ]
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -5879,6 +5877,19 @@
       "batch": "Winter 2018",
       "team_size": 375,
       "location": "Boston, MA, USA; San Francisco, CA, USA; Remote",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Molagri",
+      "website": "https://molagri.com",
+      "one_liner": "Resistance free pesticides.",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 4,
+      "location": "Toronto, ON, Canada",
       "sources": [
         "Y Combinator"
       ],
@@ -6593,11 +6604,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
           "snippet": "Opinion: Why the FDA should not approve an ineffective multicancer screening test"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
-          "snippet": "Opinion: Will Claude ever win a Nobel Prize for medicine?"
         }
       ]
     },
@@ -7295,25 +7301,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386466",
           "snippet": "Postie | Machine Learning Engineer, Data Scientist, Data Engineer | Southern California or REMOTE (USA) |  https://postie.com  | Full Time Postie works with top"
-        }
-      ]
-    },
-    {
-      "name": "Precision for All",
-      "website": "",
-      "one_liner": "Precision for All: Closing the gap between innovation and impact",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
-          "snippet": "Precision for All: Closing the gap between innovation and impact"
         }
       ]
     },
@@ -8416,7 +8403,7 @@
     {
       "name": "Shasta Health",
       "website": "https://www.shasta.health",
-      "one_liner": "The last healthcare admin hire",
+      "one_liner": "Helping rehab practices book more patients",
       "stage": "Early",
       "batch": "Summer 2023",
       "team_size": 5,
@@ -9127,25 +9114,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Summit",
-      "website": "",
-      "one_liner": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
-          "snippet": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone"
-        }
-      ]
     },
     {
       "name": "Swift Systems",
