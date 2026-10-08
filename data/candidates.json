@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:15:49Z",
+  "generated_at": "2026-10-08T12:24:09Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 173,
@@ -1224,7 +1224,7 @@
     {
       "name": "Bunkerhill Health",
       "website": "http://bunkerhillhealth.com",
-      "one_liner": "Bunkerhill is the agentic AI platform for health systems",
+      "one_liner": "Bunkerhill is a long-horizon agent for health systems",
       "stage": "Growth",
       "batch": "Winter 2019",
       "team_size": 30,
@@ -3263,6 +3263,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
+        }
+      ]
+    },
+    {
+      "name": "From Distributor to Disruptor",
+      "website": "",
+      "one_liner": "From Distributor to Disruptor: Amazon’s Healthcare Flex",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/",
+          "snippet": "From Distributor to Disruptor: Amazon’s Healthcare Flex"
         }
       ]
     },
@@ -5559,25 +5578,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: Opportunities in the Fertility Market",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/",
-          "snippet": "MedCity FemFwd: Opportunities in the Fertility Market"
-        }
-      ]
-    },
-    {
       "name": "MedicaSafe, Inc.",
       "website": "",
       "one_liner": "MedicaSafe, Inc. | Front End Software Engineer | New York, NY | ONSITE | Full-time Position: Front End Software Engineer MedicaSafe Inc develops technologies to improve patient outcomes with a focus on medication adherence and addiction tre",
@@ -6586,7 +6586,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
+      "one_liner": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6597,13 +6597,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
-          "snippet": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
-          "snippet": "Opinion: Why the FDA should not approve an ineffective multicancer screening test"
+          "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
+          "snippet": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program"
         }
       ]
     },
@@ -9555,25 +9550,6 @@
       ]
     },
     {
-      "name": "Tiny Health",
-      "website": "",
-      "one_liner": "Tiny Health Secures $33M to Expand Microbiome Testing",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/09/tiny-health-secures-33m-to-expand-microbiome-testing/",
-          "snippet": "Tiny Health Secures $33M to Expand Microbiome Testing"
-        }
-      ]
-    },
-    {
       "name": "Tivara",
       "website": "https://tivara.com",
       "one_liner": "The AI workforce for medical groups",
@@ -9706,6 +9682,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544833",
           "snippet": "Triggr Health | Full Stack and Data Engineers | Chicago | RELOCATION Triggr Health is the first predictive system of care for addiction recovery. We are a world"
+        }
+      ]
+    },
+    {
+      "name": "Trilliant Health",
+      "website": "",
+      "one_liner": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/",
+          "snippet": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare"
         }
       ]
     },
