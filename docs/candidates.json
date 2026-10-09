@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-08T12:24:09Z",
+  "generated_at": "2026-10-09T12:14:01Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 173,
-    "MedCity News": 6,
+    "Y Combinator": 172,
+    "MedCity News": 7,
+    "Endpoints News": 2,
     "STAT News": 1,
     "RockHealth": 2,
     "Sifted": 1
   },
-  "count": 589,
+  "count": 590,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3362,6 +3363,25 @@
       ]
     },
     {
+      "name": "General Medicine",
+      "website": "",
+      "one_liner": "General Medicine raises $120M to build a healthcare store that offers everything",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/general-medicine-raises-120m-to-build-a-healthcare-store-that-offers-everything/",
+          "snippet": "General Medicine raises $120M to build a healthcare store that offers everything"
+        }
+      ]
+    },
+    {
       "name": "General Proximity",
       "website": "https://www.generalproximity.bio/",
       "one_liner": "The next generation of induced-proximity medicines.",
@@ -4254,7 +4274,7 @@
       "one_liner": "The AI-Native Benefits Brokerage",
       "stage": "Early",
       "batch": "Fall 2026",
-      "team_size": 8,
+      "team_size": 12,
       "location": "Los Angeles, CA, USA",
       "sources": [
         "Y Combinator"
@@ -4491,6 +4511,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22749090",
           "snippet": "IOMED | Data Engineer | Barcelona, Spain | Full Time | Onsite Are you looking for a job with a direct impact on healthcare?\n* Problem: Clinical data is messy an"
+        }
+      ]
+    },
+    {
+      "name": "IPO for Tregs as Retension",
+      "website": "",
+      "one_liner": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
+          "snippet": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension"
         }
       ]
     },
@@ -6586,7 +6625,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
+      "one_liner": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6595,6 +6634,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
+          "snippet": "Opinion: Proposed U.S. census changes could be catastrophic for public health"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
+          "snippet": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
@@ -9550,19 +9599,6 @@
       ]
     },
     {
-      "name": "Tivara",
-      "website": "https://tivara.com",
-      "one_liner": "The AI workforce for medical groups",
-      "stage": "Early",
-      "batch": "Summer 2024",
-      "team_size": 2,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Toothy AI",
       "website": "https://www.toothy.ai/",
       "one_liner": "AI for insurance verification & billing at dental clinics",
@@ -10234,9 +10270,16 @@
       "team_size": 28,
       "location": "San Francisco, CA, USA",
       "sources": [
-        "Y Combinator"
+        "Y Combinator",
+        "MedCity News"
       ],
-      "evidence": []
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
+          "snippet": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity"
+        }
+      ]
     },
     {
       "name": "Voice AI startup Vocca",
