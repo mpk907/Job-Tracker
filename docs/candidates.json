@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-09T12:14:01Z",
+  "generated_at": "2026-10-10T11:31:11Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 172,
-    "MedCity News": 7,
+    "MedCity News": 8,
     "Endpoints News": 2,
+    "BioPharma Dive": 2,
     "STAT News": 1,
-    "RockHealth": 2,
-    "Sifted": 1
+    "RockHealth": 2
   },
-  "count": 590,
+  "count": 592,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4008,6 +4008,25 @@
       ]
     },
     {
+      "name": "HHS",
+      "website": "",
+      "one_liner": "HHS launches new plan to strengthen vaccine injury research, reporting",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
+          "snippet": "HHS launches new plan to strengthen vaccine injury research, reporting"
+        }
+      ]
+    },
+    {
       "name": "Hinge Health",
       "website": "",
       "one_liner": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/careers  As a healthcare company providing pain relief and alternatives to surgi",
@@ -4511,6 +4530,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22749090",
           "snippet": "IOMED | Data Engineer | Barcelona, Spain | Full Time | Onsite Are you looking for a job with a direct impact on healthcare?\n* Problem: Clinical data is messy an"
+        }
+      ]
+    },
+    {
+      "name": "IPO",
+      "website": "",
+      "one_liner": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
+          "snippet": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance"
         }
       ]
     },
@@ -6643,11 +6681,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
           "snippet": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
-          "snippet": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program"
         }
       ]
     },
@@ -9542,6 +9575,25 @@
       ]
     },
     {
+      "name": "This week in charts",
+      "website": "",
+      "one_liner": "This week in charts: What’s driving biotech’s recent pullback?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/biotech-charts-xbi-private-public-merger-acquisition-deals/832398/",
+          "snippet": "This week in charts: What’s driving biotech’s recent pullback?"
+        }
+      ]
+    },
+    {
       "name": "ThreeComma.io",
       "website": "",
       "one_liner": "ThreeComma.io - Devops Wizards | REMOTE, CONTRACTOR, FLEXIBLE  http://threecomma.io/jobs/  ThreeComma is dedicated to helping our customers improve efficiencies and reduce expenses relating to cloud services and storage. We leverage this ex",
@@ -10278,25 +10330,6 @@
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
           "snippet": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity"
-        }
-      ]
-    },
-    {
-      "name": "Voice AI startup Vocca",
-      "website": "",
-      "one_liner": "Voice AI startup Vocca raises $20m to automate patient phone calls",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Sifted"
-      ],
-      "evidence": [
-        {
-          "source": "Sifted",
-          "url": "https://sifted.eu/articles/vocca-voice-ai-healthtech-series-a/",
-          "snippet": "Voice AI startup Vocca raises $20m to automate patient phone calls"
         }
       ]
     },
