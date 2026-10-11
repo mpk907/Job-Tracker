@@ -1,6 +1,6 @@
-# Pharma Digital Jobs — Week 40, 2026
+# Pharma Digital Jobs — Week 41, 2026
 
-_New roles posted between 2026-10-04 and 2026-10-04._
+_New roles posted between 2026-10-11 and 2026-10-11._
 
 **0 new digital roles** this week across 0 companies.
 
