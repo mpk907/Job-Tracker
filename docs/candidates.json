@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-11T13:50:23Z",
+  "generated_at": "2026-10-12T13:42:26Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 172,
-    "MedCity News": 8,
+    "MedCity News": 7,
     "Endpoints News": 2,
     "BioPharma Dive": 2,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 592,
+  "count": 591,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6854,9 +6854,9 @@
       ]
     },
     {
-      "name": "Output Biosciences",
-      "website": "https://www.outputbio.com/",
-      "one_liner": "The foundation for the next era of biology",
+      "name": "Output Labs",
+      "website": "https://www.outputlabs.ai/",
+      "one_liner": "The foundation for the next era of science",
       "stage": "Early",
       "batch": "Summer 2021",
       "team_size": 8,
@@ -6959,25 +6959,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Parakeet Health",
-      "website": "",
-      "one_liner": "Parakeet Health Secures $10M for Conversational Agentic Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/parakeet-health-secures-10m-for-conversational-agentic-platform/",
-          "snippet": "Parakeet Health Secures $10M for Conversational Agentic Platform"
-        }
-      ]
     },
     {
       "name": "Parallel Bio",
