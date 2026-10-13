@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-12T13:42:26Z",
+  "generated_at": "2026-10-13T13:06:58Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 172,
+    "Y Combinator": 171,
     "MedCity News": 7,
-    "Endpoints News": 2,
     "BioPharma Dive": 2,
+    "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 591,
+  "count": 589,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1765,25 +1765,6 @@
       ]
     },
     {
-      "name": "Closing the Diagnostic Gap",
-      "website": "",
-      "one_liner": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/",
-          "snippet": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal"
-        }
-      ]
-    },
-    {
       "name": "Clover Health (www.cloverhealth.com)",
       "website": "",
       "one_liner": "Clover Health (www.cloverhealth.com) | San Francisco, CA | Full time, On-site Clover Health is driving down costs and producing improved health outcomes with a unique health insurance plan. We use sophisticated analytics and custom software",
@@ -3363,25 +3344,6 @@
       ]
     },
     {
-      "name": "General Medicine",
-      "website": "",
-      "one_liner": "General Medicine raises $120M to build a healthcare store that offers everything",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/general-medicine-raises-120m-to-build-a-healthcare-store-that-offers-everything/",
-          "snippet": "General Medicine raises $120M to build a healthcare store that offers everything"
-        }
-      ]
-    },
-    {
       "name": "General Proximity",
       "website": "https://www.generalproximity.bio/",
       "one_liner": "The next generation of induced-proximity medicines.",
@@ -4318,19 +4280,6 @@
           "snippet": "iMarc - ONSITE FULLTIME - Newburyport, MA or Santa Cruz, CA == Current Openings == * Junior Web Engineer  http://www.imarc.net/hiring/junior_web_engineer      P"
         }
       ]
-    },
-    {
-      "name": "Imperfect",
-      "website": "https://imperfect.co",
-      "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
-      "stage": "Early",
-      "batch": "Spring 2026",
-      "team_size": 5,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "IMT Care",
@@ -6663,7 +6612,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
+      "one_liner": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6672,6 +6621,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
+          "snippet": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
@@ -6865,6 +6819,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Outro",
+      "website": "",
+      "one_liner": "Outro Raises $7M To Support Safe Deprescribing",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/",
+          "snippet": "Outro Raises $7M To Support Safe Deprescribing"
+        }
+      ]
     },
     {
       "name": "Owlstone Medical",
