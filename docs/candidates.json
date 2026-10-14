@@ -1,15 +1,13 @@
 {
-  "generated_at": "2026-10-13T13:06:58Z",
+  "generated_at": "2026-10-14T10:46:05Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 171,
     "MedCity News": 7,
-    "BioPharma Dive": 2,
-    "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 589,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3970,25 +3968,6 @@
       ]
     },
     {
-      "name": "HHS",
-      "website": "",
-      "one_liner": "HHS launches new plan to strengthen vaccine injury research, reporting",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
-          "snippet": "HHS launches new plan to strengthen vaccine injury research, reporting"
-        }
-      ]
-    },
-    {
       "name": "Hinge Health",
       "website": "",
       "one_liner": "Hinge Health | Security Analyst | San Francisco, CA or Portland, OR | REMOTE (only during COVID-19 pandemic, FT remote possible) |  https://www.hingehealth.com/careers  As a healthcare company providing pain relief and alternatives to surgi",
@@ -4498,25 +4477,6 @@
           "source": "MedCity News",
           "url": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
           "snippet": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance"
-        }
-      ]
-    },
-    {
-      "name": "IPO for Tregs as Retension",
-      "website": "",
-      "one_liner": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
-          "snippet": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension"
         }
       ]
     },
@@ -6612,7 +6572,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
+      "one_liner": "Opinion: How states can resist the potential Trump vaccine shortages",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6623,18 +6583,18 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
+          "snippet": "Opinion: How states can resist the potential Trump vaccine shortages"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
+          "snippet": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
           "snippet": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
-          "snippet": "Opinion: Proposed U.S. census changes could be catastrophic for public health"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
-          "snippet": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary"
         }
       ]
     },
@@ -9525,25 +9485,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
-        }
-      ]
-    },
-    {
-      "name": "This week in charts",
-      "website": "",
-      "one_liner": "This week in charts: What’s driving biotech’s recent pullback?",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/biotech-charts-xbi-private-public-merger-acquisition-deals/832398/",
-          "snippet": "This week in charts: What’s driving biotech’s recent pullback?"
         }
       ]
     },
