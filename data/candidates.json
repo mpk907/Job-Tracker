@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:46:05Z",
+  "generated_at": "2026-10-15T10:29:33Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 171,
@@ -3898,6 +3898,25 @@
       "evidence": []
     },
     {
+      "name": "Healthleap",
+      "website": "",
+      "one_liner": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/",
+          "snippet": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients"
+        }
+      ]
+    },
+    {
       "name": "Healthtech 1",
       "website": "https://www.healthtech1.uk/",
       "one_liner": "Navigating patients to the right place, first time.",
@@ -4405,25 +4424,6 @@
       "evidence": []
     },
     {
-      "name": "Investing in Community Health",
-      "website": "",
-      "one_liner": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/investing-in-community-health-a-new-model-for-safety-net-healthcare-innovation/",
-          "snippet": "Investing in Community Health: A New Model for Safety-Net Healthcare Innovation"
-        }
-      ]
-    },
-    {
       "name": "inviCRO",
       "website": "",
       "one_liner": "inviCRO | Linux Systems Engineer | Boston, MA | ONSITE | Full-time  https://www.invicro.com  Make an impact at a dynamic and growing life sciences company that provides medical imaging services and software to the drug development community",
@@ -4593,7 +4593,7 @@
       "one_liner": "AI Health Assistant for Chronic Illness",
       "stage": "Early",
       "batch": "Spring 2026",
-      "team_size": 2,
+      "team_size": 5,
       "location": "London, England, United Kingdom",
       "sources": [
         "Y Combinator"
@@ -6572,7 +6572,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How states can resist the potential Trump vaccine shortages",
+      "one_liner": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6583,6 +6583,16 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+          "snippet": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
+          "snippet": "Opinion: My daughter’s death changed how I understood the nursing shortage"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
           "snippet": "Opinion: How states can resist the potential Trump vaccine shortages"
         },
@@ -6590,11 +6600,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
           "snippet": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
-          "snippet": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution"
         }
       ]
     },
