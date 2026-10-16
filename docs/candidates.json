@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-15T10:29:33Z",
+  "generated_at": "2026-10-16T10:16:54Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 171,
     "MedCity News": 7,
     "STAT News": 1,
+    "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 586,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -236,19 +237,6 @@
       "batch": "Summer 2021",
       "team_size": 6,
       "location": "Rochester, NY, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "AgileMD",
-      "website": "https://agilemd.com",
-      "one_liner": "Predictive analytics and clinical pathways for hospitals ",
-      "stage": "Growth",
-      "batch": "Summer 2011",
-      "team_size": 19,
-      "location": "San Francisco, CA, USA; Remote",
       "sources": [
         "Y Combinator"
       ],
@@ -6572,7 +6560,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+      "one_liner": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6583,6 +6571,16 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
+          "snippet": "Opinion: Is Milton Friedman to blame for America’s health care woes?"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
+          "snippet": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
           "snippet": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening"
         },
@@ -6590,16 +6588,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
           "snippet": "Opinion: My daughter’s death changed how I understood the nursing shortage"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
-          "snippet": "Opinion: How states can resist the potential Trump vaccine shortages"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
-          "snippet": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health"
         }
       ]
     },
@@ -6619,6 +6607,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15465433",
           "snippet": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and"
+        }
+      ]
+    },
+    {
+      "name": "OrbiMed",
+      "website": "",
+      "one_liner": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/orbimed-raises-3b-in-new-life-sciences-funds-including-1b-for-asia/",
+          "snippet": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia"
         }
       ]
     },
@@ -8478,6 +8485,19 @@
           "snippet": "Sift ( http://justsift.com ) | Detroit, MI | ONSITE * Front End ReactJS Engineer * Backend Node Engineer * Or Full Stack of the Above Analytics for your employe"
         }
       ]
+    },
+    {
+      "name": "Signatur Biosciences",
+      "website": "https://www.signatur.bio/",
+      "one_liner": "Simple tests for complex diseases.",
+      "stage": "Early",
+      "batch": "Summer 2022",
+      "team_size": 5,
+      "location": "London, England, United Kingdom",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "silverorange",
