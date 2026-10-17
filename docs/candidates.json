@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-16T10:16:54Z",
+  "generated_at": "2026-10-17T09:51:08Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 171,
-    "MedCity News": 7,
+    "Y Combinator": 172,
+    "Endpoints News": 3,
+    "MedCity News": 5,
     "STAT News": 1,
-    "Endpoints News": 1,
     "RockHealth": 2
   },
-  "count": 587,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1616,6 +1616,25 @@
       ]
     },
     {
+      "name": "City Therapeutics",
+      "website": "",
+      "one_liner": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/city-therapeutics-lands-200m-ipo-as-it-builds-an-alnylam-2-0-in-rnai-field/",
+          "snippet": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field"
+        }
+      ]
+    },
+    {
       "name": "Cityblock Health",
       "website": "",
       "one_liner": "Cityblock Health | Engineering (multiple) | Brooklyn NYC | Full Time At Cityblock we're building a new type of healthcare company. Backed by Sidewalk Labs / Alphabet and leading healthcare investors. We'll be launching a Medicaid-focused pr",
@@ -2119,25 +2138,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22734534",
           "snippet": "Curai Health | Office Manager + People Ops Lead | Full-time | Onsite | Palo Alto We're hiring for a new workplace experience manager role at Curai in Palo Alto "
-        }
-      ]
-    },
-    {
-      "name": "Cybersecurity Experts to Hospital Leaders",
-      "website": "",
-      "one_liner": "Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/",
-          "snippet": "Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning"
         }
       ]
     },
@@ -3231,25 +3231,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
-        }
-      ]
-    },
-    {
-      "name": "From Distributor to Disruptor",
-      "website": "",
-      "one_liner": "From Distributor to Disruptor: Amazon’s Healthcare Flex",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/",
-          "snippet": "From Distributor to Disruptor: Amazon’s Healthcare Flex"
         }
       ]
     },
@@ -6578,16 +6559,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
           "snippet": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
-          "snippet": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
-          "snippet": "Opinion: My daughter’s death changed how I understood the nursing shortage"
         }
       ]
     },
@@ -7472,6 +7443,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386573",
           "snippet": "PumpUp | React-Native Developer | Toronto, Canada | FULL-TIME REMOTE, CONTRACT PumpUp is a positive community for health & fitness. Our mission is to empower pe"
+        }
+      ]
+    },
+    {
+      "name": "Q&A",
+      "website": "",
+      "one_liner": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
+          "snippet": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking"
         }
       ]
     },
@@ -9892,6 +9882,19 @@
           "snippet": "University of Chicago | Full Stack Engineers | Full-time | Chicago, IL | ONSITE |  https://cdis.uchicago.edu/careers  Building petabyte-scale production data co"
         }
       ]
+    },
+    {
+      "name": "Untether Labs",
+      "website": "https://untetherlabs.com",
+      "one_liner": "Scheduling software for digital health clinics to do more with less.",
+      "stage": "Early",
+      "batch": "Winter 2023",
+      "team_size": 6,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Uplight",
