@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-17T09:51:08Z",
+  "generated_at": "2026-10-18T10:03:29Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 172,
+    "Y Combinator": 171,
     "Endpoints News": 3,
     "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -8387,19 +8387,6 @@
       "stage": "Growth",
       "batch": "Summer 2015",
       "team_size": 7,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Shasta Health",
-      "website": "https://www.shasta.health",
-      "one_liner": "Helping rehab practices book more patients",
-      "stage": "Early",
-      "batch": "Summer 2023",
-      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
