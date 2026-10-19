@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-18T12:02:14Z",
+  "generated_at": "2026-10-19T11:25:04Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 171,
-    "Endpoints News": 3,
     "MedCity News": 5,
+    "Endpoints News": 4,
+    "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 587,
+  "count": 590,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -350,6 +351,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Allswell",
+      "website": "",
+      "one_liner": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/",
+          "snippet": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform"
+        }
+      ]
     },
     {
       "name": "AlphaSheets",
@@ -1160,7 +1180,7 @@
     {
       "name": "Brighterway",
       "website": "https://www.brighterway.ai/",
-      "one_liner": "Streamlining the medical record review process in workers comp",
+      "one_liner": "AI-native claims software and administration for casualty claims",
       "stage": "Early",
       "batch": "Summer 2024",
       "team_size": 14,
@@ -3231,6 +3251,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544172",
           "snippet": "FreshBooks | Full Stack/Mobile (iOS) | Toronto, Canada | FULL-TIME, ONSITE FreshBooks is seeking skilled mobile developers who have experience developing applic"
+        }
+      ]
+    },
+    {
+      "name": "From strategy to scale",
+      "website": "",
+      "one_liner": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
+          "snippet": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem"
         }
       ]
     },
@@ -6281,6 +6320,25 @@
       "evidence": []
     },
     {
+      "name": "Nouscom",
+      "website": "",
+      "one_liner": "Nouscom raises $135M in Series D for lead cancer vaccine",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vaccine/",
+          "snippet": "Nouscom raises $135M in Series D for lead cancer vaccine"
+        }
+      ]
+    },
+    {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
       "one_liner": "Computer-using agents for healthcare operations",
@@ -6541,7 +6599,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
+      "one_liner": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6550,6 +6608,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
+          "snippet": "Opinion: My mother killed herself. I wish assisted suicide had been an option"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
@@ -8922,6 +8985,25 @@
       ]
     },
     {
+      "name": "Startup OMass",
+      "website": "",
+      "one_liner": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/",
+          "snippet": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder"
+        }
+      ]
+    },
+    {
       "name": "Stasis Labs",
       "website": "",
       "one_liner": "Stasis Labs |  https://www.stasislabs.com  | Onsite Bangalore, India or Los Angeles, USA Up to 75% of injuries and deaths in hospitals happen to patients who lack continuous monitoring technology. Existing solutions are expensive and comple",
@@ -9671,25 +9753,6 @@
       ]
     },
     {
-      "name": "Trilliant Health",
-      "website": "",
-      "one_liner": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/",
-          "snippet": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare"
-        }
-      ]
-    },
-    {
       "name": "TrueCar",
       "website": "",
       "one_liner": "TrueCar | Santa Monica, CA - San Francisco, CA - Austin, TX | Full Time TrueCar is hiring Engineers with interest in the below technologies and more at our HQ in Santa Monica * Rails * React * Angular * AWS * Data Engineers (Java/Hadoop or",
@@ -10232,16 +10295,9 @@
       "team_size": 28,
       "location": "San Francisco, CA, USA",
       "sources": [
-        "Y Combinator",
-        "MedCity News"
+        "Y Combinator"
       ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/",
-          "snippet": "Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity"
-        }
-      ]
+      "evidence": []
     },
     {
       "name": "Waterline Data (https://www.waterlinedata.com/)",
