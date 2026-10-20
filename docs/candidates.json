@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-19T11:25:04Z",
+  "generated_at": "2026-10-20T10:35:12Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 171,
-    "MedCity News": 5,
-    "Endpoints News": 4,
+    "Y Combinator": 170,
+    "MedCity News": 4,
+    "Endpoints News": 3,
     "BioPharma Dive": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 590,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3083,19 +3083,6 @@
       ]
     },
     {
-      "name": "Floracene",
-      "website": "https://www.floracene.com/",
-      "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
-      "stage": "Early",
-      "batch": "Summer 2026",
-      "team_size": 2,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Flow Commerce",
       "website": "",
       "one_liner": "Flow Commerce | Hoboken NJ | Full-time, onsite Flow is making it simple for ecommerce companies to create great customer experiences globally. We do this by building software that provides country specific and local information across the e",
@@ -4466,25 +4453,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22749090",
           "snippet": "IOMED | Data Engineer | Barcelona, Spain | Full Time | Onsite Are you looking for a job with a direct impact on healthcare?\n* Problem: Clinical data is messy an"
-        }
-      ]
-    },
-    {
-      "name": "IPO",
-      "website": "",
-      "one_liner": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/",
-          "snippet": "TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance"
         }
       ]
     },
@@ -6612,16 +6580,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
           "snippet": "Opinion: My mother killed herself. I wish assisted suicide had been an option"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
-          "snippet": "Opinion: Is Milton Friedman to blame for America’s health care woes?"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
-          "snippet": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong"
         }
       ]
     },
@@ -6641,25 +6599,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15465433",
           "snippet": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and"
-        }
-      ]
-    },
-    {
-      "name": "OrbiMed",
-      "website": "",
-      "one_liner": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/orbimed-raises-3b-in-new-life-sciences-funds-including-1b-for-asia/",
-          "snippet": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia"
         }
       ]
     },
