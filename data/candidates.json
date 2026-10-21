@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-10-20T10:35:12Z",
+  "generated_at": "2026-10-21T10:45:52Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 170,
-    "MedCity News": 4,
-    "Endpoints News": 3,
-    "BioPharma Dive": 1,
-    "STAT News": 1,
+    "MedCity News": 5,
+    "BioPharma Dive": 2,
+    "Endpoints News": 2,
     "RockHealth": 2
   },
   "count": 587,
@@ -245,8 +244,8 @@
     },
     {
       "name": "AIOS",
-      "website": "https://www.aiosmedical.com/",
-      "one_liner": "Building AI-native infrastructure for the next era of care.",
+      "website": "https://aiosmedical.notion.site/",
+      "one_liner": "The world’s first full-stack AI doctor",
       "stage": "Early",
       "batch": "Winter 2020",
       "team_size": 100,
@@ -1632,25 +1631,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12847434",
           "snippet": "Circles | London, UK (No remote) | Ruby/Swift/Java/JavaScript/React Native Circles was founded in 2016 with the belief that when it comes to supporting each oth"
-        }
-      ]
-    },
-    {
-      "name": "City Therapeutics",
-      "website": "",
-      "one_liner": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/city-therapeutics-lands-200m-ipo-as-it-builds-an-alnylam-2-0-in-rnai-field/",
-          "snippet": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field"
         }
       ]
     },
@@ -4105,6 +4085,25 @@
       ]
     },
     {
+      "name": "Hype vs. reality",
+      "website": "",
+      "one_liner": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
+          "snippet": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved"
+        }
+      ]
+    },
+    {
       "name": "I strongly believe that work that could be done remotely MUST be done remotely u",
       "website": "",
       "one_liner": "I strongly believe that work that could be done remotely MUST be done remotely  until the coronavirus vaccine is developed and deployed  (even if at the expense of some potential performance loss and/or corporate culture impact; though it i",
@@ -4254,6 +4253,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "ily",
+      "website": "",
+      "one_liner": "ily Secures $11M for Compliance Intelligence Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/readily-secures-11m-for-compliance-intelligence-platform/",
+          "snippet": "ily Secures $11M for Compliance Intelligence Platform"
+        }
+      ]
     },
     {
       "name": "iMarc",
@@ -6565,25 +6583,6 @@
       "evidence": []
     },
     {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
-          "snippet": "Opinion: My mother killed herself. I wish assisted suicide had been an option"
-        }
-      ]
-    },
-    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -6764,25 +6763,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Outro",
-      "website": "",
-      "one_liner": "Outro Raises $7M To Support Safe Deprescribing",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/",
-          "snippet": "Outro Raises $7M To Support Safe Deprescribing"
-        }
-      ]
     },
     {
       "name": "Owlstone Medical",
@@ -7725,6 +7705,25 @@
       ]
     },
     {
+      "name": "Report",
+      "website": "",
+      "one_liner": "Report: Health System M&A Activity Remains Steady in Third Quarter",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/",
+          "snippet": "Report: Health System M&A Activity Remains Steady in Third Quarter"
+        }
+      ]
+    },
+    {
       "name": "Research Data Scientist (w/m) for Applied Biophysics @ Beiersdorf",
       "website": "",
       "one_liner": "Research Data Scientist (w/m) for Applied Biophysics @ Beiersdorf REQUIREMENTS: -An extremely good degree in natural sciences, engineering, or IT, plus a doctorate if possible (preferably in computer science, mathematics, or physics) -Very",
@@ -8375,7 +8374,7 @@
       "one_liner": "Healthcare Price Transparency APIs and Data Products",
       "stage": "Early",
       "batch": "Winter 2022",
-      "team_size": 20,
+      "team_size": 25,
       "location": "Los Angeles, CA, USA; Remote",
       "sources": [
         "Y Combinator"
