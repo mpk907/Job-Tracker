@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-21T10:45:52Z",
+  "generated_at": "2026-10-22T10:47:49Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 170,
-    "MedCity News": 5,
+    "MedCity News": 6,
     "BioPharma Dive": 2,
-    "Endpoints News": 2,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 2
   },
-  "count": 587,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -4569,6 +4569,25 @@
       ]
     },
     {
+      "name": "Judi Health",
+      "website": "",
+      "one_liner": "Judi Health Launches Medicare Part D Plan for Employers",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
+          "snippet": "Judi Health Launches Medicare Part D Plan for Employers"
+        }
+      ]
+    },
+    {
       "name": "Junction",
       "website": "https://www.junction.com/",
       "one_liner": "API for at-home health data",
@@ -6306,25 +6325,6 @@
       "evidence": []
     },
     {
-      "name": "Nouscom",
-      "website": "",
-      "one_liner": "Nouscom raises $135M in Series D for lead cancer vaccine",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vaccine/",
-          "snippet": "Nouscom raises $135M in Series D for lead cancer vaccine"
-        }
-      ]
-    },
-    {
       "name": "Novoflow",
       "website": "https://www.novoflow.io/",
       "one_liner": "Computer-using agents for healthcare operations",
@@ -7429,25 +7429,6 @@
       ]
     },
     {
-      "name": "Q&A",
-      "website": "",
-      "one_liner": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
-          "snippet": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking"
-        }
-      ]
-    },
-    {
       "name": "Qardio",
       "website": "",
       "one_liner": "Qardio | VP OF OPERATIONS | San Francisco, CA | ONSITE | Full-time Help make healthcare great! Join the Qardio team and help us make heart health better and cheaper for everyone. If you love working with and integrated hardware/app/cloud pl",
@@ -7771,6 +7752,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22672219",
           "snippet": "Revolut | Software Engineers and many more | London, Krakow, Berlin, New York, Moscow, Vilnius | Full-Time |  https://www.revolut.com  Revolut is one of the fas"
+        }
+      ]
+    },
+    {
+      "name": "Rezera",
+      "website": "",
+      "one_liner": "Rezera files for IPO to back NLRP3 work in peripheral artery disease",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/rezera-files-for-ipo-to-back-nlrp3-work-in-peripheral-artery-disease/",
+          "snippet": "Rezera files for IPO to back NLRP3 work in peripheral artery disease"
         }
       ]
     },
@@ -9082,6 +9082,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "success rate as it",
+      "website": "",
+      "one_liner": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
+          "snippet": "Roche talks up Phase 3 success rate as it unveils pipeline cuts"
+        }
+      ]
     },
     {
       "name": "Suger",
