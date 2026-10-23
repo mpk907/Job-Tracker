@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-22T10:47:49Z",
+  "generated_at": "2026-10-23T10:39:58Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 170,
-    "MedCity News": 6,
-    "BioPharma Dive": 2,
+    "Y Combinator": 171,
+    "MedCity News": 5,
+    "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 2
   },
-  "count": 588,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -668,6 +668,19 @@
           "snippet": "ArchiveSocial - Durham, NC - ONSITE -  http://archivesocial.com  We automate record keeping, monitoring, & analytics of social media to help organizations fulfi"
         }
       ]
+    },
+    {
+      "name": "Aren",
+      "website": "https://www.aren.com/",
+      "one_liner": "Powering Successful Nursing Shifts",
+      "stage": "Early",
+      "batch": "Winter 2024",
+      "team_size": null,
+      "location": "",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Arini",
@@ -3222,25 +3235,6 @@
       ]
     },
     {
-      "name": "From strategy to scale",
-      "website": "",
-      "one_liner": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
-          "snippet": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem"
-        }
-      ]
-    },
-    {
       "name": "Front",
       "website": "",
       "one_liner": "Front-End Developer Description: Are you passionate about making intuitive yet powerful software? Do you want to play a big role in bringing new designs and ideas to users?\nCome join the company that's modernizing transit! DoubleMap is look",
@@ -3680,6 +3674,19 @@
       ]
     },
     {
+      "name": "Harbera",
+      "website": "https://harbera.com/",
+      "one_liner": "AI Healthcare Provider Credentialing Software",
+      "stage": "Early",
+      "batch": "Winter 2025",
+      "team_size": null,
+      "location": "New York City, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Hart",
       "website": "",
       "one_liner": "Hart | SDET | Anaheim, CA | ONSITE We are looking for a strong SDET to round out our team.  The ideal candidate would have a mix of experience in both manual and automated testing, with a strong understanding of when to use each.  This team",
@@ -3873,25 +3880,6 @@
       "evidence": []
     },
     {
-      "name": "Healthleap",
-      "website": "",
-      "one_liner": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/",
-          "snippet": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients"
-        }
-      ]
-    },
-    {
       "name": "Healthtech 1",
       "website": "https://www.healthtech1.uk/",
       "one_liner": "Navigating patients to the right place, first time.",
@@ -4081,25 +4069,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11815222",
           "snippet": "Human API - Redwood City, CA & Vancouver, BC  http://humanapi.co/  (onsite, visa) == About Us === We're a small, product-centric team focused on opening the wor"
-        }
-      ]
-    },
-    {
-      "name": "Hype vs. reality",
-      "website": "",
-      "one_liner": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
-          "snippet": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved"
         }
       ]
     },
@@ -4631,19 +4600,6 @@
           "snippet": "JustWatch | Backend, Frontend & System Engineers | Berlin, Germany | INTERNS, VISA, ONSITE,  https://www.justwatch.com/us/talent  is searching for hungry & curi"
         }
       ]
-    },
-    {
-      "name": "Kabilah",
-      "website": "https://www.kabilah.com",
-      "one_liner": "Agentic AI for Nursing Workflows",
-      "stage": "Early",
-      "batch": "Winter 2024",
-      "team_size": null,
-      "location": "",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Kaiser Permanente Medical Informatics",
@@ -6583,6 +6539,25 @@
       "evidence": []
     },
     {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Overdose deaths have plunged. We need to know why",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
+          "snippet": "Opinion: Overdose deaths have plunged. We need to know why"
+        }
+      ]
+    },
+    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -6757,7 +6732,7 @@
       "one_liner": "The foundation for the next era of science",
       "stage": "Early",
       "batch": "Summer 2021",
-      "team_size": 8,
+      "team_size": 10,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
