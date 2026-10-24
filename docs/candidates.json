@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T10:39:58Z",
+  "generated_at": "2026-10-24T09:57:12Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 171,
+    "Y Combinator": 170,
+    "STAT News": 2,
     "MedCity News": 5,
-    "STAT News": 1,
-    "RockHealth": 2,
-    "Endpoints News": 2
+    "Endpoints News": 3,
+    "RockHealth": 2
   },
-  "count": 587,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -241,6 +241,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "AI drug firm Pathos",
+      "website": "",
+      "one_liner": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+          "snippet": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion"
+        }
+      ]
     },
     {
       "name": "AIOS",
@@ -516,19 +535,6 @@
       "batch": "Summer 2023",
       "team_size": 12,
       "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Andson Biotech",
-      "website": "http://www.andsonbiotech.com",
-      "one_liner": "Empowering Mass Spec for Biotech and Beyond",
-      "stage": "Early",
-      "batch": "Winter 2022",
-      "team_size": 12,
-      "location": "Atlanta, GA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6917,6 +6923,25 @@
       "evidence": []
     },
     {
+      "name": "Pathos",
+      "website": "",
+      "one_liner": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+          "snippet": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership"
+        }
+      ]
+    },
+    {
       "name": "PatientBank (YC S16)",
       "website": "",
       "one_liner": "PatientBank (YC S16) | San Francisco, CA | Onsite | Full-time | Full-stack software engineering We're looking for exceptional software engineers to help us build a patient-centered health record system. We build technology that lets patient",
@@ -7204,6 +7229,25 @@
       ]
     },
     {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: Did the US just kill off China biotech deals?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
+          "snippet": "Post-Hoc Live: Did the US just kill off China biotech deals?"
+        }
+      ]
+    },
+    {
       "name": "PostEra",
       "website": "https://postera.ai/",
       "one_liner": "Medicinal Chemistry powered by Machine Learning",
@@ -7400,6 +7444,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386573",
           "snippet": "PumpUp | React-Native Developer | Toronto, Canada | FULL-TIME REMOTE, CONTRACT PumpUp is a positive community for health & fitness. Our mission is to empower pe"
+        }
+      ]
+    },
+    {
+      "name": "Q&A",
+      "website": "",
+      "one_liner": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/qa-bristol-myers-lynelle-hoch-on-autoimmune-car-t-safety-challenges/",
+          "snippet": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges"
         }
       ]
     },
@@ -7727,25 +7790,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22672219",
           "snippet": "Revolut | Software Engineers and many more | London, Krakow, Berlin, New York, Moscow, Vilnius | Full-Time |  https://www.revolut.com  Revolut is one of the fas"
-        }
-      ]
-    },
-    {
-      "name": "Rezera",
-      "website": "",
-      "one_liner": "Rezera files for IPO to back NLRP3 work in peripheral artery disease",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/rezera-files-for-ipo-to-back-nlrp3-work-in-peripheral-artery-disease/",
-          "snippet": "Rezera files for IPO to back NLRP3 work in peripheral artery disease"
         }
       ]
     },
@@ -9057,25 +9101,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "success rate as it",
-      "website": "",
-      "one_liner": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
-          "snippet": "Roche talks up Phase 3 success rate as it unveils pipeline cuts"
-        }
-      ]
     },
     {
       "name": "Suger",
