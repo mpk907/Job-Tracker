@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-24T09:57:12Z",
+  "generated_at": "2026-10-25T10:18:15Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 170,
-    "STAT News": 2,
+    "STAT News": 1,
     "MedCity News": 5,
     "Endpoints News": 3,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -6543,25 +6543,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: Overdose deaths have plunged. We need to know why",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
-          "snippet": "Opinion: Overdose deaths have plunged. We need to know why"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
