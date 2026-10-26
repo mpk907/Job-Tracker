@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-10-25T12:24:41Z",
+  "generated_at": "2026-10-26T11:42:01Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 170,
-    "STAT News": 1,
-    "MedCity News": 5,
+    "Y Combinator": 171,
+    "MedCity News": 6,
     "Endpoints News": 3,
     "RockHealth": 2
   },
-  "count": 587,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -241,25 +240,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "AI drug firm Pathos",
-      "website": "",
-      "one_liner": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
-          "snippet": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion"
-        }
-      ]
     },
     {
       "name": "AIOS",
@@ -1504,6 +1484,25 @@
       ]
     },
     {
+      "name": "CareValidate",
+      "website": "",
+      "one_liner": "CareValidate Launches Expanded HRT Offering",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/",
+          "snippet": "CareValidate Launches Expanded HRT Offering"
+        }
+      ]
+    },
+    {
       "name": "Catapult",
       "website": "",
       "one_liner": "Catapult | Full Time | Remote (Europe) What: On demand staffing for retail, office and hospitality, sort of like Uber for staff $: £45k - £60k depending on experience & location. Plus equity, conferences, choice of equipment, l&d budget etc",
@@ -2266,7 +2265,7 @@
     {
       "name": "Denta",
       "website": "https://denta.com",
-      "one_liner": "Fortune 500 Dental Benefits for Startups",
+      "one_liner": "Fortune 500 Dental Benefits",
       "stage": "Early",
       "batch": "Summer 2026",
       "team_size": 1,
@@ -5533,6 +5532,19 @@
       "batch": "Winter 2021",
       "team_size": 12,
       "location": "New York City, NY, USA; New York, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
+      "name": "Mederva",
+      "website": "https://medervahealth.com/",
+      "one_liner": "Longevity for the 99%.",
+      "stage": "Early",
+      "batch": "Winter 2022",
+      "team_size": 13,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
