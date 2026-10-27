@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-26T11:42:01Z",
+  "generated_at": "2026-10-27T11:12:30Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 171,
-    "MedCity News": 6,
-    "Endpoints News": 3,
+    "MedCity News": 4,
+    "Endpoints News": 2,
+    "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -349,25 +350,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Allswell",
-      "website": "",
-      "one_liner": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/",
-          "snippet": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform"
-        }
-      ]
     },
     {
       "name": "AlphaSheets",
@@ -5773,6 +5755,25 @@
       ]
     },
     {
+      "name": "MFN is complicating European drug",
+      "website": "",
+      "one_liner": "Roche’s changing plans show how MFN is complicating European drug launches",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
+          "snippet": "Roche’s changing plans show how MFN is complicating European drug launches"
+        }
+      ]
+    },
+    {
       "name": "MIAMED GmbH (US: amboss.com, DE: miamed.de)",
       "website": "",
       "one_liner": "MIAMED GmbH (US: amboss.com, DE: miamed.de) | Berlin, Germany; Cologne, Germany | Full-time, ONSITE, VISA |  https://www.miamed.de/jobs  AMBOSS is a revolutionary new learning system for medical students and physicians. Our team consists of",
@@ -6557,6 +6558,25 @@
       "evidence": []
     },
     {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
+          "snippet": "Opinion: Emergency pediatric care is now in permanent crisis mode"
+        }
+      ]
+    },
+    {
       "name": "OpsTalent",
       "website": "",
       "one_liner": "OpsTalent | Angular Front End Developer| Full-time | Wroclaw, Poland OpsTalent is a software development & multi-lingual company created by young, ambitious and open for new challenges people as well as by experienced professionals, who are",
@@ -6916,25 +6936,6 @@
       "evidence": []
     },
     {
-      "name": "Pathos",
-      "website": "",
-      "one_liner": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
-          "snippet": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership"
-        }
-      ]
-    },
-    {
       "name": "PatientBank (YC S16)",
       "website": "",
       "one_liner": "PatientBank (YC S16) | San Francisco, CA | Onsite | Full-time | Full-stack software engineering We're looking for exceptional software engineers to help us build a patient-centered health record system. We build technology that lets patient",
@@ -7218,25 +7219,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
-        }
-      ]
-    },
-    {
-      "name": "Post-Hoc Live",
-      "website": "",
-      "one_liner": "Post-Hoc Live: Did the US just kill off China biotech deals?",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
-          "snippet": "Post-Hoc Live: Did the US just kill off China biotech deals?"
         }
       ]
     },
@@ -8931,25 +8913,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15385572",
           "snippet": "Squarespace | NYC, NY / New York, NY / Dublin, Ireland / Portland, OR | ONSITE only Find all listings & apply at:  http://grnh.se/dn27gt1  Hiring SREs in Portla"
-        }
-      ]
-    },
-    {
-      "name": "Startup OMass",
-      "website": "",
-      "one_liner": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/",
-          "snippet": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder"
         }
       ]
     },
