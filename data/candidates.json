@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T11:12:30Z",
+  "generated_at": "2026-10-28T11:48:16Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 171,
-    "MedCity News": 4,
-    "Endpoints News": 2,
+    "Y Combinator": 172,
+    "MedCity News": 6,
+    "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 586,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1678,6 +1678,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "ClarityCare",
+      "website": "",
+      "one_liner": "ClarityCare Raises $16.5M to Speed Up Prior Authorizations",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/claritycare-raises-16-5m-to-speed-up-prior-authorizations/",
+          "snippet": "ClarityCare Raises $16.5M to Speed Up Prior Authorizations"
+        }
+      ]
     },
     {
       "name": "Clearest Health",
@@ -3916,6 +3935,19 @@
           "snippet": "Healthy Bytes | Senior Full-stack Developer | New York, NY | Onsite |  https://www.healthybytes.co  At Healthy Bytes, we're on a mission to improve public healt"
         }
       ]
+    },
+    {
+      "name": "Helios Intelligence",
+      "website": "https://www.heliosinc.ai/",
+      "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
+      "stage": "Early",
+      "batch": "Fall 2026",
+      "team_size": 5,
+      "location": "Boston, MA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Help.com",
@@ -6560,7 +6592,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+      "one_liner": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6569,6 +6601,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+          "snippet": "Opinion: How pediatricians like me are helping families stay calm and informed about measles"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
@@ -7419,25 +7456,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15386573",
           "snippet": "PumpUp | React-Native Developer | Toronto, Canada | FULL-TIME REMOTE, CONTRACT PumpUp is a positive community for health & fitness. Our mission is to empower pe"
-        }
-      ]
-    },
-    {
-      "name": "Q&A",
-      "website": "",
-      "one_liner": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/qa-bristol-myers-lynelle-hoch-on-autoimmune-car-t-safety-challenges/",
-          "snippet": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges"
         }
       ]
     },
@@ -10031,9 +10049,9 @@
       "name": "Verse Medical",
       "website": "http://versemedical.com/",
       "one_liner": "AI-enabled ordering for medical equipment & supplies",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Summer 2018",
-      "team_size": 200,
+      "team_size": 250,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -10285,6 +10303,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12851079",
           "snippet": "Wellframe | Boston | Onsite\nWellframe is building a way for people and healthcare practitioners to connect instantly.  We simplify patient communication with th"
+        }
+      ]
+    },
+    {
+      "name": "Willow",
+      "website": "",
+      "one_liner": "Willow Acquires 2 Women’s Health Companies",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/10/willow-acquires-2-womens-health-companies/",
+          "snippet": "Willow Acquires 2 Women’s Health Companies"
         }
       ]
     },
