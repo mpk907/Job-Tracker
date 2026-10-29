@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-28T11:48:16Z",
+  "generated_at": "2026-10-29T11:55:35Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 172,
-    "MedCity News": 6,
-    "Endpoints News": 1,
+    "Y Combinator": 171,
+    "MedCity News": 4,
+    "Endpoints News": 2,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2546,6 +2546,25 @@
       ]
     },
     {
+      "name": "Dren Bio",
+      "website": "",
+      "one_liner": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
+          "snippet": "Dren Bio raises $350M to get blood cancer drug onto market in 2027"
+        }
+      ]
+    },
+    {
       "name": "DTU Biosustain",
       "website": "",
       "one_liner": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic biology, genomes can now be edited at unprecedented speed and fidelity allowing m",
@@ -3116,6 +3135,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13626283",
           "snippet": "Fluidigm | Software Automation Tester | Toronto (Markham) | ONSITE | Full-time Fluidigm creates innovative life science technologies designed to revolutionize b"
+        }
+      ]
+    },
+    {
+      "name": "Formation Bio",
+      "website": "",
+      "one_liner": "Formation Bio unveils $600M fund tied to existing model",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
+          "snippet": "Formation Bio unveils $600M fund tied to existing model"
         }
       ]
     },
@@ -3938,7 +3976,7 @@
     },
     {
       "name": "Helios Intelligence",
-      "website": "https://www.heliosinc.ai/",
+      "website": "https://www.myhelios.com/",
       "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
       "stage": "Early",
       "batch": "Fall 2026",
@@ -4241,25 +4279,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "ily",
-      "website": "",
-      "one_liner": "ily Secures $11M for Compliance Intelligence Platform",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/readily-secures-11m-for-compliance-intelligence-platform/",
-          "snippet": "ily Secures $11M for Compliance Intelligence Platform"
-        }
-      ]
     },
     {
       "name": "iMarc",
@@ -5304,19 +5323,6 @@
       ]
     },
     {
-      "name": "Lumius",
-      "website": "https://www.lumius-imaging.com",
-      "one_liner": "Fast, smart, accessible 3D ultrasound that anyone can use",
-      "stage": "Early",
-      "batch": "Spring 2026",
-      "team_size": 4,
-      "location": "Durham, NC, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "LunaJoy Health",
       "website": "http://HelloLunaJoy.com",
       "one_liner": "AI-powered scalable infrastructure + mental health services, starting…",
@@ -5783,25 +5789,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15391011",
           "snippet": "Mezzanine | Product Developer | Cape Town/Stellenbosch, South Africa | Full-Time | ONSITE but with a few REMOTE days per week We deliver mobile-enabled solution"
-        }
-      ]
-    },
-    {
-      "name": "MFN is complicating European drug",
-      "website": "",
-      "one_liner": "Roche’s changing plans show how MFN is complicating European drug launches",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
-          "snippet": "Roche’s changing plans show how MFN is complicating European drug launches"
         }
       ]
     },
@@ -6592,7 +6579,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+      "one_liner": "Opinion: Health care needs buyers willing to say no",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6603,13 +6590,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
-          "snippet": "Opinion: How pediatricians like me are helping families stay calm and informed about measles"
+          "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
+          "snippet": "Opinion: Health care needs buyers willing to say no"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
-          "snippet": "Opinion: Emergency pediatric care is now in permanent crisis mode"
+          "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+          "snippet": "Opinion: How pediatricians like me are helping families stay calm and informed about measles"
         }
       ]
     },
@@ -7713,25 +7700,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12846959",
           "snippet": "Remote | Senior PHP Engineer We are looking for Full-Stack Engineer with more than 3 years of experience with PHP. Perks: - Health insurance - Learning budget -"
-        }
-      ]
-    },
-    {
-      "name": "Report",
-      "website": "",
-      "one_liner": "Report: Health System M&A Activity Remains Steady in Third Quarter",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/",
-          "snippet": "Report: Health System M&A Activity Remains Steady in Third Quarter"
         }
       ]
     },
@@ -10049,7 +10017,7 @@
       "name": "Verse Medical",
       "website": "http://versemedical.com/",
       "one_liner": "AI-enabled ordering for medical equipment & supplies",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2018",
       "team_size": 250,
       "location": "New York City, NY, USA",
