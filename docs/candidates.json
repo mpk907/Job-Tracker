@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T11:55:35Z",
+  "generated_at": "2026-10-30T11:48:19Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 171,
-    "MedCity News": 4,
-    "Endpoints News": 2,
+    "Endpoints News": 4,
+    "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 586,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -707,6 +707,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Aspen Neuroscience",
+      "website": "",
+      "one_liner": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
+          "snippet": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M"
+        }
+      ]
     },
     {
       "name": "Asteroid",
@@ -1891,10 +1910,10 @@
     {
       "name": "Codes Health",
       "website": "https://www.codeshealth.com/",
-      "one_liner": "Medical Record Retrieval with Zero Human Error",
+      "one_liner": "AI-native medical record retrieval",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 35,
+      "team_size": 45,
       "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
@@ -4576,25 +4595,6 @@
       ]
     },
     {
-      "name": "Judi Health",
-      "website": "",
-      "one_liner": "Judi Health Launches Medicare Part D Plan for Employers",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
-          "snippet": "Judi Health Launches Medicare Part D Plan for Employers"
-        }
-      ]
-    },
-    {
       "name": "Junction",
       "website": "https://www.junction.com/",
       "one_liner": "API for at-home health data",
@@ -6579,7 +6579,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Health care needs buyers willing to say no",
+      "one_liner": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6590,13 +6590,13 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
-          "snippet": "Opinion: Health care needs buyers willing to say no"
+          "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+          "snippet": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA"
         },
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
-          "snippet": "Opinion: How pediatricians like me are helping families stay calm and informed about measles"
+          "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
+          "snippet": "Opinion: Health care needs buyers willing to say no"
         }
       ]
     },
@@ -7243,6 +7243,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13574659",
           "snippet": "Position:Designer OR Back-End Engineers | Alar Software | Chicago, IL | Full-time, ONSITE | Salary range: $80,000.00 - $160,000.00 + options based on experience"
+        }
+      ]
+    },
+    {
+      "name": "Post-Hoc Live",
+      "website": "",
+      "one_liner": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
+          "snippet": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?"
         }
       ]
     },
