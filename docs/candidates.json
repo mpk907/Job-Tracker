@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T11:48:19Z",
+  "generated_at": "2026-10-31T11:21:27Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 171,
-    "Endpoints News": 4,
+    "Y Combinator": 170,
+    "Endpoints News": 5,
     "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2
@@ -726,19 +726,6 @@
           "snippet": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M"
         }
       ]
-    },
-    {
-      "name": "Asteroid",
-      "website": "https://asteroid.ai",
-      "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 6,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Astraea",
@@ -6293,6 +6280,25 @@
       ]
     },
     {
+      "name": "not withhold",
+      "website": "",
+      "one_liner": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
+          "snippet": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal"
+        }
+      ]
+    },
+    {
       "name": "Notable Labs",
       "website": "http://notablelabs.com",
       "one_liner": "Personalized drug discovery for blood cancer.",
@@ -6592,11 +6598,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
           "snippet": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
-          "snippet": "Opinion: Health care needs buyers willing to say no"
         }
       ]
     },
