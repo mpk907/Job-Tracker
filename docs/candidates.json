@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-11-01T14:08:18Z",
+  "generated_at": "2026-11-02T14:01:04Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 170,
-    "Endpoints News": 5,
-    "MedCity News": 3,
+    "Endpoints News": 4,
+    "BioPharma Dive": 1,
+    "MedCity News": 4,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 587,
+  "count": 588,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1141,6 +1142,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
+        }
+      ]
+    },
+    {
+      "name": "Breaking the silos",
+      "website": "",
+      "one_liner": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
+          "snippet": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond"
         }
       ]
     },
@@ -3141,25 +3161,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13626283",
           "snippet": "Fluidigm | Software Automation Tester | Toronto (Markham) | ONSITE | Full-time Fluidigm creates innovative life science technologies designed to revolutionize b"
-        }
-      ]
-    },
-    {
-      "name": "Formation Bio",
-      "website": "",
-      "one_liner": "Formation Bio unveils $600M fund tied to existing model",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
-          "snippet": "Formation Bio unveils $600M fund tied to existing model"
         }
       ]
     },
@@ -5850,6 +5851,25 @@
       ]
     },
     {
+      "name": "MMI",
+      "website": "",
+      "one_liner": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/",
+          "snippet": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments"
+        }
+      ]
+    },
+    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -6585,7 +6605,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+      "one_liner": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6594,6 +6614,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
+          "snippet": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
+          "snippet": "Opinion: The economics of the U.S. health care system are broken"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
