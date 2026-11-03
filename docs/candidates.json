@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-02T14:01:04Z",
+  "generated_at": "2026-11-03T13:09:26Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 170,
-    "Endpoints News": 4,
-    "BioPharma Dive": 1,
+    "Y Combinator": 169,
+    "Endpoints News": 3,
+    "BioPharma Dive": 2,
     "MedCity News": 4,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 588,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1492,25 +1492,6 @@
       ]
     },
     {
-      "name": "CareValidate",
-      "website": "",
-      "one_liner": "CareValidate Launches Expanded HRT Offering",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/",
-          "snippet": "CareValidate Launches Expanded HRT Offering"
-        }
-      ]
-    },
-    {
       "name": "Catapult",
       "website": "",
       "one_liner": "Catapult | Full Time | Remote (Europe) What: On demand staffing for retail, office and hospitality, sort of like Uber for staff $: £45k - £60k depending on experience & location. Plus equity, conferences, choice of equipment, l&d budget etc",
@@ -2572,25 +2553,6 @@
       ]
     },
     {
-      "name": "Dren Bio",
-      "website": "",
-      "one_liner": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
-          "snippet": "Dren Bio raises $350M to get blood cancer drug onto market in 2027"
-        }
-      ]
-    },
-    {
       "name": "DTU Biosustain",
       "website": "",
       "one_liner": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic biology, genomes can now be edited at unprecedented speed and fidelity allowing m",
@@ -2606,6 +2568,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11906595",
           "snippet": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic b"
+        }
+      ]
+    },
+    {
+      "name": "Earnings roundup",
+      "website": "",
+      "one_liner": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
+          "snippet": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience"
         }
       ]
     },
@@ -5546,6 +5527,25 @@
       "evidence": []
     },
     {
+      "name": "MedCity FemFwd",
+      "website": "",
+      "one_liner": "MedCity FemFwd: The Gaps in Endometriosis Care",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/",
+          "snippet": "MedCity FemFwd: The Gaps in Endometriosis Care"
+        }
+      ]
+    },
+    {
       "name": "Mederva",
       "website": "https://medervahealth.com/",
       "one_liner": "Longevity for the 99%.",
@@ -6605,7 +6605,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
+      "one_liner": "Opinion: How meditation helped me become a better doctor overnight",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6616,6 +6616,11 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss",
+          "snippet": "Opinion: How meditation helped me become a better doctor overnight"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
           "snippet": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be"
         },
@@ -6623,11 +6628,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
           "snippet": "Opinion: The economics of the U.S. health care system are broken"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
-          "snippet": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA"
         }
       ]
     },
@@ -9082,32 +9082,6 @@
       ]
     },
     {
-      "name": "Substrate",
-      "website": "https://www.substrate.cc/",
-      "one_liner": "Artificial Intelligence for your medical billing team",
-      "stage": "Early",
-      "batch": "Summer 2024",
-      "team_size": 2,
-      "location": "San Francisco, CA, USA; Remote",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Suger",
-      "website": "https://www.suger.io/",
-      "one_liner": "Salesforce for Cloud marketplaces on AWS, Azure, GCP",
-      "stage": "Early",
-      "batch": "Winter 2023",
-      "team_size": 50,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Suggestion: It would be neat if the job listing didn't just specify the things t",
       "website": "",
       "one_liner": "Suggestion: It would be neat if the job listing didn't just specify the things that you're looking for, but also the things that you're offering. As a collaboration of travel companies, maybe you're offering travel-at-cost perks or team ret",
@@ -9628,6 +9602,19 @@
           "snippet": "Transparensee (Manhattan, New York City). ONSITE. -- We are looking for a highly skilled front-end developer (React, ES6, mobile/desktop) with a keen visual sen"
         }
       ]
+    },
+    {
+      "name": "Trexo Robotics",
+      "website": "http://trexorobotics.com",
+      "one_liner": "Exoskeletons to help people walk, starting with children",
+      "stage": "Early",
+      "batch": "Winter 2019",
+      "team_size": 30,
+      "location": "Toronto, ON, Canada",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Trialspark",
