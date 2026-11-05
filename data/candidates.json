@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-11-04T13:24:34Z",
+  "generated_at": "2026-11-05T13:38:05Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
-    "BioPharma Dive": 2,
+    "Y Combinator": 169,
+    "BioPharma Dive": 1,
     "MedCity News": 2,
-    "Endpoints News": 2,
-    "STAT News": 1,
-    "RockHealth": 2
+    "RockHealth": 2,
+    "Endpoints News": 2
   },
-  "count": 583,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -338,6 +337,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Alethio",
+      "website": "",
+      "one_liner": "Alethio raises $90M to target rare blood cancers",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+          "snippet": "Alethio raises $90M to target rare blood cancers"
+        }
+      ]
     },
     {
       "name": "Allia Health",
@@ -1123,25 +1141,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13557346",
           "snippet": "Brain Health Registry | Web Developer | San Francisco We're working to accelerate the development of cures for brain disorders by driving down the time and cost"
-        }
-      ]
-    },
-    {
-      "name": "Breaking the silos",
-      "website": "",
-      "one_liner": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
-          "snippet": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond"
         }
       ]
     },
@@ -2383,7 +2382,7 @@
       "one_liner": "AI agents that handle communications for clinics",
       "stage": "Early",
       "batch": "Summer 2024",
-      "team_size": 6,
+      "team_size": 10,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -2530,25 +2529,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11906595",
           "snippet": "DTU Biosustain | Copenhagen Area, Denmark | Onsite | Full-time | VISA Front-end Web Developer for Synthetic Biology Design Platform With advances in synthetic b"
-        }
-      ]
-    },
-    {
-      "name": "Earnings roundup",
-      "website": "",
-      "one_liner": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
-          "snippet": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience"
         }
       ]
     },
@@ -3926,7 +3906,7 @@
     },
     {
       "name": "Helios Intelligence",
-      "website": "https://www.myhelios.com/",
+      "website": "https://www.heliosinc.ai/",
       "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
       "stage": "Early",
       "batch": "Fall 2026",
@@ -4280,6 +4260,19 @@
           "snippet": "Infectious Media | London, England | Onsite, EU Only | Many! We are a young, vibrant and award winning company specialising in programmatic advertising. Founded"
         }
       ]
+    },
+    {
+      "name": "Infera",
+      "website": "https://www.infera.bio",
+      "one_liner": "Control lab instruments with natural language.",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 2,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Influence Health",
@@ -6249,25 +6242,6 @@
       ]
     },
     {
-      "name": "not withhold",
-      "website": "",
-      "one_liner": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
-          "snippet": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal"
-        }
-      ]
-    },
-    {
       "name": "Notable Labs",
       "website": "http://notablelabs.com",
       "one_liner": "Personalized drug discovery for blood cancer.",
@@ -6550,30 +6524,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: I moved to Europe for free health care. I miss my patient portal",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/?utm_campaign=rss",
-          "snippet": "Opinion: I moved to Europe for free health care. I miss my patient portal"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss",
-          "snippet": "Opinion: How meditation helped me become a better doctor overnight"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -9181,6 +9131,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544801",
           "snippet": "Sysdig |  https://www.sysdig.com  | jobs@sysdig.com | San Francisco, Davis, or Remote | Many Positions Sysdig is building the intelligence layer for next-genera"
+        }
+      ]
+    },
+    {
+      "name": "T-Therapeutics",
+      "website": "",
+      "one_liner": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
+          "snippet": "T-Therapeutics secures $133M for cancer, autoimmune TCRs"
         }
       ]
     },
