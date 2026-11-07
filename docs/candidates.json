@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-06T13:22:09Z",
+  "generated_at": "2026-11-07T12:02:53Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 169,
+    "Y Combinator": 168,
     "BioPharma Dive": 2,
     "MedCity News": 2,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 583,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2866,6 +2866,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Experian Health Survey",
+      "website": "",
+      "one_liner": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/",
+          "snippet": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials"
+        }
+      ]
     },
     {
       "name": "Eyenuk, Inc",
@@ -5826,25 +5845,6 @@
       ]
     },
     {
-      "name": "MMI",
-      "website": "",
-      "one_liner": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/",
-          "snippet": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments"
-        }
-      ]
-    },
-    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -8407,19 +8407,6 @@
           "snippet": "Sift ( http://justsift.com ) | Detroit, MI | ONSITE * Front End ReactJS Engineer * Backend Node Engineer * Or Full Stack of the Above Analytics for your employe"
         }
       ]
-    },
-    {
-      "name": "Signatur Biosciences",
-      "website": "https://www.signatur.bio/",
-      "one_liner": "Simple tests for complex diseases.",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 5,
-      "location": "London, England, United Kingdom",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "silverorange",
