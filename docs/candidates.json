@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T12:02:53Z",
+  "generated_at": "2026-11-08T12:20:49Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 168,
+    "Y Combinator": 167,
     "BioPharma Dive": 2,
     "MedCity News": 2,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 582,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -5335,19 +5335,6 @@
           "snippet": "Main Street Hub // Austin, TX // email: brandon.beck@mainstreethub.com We are looking for a few experienced software engineers to join our small but growing R&D"
         }
       ]
-    },
-    {
-      "name": "Malama Health",
-      "website": "https://www.heymalama.co",
-      "one_liner": "Making motherhood safe, not scary",
-      "stage": "Early",
-      "batch": "Summer 2022",
-      "team_size": 35,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Mason",
