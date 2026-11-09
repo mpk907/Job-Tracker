@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-08T14:09:17Z",
+  "generated_at": "2026-11-09T14:32:41Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 167,
-    "BioPharma Dive": 2,
-    "MedCity News": 2,
+    "BioPharma Dive": 1,
+    "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
@@ -338,25 +338,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Alethio",
-      "website": "",
-      "one_liner": "Alethio raises $90M to target rare blood cancers",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
-          "snippet": "Alethio raises $90M to target rare blood cancers"
-        }
-      ]
     },
     {
       "name": "Allia Health",
@@ -5832,6 +5813,25 @@
       ]
     },
     {
+      "name": "Missing the Point",
+      "website": "",
+      "one_liner": "Missing the Point: Isolation Alone Will Not Build AI Safety",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/",
+          "snippet": "Missing the Point: Isolation Alone Will Not Build AI Safety"
+        }
+      ]
+    },
+    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -6535,7 +6535,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: AI depends on medical records that don’t always tell the full truth about women",
+      "one_liner": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6546,8 +6546,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss",
-          "snippet": "Opinion: AI depends on medical records that don’t always tell the full truth about women"
+          "url": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem"
         }
       ]
     },
