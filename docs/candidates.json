@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T14:32:41Z",
+  "generated_at": "2026-11-10T13:55:28Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 167,
     "BioPharma Dive": 1,
+    "Endpoints News": 2,
     "MedCity News": 3,
     "STAT News": 1,
-    "RockHealth": 2,
-    "Endpoints News": 1
+    "RockHealth": 2
   },
-  "count": 581,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -953,6 +953,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15391479",
           "snippet": "BigchainDB | Python - Decentralized Software Engineer| Berlin, Germany | Full-time ONSITE |  http://www.bigchaindb.com  BigchainDB is a leader in the blockchain"
+        }
+      ]
+    },
+    {
+      "name": "BIO",
+      "website": "",
+      "one_liner": "BIO unveils plan for US to remain biotech’s ‘global leader’",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
+          "snippet": "BIO unveils plan for US to remain biotech’s ‘global leader’"
         }
       ]
     },
@@ -2175,6 +2194,25 @@
       ]
     },
     {
+      "name": "deals force tough choices on",
+      "website": "",
+      "one_liner": "Trump’s drug pricing deals force tough choices on launches",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
+          "snippet": "Trump’s drug pricing deals force tough choices on launches"
+        }
+      ]
+    },
+    {
       "name": "Decoda Health",
       "website": "https://decodahealth.com/",
       "one_liner": "The all-in-one EMR built for med spas and elective care",
@@ -2492,25 +2530,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12850953",
           "snippet": "drchrono is a medical platform for doctors and patients. We are crafting only the best mobile healthcare experience, with a focus on iPad, iPhone, Apple Watch a"
-        }
-      ]
-    },
-    {
-      "name": "drug",
-      "website": "",
-      "one_liner": "This week in charts: 3 drug launches Wall Street is watching",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
-          "snippet": "This week in charts: 3 drug launches Wall Street is watching"
         }
       ]
     },
@@ -5489,25 +5508,6 @@
       "evidence": []
     },
     {
-      "name": "MedCity FemFwd",
-      "website": "",
-      "one_liner": "MedCity FemFwd: The Gaps in Endometriosis Care",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/",
-          "snippet": "MedCity FemFwd: The Gaps in Endometriosis Care"
-        }
-      ]
-    },
-    {
       "name": "Mederva",
       "website": "https://medervahealth.com/",
       "one_liner": "Longevity for the 99%.",
@@ -6103,6 +6103,25 @@
       ]
     },
     {
+      "name": "Neuroplastogen biotech Delix",
+      "website": "",
+      "one_liner": "Neuroplastogen biotech Delix raises $100M Series C",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/neuroplastogen-biotech-delix-raises-100m-series-c/",
+          "snippet": "Neuroplastogen biotech Delix raises $100M Series C"
+        }
+      ]
+    },
+    {
       "name": "New York, NY & SF. Full time.",
       "website": "",
       "one_liner": "New York, NY & SF. Full time. We're looking for backend (all levels, primarily python), frontend engineers (we run backbone.js, react), mobile (iOS + android), platform (kafka, elasticsearch) and infrastructure/devops (cfengine + AWS). As y",
@@ -6535,7 +6554,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem",
+      "one_liner": "Opinion: AI’s health advice can be accurate and still make us sicker",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6544,6 +6563,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+          "snippet": "Opinion: AI’s health advice can be accurate and still make us sicker"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/?utm_campaign=rss",
@@ -8498,6 +8527,25 @@
       "evidence": []
     },
     {
+      "name": "Simulation-Guided Clinical Trials",
+      "website": "",
+      "one_liner": "Simulation-Guided Clinical Trials: Is EU Law Ready?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/",
+          "snippet": "Simulation-Guided Clinical Trials: Is EU Law Ready?"
+        }
+      ]
+    },
+    {
       "name": "Singularity 6",
       "website": "",
       "one_liner": "Singularity 6 | Software Engineers, Artists, Designers | Los Angeles, CA | Full-Time, Onsite We're hiring! Let's get a few details out up front: For the duration of the health crisis, we've transitioned into a fully remote, work-at-home env",
@@ -9125,25 +9173,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13544801",
           "snippet": "Sysdig |  https://www.sysdig.com  | jobs@sysdig.com | San Francisco, Davis, or Remote | Many Positions Sysdig is building the intelligence layer for next-genera"
-        }
-      ]
-    },
-    {
-      "name": "T-Therapeutics",
-      "website": "",
-      "one_liner": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
-          "snippet": "T-Therapeutics secures $133M for cancer, autoimmune TCRs"
         }
       ]
     },
