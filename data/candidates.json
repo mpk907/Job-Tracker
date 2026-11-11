@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T13:55:28Z",
+  "generated_at": "2026-11-11T13:05:59Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
+    "Y Combinator": 166,
     "BioPharma Dive": 1,
-    "Endpoints News": 2,
+    "Endpoints News": 4,
     "MedCity News": 3,
-    "STAT News": 1,
+    "STAT News": 2,
     "RockHealth": 2
   },
-  "count": 582,
+  "count": 584,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2717,6 +2717,25 @@
       ]
     },
     {
+      "name": "Employers vs. consumers",
+      "website": "",
+      "one_liner": "Employers vs. consumers: Who stands to disrupt healthcare?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/employers-vs-consumers-who-stands-to-disrupt-healthcare/",
+          "snippet": "Employers vs. consumers: Who stands to disrupt healthcare?"
+        }
+      ]
+    },
+    {
       "name": "engageSPARK",
       "website": "",
       "one_liner": "engageSPARK | Cebu, Philippines | ONSITE, REMOTE, FULLTIME, VISA, Code4Good  https://www.engageSPARK.com  engageSPARK, a social enterprise, is the world's EASIEST Platform that empowers professionals (marketing, sales, hr, operations, proje",
@@ -4031,19 +4050,6 @@
           "snippet": "http://500px.com , Toronto Downtown, Fulltime We value small teams, engineering-friendly culture, beautiful design and getting things done. Our technology stack"
         }
       ]
-    },
-    {
-      "name": "Hubble",
-      "website": "https://hubble.ai/",
-      "one_liner": "AI-native retrieval engine for medical records",
-      "stage": "Early",
-      "batch": "Summer 2026",
-      "team_size": 2,
-      "location": "Seattle, WA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Huddle",
@@ -5463,6 +5469,25 @@
       "evidence": []
     },
     {
+      "name": "MDCalc",
+      "website": "",
+      "one_liner": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
+          "snippet": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools"
+        }
+      ]
+    },
+    {
       "name": "mdhub",
       "website": "https://www.mdhub.ai/",
       "one_liner": "AI-native operating system for behavioral health clinics.",
@@ -6572,11 +6597,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
           "snippet": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem"
         }
       ]
     },
@@ -7737,7 +7757,7 @@
     {
       "name": "Rhem Labs",
       "website": "https://rhem.ai",
-      "one_liner": "Home care technology for aging parents and their families",
+      "one_liner": "",
       "stage": "Early",
       "batch": "Fall 2026",
       "team_size": 2,
@@ -9891,6 +9911,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813925",
           "snippet": "Various Engineer positions | www.rallyhealth.com | on-site only in SF, DC, Chicago     -Full stack (scala/play + angular)\t\t-Full stack (C#/.NET MVC + angular)\n "
+        }
+      ]
+    },
+    {
+      "name": "VectorY",
+      "website": "",
+      "one_liner": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/vectory-bags-83-5m-for-antibody-gene-therapies-in-neurodegenerative-diseases/",
+          "snippet": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases"
         }
       ]
     },
