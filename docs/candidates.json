@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T13:05:59Z",
+  "generated_at": "2026-11-12T14:07:03Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 166,
     "BioPharma Dive": 1,
-    "Endpoints News": 4,
-    "MedCity News": 3,
-    "STAT News": 2,
+    "Endpoints News": 3,
+    "MedCity News": 4,
+    "STAT News": 4,
     "RockHealth": 2
   },
-  "count": 584,
+  "count": 586,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -645,7 +645,7 @@
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": null,
-      "location": "",
+      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -2257,7 +2257,7 @@
       "one_liner": "Fortune 500 Dental Benefits",
       "stage": "Early",
       "batch": "Summer 2026",
-      "team_size": 1,
+      "team_size": 3,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -2963,6 +2963,25 @@
       ]
     },
     {
+      "name": "fewer drug",
+      "website": "",
+      "one_liner": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
+          "snippet": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more"
+        }
+      ]
+    },
+    {
       "name": "Fighting Cancer",
       "website": "",
       "one_liner": "Fighting Cancer | Freenome | South San Francisco, CA | Full-time Front-end and Back-end |  http://www.freenome.com/ \nWe are a startup developing an early cancer and general health test by using machine learning on sequenced cell-free DNA. I",
@@ -3142,6 +3161,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13626283",
           "snippet": "Fluidigm | Software Automation Tester | Toronto (Markham) | ONSITE | Full-time Fluidigm creates innovative life science technologies designed to revolutionize b"
+        }
+      ]
+    },
+    {
+      "name": "Follow the Leader",
+      "website": "",
+      "one_liner": "Follow the Leader: How to Build and Retain Great Clinical Teams",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/follow-the-leader-how-to-build-and-retain-great-clinical-teams/",
+          "snippet": "Follow the Leader: How to Build and Retain Great Clinical Teams"
         }
       ]
     },
@@ -4771,7 +4809,7 @@
       "stage": "Growth",
       "batch": "Winter 2023",
       "team_size": 40,
-      "location": "San Francisco, CA, USA",
+      "location": "Seattle, WA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -6054,6 +6092,25 @@
       ]
     },
     {
+      "name": "nations policy makes drugmakers rethink",
+      "website": "",
+      "one_liner": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
+          "snippet": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad"
+        }
+      ]
+    },
+    {
       "name": "Navigating Cancer",
       "website": "",
       "one_liner": "Navigating Cancer | SDE, Web Apps | Seattle, Wa | ONSITE NC builds one of the first patient-centered oncology platforms. We support over a million patients and thousands of cancer care providers nationwide to lower costs, improve patient sa",
@@ -6124,25 +6181,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=11814828#11817270",
           "snippet": "Neumitra - digital medicine into daily life - Boston, MA We're hiring data-driven engineers including: - Embedded developers for real-time biofeedback and senso"
-        }
-      ]
-    },
-    {
-      "name": "Neuroplastogen biotech Delix",
-      "website": "",
-      "one_liner": "Neuroplastogen biotech Delix raises $100M Series C",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/neuroplastogen-biotech-delix-raises-100m-series-c/",
-          "snippet": "Neuroplastogen biotech Delix raises $100M Series C"
         }
       ]
     },
@@ -6579,7 +6617,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: AI’s health advice can be accurate and still make us sicker",
+      "one_liner": "Opinion: 3 things new governors must do to lead on health",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6590,13 +6628,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
-          "snippet": "Opinion: AI’s health advice can be accurate and still make us sicker"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now"
+          "url": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
+          "snippet": "Opinion: 3 things new governors must do to lead on health"
         }
       ]
     },
