@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T14:07:03Z",
+  "generated_at": "2026-11-13T13:34:02Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
+    "Y Combinator": 165,
     "BioPharma Dive": 1,
-    "Endpoints News": 3,
     "MedCity News": 4,
-    "STAT News": 4,
-    "RockHealth": 2
+    "STAT News": 2,
+    "RockHealth": 2,
+    "Endpoints News": 1
   },
-  "count": 586,
+  "count": 581,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1968,7 +1968,7 @@
     {
       "name": "CONUS",
       "website": "https://www.conus-med.com",
-      "one_liner": "The AI knowledge layer for medical devices",
+      "one_liner": "Medical Device Platform for Hospitals",
       "stage": "Early",
       "batch": "Fall 2026",
       "team_size": 3,
@@ -2190,25 +2190,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15433164",
           "snippet": "Datumprikker.nl | Full(-ish) stack engineers | Full-time + Onsite | Amsterdam As a developer you’ll be working in a small Agile team responsible for both backen"
-        }
-      ]
-    },
-    {
-      "name": "deals force tough choices on",
-      "website": "",
-      "one_liner": "Trump’s drug pricing deals force tough choices on launches",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
-          "snippet": "Trump’s drug pricing deals force tough choices on launches"
         }
       ]
     },
@@ -2717,25 +2698,6 @@
       ]
     },
     {
-      "name": "Employers vs. consumers",
-      "website": "",
-      "one_liner": "Employers vs. consumers: Who stands to disrupt healthcare?",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/employers-vs-consumers-who-stands-to-disrupt-healthcare/",
-          "snippet": "Employers vs. consumers: Who stands to disrupt healthcare?"
-        }
-      ]
-    },
-    {
       "name": "engageSPARK",
       "website": "",
       "one_liner": "engageSPARK | Cebu, Philippines | ONSITE, REMOTE, FULLTIME, VISA, Code4Good  https://www.engageSPARK.com  engageSPARK, a social enterprise, is the world's EASIEST Platform that empowers professionals (marketing, sales, hr, operations, proje",
@@ -2959,25 +2921,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22670240",
           "snippet": "Ferrum Health | REMOTE | Full Time | Senior Backend Engineer |  https://ferrumhealth.com  Medical errors are the third leading cause of death in the US, and Fer"
-        }
-      ]
-    },
-    {
-      "name": "fewer drug",
-      "website": "",
-      "one_liner": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
-          "snippet": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more"
         }
       ]
     },
@@ -5507,25 +5450,6 @@
       "evidence": []
     },
     {
-      "name": "MDCalc",
-      "website": "",
-      "one_liner": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
-          "snippet": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools"
-        }
-      ]
-    },
-    {
       "name": "mdhub",
       "website": "https://www.mdhub.ai/",
       "one_liner": "AI-native operating system for behavioral health clinics.",
@@ -5610,19 +5534,6 @@
       "batch": "Winter 2021",
       "team_size": 60,
       "location": "Toronto, ON, Canada",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
-      "name": "Mednet",
-      "website": "https://www.themednet.org",
-      "one_liner": "Mednet helps doctors answer their toughest clinical questions —…",
-      "stage": "Growth",
-      "batch": "Winter 2017",
-      "team_size": 35,
-      "location": "New York City, NY, USA",
       "sources": [
         "Y Combinator"
       ],
