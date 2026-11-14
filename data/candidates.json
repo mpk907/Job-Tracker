@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-11-13T13:34:02Z",
+  "generated_at": "2026-11-14T12:38:27Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
-    "BioPharma Dive": 1,
-    "MedCity News": 4,
-    "STAT News": 2,
+    "Y Combinator": 164,
+    "MedCity News": 5,
+    "STAT News": 1,
     "RockHealth": 2,
     "Endpoints News": 1
   },
-  "count": 581,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -957,25 +956,6 @@
       ]
     },
     {
-      "name": "BIO",
-      "website": "",
-      "one_liner": "BIO unveils plan for US to remain biotech’s ‘global leader’",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
-          "snippet": "BIO unveils plan for US to remain biotech’s ‘global leader’"
-        }
-      ]
-    },
-    {
       "name": "Blink Health",
       "website": "",
       "one_liner": "Blink Health | Security Hire #2: Infrastructure-Focused Security Engineer | New York NY | VISA   https://www.blinkhealth.com/  Official job posting is here:  https://jobs.lever.co/blinkhealth/14ec8b7a-b5fe-495e-803d-16... . Looking for some",
@@ -1701,12 +1681,12 @@
     },
     {
       "name": "Clicks Health",
-      "website": "https://www.goclicks.ai/",
+      "website": "https://clickshealth.com/",
       "one_liner": "AI agents for your healthcare back-office operations.",
       "stage": "Early",
       "batch": "Fall 2025",
-      "team_size": 8,
-      "location": "ZH, Switzerland",
+      "team_size": 11,
+      "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
       ],
@@ -3687,19 +3667,6 @@
       ]
     },
     {
-      "name": "Harbera",
-      "website": "https://harbera.com/",
-      "one_liner": "AI Healthcare Provider Credentialing Software",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": null,
-      "location": "New York City, NY, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Hart",
       "website": "",
       "one_liner": "Hart | SDET | Anaheim, CA | ONSITE We are looking for a strong SDET to round out our team.  The ideal candidate would have a mix of experience in both manual and automated testing, with a strong understanding of when to use each.  This team",
@@ -4944,10 +4911,10 @@
     {
       "name": "Latent",
       "website": "https://latenthealth.com",
-      "one_liner": "Medical language models to automate healthcare operations",
+      "one_liner": "Clinical AI that gets life-changing medicine to the people who need it",
       "stage": "Early",
       "batch": "Winter 2023",
-      "team_size": 50,
+      "team_size": 140,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -6003,25 +5970,6 @@
       ]
     },
     {
-      "name": "nations policy makes drugmakers rethink",
-      "website": "",
-      "one_liner": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
-          "snippet": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad"
-        }
-      ]
-    },
-    {
       "name": "Navigating Cancer",
       "website": "",
       "one_liner": "Navigating Cancer | SDE, Web Apps | Seattle, Wa | ONSITE NC builds one of the first patient-centered oncology platforms. We support over a million patients and thousands of cancer care providers nationwide to lower costs, improve patient sa",
@@ -6528,7 +6476,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: 3 things new governors must do to lead on health",
+      "one_liner": "Opinion: New organ donation rules are unfair to families",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6539,8 +6487,8 @@
       "evidence": [
         {
           "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
-          "snippet": "Opinion: 3 things new governors must do to lead on health"
+          "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
+          "snippet": "Opinion: New organ donation rules are unfair to families"
         }
       ]
     },
@@ -10481,6 +10429,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22667893",
           "snippet": "Zipari | Backend Python Web Developer | New York City, NYC, Brooklyn | Full Time | Remote USA |  https://jobs.lever.co/zipari  Zipari is the premier technology "
+        }
+      ]
+    },
+    {
+      "name": "Zus Health",
+      "website": "",
+      "one_liner": "Zus Health Raises $33M to Make Healthcare More Connected",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
+          "snippet": "Zus Health Raises $33M to Make Healthcare More Connected"
         }
       ]
     }
