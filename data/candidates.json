@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T13:07:20Z",
+  "generated_at": "2026-11-15T14:35:25Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 5,
+    "MedCity News": 4,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 578,
+  "count": 577,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -2826,25 +2826,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Experian Health Survey",
-      "website": "",
-      "one_liner": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/",
-          "snippet": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials"
-        }
-      ]
     },
     {
       "name": "Eyenuk, Inc",
