@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-11-14T12:38:27Z",
+  "generated_at": "2026-11-15T13:07:20Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
     "MedCity News": 5,
     "STAT News": 1,
-    "RockHealth": 2,
-    "Endpoints News": 1
+    "RockHealth": 2
   },
-  "count": 579,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -9803,25 +9802,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813925",
           "snippet": "Various Engineer positions | www.rallyhealth.com | on-site only in SF, DC, Chicago     -Full stack (scala/play + angular)\t\t-Full stack (C#/.NET MVC + angular)\n "
-        }
-      ]
-    },
-    {
-      "name": "VectorY",
-      "website": "",
-      "one_liner": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/vectory-bags-83-5m-for-antibody-gene-therapies-in-neurodegenerative-diseases/",
-          "snippet": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases"
         }
       ]
     },
