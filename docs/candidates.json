@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-11-15T14:35:25Z",
+  "generated_at": "2026-11-16T14:10:53Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 164,
-    "MedCity News": 4,
+    "BioPharma Dive": 1,
+    "Endpoints News": 1,
+    "MedCity News": 3,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 577,
+  "count": 578,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -1945,6 +1947,25 @@
       ]
     },
     {
+      "name": "Completing the circle",
+      "website": "",
+      "one_liner": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+          "snippet": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
+        }
+      ]
+    },
+    {
       "name": "CONUS",
       "website": "https://www.conus-med.com",
       "one_liner": "Medical Device Platform for Hospitals",
@@ -2951,6 +2972,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15389202",
           "snippet": "FitMango | Software Engineer | Baltimore, MD | ONSITE/REMOTE | fitmango.com FitMango is transforming the fitness industry by making it easier and cheaper for gy"
+        }
+      ]
+    },
+    {
+      "name": "Flagship",
+      "website": "",
+      "one_liner": "Flagship launches UK lab to build AI-driven biotechs with £100M investment",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/flagship-launches-uk-lab-to-build-ai-driven-biotechs-with-100m-investment/",
+          "snippet": "Flagship launches UK lab to build AI-driven biotechs with £100M investment"
         }
       ]
     },
@@ -5734,25 +5774,6 @@
       ]
     },
     {
-      "name": "Missing the Point",
-      "website": "",
-      "one_liner": "Missing the Point: Isolation Alone Will Not Build AI Safety",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/",
-          "snippet": "Missing the Point: Isolation Alone Will Not Build AI Safety"
-        }
-      ]
-    },
-    {
       "name": "Modern Health",
       "website": "https://www.modernhealth.com/",
       "one_liner": "A mental health benefits platform for employers.",
@@ -6456,7 +6477,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: New organ donation rules are unfair to families",
+      "one_liner": "Opinion: Medical school should start after students take the Step 1 exam",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6465,6 +6486,11 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/16/medical-school-step-1-exam-redesign-proposal/?utm_campaign=rss",
+          "snippet": "Opinion: Medical school should start after students take the Step 1 exam"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
