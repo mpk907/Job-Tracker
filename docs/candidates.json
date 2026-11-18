@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-11-17T15:01:47Z",
+  "generated_at": "2026-11-18T14:43:26Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 166,
-    "BioPharma Dive": 1,
     "Endpoints News": 3,
-    "MedCity News": 3,
+    "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 581,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -472,6 +471,25 @@
       ]
     },
     {
+      "name": "Analysis",
+      "website": "",
+      "one_liner": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
+          "snippet": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio"
+        }
+      ]
+    },
+    {
       "name": "Analytics Media Group",
       "website": "",
       "one_liner": "Analytics Media Group | Sr. Engineering, SysAd, and C-level roles | NYC | Full-Time | ONSITE (mostly)  http://amg.tv  Our engineers work with billions of rows of set top box data, descriptive models from the data science team, and a stack t",
@@ -715,7 +733,7 @@
       "one_liner": "AI Operating System for Clinical Development",
       "stage": "Early",
       "batch": "Spring 2026",
-      "team_size": 6,
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -1697,7 +1715,7 @@
       "name": "Clinikally",
       "website": "https://www.clinikally.com/",
       "one_liner": "India's Telemedicine Platform & Online Pharmacy for Dermatology Care",
-      "stage": "Early",
+      "stage": "Growth",
       "batch": "Summer 2022",
       "team_size": 125,
       "location": "Gurugram, HR, India",
@@ -1943,25 +1961,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=15384262#15387799",
           "snippet": "Commure, Inc. | San Francisco, CA | Multiple positions | Fulltime | ONSITE We are a stealth startup working to fix the software doctors use. If you have seen wh"
-        }
-      ]
-    },
-    {
-      "name": "Completing the circle",
-      "website": "",
-      "one_liner": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
-          "snippet": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
         }
       ]
     },
@@ -2976,25 +2975,6 @@
       ]
     },
     {
-      "name": "Flagship",
-      "website": "",
-      "one_liner": "Flagship launches UK lab to build AI-driven biotechs with £100M investment",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/flagship-launches-uk-lab-to-build-ai-driven-biotechs-with-100m-investment/",
-          "snippet": "Flagship launches UK lab to build AI-driven biotechs with £100M investment"
-        }
-      ]
-    },
-    {
       "name": "Flagship Biosciences",
       "website": "",
       "one_liner": "Flagship Biosciences | Software Engineer | Westminster CO | 80% remote Flagship Biosciences is the largest tissue image analysis provider for the pharma industry, specializing in quantitative tissue interpretation for immuno-oncology drug d",
@@ -3668,6 +3648,19 @@
       ]
     },
     {
+      "name": "Harbor",
+      "website": "https://runharbor.com/",
+      "one_liner": "AI-native CRO for clinical trial operations",
+      "stage": "Early",
+      "batch": "Spring 2026",
+      "team_size": 4,
+      "location": "San Francisco, CA, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
+    },
+    {
       "name": "Hart",
       "website": "",
       "one_liner": "Hart | SDET | Anaheim, CA | ONSITE We are looking for a strong SDET to round out our team.  The ideal candidate would have a mix of experience in both manual and automated testing, with a strong understanding of when to use each.  This team",
@@ -3866,7 +3859,7 @@
       "one_liner": "Navigating patients to the right place, first time.",
       "stage": "Early",
       "batch": "Summer 2023",
-      "team_size": 40,
+      "team_size": 50,
       "location": "London, England, United Kingdom",
       "sources": [
         "Y Combinator"
@@ -5311,6 +5304,25 @@
       ]
     },
     {
+      "name": "Marrow Therapeutics",
+      "website": "",
+      "one_liner": "Marrow Therapeutics Unveils $173M for ‘Trojan Horse’ Delivery of Blood Disorder Drugs",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/marrow-therapeutics-startup-transferrin-receptor-sickle-cell-beta-thalassemia-bcl11a/",
+          "snippet": "Marrow Therapeutics Unveils $173M for ‘Trojan Horse’ Delivery of Blood Disorder Drugs"
+        }
+      ]
+    },
+    {
       "name": "Mason",
       "website": "",
       "one_liner": "Mason | Senior Software Engineer (Backend, Frontend) | SEATTLE |  http://www.bymason.com  WHO ARE WE? We're Mason, a YC (W16) company building mobile deployment infrastructure for companies to build solutions atop their own Android-based de",
@@ -6178,19 +6190,6 @@
       ]
     },
     {
-      "name": "Noora Health",
-      "website": "http://noorahealth.org",
-      "one_liner": "Training patients and their families with health skills",
-      "stage": "Early",
-      "batch": "Winter 2014",
-      "team_size": 500,
-      "location": "Traverse City, MI, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
-    },
-    {
       "name": "Northwestern University Center for Behavioral Intervention Technologies",
       "website": "",
       "one_liner": "Northwestern University Center for Behavioral Intervention Technologies | Chicago | ONSITE | Rails, Angular |  http://www.cbits.northwestern.edu/  We're hiring all levels of web developer to help support our expanding list of projects. We b",
@@ -6496,7 +6495,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
+      "one_liner": "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6505,6 +6504,16 @@
         "STAT News"
       ],
       "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/18/core-to-clinic-medical-education-radical-proposal/?utm_campaign=rss",
+          "snippet": "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/?utm_campaign=rss",
+          "snippet": "Opinion: STAT+: RFK Jr. has got to go"
+        },
         {
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
@@ -10134,6 +10143,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Viz.ai",
+      "website": "",
+      "one_liner": "Viz.ai Partners with Wolters Kluwer Health to Add UpToDate Resource to its Platform",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/viz-ai-partners-with-wolters-kluwer-health-to-add-uptodate-resource-to-its-platform/",
+          "snippet": "Viz.ai Partners with Wolters Kluwer Health to Add UpToDate Resource to its Platform"
+        }
+      ]
     },
     {
       "name": "Waterline Data (https://www.waterlinedata.com/)",
