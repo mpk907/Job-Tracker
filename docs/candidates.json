@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-11-19T14:50:02Z",
+  "generated_at": "2026-11-20T14:29:58Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
-    "Endpoints News": 2,
-    "MedCity News": 6,
-    "STAT News": 1,
-    "RockHealth": 2
+    "Y Combinator": 167,
+    "Endpoints News": 1,
+    "MedCity News": 8,
+    "RockHealth": 2,
+    "BioPharma Dive": 1,
+    "STAT News": 1
   },
-  "count": 582,
+  "count": 585,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -467,25 +468,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=13541679#13649013",
           "snippet": "Amyris, Inc. | Software Engineer | Emeryville, CA | Full-time, ONSITE,  http://amyris.com  We are searching for talented, curious, and self-motivated developers"
-        }
-      ]
-    },
-    {
-      "name": "Analysis",
-      "website": "",
-      "one_liner": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
-          "snippet": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio"
         }
       ]
     },
@@ -2057,6 +2039,19 @@
           "snippet": "CounterPath | Vancouver, BC (downtown) | Onsite | Jr. SDK Support Engineer Looking for an SDK support engineer to help support our cross platform (iOS, Android,"
         }
       ]
+    },
+    {
+      "name": "Cova",
+      "website": "https://cova.care/",
+      "one_liner": "Financial infrastructure for family caregiving",
+      "stage": "Early",
+      "batch": "Summer 2026",
+      "team_size": 2,
+      "location": "New York City, NY, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Craniometrix",
@@ -4228,7 +4223,7 @@
       "one_liner": "The AI-Native Benefits Brokerage",
       "stage": "Early",
       "batch": "Fall 2026",
-      "team_size": 12,
+      "team_size": 3,
       "location": "Los Angeles, CA, USA",
       "sources": [
         "Y Combinator"
@@ -4266,6 +4261,25 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Independent Benefits Platform Leader",
+      "website": "",
+      "one_liner": "Independent Benefits Platform Leader: Market Forces Prevent Employers From Getting Best Solution",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/independent-benefits-platform-leader-market-forces-prevent-employers-from-getting-best-solution/",
+          "snippet": "Independent Benefits Platform Leader: Market Forces Prevent Employers From Getting Best Solution"
+        }
+      ]
     },
     {
       "name": "Infectious Media",
@@ -4562,7 +4576,7 @@
       "one_liner": "AI Health Assistant for Chronic Illness",
       "stage": "Early",
       "batch": "Spring 2026",
-      "team_size": 5,
+      "team_size": 4,
       "location": "London, England, United Kingdom",
       "sources": [
         "Y Combinator"
@@ -6510,35 +6524,6 @@
         "Y Combinator"
       ],
       "evidence": []
-    },
-    {
-      "name": "Opinion",
-      "website": "",
-      "one_liner": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "STAT News"
-      ],
-      "evidence": [
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/18/core-to-clinic-medical-education-radical-proposal/?utm_campaign=rss",
-          "snippet": "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/?utm_campaign=rss",
-          "snippet": "Opinion: STAT+: RFK Jr. has got to go"
-        }
-      ]
     },
     {
       "name": "OpsTalent",
@@ -9155,7 +9140,7 @@
       "one_liner": "Autonomous medical billing",
       "stage": "Early",
       "batch": "Spring 2026",
-      "team_size": 2,
+      "team_size": 5,
       "location": "San Francisco, CA, USA",
       "sources": [
         "Y Combinator"
@@ -9401,6 +9386,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
+        }
+      ]
+    },
+    {
+      "name": "This week in charts",
+      "website": "",
+      "one_liner": "This week in charts: Biotech investors’ China bets are already paying off",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "BioPharma Dive"
+      ],
+      "evidence": [
+        {
+          "source": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
+          "snippet": "This week in charts: Biotech investors’ China bets are already paying off"
         }
       ]
     },
@@ -10240,6 +10244,25 @@
       ]
     },
     {
+      "name": "Who Should Make Medical-Necessity Decisions",
+      "website": "",
+      "one_liner": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "MedCity News"
+      ],
+      "evidence": [
+        {
+          "source": "MedCity News",
+          "url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
+          "snippet": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?"
+        }
+      ]
+    },
+    {
       "name": "Winnie",
       "website": "",
       "one_liner": "Winnie |  https://winnie.com  | San Francisco, CA | ONSITE | Full-time\nSenior Backend engineer: We're hiring a backend engineer to tackle some of the most challenging problems in local knowledge systems — building a reliable, canonical poin",
@@ -10274,6 +10297,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=9812245#9813338",
           "snippet": "WiserTogether here - two positions we're looking for: Boston - Full Time - Operations Engineer -  http://careers.wisertogether.com/apply/c7yMDE  Boston - Full T"
+        }
+      ]
+    },
+    {
+      "name": "with new Hims and Noom",
+      "website": "",
+      "one_liner": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+          "snippet": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
         }
       ]
     },
