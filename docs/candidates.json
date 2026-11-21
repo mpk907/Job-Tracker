@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-20T14:29:58Z",
+  "generated_at": "2026-11-21T13:49:43Z",
   "sources": {
     "HN Hiring": 408,
     "Y Combinator": 167,
-    "Endpoints News": 1,
+    "Endpoints News": 2,
     "MedCity News": 8,
+    "STAT News": 2,
     "RockHealth": 2,
-    "BioPharma Dive": 1,
-    "STAT News": 1
+    "BioPharma Dive": 1
   },
-  "count": 585,
+  "count": 587,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3559,7 +3559,7 @@
       "name": "Gusto",
       "website": "https://gusto.com",
       "one_liner": "Provides growing businesses with everything to take care of their team",
-      "stage": "Growth",
+      "stage": "Early",
       "batch": "Winter 2012",
       "team_size": 2400,
       "location": "San Francisco, CA, USA",
@@ -4895,6 +4895,25 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12849997",
           "snippet": "Komodo Health, San Francisco/New York - Multiple Positions | Onsite |  http://komodohealth.com/  We are a startup developing the world's most advanced platform "
+        }
+      ]
+    },
+    {
+      "name": "KRAS at Triple Meeting",
+      "website": "",
+      "one_liner": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "Endpoints News"
+      ],
+      "evidence": [
+        {
+          "source": "Endpoints News",
+          "url": "https://endpoints.news/kras-at-triple-meeting-erasca-wants-to-one-up-revmed-while-alterome-tries-a-different-approach/",
+          "snippet": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach"
         }
       ]
     },
@@ -6524,6 +6543,30 @@
         "Y Combinator"
       ],
       "evidence": []
+    },
+    {
+      "name": "Opinion",
+      "website": "",
+      "one_liner": "Opinion: When should medical school start?",
+      "stage": null,
+      "batch": null,
+      "team_size": null,
+      "location": null,
+      "sources": [
+        "STAT News"
+      ],
+      "evidence": [
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+          "snippet": "Opinion: When should medical school start?"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+          "snippet": "Opinion: How Kennedy and MAHA could help stop measles"
+        }
+      ]
     },
     {
       "name": "OpsTalent",
