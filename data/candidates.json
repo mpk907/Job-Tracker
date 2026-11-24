@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-23T16:38:05Z",
+  "generated_at": "2026-11-24T16:35:51Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 167,
-    "MedCity News": 7,
+    "Y Combinator": 166,
+    "MedCity News": 5,
     "Endpoints News": 1,
     "STAT News": 1,
     "RockHealth": 2,
     "BioPharma Dive": 1
   },
-  "count": 584,
+  "count": 582,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3081,19 +3081,6 @@
           "snippet": "Fluidigm | Software Automation Tester | Toronto (Markham) | ONSITE | Full-time Fluidigm creates innovative life science technologies designed to revolutionize b"
         }
       ]
-    },
-    {
-      "name": "Fort",
-      "website": "https://fort.cx",
-      "one_liner": "Strength Tracking Wearable",
-      "stage": "Early",
-      "batch": "Winter 2026",
-      "team_size": 4,
-      "location": "San Francisco, CA, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Fortuna Health",
@@ -6206,19 +6193,13 @@
       "team_size": null,
       "location": null,
       "sources": [
-        "HN Hiring",
-        "MedCity News"
+        "HN Hiring"
       ],
       "evidence": [
         {
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22669278",
           "snippet": "Noom | Senior Data Science/Full Stack/Backend/Android/iOS/QA positions | REMOTE or HQ | FULL-TIME |  https://noom.com  At Noom, we use scientifically-proven met"
-        },
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/11/noom-introduces-wearable-to-support-obesity-care-programs/",
-          "snippet": "Noom Introduces Wearable to Support Obesity Care Programs"
         }
       ]
     },
@@ -6528,7 +6509,7 @@
     {
       "name": "Opinion",
       "website": "",
-      "one_liner": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+      "one_liner": "Opinion: Why medical students should keep going to class",
       "stage": null,
       "batch": null,
       "team_size": null,
@@ -6539,18 +6520,18 @@
       "evidence": [
         {
           "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
+          "snippet": "Opinion: Why medical students should keep going to class"
+        },
+        {
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
+          "snippet": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often"
+        },
+        {
+          "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
           "snippet": "Opinion: If the AI bubble bursts, it could create a serious problem for health care"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
-          "snippet": "Opinion: When should medical school start?"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
-          "snippet": "Opinion: How Kennedy and MAHA could help stop measles"
         }
       ]
     },
@@ -9339,25 +9320,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22665649",
           "snippet": "The Pacific Financial Group | DevOps Engineer | REMOTE (US based) | Full Time | tpfg.com The Pacific Financial Group Inc. (‘TPFG’) is an innovative, fast growin"
-        }
-      ]
-    },
-    {
-      "name": "The Permanente Medical Group",
-      "website": "",
-      "one_liner": "The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "MedCity News"
-      ],
-      "evidence": [
-        {
-          "source": "MedCity News",
-          "url": "https://medcitynews.com/2026/11/the-permanente-medical-group-launches-innovation-company-to-commercialize-clinicians-ideas/",
-          "snippet": "The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas"
         }
       ]
     },
