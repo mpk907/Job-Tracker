@@ -1,15 +1,13 @@
 {
-  "generated_at": "2026-11-24T16:35:51Z",
+  "generated_at": "2026-11-25T16:18:26Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 166,
+    "Y Combinator": 165,
     "MedCity News": 5,
-    "Endpoints News": 1,
     "STAT News": 1,
-    "RockHealth": 2,
-    "BioPharma Dive": 1
+    "RockHealth": 2
   },
-  "count": 582,
+  "count": 579,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3438,7 +3436,7 @@
     {
       "name": "GloGlo",
       "website": "https://gloglo.com",
-      "one_liner": "Curing and preventing type 1 diabetes",
+      "one_liner": "Solving autoimmune diseases with AI, starting with type 1 diabetes.",
       "stage": "Early",
       "batch": "Winter 2024",
       "team_size": 3,
@@ -3821,19 +3819,6 @@
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
         }
       ]
-    },
-    {
-      "name": "HealthKey",
-      "website": "https://gethealthkey.com/",
-      "one_liner": "AI-powered Patient Identification for Clinical Trials",
-      "stage": "Early",
-      "batch": "Winter 2025",
-      "team_size": 10,
-      "location": "Austin, TX, USA",
-      "sources": [
-        "Y Combinator"
-      ],
-      "evidence": []
     },
     {
       "name": "Healthtech 1",
@@ -4326,7 +4311,7 @@
       "stage": "Early",
       "batch": "Winter 2019",
       "team_size": 100,
-      "location": "Bengaluru, KA, India",
+      "location": "Dubai, Dubai, United Arab Emirates; Bengaluru, KA, India",
       "sources": [
         "Y Combinator"
       ],
@@ -4863,25 +4848,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=12846216#12849997",
           "snippet": "Komodo Health, San Francisco/New York - Multiple Positions | Onsite |  http://komodohealth.com/  We are a startup developing the world's most advanced platform "
-        }
-      ]
-    },
-    {
-      "name": "KRAS at Triple Meeting",
-      "website": "",
-      "one_liner": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "Endpoints News"
-      ],
-      "evidence": [
-        {
-          "source": "Endpoints News",
-          "url": "https://endpoints.news/kras-at-triple-meeting-erasca-wants-to-one-up-revmed-while-alterome-tries-a-different-approach/",
-          "snippet": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach"
         }
       ]
     },
@@ -6527,11 +6493,6 @@
           "source": "STAT News",
           "url": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
           "snippet": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often"
-        },
-        {
-          "source": "STAT News",
-          "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
-          "snippet": "Opinion: If the AI bubble bursts, it could create a serious problem for health care"
         }
       ]
     },
@@ -9377,25 +9338,6 @@
           "source": "HN Hiring",
           "url": "https://news.ycombinator.com/item?id=22665398#22676294",
           "snippet": "This looks useful, but by \"100% remote\" you don't mean companies that are remote-only, do you? I ask because at least one company I saw here (Eleanor Health) th"
-        }
-      ]
-    },
-    {
-      "name": "This week in charts",
-      "website": "",
-      "one_liner": "This week in charts: Biotech investors’ China bets are already paying off",
-      "stage": null,
-      "batch": null,
-      "team_size": null,
-      "location": null,
-      "sources": [
-        "BioPharma Dive"
-      ],
-      "evidence": [
-        {
-          "source": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
-          "snippet": "This week in charts: Biotech investors’ China bets are already paying off"
         }
       ]
     },
