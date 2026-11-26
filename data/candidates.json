@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T16:18:26Z",
+  "generated_at": "2026-11-26T15:55:28Z",
   "sources": {
     "HN Hiring": 408,
-    "Y Combinator": 165,
+    "Y Combinator": 166,
     "MedCity News": 5,
     "STAT News": 1,
     "RockHealth": 2
   },
-  "count": 579,
+  "count": 580,
   "candidates": [
     {
       "name": "1 point by d8niel 61 days ago [",
@@ -3819,6 +3819,19 @@
           "snippet": "Health Recovery Solutions | Hoboken, NJ | FULLTIME | ONSITE or REMOTE Health Recovery Solutions is looking for talented Software Engineers who are eager to solv"
         }
       ]
+    },
+    {
+      "name": "HealthKey",
+      "website": "https://gethealthkey.com/",
+      "one_liner": "AI-powered Patient Identification for Clinical Trials",
+      "stage": "Early",
+      "batch": "Winter 2025",
+      "team_size": 10,
+      "location": "Austin, TX, USA",
+      "sources": [
+        "Y Combinator"
+      ],
+      "evidence": []
     },
     {
       "name": "Healthtech 1",
